@@ -1,4 +1,14 @@
 {
+ "pasqualepillitteri.it": {
+  "publisher": "Pasquale Pillitteri",
+  "count": 2,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "OpenAI、ChatGPT Space発表。チームがAIと働く「オフィス」",
+   "OpenAIの音声チャットがDevDay 2026のステージで止まる"
+  ],
+  "last_seen": "2026-09-29"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -50,6 +60,42 @@
   "first_seen": "2026-09-29",
   "examples": [
    "「パッチを当てても安心できない」 Citrix NetScalerゼロデイ、CISAが異例の対応を要求：「緊急」の脆弱性が複数"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "smart-flash.jp": {
+  "publisher": "smart-flash.jp",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "ゲーセン経営30年の名物オーナーが語る「10年赤字でもビデオゲーム一筋」貫く理由…“不良のたまり場” のイメージ打破して、eスポーツの先駆けに - Smart FLASH/スマフラ[光文社週刊誌]"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "wlwt.com": {
+  "publisher": "WLWT",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "Spotify, Anthropic's Claude temporarily down for some U.S. users"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "nytimes.com": {
+  "publisher": "nytimes.com",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "npr.org": {
+  "publisher": "npr.org",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "FBI says it’s addressing massive data breach, vows to go after hackers"
   ],
   "last_seen": "2026-09-29"
  }
