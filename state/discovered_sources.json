@@ -8,8 +8,8 @@
   ],
   "last_seen": "2026-09-29"
  },
- "keybiscayneportal.com": {
-  "publisher": "Key Biscayne Portal",
+ "themercury.com": {
+  "publisher": "themercury.com",
   "count": 1,
   "first_seen": "2026-09-29",
   "examples": [
@@ -41,6 +41,15 @@
   "first_seen": "2026-09-29",
   "examples": [
    "CONTROL Resonant Available Now With Path Tracing & DLSS 4.5: Get The Definitive PC Experience On GeForce RTX"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "atmarkit.itmedia.co.jp": {
+  "publisher": "ITmedia",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "「パッチを当てても安心できない」 Citrix NetScalerゼロデイ、CISAが異例の対応を要求：「緊急」の脆弱性が複数"
   ],
   "last_seen": "2026-09-29"
  }

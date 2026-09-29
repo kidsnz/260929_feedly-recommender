@@ -100,7 +100,7 @@
 
 ## Googleニュース検索
 
-Googleニュースの検索結果RSS（`news.google.com/rss/search`）。Google が公開APIとして文書化しているものではありませんが、個人利用のRSSとして広く使われています（2026-09-29 にユーザーが採用を判断）。直近1日の記事に限って検索し、1回の実行で下の行数だけアクセスします（間隔1秒）。リンクは Google 経由の転送URLになります。
+Googleニュースの検索結果RSS（`news.google.com/rss/search`）。Google が公開APIとして文書化しているものではありませんが、個人利用のRSSとして広く使われています（2026-09-29 にユーザーが採用を判断）。「日本語版さがし」の行は、海外の記事と同じニュースの日本語記事を見つけるためのもの（見つかれば日本語記事に差し替える）。直近1日の記事に限って検索し、1回の実行で下の行数だけアクセスします（間隔1秒）。リンクは Google 経由の転送URLになります。
 
 | 検索語 | 言語 | ねらうトピック |
 |---|---|---|
@@ -111,7 +111,11 @@ Googleニュースの検索結果RSS（`news.google.com/rss/search`）。Google 
 | Nvidia OR TSMC OR "SK Hynix" OR HBM OR semiconductor | en | 半導体 |
 | Apple OR Google OR Meta OR Microsoft OR Amazon | en | テック大手 |
 | cybersecurity OR ransomware OR "data breach" OR vulnerability | en | セキュリティ |
-| 生成AI OR AIエージェント OR Claude OR ChatGPT | ja | AI（国内の動き） |
+| 生成AI OR AIエージェント | ja | AI（日本語版さがし） |
+| OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini | ja | AI（日本語版さがし） |
+| エヌビディア OR 半導体 OR TSMC OR HBM | ja | 半導体（日本語版さがし） |
+| アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン | ja | テック大手（日本語版さがし） |
+| サイバー攻撃 OR 脆弱性 OR ランサムウェア | ja | セキュリティ（日本語版さがし） |
 | 任天堂 OR "Nintendo Switch 2" OR 新作ゲーム OR ゲーム 発売 | ja | ゲーム |
 | 映画 OR アニメ OR 実写化 | ja | 映画・アニメ |
 | 研究結果 OR 研究チーム OR 新発見 | ja | 科学 |

@@ -8,9 +8,10 @@
   "feed_url": "https://techcrunch.com/feed/",
   "domain": "techcrunch.com",
   "lang": "en",
-  "score": 3.6949,
+  "score": 3.686,
   "published": "2026-09-29T13:47:30+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "AI"
@@ -47,9 +48,10 @@
   "feed_url": "https://news.google.com/rss/search?q=%22AI+agent%22+OR+%22coding+agent%22+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+Codex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
   "domain": "thecanadianpressnews.ca",
   "lang": "en",
-  "score": 3.2407,
+  "score": 3.233,
   "published": "2026-09-29T20:11:02+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "AI"
@@ -63,33 +65,38 @@
   },
   "primary": "OpenAI・ChatGPT",
   "related": [
-   "Audacy",
+   "AP News",
    "Bozeman Daily Chronicle",
    "CT Insider",
+   "CTPost",
    "Goshen News",
-   "KIRO 7 News Seattle",
+   "News-Times",
    "Orlando Sentinel",
    "Oskaloosa Herald",
-   "Scranton Times-Tribune",
+   "Ottumwa Courier",
    "Temple Daily Telegram",
-   "The Daily Gazette",
-   "The Press Democrat",
-   "The Record",
-   "Voice of Alexandria"
+   "The Citizens' Voice",
+   "Times Union",
+   "WBOY.com",
+   "WFMZ.com",
+   "couriernews.com",
+   "independent.co.uk",
+   "wsls.com"
   ]
  },
  {
   "title": "Can You Get Your Money Back If an AI Agent Makes a Financial Mistake?",
-  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRnFJTlFyMkdtSlZJSXN6YUlBX3RveEw1S1d4R3BlMW1aXzZYTDRLWXRnTU1LNE1NYlpmUUVFb2hZYVZCUFZGc1Y5dWN0R0VCVXUxdUpGeVBVdDFmTGdBWXZyWFFoVEtnRVV3dUxXbmdleG9UZzBmSHlfQjUyellZV2U1NlktOHl2VWliVVRqX1NzX3NmYmg3bDFobnNZRDJEaUR2WkFjMS1xWEZkdk1EOXJMcmxvMFFkOXpJTlpwZldIV185UmYyT1czMy1FeEtGLXdGeUcxZXVGZ1VMRGlFM1Zya18tVDZyVkdOOEtWZWlhUnoyRjJCUnVn?oc=5",
-  "source": "Key Biscayne Portal",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOejQtMjlZY1B1UDFBcXlXbWc4WW5Jb0ExY0hIT0I2T0J4dEl0clNkR0ZVd0hjc0ctTDdFQlFHQUFHcy12dUtNcGl3OEhTbncxWFRzVElkRE5LNzdBV1U1V2VraU9odGhVN0gxcTVjdjlTNXNRbDBMUGVTenVQYklET2ZmOHdRb1g3djg0UGU2ZzV5UzhlRUFvVVl2cS1DWTFtejUyd2NwN1p5LVJMdTREeVNXQTZUWmktclNaRVpXcUlLQlNWd2JMenFkaEM4Qy1TRVJDbWZWRTIwQkhTdXJxVk9rT1BTYVY3TFVN?oc=5",
+  "source": "themercury.com",
   "via": "Googleニュース",
   "collector": "Google: \"AI agent\" OR \"coding agent\" OR \"vibe coding\" OR \"Claude Code\" OR Codex",
   "feed_url": "https://news.google.com/rss/search?q=%22AI+agent%22+OR+%22coding+agent%22+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+Codex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-  "domain": "keybiscayneportal.com",
+  "domain": "themercury.com",
   "lang": "en",
-  "score": 2.3625,
+  "score": 2.3567,
   "published": "2026-09-29T16:38:48+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "AI"
@@ -100,17 +107,51 @@
   },
   "primary": "AI・生成AI全般",
   "related": [
+   "Floyd County Times",
    "Iosco County News Herald",
    "NerdWallet",
-   "News-Topic",
    "TPI Media Group",
    "The Daily Gazette",
    "The Elkhart Truth",
    "The Herald Palladium",
+   "The Mountain Press",
    "mydailyrecord.com",
-   "roanecounty.com",
-   "swiowanewssource.com",
-   "wicz.com"
+   "swiowanewssource.com"
+  ]
+ },
+ {
+  "title": "OpenAI Scraps Release of Latest AI Model Due to Safety Concerns",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMS1fTGdnWVFSUFNzWDE3UDc1M291M25OYnoyZV9sX2JtdVhhVk81bVZOYlBlWkRsVXBrRURKdWNqS0tVZldqcFR4VzBiTWJ5aGF0SlVrcVB3WDBnMXh2X3ZEUmNEdzBOSUltREFuNGkzLVRFc1hjdlpOUWliazMwa0FOcHRKZFRXczJZQXp6ZmEzYWNPQlJnWGpCMFJsbGN2QXQ0TUxUZFVRVUwyMmRibVN3?oc=5",
+  "source": "Democracy Now!",
+  "via": "Googleニュース",
+  "collector": "Google: \"large language model\" OR \"AI model\" OR Gemini OR DeepSeek OR \"generative AI\"",
+  "feed_url": "https://news.google.com/rss/search?q=%22large+language+model%22+OR+%22AI+model%22+OR+Gemini+OR+DeepSeek+OR+%22generative+AI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "democracynow.org",
+  "lang": "en",
+  "score": 2.3042,
+  "published": "2026-09-29T19:37:36+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "Al Jazeera",
+   "BBC",
+   "Fox Business",
+   "France 24",
+   "TradingView",
+   "WBUR",
+   "WIRED (US)",
+   "WSJ",
+   "npr.org",
+   "whas11.com"
   ]
  },
  {
@@ -122,9 +163,10 @@
   "feed_url": "https://the-decoder.com/feed/",
   "domain": "the-decoder.com",
   "lang": "en",
-  "score": 2.2255,
+  "score": 2.2201,
   "published": "2026-09-29T10:21:36+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "AI"
@@ -144,63 +186,6 @@
   ]
  },
  {
-  "title": "AMD buys AI world model startup World Labs for $8.2 billion",
-  "link": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
-  "source": "The Decoder",
-  "via": "RSS",
-  "collector": "The Decoder",
-  "feed_url": "https://the-decoder.com/feed/",
-  "domain": "the-decoder.com",
-  "lang": "en",
-  "score": 2.1248,
-  "published": "2026-09-29T17:13:51+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "半導体・データセンター": [
-    "AMD"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "nextplatform.com"
-  ]
- },
- {
-  "title": "OpenAI Scraps Release of Latest AI Model Due to Safety Concerns",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMS1fTGdnWVFSUFNzWDE3UDc1M291M25OYnoyZV9sX2JtdVhhVk81bVZOYlBlWkRsVXBrRURKdWNqS0tVZldqcFR4VzBiTWJ5aGF0SlVrcVB3WDBnMXh2X3ZEUmNEdzBOSUltREFuNGkzLVRFc1hjdlpOUWliazMwa0FOcHRKZFRXczJZQXp6ZmEzYWNPQlJnWGpCMFJsbGN2QXQ0TUxUZFVRVUwyMmRibVN3?oc=5",
-  "source": "Democracy Now!",
-  "via": "Googleニュース",
-  "collector": "Google: \"large language model\" OR \"AI model\" OR Gemini OR DeepSeek OR \"generative AI\"",
-  "feed_url": "https://news.google.com/rss/search?q=%22large+language+model%22+OR+%22AI+model%22+OR+Gemini+OR+DeepSeek+OR+%22generative+AI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-  "domain": "democracynow.org",
-  "lang": "en",
-  "score": 2.1044,
-  "published": "2026-09-29T19:37:36+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "OpenAI・ChatGPT": [
-    "OpenAI"
-   ]
-  },
-  "primary": "OpenAI・ChatGPT",
-  "related": [
-   "BBC",
-   "Euronews.com",
-   "France 24",
-   "NPR",
-   "WIRED (US)",
-   "WSJ",
-   "foxbusiness.com",
-   "whas11.com"
-  ]
- },
- {
   "title": "Claude Sonnet 5.5",
   "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
   "source": "Simon Willison's Weblog",
@@ -209,9 +194,10 @@
   "feed_url": "https://simonwillison.net/atom/everything/",
   "domain": "simonwillison.net",
   "lang": "en",
-  "score": 2.0397,
+  "score": 1.9115,
   "published": "2026-09-28T22:07:38+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "専門媒体: Simon Willison's Weblog"
@@ -229,32 +215,34 @@
   "related": [
    "9to5Mac",
    "Ben's Bites",
-   "Mashable",
    "PC Watch"
   ]
  },
  {
-  "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-  "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
-  "source": "The Decoder",
+  "title": "Towards safety cases for frontier AI training",
+  "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "source": "OpenAI News",
   "via": "RSS",
-  "collector": "The Decoder",
-  "feed_url": "https://the-decoder.com/feed/",
-  "domain": "the-decoder.com",
+  "collector": "OpenAI News",
+  "feed_url": "https://openai.com/news/rss.xml",
+  "domain": "openai.com",
   "lang": "en",
-  "score": 1.9259,
-  "published": "2026-09-29T19:24:12+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "score": 1.5947,
+  "published": "2026-09-28T19:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "AI"
    ],
    "OpenAI・ChatGPT": [
-    "GPT"
+    "専門媒体: OpenAI News"
    ]
   },
   "primary": "AI・生成AI全般",
-  "related": []
+  "related": [
+   "OpenAI"
+  ]
  },
  {
   "title": "Google is a technology partner for the launch of America.gov.",
@@ -265,9 +253,10 @@
   "feed_url": "https://blog.google/rss/",
   "domain": "blog.google",
   "lang": "en",
-  "score": 1.5771,
+  "score": 1.5733,
   "published": "2026-09-29T14:15:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
     "Google"
@@ -291,9 +280,10 @@
   "feed_url": "https://www.macrumors.com/macrumors.xml",
   "domain": "macrumors.com",
   "lang": "en",
-  "score": 1.4289,
+  "score": 1.4254,
   "published": "2026-09-29T17:33:31+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
     "Apple",
@@ -311,6 +301,27 @@
   ]
  },
  {
+  "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
+  "link": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 1.4163,
+  "published": "2026-09-29T14:45:17+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
   "title": "失敗するエージェントを1手目で見抜き推論を最大6割削る早期中断",
   "link": "https://zenn.dev/okssusucha/articles/20260725-llm-agent-early-abort-hidden-state-probe",
   "source": "Zenn: AI",
@@ -319,9 +330,10 @@
   "feed_url": "https://zenn.dev/topics/ai/feed",
   "domain": "zenn.dev",
   "lang": "ja",
-  "score": 1.2559,
+  "score": 1.2528,
   "published": "2026-09-29T12:22:27+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AIエージェント・AIコーディング": [
     "エージェント"
@@ -346,9 +358,10 @@
   "feed_url": "https://huggingface.co/blog/feed.xml",
   "domain": "huggingface.co",
   "lang": "en",
-  "score": 1.246,
+  "score": 1.243,
   "published": "2026-09-29T13:07:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "専門媒体: Hugging Face Blog"
@@ -369,9 +382,10 @@
   "feed_url": "https://www.businessinsider.jp/feed/index.xml",
   "domain": "businessinsider.jp",
   "lang": "ja",
-  "score": 1.1527,
+  "score": 1.1499,
   "published": "2026-09-29T08:30:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "経済・マーケット・企業": [
     "投資"
@@ -392,9 +406,10 @@
   "feed_url": "https://www.macrumors.com/macrumors.xml",
   "domain": "macrumors.com",
   "lang": "en",
-  "score": 1.0975,
-  "published": "2026-09-29T19:52:45+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "score": 1.0948,
+  "published": "2026-09-29T19:52:35+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
     "Apple"
@@ -414,9 +429,10 @@
   "feed_url": "https://simonwillison.net/atom/everything/",
   "domain": "simonwillison.net",
   "lang": "en",
-  "score": 1.0937,
+  "score": 1.0911,
   "published": "2026-09-28T19:11:42+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "AI・生成AI全般": [
     "専門媒体: Simon Willison's Weblog"
@@ -437,9 +453,10 @@
   "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
   "domain": "automaton-media.com",
   "lang": "ja",
-  "score": 0.871,
+  "score": 0.869,
   "published": "2026-09-29T05:41:25+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "ゲーム": [
     "ゲーム"
@@ -463,9 +480,10 @@
   "feed_url": "https://www.tomshardware.com/feeds/all",
   "domain": "tomshardware.com",
   "lang": "en",
-  "score": 0.8666,
+  "score": 0.8645,
   "published": "2026-09-29T10:00:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "半導体・データセンター": [
     "NVIDIA"
@@ -483,9 +501,10 @@
   "feed_url": "https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf",
   "domain": "game.watch.impress.co.jp",
   "lang": "ja",
-  "score": 0.8608,
+  "score": 0.8587,
   "published": "2026-09-29T03:00:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "ゲーム": [
     "ゲーム",
@@ -516,9 +535,10 @@
   "feed_url": "https://sorae.info/feed",
   "domain": "sorae.info",
   "lang": "ja",
-  "score": 0.827,
+  "score": 0.8249,
   "published": "2026-09-29T00:59:31+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "宇宙・科学研究": [
     "スペースX",
@@ -547,9 +567,10 @@
   "feed_url": "https://www.tomshardware.com/feeds/all",
   "domain": "tomshardware.com",
   "lang": "en",
-  "score": 0.8256,
+  "score": 0.8236,
   "published": "2026-09-29T10:50:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "半導体・データセンター": [
     "Intel",
@@ -568,9 +589,10 @@
   "feed_url": "https://www.techpowerup.com/rss/news",
   "domain": "techpowerup.com",
   "lang": "en",
-  "score": 0.8251,
+  "score": 0.8231,
   "published": "2026-09-29T04:54:26+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "半導体・データセンター": [
     "NVIDIA",
@@ -589,9 +611,10 @@
   "feed_url": "https://www.techpowerup.com/rss/news",
   "domain": "techpowerup.com",
   "lang": "en",
-  "score": 0.8044,
+  "score": 0.8025,
   "published": "2026-09-28T21:28:26+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "半導体・データセンター": [
     "専門媒体: TechPowerUp"
@@ -615,9 +638,10 @@
   "feed_url": "https://sorae.info/feed",
   "domain": "sorae.info",
   "lang": "ja",
-  "score": 0.6914,
+  "score": 0.6896,
   "published": "2026-09-29T07:26:03+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "宇宙・科学研究": [
     "宇宙",
@@ -639,9 +663,10 @@
   "feed_url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf",
   "domain": "car.watch.impress.co.jp",
   "lang": "ja",
-  "score": 0.5215,
+  "score": 0.5202,
   "published": "2026-09-29T00:56:58+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "クルマ・EV・ロボット・自動運転": [
     "自動車",
@@ -663,9 +688,10 @@
   "feed_url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
   "domain": "av.watch.impress.co.jp",
   "lang": "ja",
-  "score": 0.5171,
+  "score": 0.5159,
   "published": "2026-09-29T09:00:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "映画・アニメ・映像": [
     "映画"
@@ -683,9 +709,10 @@
   "feed_url": "https://www.techmeme.com/feed.xml",
   "domain": "bloomberg.com",
   "lang": "en",
-  "score": 0.5002,
+  "score": 0.499,
   "published": "2026-09-29T18:41:03+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "経済・マーケット・企業": [
     "IPO",
@@ -704,9 +731,10 @@
   "feed_url": "https://electrek.co/feed/",
   "domain": "electrek.co",
   "lang": "en",
-  "score": 0.4536,
+  "score": 0.4525,
   "published": "2026-09-29T19:23:35+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "クルマ・EV・ロボット・自動運転": [
     "EV"
@@ -724,9 +752,10 @@
   "feed_url": "https://news.google.com/rss/search?q=Nvidia+OR+TSMC+OR+%22SK+Hynix%22+OR+HBM+OR+semiconductor+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
   "domain": "nvidia.com",
   "lang": "en",
-  "score": 0.3624,
+  "score": 0.3615,
   "published": "2026-09-29T16:57:22+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "ガジェット・PC・電子工作": [
     "PC"
@@ -744,9 +773,10 @@
   "feed_url": "https://nazology.kusuguru.co.jp/feed",
   "domain": "nazology.kusuguru.co.jp",
   "lang": "ja",
-  "score": 0.2894,
+  "score": 0.2887,
   "published": "2026-09-29T10:00:00+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "健康・医療・生物": [
     "動物",
@@ -757,17 +787,22 @@
   "related": []
  },
  {
-  "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-  "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-  "source": "BleepingComputer",
-  "via": "RSS",
-  "collector": "BleepingComputer",
-  "feed_url": "https://www.bleepingcomputer.com/feed/",
-  "domain": "bleepingcomputer.com",
-  "lang": "en",
-  "score": 0.1997,
-  "published": "2026-09-29T18:37:12+00:00",
-  "selected_at": "2026-09-29T20:28:14+00:00",
+  "title": "「パッチを当てても安心できない」 Citrix NetScalerゼロデイ、CISAが異例の対応を要求：「緊急」の脆弱性が複数",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zcjVnbDVUYVE0SEpwTHR3TDVxRTFONnJUbld6Ung5MkR2QVdJTTRsQXNVVWhIUnhmSjcwdTRLSU5Fdy1lb2hCWkJxYV8xUWVCT2hueU9ORmZNNXVPQW5fX1pCMjBpeGpZMTVCOWxkT1haZw?oc=5",
+  "source": "ITmedia",
+  "via": "Googleニュース",
+  "collector": "Google: サイバー攻撃 OR 脆弱性 OR ランサムウェア",
+  "feed_url": "https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83+OR+%E8%84%86%E5%BC%B1%E6%80%A7+OR+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "atmarkit.itmedia.co.jp",
+  "lang": "ja",
+  "score": 0.1992,
+  "published": "2026-09-29T02:00:00+00:00",
+  "original": {
+   "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+   "source": "BleepingComputer"
+  },
+  "selected_at": "2026-09-29T20:43:16+00:00",
   "topics": {
    "サイバーセキュリティ・プライバシー": [
     "hacker",

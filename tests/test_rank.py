@@ -130,6 +130,38 @@ class Selection(unittest.TestCase):
         self.assertEqual(titles(res), [])
 
 
+class JapaneseVersion(unittest.TestCase):
+    def prof(self):
+        p = profile()
+        p.xl_df = {"openai": 300, "dot": 1}
+        p.lang_of = {"AI": "en", "ゲーム": "ja", "宇宙": ""}
+        return p
+
+    def test_english_story_is_replaced_by_japanese_version(self):
+        en = item("OpenAI launches Dots, always-on AI agents", source="TechCrunch")
+        ja = item("OpenAI、常時稼働のAIエージェント「dots」を発表", source="ITmedia NEWS")
+        res = run([en, ja], prof=self.prof())
+        self.assertEqual(len(res.selected), 1)
+        self.assertIs(res.selected[0].ja_alt, ja)
+        rec = item_to_record(res.selected[0], NOW)
+        self.assertEqual(rec["title"], ja.title)
+        self.assertEqual(rec["source"], "ITmedia NEWS")
+        self.assertEqual(rec["original"]["source"], "TechCrunch")
+
+    def test_english_story_stays_when_no_japanese_version(self):
+        en = item("OpenAI launches Dots, always-on AI agents", source="TechCrunch")
+        other = item("OpenAIのAIエージェントが豪州政府サイトに侵入", source="ITmedia NEWS")
+        res = run([en, other], prof=self.prof())
+        dots = [it for it in res.selected if "Dots" in it.title]
+        self.assertEqual(len(dots), 1)
+        self.assertIsNone(dots[0].ja_alt)
+
+    def test_story_seen_in_japanese_known_source_is_dropped(self):
+        en = item("OpenAI launches Dots, always-on AI agents", source="TechCrunch")
+        res = run([en], prof=self.prof(), seen=[("https://gigazine.net/x", "OpenAIが常時稼働AIエージェント「dots」を発表")])
+        self.assertEqual(titles(res), [])
+
+
 class FeedOutput(unittest.TestCase):
     def test_feed_is_valid_rss_with_topics_in_description(self):
         res = run([item("AI agent released"), item("ロケット打ち上げ成功、宇宙へ", source="sorae")])

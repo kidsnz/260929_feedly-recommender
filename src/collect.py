@@ -46,6 +46,8 @@ class Item:
     related: list = field(default_factory=list)         # 同じ話題を報じた他の媒体
     fresh: float = 1.0                                  # 新しさの係数（経路の係数を含む）
     buzz: float = 1.0                                   # 話題の大きさの係数
+    ja_alt: "Item | None" = None                        # 同じニュースの日本語記事（あれば出力で差し替える）
+    merged: bool = False
     source_topics: str = ""                             # 収集元の「主なトピック」欄（専門媒体の判定に使う）
 
 
@@ -124,6 +126,11 @@ def from_google(q: dict) -> list[Item]:
         title = plain(e.title)
         if publisher and title.endswith(f" - {publisher}"):
             title = title[: -len(publisher) - 3]
+        # Yahoo!ニュースは他媒体の転載。見出し末尾の（媒体名）を本当の出典として扱う
+        m = re.search(r"（([^（）]{2,30})）$", title)
+        if "yahoo" in publisher.lower() and m:
+            publisher = m.group(1)
+            title = title[: m.start()].rstrip()
         items.append(Item(
             title=title, link=e.link, source=publisher or "Googleニュース", via="Googleニュース",
             collector=f"Google: {q['query']}", feed_url=url, domain=domain_of(src.get("href", "")),

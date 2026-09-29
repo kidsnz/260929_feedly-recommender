@@ -21,6 +21,7 @@ import re
 from pathlib import Path
 from urllib.parse import urlparse
 
+from crosslang import xl_tokens
 from topics import TOPICS_MD, load_topics, normalize
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -229,6 +230,8 @@ def build(rows: list[dict], topics, half_life: int) -> dict:
         "known_domains": known_domains,
         "known_publishers": known_publishers,
         "known_urls_count": len({r["url"] for r in rows}),
+        # 英日照合（crosslang.py）で「よく出る名前か」を判断するための、既読見出しでの特徴語の出現回数
+        "xl_df": dict(sorted(collections.Counter(t for r in rows for t in xl_tokens(r["title"])).items())),
         "top_terms": [{"term": k, "weighted": round(v, 1), "count": term_n[k]} for k, v in term_w.most_common(60)],
         "uncovered_top_terms": uncovered_top,
         "rising_uncovered_terms": rising[:30],

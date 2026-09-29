@@ -14,7 +14,10 @@
 3. 同じ話題のまとめ: 見出しの特徴語（珍しい語ほど重い）の重なりで同じニュースを1つにまとめ、
    点の高い記事（RSS の直接リンクを少し優先）を代表にする。前回までに選んだ記事・既読ソースの最新記事と
    同じ話題のものは落とす。
-4. 選抜: 枠（例: 30件）をプロファイルの「配分」でトピックに割り振り、主トピックごとに点の高い順に埋める。
+4. 英語と日本語: 英語の記事と同じニュースの日本語記事（crosslang.py で判定）があれば、優先言語が英語の
+   トピック（AI・テック）では日本語記事に差し替える（英語の原典は説明欄に残す）。既読ソースの日本語記事や
+   前回までに選んだ記事と同じニュースなら、言語が違っても「既に見た」として落とす。
+5. 選抜: 枠（例: 30件）をプロファイルの「配分」でトピックに割り振り、主トピックごとに点の高い順に埋める。
    候補が足りないトピックの余りは、全体の点の高い順で埋める。1つの媒体からは上限件数まで。
 """
 from __future__ import annotations
@@ -28,6 +31,7 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 
 from collect import Item
+from crosslang import is_japanese, same_story
 from topics import Topic, topic_from_dict
 
 MAX_AGE_HOURS = 72
@@ -45,6 +49,7 @@ BUZZ_MAX_SOURCES = 10
 SPECIALIST_BASE = 0.5    # 専門媒体の記事が見出しにキーワードを含まないときの、専門トピックへの当たりの強さ
 DEAL_TITLE = re.compile(r"^(Grab|Snag|Save|Get) |\$\d[\d,.]* off|\d+% off|\bdeals?\b|Prime Day|Black Friday|Cyber Monday", re.I)
 RSS_REP_RATIO = 0.8      # 同じ話題の代表は、点がこの割合以上なら RSS（直接取得した媒体）の記事を優先する
+GALLERY_TITLE = re.compile(r"^【画像】|\s\d+/\d+$")   # 画像ギャラリーの分割ページ
 AD_TITLE = re.compile(r"【PR】|［PR］|\[PR\]|（PR）|\(PR\)|\bSponsored\b|\bSPONSORED\b")
 
 
@@ -57,6 +62,8 @@ class Profile:
     kw_weights: dict[str, dict[str, float]]
     known_domains: set[str]
     known_publishers: set[str]
+    xl_df: dict[str, int] = field(default_factory=dict)   # 既読見出しでの特徴語の出現回数（英日照合用）
+    lang_of: dict[str, str] = field(default_factory=dict)  # トピック名 → 優先言語
 
 
 def load_profile(data: dict) -> Profile:
@@ -70,11 +77,19 @@ def load_profile(data: dict) -> Profile:
         kw_weights={d["name"]: d.get("keyword_weights", {}) for d in data["topics"]},
         known_domains=set(data["known_domains"]),
         known_publishers={norm_name(n) for n in data.get("known_publishers", [])},
+        xl_df=data.get("xl_df", {}),
+        lang_of={d["name"]: d.get("lang", "") for d in data["topics"]},
     )
 
 
 def norm_name(s: str) -> str:
     return re.sub(r"[\s・｜|]+", "", unicodedata.normalize("NFKC", s)).lower()
+
+
+def is_known_publisher(name: str, known: set[str]) -> bool:
+    """媒体名が既読ソースか。「ビジネス+IT」と「ビジネス+IT 最新記事」のような表記の違いは前方一致で吸収する。"""
+    n = norm_name(name)
+    return len(n) >= 3 and any(n == k or k.startswith(n) or n.startswith(k) for k in known if len(k) >= 3)
 
 
 def domain_matches(domain: str, domains: set[str]) -> bool:
@@ -86,13 +101,15 @@ def domain_matches(domain: str, domains: set[str]) -> bool:
 def exclusion_reason(item: Item, profile: Profile, blocked: list[str]) -> str:
     if item.domain and domain_matches(item.domain, profile.known_domains):
         return "既読ソース"
-    if item.via != "RSS" and norm_name(item.source) in profile.known_publishers:
+    if item.via != "RSS" and is_known_publisher(item.source, profile.known_publishers):
         return "既読ソース"
     if AD_TITLE.search(item.title):
         return "広告記事"
     if item.lang == "en" and DEAL_TITLE.search(item.title):
         return "セール情報"
-    if item.via == "Googleニュース" and item.source.startswith("株式会社"):
+    if GALLERY_TITLE.search(item.title):
+        return "画像ページ"
+    if item.via == "Googleニュース" and item.source.startswith(("株式会社", "合同会社", "有限会社")):
         return "企業の自社発表"
     blocked_names = {norm_name(b) for b in blocked}
     blocked_domains = {b.lower() for b in blocked if "." in b and " " not in b}
@@ -246,7 +263,9 @@ def quotas_for(allocation: dict[str, float], limit: int) -> dict[str, int]:
 def rank(items: list[Item], profile: Profile, blocked: list[str], *, now: dt.datetime, limit: int,
          min_score: float, per_source_cap: int, seen_titles: list[tuple[str, str]]) -> RankResult:
     excluded: Counter = Counter()
+    seen_titles = list(seen_titles)
     fresh: list[Item] = []
+    ja_pool: list[Item] = []   # 日本語版さがしの候補（点数や主トピックに関係なく、除外を通った日本語記事すべて）
     too_old = below = 0
     for it in items:
         if it.published and (now - it.published).total_seconds() > MAX_AGE_HOURS * 3600:
@@ -255,8 +274,12 @@ def rank(items: list[Item], profile: Profile, blocked: list[str], *, now: dt.dat
         reason = exclusion_reason(it, profile, blocked)
         if reason:
             excluded[reason] += 1
+            if reason == "既読ソース":
+                seen_titles.append((it.link, it.title))  # 既読ソースの記事は Feedly で見る＝同じ話題は「既に見た」
             continue
         score_item(it, profile, now)
+        if it.lang == "ja":
+            ja_pool.append(it)
         if not it.primary or it.score < min_score:
             below += 1
             continue
@@ -299,6 +322,35 @@ def rank(items: list[Item], profile: Profile, blocked: list[str], *, now: dt.dat
         gid = stories.add(toks)
         rep_of[gid] = it
         reps.append(it)
+
+    # 英語と日本語をまたいで、既に見たニュースを落とし、日本語版があれば差し替え候補として付ける
+    seen_by_lang = {"ja": [t for _, t in seen_titles if is_japanese(t)], "en": [t for _, t in seen_titles if not is_japanese(t)]}
+    kept = []
+    for it in reps:
+        other = seen_by_lang["ja"] if it.lang == "en" else seen_by_lang["en"]
+        if any((same_story(it.title, t, profile.xl_df) if it.lang == "en" else same_story(t, it.title, profile.xl_df))
+               for t in other):
+            already += 1
+            continue
+        kept.append(it)
+    reps = kept
+    used_ja: dict[int, Item] = {}   # 日本語記事の id → それを使った英語記事
+    for it in sorted(reps, key=lambda it: -it.score):
+        if it.lang != "en" or profile.lang_of.get(it.primary) != "en":
+            continue
+        matches = [j for j in ja_pool if same_story(it.title, j.title, profile.xl_df)]
+        if not matches:
+            continue
+        best = max(matches, key=lambda j: (j.via == "RSS", j.score))
+        if id(best) in used_ja:
+            # 同じ日本語記事に当たる＝先に選んだ英語記事と同じニュース。こちらはまとめる
+            used_ja[id(best)].related.append(it.source)
+            it.merged = True
+            continue
+        used_ja[id(best)] = it
+        it.ja_alt = best
+    ja_ids = set(used_ja)
+    reps = [it for it in reps if not getattr(it, "merged", False) and id(it) not in ja_ids]
 
     # 同じ話題を多くの媒体が報じていれば、その分だけ点を上げる
     for it in reps:

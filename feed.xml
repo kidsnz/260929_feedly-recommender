@@ -5,7 +5,7 @@
     <link>https://kidsnz.github.io/260929_feedly-recommender/</link>
     <description>Feedly の既読記事から作った好みのプロファイルで、まだ読んでいない媒体の関連ニュースを毎日集めたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:43:16 +0000</lastBuildDate>
     <atom:link href="https://kidsnz.github.io/260929_feedly-recommender/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meta is expanding its AI agent Muse to small businesses</title>
@@ -21,7 +21,7 @@
     <item>
       <title>OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference</title>
       <link>https://news.google.com/rss/articles/CBMimwJBVV95cUxPTTNmbjZHUDNyeHBMN3BSX3M2S3hmaF9OMWh2QmVZTkpnYXlBNjdXc2JUTjd4U2dFYWxyRGphejdlX2ZnaGIxblRYMkpiN29Lcy1kVVBXSl9HRmtmaXozVU1Vem5GZ0VjSENRWDduN2NNbjRSNFEtQ0RtejBBXzJUeXVicmJfWDFJcjVRSThvS0FFbFJFQnptMVNSX1ZrLXZIMjl0eXFPdVlzUDkyRjl5X3dTYzFiUDl5UUc2VTZtMVFUZGJTMWw2UzNRMEd5UW1BMVFJX0MwSThCN1c2dHNFcU5Jb2djYkR1aXVJb2lTUU96bzk4UUtOOTZpaGlqVkFQYTEyczY3VjJuV2xGdDdVckRRLVhRTEZkLWxv?oc=5</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（AI agent） / OpenAI・ChatGPT（OpenAI）｜出典: thecanadianpressnews.ca・Googleニュース経由｜同じ話題: 他13媒体（Audacy、Bozeman Daily Chronicle、CT Insider ほか）｜スコア 3.24</description>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（AI agent） / OpenAI・ChatGPT（OpenAI）｜出典: thecanadianpressnews.ca・Googleニュース経由｜同じ話題: 他17媒体（AP News、Bozeman Daily Chronicle、CT Insider ほか）｜スコア 3.23</description>
       <category>AI・生成AI全般</category>
       <category>AIエージェント・AIコーディング</category>
       <category>OpenAI・ChatGPT</category>
@@ -31,18 +31,28 @@
     </item>
     <item>
       <title>Can You Get Your Money Back If an AI Agent Makes a Financial Mistake?</title>
-      <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRnFJTlFyMkdtSlZJSXN6YUlBX3RveEw1S1d4R3BlMW1aXzZYTDRLWXRnTU1LNE1NYlpmUUVFb2hZYVZCUFZGc1Y5dWN0R0VCVXUxdUpGeVBVdDFmTGdBWXZyWFFoVEtnRVV3dUxXbmdleG9UZzBmSHlfQjUyellZV2U1NlktOHl2VWliVVRqX1NzX3NmYmg3bDFobnNZRDJEaUR2WkFjMS1xWEZkdk1EOXJMcmxvMFFkOXpJTlpwZldIV185UmYyT1czMy1FeEtGLXdGeUcxZXVGZ1VMRGlFM1Zya18tVDZyVkdOOEtWZWlhUnoyRjJCUnVn?oc=5</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（AI agent）｜出典: Key Biscayne Portal・Googleニュース経由｜同じ話題: 他11媒体（Iosco County News Herald、NerdWallet、News-Topic ほか）｜スコア 2.36</description>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOejQtMjlZY1B1UDFBcXlXbWc4WW5Jb0ExY0hIT0I2T0J4dEl0clNkR0ZVd0hjc0ctTDdFQlFHQUFHcy12dUtNcGl3OEhTbncxWFRzVElkRE5LNzdBV1U1V2VraU9odGhVN0gxcTVjdjlTNXNRbDBMUGVTenVQYklET2ZmOHdRb1g3djg0UGU2ZzV5UzhlRUFvVVl2cS1DWTFtejUyd2NwN1p5LVJMdTREeVNXQTZUWmktclNaRVpXcUlLQlNWd2JMenFkaEM4Qy1TRVJDbWZWRTIwQkhTdXJxVk9rT1BTYVY3TFVN?oc=5</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（AI agent）｜出典: themercury.com・Googleニュース経由｜同じ話題: 他10媒体（Floyd County Times、Iosco County News Herald、NerdWallet ほか）｜スコア 2.36</description>
       <category>AI・生成AI全般</category>
       <category>AIエージェント・AIコーディング</category>
-      <guid isPermaLink="false">77d75edad67453708a2ceefbf2016d16ba604e9b</guid>
+      <guid isPermaLink="false">e6a857ca082b550a1e77feea728c44fb182ed885</guid>
       <pubDate>Tue, 29 Sep 2026 16:38:48 +0000</pubDate>
-      <source url="https://news.google.com/rss/search?q=%22AI+agent%22+OR+%22coding+agent%22+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+Codex+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Key Biscayne Portal</source>
+      <source url="https://news.google.com/rss/search?q=%22AI+agent%22+OR+%22coding+agent%22+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+Codex+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">themercury.com</source>
+    </item>
+    <item>
+      <title>OpenAI Scraps Release of Latest AI Model Due to Safety Concerns</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQMS1fTGdnWVFSUFNzWDE3UDc1M291M25OYnoyZV9sX2JtdVhhVk81bVZOYlBlWkRsVXBrRURKdWNqS0tVZldqcFR4VzBiTWJ5aGF0SlVrcVB3WDBnMXh2X3ZEUmNEdzBOSUltREFuNGkzLVRFc1hjdlpOUWliazMwa0FOcHRKZFRXczJZQXp6ZmEzYWNPQlJnWGpCMFJsbGN2QXQ0TUxUZFVRVUwyMmRibVN3?oc=5</link>
+      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（OpenAI）｜出典: Democracy Now!・Googleニュース経由｜同じ話題: 他10媒体（Al Jazeera、BBC、Fox Business ほか）｜スコア 2.30</description>
+      <category>AI・生成AI全般</category>
+      <category>OpenAI・ChatGPT</category>
+      <guid isPermaLink="false">db84704778c64577a7b716ad2fb087c3b6a012e6</guid>
+      <pubDate>Tue, 29 Sep 2026 19:37:36 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%22large+language+model%22+OR+%22AI+model%22+OR+Gemini+OR+DeepSeek+OR+%22generative+AI%22+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Democracy Now!</source>
     </item>
     <item>
       <title>Anthropic's IPO filing shows soaring revenue, mounting costs, and "existential" risks</title>
       <link>https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/</link>
-      <description>該当トピック: AI・生成AI全般（AI） / Anthropic・Claude（Anthropic） / 経済・マーケット・企業（IPO, valuation）｜出典: The Decoder｜同じ話題: 他2媒体（Tech Xplore、macobserver.com）｜スコア 2.23</description>
+      <description>該当トピック: AI・生成AI全般（AI） / Anthropic・Claude（Anthropic） / 経済・マーケット・企業（IPO, valuation）｜出典: The Decoder｜同じ話題: 他2媒体（Tech Xplore、macobserver.com）｜スコア 2.22</description>
       <category>AI・生成AI全般</category>
       <category>Anthropic・Claude</category>
       <category>経済・マーケット・企業</category>
@@ -51,29 +61,9 @@
       <source url="https://the-decoder.com/feed/">The Decoder</source>
     </item>
     <item>
-      <title>AMD buys AI world model startup World Labs for $8.2 billion</title>
-      <link>https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/</link>
-      <description>該当トピック: AI・生成AI全般（AI） / 半導体・データセンター（AMD）｜出典: The Decoder｜同じ話題: 他1媒体（nextplatform.com）｜スコア 2.12</description>
-      <category>AI・生成AI全般</category>
-      <category>半導体・データセンター</category>
-      <guid isPermaLink="false">952b29f09b3f5fc83c6f680de7859f13d15599e9</guid>
-      <pubDate>Tue, 29 Sep 2026 17:13:51 +0000</pubDate>
-      <source url="https://the-decoder.com/feed/">The Decoder</source>
-    </item>
-    <item>
-      <title>OpenAI Scraps Release of Latest AI Model Due to Safety Concerns</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQMS1fTGdnWVFSUFNzWDE3UDc1M291M25OYnoyZV9sX2JtdVhhVk81bVZOYlBlWkRsVXBrRURKdWNqS0tVZldqcFR4VzBiTWJ5aGF0SlVrcVB3WDBnMXh2X3ZEUmNEdzBOSUltREFuNGkzLVRFc1hjdlpOUWliazMwa0FOcHRKZFRXczJZQXp6ZmEzYWNPQlJnWGpCMFJsbGN2QXQ0TUxUZFVRVUwyMmRibVN3?oc=5</link>
-      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（OpenAI）｜出典: Democracy Now!・Googleニュース経由｜同じ話題: 他8媒体（BBC、Euronews.com、France 24 ほか）｜スコア 2.10</description>
-      <category>AI・生成AI全般</category>
-      <category>OpenAI・ChatGPT</category>
-      <guid isPermaLink="false">db84704778c64577a7b716ad2fb087c3b6a012e6</guid>
-      <pubDate>Tue, 29 Sep 2026 19:37:36 +0000</pubDate>
-      <source url="https://news.google.com/rss/search?q=%22large+language+model%22+OR+%22AI+model%22+OR+Gemini+OR+DeepSeek+OR+%22generative+AI%22+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Democracy Now!</source>
-    </item>
-    <item>
       <title>Claude Sonnet 5.5</title>
       <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <description>該当トピック: AI・生成AI全般（専門媒体: Simon Willison's Weblog） / AIエージェント・AIコーディング（専門媒体: Simon Willison's Weblog） / Anthropic・Claude（Claude, Sonnet, Anthropic）｜出典: Simon Willison's Weblog｜同じ話題: 他4媒体（9to5Mac、Ben's Bites、Mashable ほか）｜スコア 2.04</description>
+      <description>該当トピック: AI・生成AI全般（専門媒体: Simon Willison's Weblog） / AIエージェント・AIコーディング（専門媒体: Simon Willison's Weblog） / Anthropic・Claude（Claude, Sonnet, Anthropic）｜出典: Simon Willison's Weblog｜同じ話題: 他3媒体（9to5Mac、Ben's Bites、PC Watch）｜スコア 1.91</description>
       <category>AI・生成AI全般</category>
       <category>AIエージェント・AIコーディング</category>
       <category>Anthropic・Claude</category>
@@ -82,19 +72,19 @@
       <source url="https://simonwillison.net/atom/everything/">Simon Willison's Weblog</source>
     </item>
     <item>
-      <title>UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor</title>
-      <link>https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/</link>
-      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（GPT）｜出典: The Decoder｜スコア 1.93</description>
+      <title>Towards safety cases for frontier AI training</title>
+      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（専門媒体: OpenAI News）｜出典: OpenAI News｜同じ話題: 他1媒体（OpenAI）｜スコア 1.59</description>
       <category>AI・生成AI全般</category>
       <category>OpenAI・ChatGPT</category>
-      <guid isPermaLink="false">92253201d4f276aadd205c36d19382204e7a9b6c</guid>
-      <pubDate>Tue, 29 Sep 2026 19:24:12 +0000</pubDate>
-      <source url="https://the-decoder.com/feed/">The Decoder</source>
+      <guid isPermaLink="false">cf468ec39dd67f092816e8f2d846aee26f3a6e5e</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
     </item>
     <item>
       <title>Google is a technology partner for the launch of America.gov.</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/</link>
-      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Google） / AI・生成AI全般（Gemini）｜出典: Google Blog｜同じ話題: 他2媒体（The Tech Buzz、blog.google）｜スコア 1.58</description>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Google） / AI・生成AI全般（Gemini）｜出典: Google Blog｜同じ話題: 他2媒体（The Tech Buzz、blog.google）｜スコア 1.57</description>
       <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
       <category>AI・生成AI全般</category>
       <guid isPermaLink="false">2b69c889308329e5af29740e635624c58b7ab1bd</guid>
@@ -112,9 +102,18 @@
       <source url="https://www.macrumors.com/macrumors.xml">MacRumors</source>
     </item>
     <item>
+      <title>ElevenLabs' new v4 speech model makes AI voices more expressive and consistent</title>
+      <link>https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/</link>
+      <description>該当トピック: AI・生成AI全般（AI）｜出典: The Decoder｜スコア 1.42</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">352a632cbda2a7f8efff702554e6cabe601356d9</guid>
+      <pubDate>Tue, 29 Sep 2026 14:45:17 +0000</pubDate>
+      <source url="https://the-decoder.com/feed/">The Decoder</source>
+    </item>
+    <item>
       <title>失敗するエージェントを1手目で見抜き推論を最大6割削る早期中断</title>
       <link>https://zenn.dev/okssusucha/articles/20260725-llm-agent-early-abort-hidden-state-probe</link>
-      <description>該当トピック: AIエージェント・AIコーディング（エージェント） / AI・生成AI全般（推論, LLM） / 宇宙・科学研究（論文）｜出典: Zenn: AI｜スコア 1.26</description>
+      <description>該当トピック: AIエージェント・AIコーディング（エージェント） / AI・生成AI全般（推論, LLM） / 宇宙・科学研究（論文）｜出典: Zenn: AI｜スコア 1.25</description>
       <category>AIエージェント・AIコーディング</category>
       <category>AI・生成AI全般</category>
       <category>宇宙・科学研究</category>
@@ -125,7 +124,7 @@
     <item>
       <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
-      <description>該当トピック: AI・生成AI全般（専門媒体: Hugging Face Blog） / AIエージェント・AIコーディング（MCP）｜出典: Hugging Face Blog｜スコア 1.25</description>
+      <description>該当トピック: AI・生成AI全般（専門媒体: Hugging Face Blog） / AIエージェント・AIコーディング（MCP）｜出典: Hugging Face Blog｜スコア 1.24</description>
       <category>AI・生成AI全般</category>
       <category>AIエージェント・AIコーディング</category>
       <guid isPermaLink="false">984223f109f3360b713ad9c5476b160c96fb7faa</guid>
@@ -145,10 +144,10 @@
     <item>
       <title>Apple Pay Reportedly Launching in India Today</title>
       <link>https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/</link>
-      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple）｜出典: MacRumors｜同じ話題: 他1媒体（TechCrunch）｜スコア 1.10</description>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple）｜出典: MacRumors｜同じ話題: 他1媒体（TechCrunch）｜スコア 1.09</description>
       <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
       <guid isPermaLink="false">8149cbfa4f47857f8babe52f4fb6305fd14c698b</guid>
-      <pubDate>Tue, 29 Sep 2026 19:52:45 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 19:52:35 +0000</pubDate>
       <source url="https://www.macrumors.com/macrumors.xml">MacRumors</source>
     </item>
     <item>
@@ -174,7 +173,7 @@
     <item>
       <title>Early Nvidia advisor says he's owed $1 billion in stock due to a 1993 vesting error, but Nvidia rejected settlement</title>
       <link>https://www.tomshardware.com/tech-industry/big-tech/early-nvidia-advisor-says-hes-owed-usd1-billion-in-stock-due-to-vesting-error-1993-stock-options-amount-to-around-4-5-million-shares-after-splits</link>
-      <description>該当トピック: 半導体・データセンター（NVIDIA）｜出典: Tom's Hardware｜スコア 0.87</description>
+      <description>該当トピック: 半導体・データセンター（NVIDIA）｜出典: Tom's Hardware｜スコア 0.86</description>
       <category>半導体・データセンター</category>
       <guid isPermaLink="false">ea064793f4df2625a8bc069651eec54d2515fdbf</guid>
       <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
@@ -193,7 +192,7 @@
     <item>
       <title>スペースXが「スターシップ」第14回飛行試験を実施 初の地球周回飛行とスターリンク衛星の軌道投入に成功</title>
       <link>https://sorae.info/space/20260929-starship-14.html</link>
-      <description>該当トピック: 宇宙・科学研究（スペースX, 衛星, スターシップ, SpaceX）｜出典: sorae｜同じ話題: 他5媒体（Yahoo!ニュース、nagoyatv.com、sorae 宇宙へのポータルサイト ほか）｜スコア 0.83</description>
+      <description>該当トピック: 宇宙・科学研究（スペースX, 衛星, スターシップ, SpaceX）｜出典: sorae｜同じ話題: 他5媒体（Yahoo!ニュース、nagoyatv.com、sorae 宇宙へのポータルサイト ほか）｜スコア 0.82</description>
       <category>宇宙・科学研究</category>
       <guid isPermaLink="false">53824afa488aab1fa5f7cf26e35a534f989b8baa</guid>
       <pubDate>Tue, 29 Sep 2026 00:59:31 +0000</pubDate>
@@ -202,7 +201,7 @@
     <item>
       <title>Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra aesthetic component'</title>
       <link>https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate</link>
-      <description>該当トピック: 半導体・データセンター（Intel, CPU）｜出典: Tom's Hardware｜スコア 0.83</description>
+      <description>該当トピック: 半導体・データセンター（Intel, CPU）｜出典: Tom's Hardware｜スコア 0.82</description>
       <category>半導体・データセンター</category>
       <guid isPermaLink="false">99c927d015fb15b02417c05c3c7f4cd49ea40fb7</guid>
       <pubDate>Tue, 29 Sep 2026 10:50:00 +0000</pubDate>
@@ -211,7 +210,7 @@
     <item>
       <title>Former EVGA Product Manager Recounts NVIDIA FE Squeeze and Leaker Witch Hunts</title>
       <link>https://www.techpowerup.com/353192/former-evga-product-manager-recounts-nvidia-fe-squeeze-and-leaker-witch-hunts</link>
-      <description>該当トピック: 半導体・データセンター（NVIDIA, GPU）｜出典: TechPowerUp｜スコア 0.83</description>
+      <description>該当トピック: 半導体・データセンター（NVIDIA, GPU）｜出典: TechPowerUp｜スコア 0.82</description>
       <category>半導体・データセンター</category>
       <guid isPermaLink="false">5d728f4e5b4fd982a1cbc21f50b205a9b17f388f</guid>
       <pubDate>Tue, 29 Sep 2026 04:54:26 +0000</pubDate>
@@ -292,13 +291,13 @@
       <source url="https://nazology.kusuguru.co.jp/feed">ナゾロジー</source>
     </item>
     <item>
-      <title>Hackers exploit Citrix NetScaler zero-day to deploy web shells</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/</link>
-      <description>該当トピック: サイバーセキュリティ・プライバシー（hacker, cybersecurity, malware）｜出典: BleepingComputer｜スコア 0.20</description>
+      <title>「パッチを当てても安心できない」 Citrix NetScalerゼロデイ、CISAが異例の対応を要求：「緊急」の脆弱性が複数</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE0zcjVnbDVUYVE0SEpwTHR3TDVxRTFONnJUbld6Ung5MkR2QVdJTTRsQXNVVWhIUnhmSjcwdTRLSU5Fdy1lb2hCWkJxYV8xUWVCT2hueU9ORmZNNXVPQW5fX1pCMjBpeGpZMTVCOWxkT1haZw?oc=5</link>
+      <description>該当トピック: サイバーセキュリティ・プライバシー（hacker, cybersecurity, malware）｜出典: ITmedia・Googleニュース経由｜原典（英語）: BleepingComputer「Hackers exploit Citrix NetScaler zero-day to deploy web shells」｜スコア 0.20</description>
       <category>サイバーセキュリティ・プライバシー</category>
-      <guid isPermaLink="false">7255110665bf355ddd275e58cc367a4b765b7c1b</guid>
-      <pubDate>Tue, 29 Sep 2026 18:37:12 +0000</pubDate>
-      <source url="https://www.bleepingcomputer.com/feed/">BleepingComputer</source>
+      <guid isPermaLink="false">5dd91227cfd8896ac354f1a177d17216c5c59d50</guid>
+      <pubDate>Tue, 29 Sep 2026 02:00:00 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83+OR+%E8%84%86%E5%BC%B1%E6%80%A7+OR+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ITmedia</source>
     </item>
   </channel>
 </rss>
