@@ -1,0 +1,61 @@
+name: Update feed
+
+on:
+  schedule:
+    # 毎日 06:00 JST（= 21:00 UTC）。GitHub の混雑で数十分遅れることがある
+    - cron: "0 21 * * *"
+  workflow_dispatch: # Actions タブの「Run workflow」ボタンで手動実行できる
+
+permissions:
+  contents: write
+
+# 2つの実行が同時に push しないように直列化する
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Test
+        run: python -m unittest discover -s tests
+
+      - name: Build feed
+        run: python src/build_feed.py
+
+      - name: Commit and push if changed
+        run: |
+          FILES="feed.xml index.html state"
+          if git diff --quiet -- $FILES && [ -z "$(git ls-files --others --exclude-standard -- $FILES)" ]; then
+            echo "変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 生成物はマージせず、最新の origin/main の上に今回の出力を置き直す
+          mkdir -p "$RUNNER_TEMP/out"
+          cp -R $FILES "$RUNNER_TEMP/out/"
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp -R "$RUNNER_TEMP/out/." .
+            git add $FILES
+            git diff --cached --quiet && { echo "origin/main は既に最新"; exit 0; }
+            git commit -m "chore: update feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            if git push; then exit 0; fi
+            echo "push が拒否されたので再試行 ($i)"
+          done
+          echo "::error::3回試しても push できませんでした"
+          exit 1

@@ -1,0 +1,47 @@
+{
+ "thecanadianpressnews.ca": {
+  "publisher": "thecanadianpressnews.ca",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "keybiscayneportal.com": {
+  "publisher": "Key Biscayne Portal",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "Can You Get Your Money Back If an AI Agent Makes a Financial Mistake?"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "democracynow.org": {
+  "publisher": "Democracy Now!",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "OpenAI Scraps Release of Latest AI Model Due to Safety Concerns"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "bloomberg.com": {
+  "publisher": "bloomberg.com",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)"
+  ],
+  "last_seen": "2026-09-29"
+ },
+ "nvidia.com": {
+  "publisher": "NVIDIA",
+  "count": 1,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "CONTROL Resonant Available Now With Path Tracing & DLSS 4.5: Get The Definitive PC Experience On GeForce RTX"
+  ],
+  "last_seen": "2026-09-29"
+ }
+}

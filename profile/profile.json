@@ -1,0 +1,3835 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-29T20:26:10Z",
+  "params": {
+    "half_life_days": 180,
+    "reference_date": "2026-09-25",
+    "recent_days": 90
+  },
+  "stats": {
+    "articles": 6120,
+    "published_min": "2016-04-01T13:29:53Z",
+    "published_max": "2026-09-25T02:08:00Z",
+    "est_read_min_main": "2025-06-03T03:38:00Z",
+    "old_items_published_years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "japanese_titles": 6056,
+    "other_titles": 64,
+    "matched_any_topic": 4336,
+    "old_items": 64,
+    "old_items_sources": [
+      [
+        "Adafruit » Leds",
+        29
+      ],
+      [
+        "リーディング＆カンパニー株式会社",
+        10
+      ],
+      [
+        "Paul Robertson",
+        7
+      ],
+      [
+        "Arrested Motion",
+        6
+      ],
+      [
+        "Artsy News",
+        5
+      ],
+      [
+        "WK",
+        3
+      ],
+      [
+        "GAMESCENES",
+        2
+      ],
+      [
+        "ELON｜英語学習とイーロン・マスクのブログ",
+        1
+      ],
+      [
+        "イーロン・マスクのすすめ",
+        1
+      ]
+    ]
+  },
+  "topics": [
+    {
+      "name": "AI・生成AI全般",
+      "share": 0.3102,
+      "count": 1691,
+      "recent_rate": 0.3732,
+      "older_rate": 0.2577,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "AI",
+          "weighted": 739.43,
+          "count": 1514
+        },
+        {
+          "term": "AIモデル",
+          "weighted": 64.38,
+          "count": 127
+        },
+        {
+          "term": "Gemini",
+          "weighted": 51.79,
+          "count": 119
+        },
+        {
+          "term": "生成AI",
+          "weighted": 37.09,
+          "count": 95
+        },
+        {
+          "term": "Grok",
+          "weighted": 21.8,
+          "count": 58
+        },
+        {
+          "term": "画像生成",
+          "weighted": 19.55,
+          "count": 47
+        },
+        {
+          "term": "DeepSeek",
+          "weighted": 19.04,
+          "count": 38
+        },
+        {
+          "term": "推論",
+          "weighted": 14.81,
+          "count": 35
+        },
+        {
+          "term": "ベンチマーク",
+          "weighted": 14.55,
+          "count": 25
+        },
+        {
+          "term": "動画生成",
+          "weighted": 12.3,
+          "count": 32
+        },
+        {
+          "term": "LLM",
+          "weighted": 10.79,
+          "count": 23
+        },
+        {
+          "term": "AGI",
+          "weighted": 9.49,
+          "count": 18
+        },
+        {
+          "term": "xAI",
+          "weighted": 9.09,
+          "count": 26
+        },
+        {
+          "term": "チャットボット",
+          "weighted": 4.36,
+          "count": 11
+        },
+        {
+          "term": "Qwen",
+          "weighted": 3.49,
+          "count": 8
+        },
+        {
+          "term": "言語モデル",
+          "weighted": 2.62,
+          "count": 8
+        },
+        {
+          "term": "foundation model",
+          "weighted": 2.14,
+          "count": 3
+        },
+        {
+          "term": "Mistral",
+          "weighted": 1.47,
+          "count": 4
+        },
+        {
+          "term": "人工知能",
+          "weighted": 0.97,
+          "count": 3
+        },
+        {
+          "term": "大規模言語モデル",
+          "weighted": 0.67,
+          "count": 3
+        },
+        {
+          "term": "Llama",
+          "weighted": 0.2,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "artificial intelligence",
+        "generative AI",
+        "large language model",
+        "chatbot",
+        "machine learning",
+        "deep learning"
+      ],
+      "samples": [
+        "Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ",
+        "Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される",
+        "AmazonがMetaのAIエージェント「Muse」の買い物代行をブロック",
+        "AIが「中国船が中東で核兵器部品を輸送している」と虚偽の報告書を生成したせいでアメリカは戦争を起こしかけていた",
+        "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "AI",
+        "生成AI",
+        "人工知能",
+        "LLM",
+        "大規模言語モデル",
+        "AIモデル",
+        "言語モデル",
+        "Gemini",
+        "Grok",
+        "DeepSeek",
+        "Llama",
+        "Qwen",
+        "Mistral",
+        "xAI",
+        "AGI",
+        "画像生成",
+        "動画生成",
+        "推論",
+        "ベンチマーク",
+        "チャットボット"
+      ],
+      "english": [
+        "artificial intelligence",
+        "generative AI",
+        "large language model",
+        "chatbot",
+        "machine learning",
+        "deep learning",
+        "foundation model"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 1.0,
+      "weight": 1.0,
+      "allocation": 0.1335,
+      "keyword_weights": {
+        "AI": 1.0,
+        "生成AI": 0.731,
+        "人工知能": 0.462,
+        "LLM": 0.624,
+        "大規模言語モデル": 0.447,
+        "AIモデル": 0.78,
+        "言語モデル": 0.517,
+        "Gemini": 0.76,
+        "Grok": 0.684,
+        "DeepSeek": 0.672,
+        "Llama": 0.416,
+        "Qwen": 0.536,
+        "Mistral": 0.482,
+        "xAI": 0.61,
+        "AGI": 0.613,
+        "画像生成": 0.675,
+        "動画生成": 0.635,
+        "推論": 0.651,
+        "ベンチマーク": 0.649,
+        "チャットボット": 0.552,
+        "artificial intelligence": 0.7,
+        "generative AI": 0.7,
+        "large language model": 0.7,
+        "chatbot": 0.7,
+        "machine learning": 0.7,
+        "deep learning": 0.7,
+        "foundation model": 0.504
+      },
+      "exclude": [
+        "アートメイク"
+      ]
+    },
+    {
+      "name": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+      "share": 0.1561,
+      "count": 993,
+      "recent_rate": 0.1379,
+      "older_rate": 0.1669,
+      "trend": "→ 横ばい",
+      "keywords_observed": [
+        {
+          "term": "Google",
+          "weighted": 124.75,
+          "count": 284
+        },
+        {
+          "term": "Apple",
+          "weighted": 90.82,
+          "count": 208
+        },
+        {
+          "term": "iPhone",
+          "weighted": 47.44,
+          "count": 116
+        },
+        {
+          "term": "Meta",
+          "weighted": 30.44,
+          "count": 76
+        },
+        {
+          "term": "Amazon",
+          "weighted": 27.76,
+          "count": 65
+        },
+        {
+          "term": "Microsoft",
+          "weighted": 24.85,
+          "count": 59
+        },
+        {
+          "term": "アップル",
+          "weighted": 22.96,
+          "count": 55
+        },
+        {
+          "term": "メタ",
+          "weighted": 19.07,
+          "count": 54
+        },
+        {
+          "term": "Siri",
+          "weighted": 15.59,
+          "count": 34
+        },
+        {
+          "term": "iOS",
+          "weighted": 15.29,
+          "count": 38
+        },
+        {
+          "term": "グーグル",
+          "weighted": 14.25,
+          "count": 31
+        },
+        {
+          "term": "Mac",
+          "weighted": 14.06,
+          "count": 29
+        },
+        {
+          "term": "YouTube",
+          "weighted": 14.02,
+          "count": 33
+        },
+        {
+          "term": "MacBook",
+          "weighted": 14.0,
+          "count": 35
+        },
+        {
+          "term": "Android",
+          "weighted": 12.48,
+          "count": 26
+        },
+        {
+          "term": "iPad",
+          "weighted": 7.82,
+          "count": 19
+        },
+        {
+          "term": "マイクロソフト",
+          "weighted": 6.31,
+          "count": 17
+        },
+        {
+          "term": "Pixel",
+          "weighted": 5.74,
+          "count": 14
+        },
+        {
+          "term": "Windows",
+          "weighted": 5.67,
+          "count": 14
+        },
+        {
+          "term": "ザッカーバーグ",
+          "weighted": 5.62,
+          "count": 13
+        },
+        {
+          "term": "ティム・クック",
+          "weighted": 5.59,
+          "count": 13
+        },
+        {
+          "term": "アマゾン",
+          "weighted": 5.42,
+          "count": 15
+        },
+        {
+          "term": "パランティア",
+          "weighted": 3.7,
+          "count": 11
+        },
+        {
+          "term": "Oracle",
+          "weighted": 2.25,
+          "count": 6
+        },
+        {
+          "term": "オラクル",
+          "weighted": 1.72,
+          "count": 7
+        },
+        {
+          "term": "Alphabet",
+          "weighted": 1.54,
+          "count": 3
+        },
+        {
+          "term": "Palantir",
+          "weighted": 1.43,
+          "count": 3
+        }
+      ],
+      "keywords_unused": [
+        "Zuckerberg",
+        "Tim Cook",
+        "Sundar Pichai",
+        "Satya Nadella",
+        "Big Tech"
+      ],
+      "samples": [
+        "Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ",
+        "AmazonがMetaのAIエージェント「Muse」の買い物代行をブロック",
+        "Metaがカメラのないスマートグラス「Ray-Ban Meta Audio」を発表、最大12時間のバッテリー駆動時間を実現し10月13日に出荷開始",
+        "メタ、Muse使える手のひらサイズ端末発表－「こんなものは他にない」",
+        "AI関連株が急伸、メタのパーソナルAIエージェントで楽観論"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "Google",
+        "グーグル",
+        "Apple",
+        "アップル",
+        "Meta",
+        "メタ",
+        "Amazon",
+        "アマゾン",
+        "Microsoft",
+        "マイクロソフト",
+        "iPhone",
+        "iPad",
+        "Mac",
+        "MacBook",
+        "Siri",
+        "iOS",
+        "Android",
+        "Pixel",
+        "YouTube",
+        "Windows",
+        "Oracle",
+        "オラクル",
+        "Palantir",
+        "パランティア",
+        "ザッカーバーグ",
+        "ティム・クック"
+      ],
+      "english": [
+        "Alphabet",
+        "Zuckerberg",
+        "Tim Cook",
+        "Sundar Pichai",
+        "Satya Nadella",
+        "Big Tech"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.709,
+      "weight": 0.709,
+      "allocation": 0.0946,
+      "keyword_weights": {
+        "Google": 1.0,
+        "グーグル": 0.738,
+        "Apple": 0.961,
+        "アップル": 0.794,
+        "Meta": 0.828,
+        "メタ": 0.772,
+        "Amazon": 0.817,
+        "アマゾン": 0.631,
+        "Microsoft": 0.804,
+        "マイクロソフト": 0.647,
+        "iPhone": 0.882,
+        "iPad": 0.67,
+        "Mac": 0.737,
+        "MacBook": 0.736,
+        "Siri": 0.749,
+        "iOS": 0.746,
+        "Android": 0.723,
+        "Pixel": 0.637,
+        "YouTube": 0.736,
+        "Windows": 0.635,
+        "Oracle": 0.546,
+        "オラクル": 0.524,
+        "Palantir": 0.51,
+        "パランティア": 0.592,
+        "ザッカーバーグ": 0.635,
+        "ティム・クック": 0.634,
+        "Alphabet": 0.516,
+        "Zuckerberg": 0.7,
+        "Tim Cook": 0.7,
+        "Sundar Pichai": 0.7,
+        "Satya Nadella": 0.7,
+        "Big Tech": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "半導体・データセンター",
+      "share": 0.1265,
+      "count": 680,
+      "recent_rate": 0.1673,
+      "older_rate": 0.1003,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "NVIDIA",
+          "weighted": 81.24,
+          "count": 164
+        },
+        {
+          "term": "半導体",
+          "weighted": 61.23,
+          "count": 122
+        },
+        {
+          "term": "メモリ",
+          "weighted": 51.3,
+          "count": 89
+        },
+        {
+          "term": "エヌビディア",
+          "weighted": 51.28,
+          "count": 130
+        },
+        {
+          "term": "チップ",
+          "weighted": 44.84,
+          "count": 97
+        },
+        {
+          "term": "データセンター",
+          "weighted": 32.42,
+          "count": 69
+        },
+        {
+          "term": "AMD",
+          "weighted": 22.34,
+          "count": 49
+        },
+        {
+          "term": "TSMC",
+          "weighted": 20.52,
+          "count": 47
+        },
+        {
+          "term": "GPU",
+          "weighted": 20.47,
+          "count": 44
+        },
+        {
+          "term": "ハイニックス",
+          "weighted": 17.4,
+          "count": 23
+        },
+        {
+          "term": "SKハイニックス",
+          "weighted": 17.17,
+          "count": 22
+        },
+        {
+          "term": "CPU",
+          "weighted": 15.74,
+          "count": 30
+        },
+        {
+          "term": "Intel",
+          "weighted": 11.83,
+          "count": 27
+        },
+        {
+          "term": "Samsung",
+          "weighted": 11.62,
+          "count": 22
+        },
+        {
+          "term": "メモリー",
+          "weighted": 11.29,
+          "count": 16
+        },
+        {
+          "term": "サムスン",
+          "weighted": 10.42,
+          "count": 19
+        },
+        {
+          "term": "SK hynix",
+          "weighted": 5.74,
+          "count": 8
+        },
+        {
+          "term": "ジェンスン・フアン",
+          "weighted": 4.66,
+          "count": 9
+        },
+        {
+          "term": "インテル",
+          "weighted": 3.53,
+          "count": 6
+        },
+        {
+          "term": "DRAM",
+          "weighted": 2.96,
+          "count": 5
+        },
+        {
+          "term": "ラピダス",
+          "weighted": 2.75,
+          "count": 6
+        },
+        {
+          "term": "HBM",
+          "weighted": 0.24,
+          "count": 1
+        },
+        {
+          "term": "Rapidus",
+          "weighted": 0.18,
+          "count": 1
+        },
+        {
+          "term": "Jensen Huang",
+          "weighted": 0.16,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "semiconductor",
+        "chipmaker",
+        "data center",
+        "foundry"
+      ],
+      "samples": [
+        "Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ",
+        "エヌビディア、ソフトバンクG傘下のSBエナジーに15億ドル追加出資",
+        "AMDとインテル株急伸、メタ「Muse」人気でAI楽観論－半導体株に買い",
+        "エヌビディアCEO、AIによる人類絶滅リスクを否定－「可能性0%」",
+        "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "半導体",
+        "NVIDIA",
+        "エヌビディア",
+        "TSMC",
+        "SK hynix",
+        "SKハイニックス",
+        "ハイニックス",
+        "サムスン",
+        "Samsung",
+        "Intel",
+        "インテル",
+        "AMD",
+        "メモリ",
+        "メモリー",
+        "HBM",
+        "DRAM",
+        "GPU",
+        "CPU",
+        "チップ",
+        "データセンター",
+        "ラピダス",
+        "ジェンスン・フアン"
+      ],
+      "english": [
+        "semiconductor",
+        "chipmaker",
+        "Jensen Huang",
+        "data center",
+        "foundry",
+        "Rapidus"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.639,
+      "weight": 0.639,
+      "allocation": 0.0853,
+      "keyword_weights": {
+        "半導体": 0.962,
+        "NVIDIA": 1.0,
+        "エヌビディア": 0.938,
+        "TSMC": 0.818,
+        "SK hynix": 0.66,
+        "SKハイニックス": 0.795,
+        "ハイニックス": 0.796,
+        "サムスン": 0.731,
+        "Samsung": 0.745,
+        "Intel": 0.747,
+        "インテル": 0.606,
+        "AMD": 0.829,
+        "メモリ": 0.938,
+        "メモリー": 0.741,
+        "HBM": 0.43,
+        "DRAM": 0.587,
+        "GPU": 0.817,
+        "CPU": 0.783,
+        "チップ": 0.92,
+        "データセンター": 0.877,
+        "ラピダス": 0.58,
+        "ジェンスン・フアン": 0.636,
+        "semiconductor": 0.7,
+        "chipmaker": 0.7,
+        "Jensen Huang": 0.42,
+        "data center": 0.7,
+        "foundry": 0.7,
+        "Rapidus": 0.422
+      },
+      "exclude": []
+    },
+    {
+      "name": "経済・マーケット・企業",
+      "share": 0.0869,
+      "count": 500,
+      "recent_rate": 0.0903,
+      "older_rate": 0.0801,
+      "trend": "→ 横ばい",
+      "keywords_observed": [
+        {
+          "term": "投資",
+          "weighted": 62.75,
+          "count": 146
+        },
+        {
+          "term": "買収",
+          "weighted": 27.33,
+          "count": 59
+        },
+        {
+          "term": "IPO",
+          "weighted": 25.38,
+          "count": 40
+        },
+        {
+          "term": "株価",
+          "weighted": 16.42,
+          "count": 41
+        },
+        {
+          "term": "時価総額",
+          "weighted": 15.42,
+          "count": 35
+        },
+        {
+          "term": "売上高",
+          "weighted": 15.14,
+          "count": 32
+        },
+        {
+          "term": "ソフトバンク",
+          "weighted": 14.91,
+          "count": 29
+        },
+        {
+          "term": "投資家",
+          "weighted": 14.57,
+          "count": 34
+        },
+        {
+          "term": "上場",
+          "weighted": 14.23,
+          "count": 28
+        },
+        {
+          "term": "決算",
+          "weighted": 13.57,
+          "count": 33
+        },
+        {
+          "term": "株式",
+          "weighted": 13.07,
+          "count": 30
+        },
+        {
+          "term": "金利",
+          "weighted": 6.27,
+          "count": 10
+        },
+        {
+          "term": "日銀",
+          "weighted": 6.08,
+          "count": 10
+        },
+        {
+          "term": "インフレ",
+          "weighted": 5.92,
+          "count": 8
+        },
+        {
+          "term": "相場",
+          "weighted": 5.73,
+          "count": 10
+        },
+        {
+          "term": "原油",
+          "weighted": 5.06,
+          "count": 7
+        },
+        {
+          "term": "資金調達",
+          "weighted": 5.03,
+          "count": 14
+        },
+        {
+          "term": "市況",
+          "weighted": 4.14,
+          "count": 8
+        },
+        {
+          "term": "円安",
+          "weighted": 3.95,
+          "count": 6
+        },
+        {
+          "term": "利上げ",
+          "weighted": 3.94,
+          "count": 5
+        },
+        {
+          "term": "株高",
+          "weighted": 3.34,
+          "count": 9
+        },
+        {
+          "term": "米国株",
+          "weighted": 3.21,
+          "count": 8
+        },
+        {
+          "term": "株安",
+          "weighted": 2.11,
+          "count": 4
+        },
+        {
+          "term": "利下げ",
+          "weighted": 2.1,
+          "count": 7
+        },
+        {
+          "term": "日本株",
+          "weighted": 1.9,
+          "count": 3
+        },
+        {
+          "term": "FRB",
+          "weighted": 1.82,
+          "count": 7
+        },
+        {
+          "term": "国債",
+          "weighted": 1.77,
+          "count": 4
+        },
+        {
+          "term": "孫正義",
+          "weighted": 1.7,
+          "count": 6
+        },
+        {
+          "term": "景気",
+          "weighted": 1.61,
+          "count": 2
+        },
+        {
+          "term": "評価額",
+          "weighted": 1.43,
+          "count": 5
+        },
+        {
+          "term": "円高",
+          "weighted": 1.43,
+          "count": 2
+        }
+      ],
+      "keywords_unused": [
+        "stock market",
+        "valuation",
+        "earnings",
+        "acquisition",
+        "funding round",
+        "Federal Reserve",
+        "inflation",
+        "SoftBank",
+        "Masayoshi Son"
+      ],
+      "samples": [
+        "シルバーウィークの日経平均先物急伸、「Muse」人気で米テック株高騰",
+        "【米国市況】株上昇、巨大テックが押し上げ－円は続落し157円台半ば",
+        "エヌビディア、ソフトバンクG傘下のSBエナジーに15億ドル追加出資",
+        "メタの新AI「Muse」、アプリランキングで首位－巨額投資に成果の兆し",
+        "【米国市況】株・国債が高い、インフレ懸念後退－日銀会合控え円堅調"
+      ],
+      "collect": true,
+      "lang": "",
+      "keywords": [
+        "株価",
+        "株式",
+        "株高",
+        "株安",
+        "米国株",
+        "日本株",
+        "市況",
+        "相場",
+        "金利",
+        "国債",
+        "投資",
+        "投資家",
+        "IPO",
+        "上場",
+        "時価総額",
+        "決算",
+        "売上高",
+        "買収",
+        "資金調達",
+        "評価額",
+        "ソフトバンク",
+        "孫正義",
+        "日銀",
+        "FRB",
+        "利下げ",
+        "利上げ",
+        "円安",
+        "円高",
+        "原油",
+        "景気",
+        "インフレ"
+      ],
+      "english": [
+        "stock market",
+        "valuation",
+        "earnings",
+        "acquisition",
+        "funding round",
+        "Federal Reserve",
+        "inflation",
+        "SoftBank",
+        "Masayoshi Son"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.529,
+      "weight": 0.529,
+      "allocation": 0.0706,
+      "keyword_weights": {
+        "株価": 0.813,
+        "株式": 0.782,
+        "株高": 0.612,
+        "株安": 0.564,
+        "米国株": 0.608,
+        "日本株": 0.554,
+        "市況": 0.637,
+        "相場": 0.675,
+        "金利": 0.686,
+        "国債": 0.547,
+        "投資": 1.0,
+        "投資家": 0.796,
+        "IPO": 0.873,
+        "上場": 0.793,
+        "時価総額": 0.804,
+        "決算": 0.787,
+        "売上高": 0.802,
+        "買収": 0.883,
+        "資金調達": 0.659,
+        "評価額": 0.528,
+        "ソフトバンク": 0.8,
+        "孫正義": 0.543,
+        "日銀": 0.683,
+        "FRB": 0.55,
+        "利下げ": 0.563,
+        "利上げ": 0.631,
+        "円安": 0.631,
+        "円高": 0.528,
+        "原油": 0.66,
+        "景気": 0.539,
+        "インフレ": 0.679,
+        "stock market": 0.7,
+        "valuation": 0.7,
+        "earnings": 0.7,
+        "acquisition": 0.7,
+        "funding round": 0.7,
+        "Federal Reserve": 0.7,
+        "inflation": 0.7,
+        "SoftBank": 0.7,
+        "Masayoshi Son": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "OpenAI・ChatGPT",
+      "share": 0.0846,
+      "count": 490,
+      "recent_rate": 0.1045,
+      "older_rate": 0.0754,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "OpenAI",
+          "weighted": 143.55,
+          "count": 312
+        },
+        {
+          "term": "ChatGPT",
+          "weighted": 56.69,
+          "count": 152
+        },
+        {
+          "term": "GPT",
+          "weighted": 42.14,
+          "count": 74
+        },
+        {
+          "term": "Codex",
+          "weighted": 16.84,
+          "count": 30
+        },
+        {
+          "term": "アルトマン",
+          "weighted": 16.31,
+          "count": 35
+        },
+        {
+          "term": "サム・アルトマン",
+          "weighted": 12.23,
+          "count": 25
+        },
+        {
+          "term": "Sora",
+          "weighted": 5.66,
+          "count": 18
+        }
+      ],
+      "keywords_unused": [
+        "Sam Altman"
+      ],
+      "samples": [
+        "長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成",
+        "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
+        "OpenAI、モデル開発の早期段階で外部検証受け入れへ－リスク対応強化",
+        "OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説",
+        "OpenAI、米国に取り組みの主導求める－AIの国際基準策定で"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "GPT",
+        "Codex",
+        "Sora",
+        "サム・アルトマン",
+        "アルトマン"
+      ],
+      "english": [
+        "Sam Altman"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.522,
+      "weight": 0.522,
+      "allocation": 0.0697,
+      "keyword_weights": {
+        "OpenAI": 1.0,
+        "ChatGPT": 0.889,
+        "GPT": 0.854,
+        "Codex": 0.748,
+        "Sora": 0.629,
+        "サム・アルトマン": 0.711,
+        "アルトマン": 0.744,
+        "Sam Altman": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "Anthropic・Claude",
+      "share": 0.0843,
+      "count": 361,
+      "recent_rate": 0.1217,
+      "older_rate": 0.0469,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "Claude",
+          "weighted": 131.44,
+          "count": 217
+        },
+        {
+          "term": "Anthropic",
+          "weighted": 100.81,
+          "count": 172
+        },
+        {
+          "term": "アンソロピック",
+          "weighted": 31.81,
+          "count": 47
+        },
+        {
+          "term": "Fable",
+          "weighted": 29.82,
+          "count": 39
+        },
+        {
+          "term": "Claude Code",
+          "weighted": 28.44,
+          "count": 49
+        },
+        {
+          "term": "Mythos",
+          "weighted": 23.34,
+          "count": 35
+        },
+        {
+          "term": "Opus",
+          "weighted": 18.87,
+          "count": 32
+        },
+        {
+          "term": "ダリオ・アモデイ",
+          "weighted": 6.5,
+          "count": 9
+        },
+        {
+          "term": "アモデイ",
+          "weighted": 6.5,
+          "count": 9
+        },
+        {
+          "term": "Sonnet",
+          "weighted": 2.36,
+          "count": 6
+        },
+        {
+          "term": "Haiku",
+          "weighted": 0.27,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "Dario Amodei"
+      ],
+      "samples": [
+        "Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される",
+        "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+        "「Claudeを2週間で3倍速にした方法」をAnthropicが解説",
+        "アンソロピックCEO、AI巡り国連安全保障理事会で説明へ－23日",
+        "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "Anthropic",
+        "アンソロピック",
+        "Claude",
+        "Claude Code",
+        "Opus",
+        "Sonnet",
+        "Haiku",
+        "Fable",
+        "Mythos",
+        "ダリオ・アモデイ",
+        "アモデイ"
+      ],
+      "english": [
+        "Dario Amodei"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.521,
+      "weight": 0.521,
+      "allocation": 0.0695,
+      "keyword_weights": {
+        "Anthropic": 0.968,
+        "アンソロピック": 0.829,
+        "Claude": 1.0,
+        "Claude Code": 0.815,
+        "Opus": 0.767,
+        "Sonnet": 0.549,
+        "Haiku": 0.429,
+        "Fable": 0.821,
+        "Mythos": 0.792,
+        "ダリオ・アモデイ": 0.647,
+        "アモデイ": 0.647,
+        "Dario Amodei": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "ゲーム",
+      "share": 0.0722,
+      "count": 490,
+      "recent_rate": 0.0467,
+      "older_rate": 0.0865,
+      "trend": "↓ 減少",
+      "keywords_observed": [
+        {
+          "term": "ゲーム",
+          "weighted": 117.11,
+          "count": 301
+        },
+        {
+          "term": "Steam",
+          "weighted": 28.67,
+          "count": 61
+        },
+        {
+          "term": "Nintendo",
+          "weighted": 18.85,
+          "count": 64
+        },
+        {
+          "term": "Nintendo Switch",
+          "weighted": 17.62,
+          "count": 59
+        },
+        {
+          "term": "任天堂",
+          "weighted": 16.97,
+          "count": 51
+        },
+        {
+          "term": "Switch 2",
+          "weighted": 16.62,
+          "count": 56
+        },
+        {
+          "term": "PS5",
+          "weighted": 13.24,
+          "count": 37
+        },
+        {
+          "term": "Xbox",
+          "weighted": 9.6,
+          "count": 23
+        },
+        {
+          "term": "PlayStation",
+          "weighted": 9.24,
+          "count": 20
+        },
+        {
+          "term": "ポケモン",
+          "weighted": 9.03,
+          "count": 26
+        },
+        {
+          "term": "ゲームボーイ",
+          "weighted": 3.25,
+          "count": 8
+        },
+        {
+          "term": "セガ",
+          "weighted": 3.15,
+          "count": 6
+        },
+        {
+          "term": "ファミコン",
+          "weighted": 2.89,
+          "count": 8
+        },
+        {
+          "term": "カプコン",
+          "weighted": 2.85,
+          "count": 8
+        },
+        {
+          "term": "新作ゲーム",
+          "weighted": 2.68,
+          "count": 7
+        },
+        {
+          "term": "インディーゲーム",
+          "weighted": 1.76,
+          "count": 5
+        },
+        {
+          "term": "バンダイナムコ",
+          "weighted": 1.68,
+          "count": 4
+        },
+        {
+          "term": "コナミ",
+          "weighted": 1.01,
+          "count": 3
+        },
+        {
+          "term": "スクウェア・エニックス",
+          "weighted": 0.6,
+          "count": 1
+        },
+        {
+          "term": "レトロゲーム",
+          "weighted": 0.4,
+          "count": 2
+        },
+        {
+          "term": "Pokémon",
+          "weighted": 0.36,
+          "count": 2
+        },
+        {
+          "term": "indie game",
+          "weighted": 0.34,
+          "count": 1
+        },
+        {
+          "term": "Switch2",
+          "weighted": 0.16,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "video game",
+        "gaming",
+        "game developer"
+      ],
+      "samples": [
+        "Steam Frame分解レポート、中はどんな感じになっているのか？",
+        "むちむち太ももゲーム『MIRESI：視えない未来』開発陣に聞く「上を隠して下を出す」キャラ設計──視線は自然と上から下へ流れる。上半身の衣装でキャラの情報を伝えれば、下の布が少なくても受け入れられやすくなる",
+        "ゲーミングスティックを巨大なスツールに。イケアのXboxゲーミングコレクションが生まれるまで",
+        "名作パズルゲーム『Baba Is You』ボードゲーム版のクラファンがKickstarterで開始。2人対戦型で、盤上のルールを操りつつ先に「WIN」に触れられれば勝利",
+        "カエルとなってジャンプで上を目指し続けるレトロ風ゲーム『スーパーフロッピンズ』デモ版が9月16日公開。体験版ではソロ・2人・最大8人の3つのゲームモードが遊べる"
+      ],
+      "collect": true,
+      "lang": "ja",
+      "keywords": [
+        "ゲーム",
+        "任天堂",
+        "Nintendo",
+        "Steam",
+        "Nintendo Switch",
+        "Switch 2",
+        "Switch2",
+        "PlayStation",
+        "PS5",
+        "Xbox",
+        "インディーゲーム",
+        "新作ゲーム",
+        "カプコン",
+        "スクウェア・エニックス",
+        "セガ",
+        "バンダイナムコ",
+        "コナミ",
+        "ゲームボーイ",
+        "ファミコン",
+        "レトロゲーム",
+        "ポケモン",
+        "Pokémon"
+      ],
+      "english": [
+        "video game",
+        "gaming",
+        "indie game",
+        "game developer"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.482,
+      "weight": 0.482,
+      "allocation": 0.0643,
+      "keyword_weights": {
+        "ゲーム": 1.0,
+        "任天堂": 0.763,
+        "Nintendo": 0.776,
+        "Steam": 0.826,
+        "Nintendo Switch": 0.768,
+        "Switch 2": 0.761,
+        "Switch2": 0.419,
+        "PlayStation": 0.693,
+        "PS5": 0.734,
+        "Xbox": 0.697,
+        "インディーゲーム": 0.527,
+        "新作ゲーム": 0.564,
+        "カプコン": 0.569,
+        "スクウェア・エニックス": 0.459,
+        "セガ": 0.579,
+        "バンダイナムコ": 0.524,
+        "コナミ": 0.488,
+        "ゲームボーイ": 0.582,
+        "ファミコン": 0.571,
+        "レトロゲーム": 0.442,
+        "ポケモン": 0.69,
+        "Pokémon": 0.438,
+        "video game": 0.7,
+        "gaming": 0.7,
+        "indie game": 0.437,
+        "game developer": 0.7
+      },
+      "exclude": [
+        "ゲーム理論"
+      ]
+    },
+    {
+      "name": "宇宙・科学研究",
+      "share": 0.0701,
+      "count": 365,
+      "recent_rate": 0.074,
+      "older_rate": 0.0569,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "スペースX",
+          "weighted": 43.09,
+          "count": 70
+        },
+        {
+          "term": "宇宙",
+          "weighted": 26.09,
+          "count": 56
+        },
+        {
+          "term": "研究結果",
+          "weighted": 25.76,
+          "count": 51
+        },
+        {
+          "term": "SpaceX",
+          "weighted": 21.24,
+          "count": 39
+        },
+        {
+          "term": "科学",
+          "weighted": 17.14,
+          "count": 39
+        },
+        {
+          "term": "衛星",
+          "weighted": 15.36,
+          "count": 31
+        },
+        {
+          "term": "量子",
+          "weighted": 14.53,
+          "count": 34
+        },
+        {
+          "term": "研究者",
+          "weighted": 13.43,
+          "count": 29
+        },
+        {
+          "term": "地震",
+          "weighted": 10.75,
+          "count": 15
+        },
+        {
+          "term": "ロケット",
+          "weighted": 9.29,
+          "count": 15
+        },
+        {
+          "term": "Starlink",
+          "weighted": 8.88,
+          "count": 20
+        },
+        {
+          "term": "量子コンピューター",
+          "weighted": 5.08,
+          "count": 14
+        },
+        {
+          "term": "科学者",
+          "weighted": 4.85,
+          "count": 11
+        },
+        {
+          "term": "NASA",
+          "weighted": 4.08,
+          "count": 8
+        },
+        {
+          "term": "研究チーム",
+          "weighted": 3.69,
+          "count": 10
+        },
+        {
+          "term": "スターシップ",
+          "weighted": 3.48,
+          "count": 7
+        },
+        {
+          "term": "論文",
+          "weighted": 2.55,
+          "count": 8
+        },
+        {
+          "term": "月面",
+          "weighted": 2.37,
+          "count": 4
+        },
+        {
+          "term": "火星",
+          "weighted": 2.36,
+          "count": 6
+        },
+        {
+          "term": "Starship",
+          "weighted": 2.15,
+          "count": 3
+        },
+        {
+          "term": "物理学",
+          "weighted": 1.36,
+          "count": 6
+        },
+        {
+          "term": "satellite",
+          "weighted": 0.76,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "JAXA",
+        "考古学",
+        "spaceflight",
+        "outer space",
+        "rocket",
+        "Mars",
+        "astronomy",
+        "physics",
+        "quantum computing",
+        "study finds",
+        "researchers"
+      ],
+      "samples": [
+        "Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ",
+        "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+        "コーヒーをよく飲む人は体脂肪が少なくて筋肉が多く性ホルモン濃度にも違いがあるとの研究結果",
+        "単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果",
+        "「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される"
+      ],
+      "collect": true,
+      "lang": "",
+      "keywords": [
+        "宇宙",
+        "SpaceX",
+        "スペースX",
+        "ロケット",
+        "衛星",
+        "NASA",
+        "JAXA",
+        "火星",
+        "月面",
+        "スターシップ",
+        "Starlink",
+        "研究結果",
+        "研究チーム",
+        "研究者",
+        "科学者",
+        "科学",
+        "論文",
+        "地震",
+        "量子",
+        "量子コンピューター",
+        "物理学",
+        "考古学"
+      ],
+      "english": [
+        "spaceflight",
+        "outer space",
+        "rocket",
+        "satellite",
+        "Starship",
+        "Mars",
+        "astronomy",
+        "physics",
+        "quantum computing",
+        "study finds",
+        "researchers"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.475,
+      "weight": 0.475,
+      "allocation": 0.0634,
+      "keyword_weights": {
+        "宇宙": 0.923,
+        "SpaceX": 0.892,
+        "スペースX": 1.0,
+        "ロケット": 0.769,
+        "衛星": 0.843,
+        "NASA": 0.657,
+        "JAXA": 0.4,
+        "火星": 0.592,
+        "月面": 0.593,
+        "スターシップ": 0.638,
+        "Starlink": 0.763,
+        "研究結果": 0.921,
+        "研究チーム": 0.645,
+        "研究者": 0.823,
+        "科学者": 0.68,
+        "科学": 0.859,
+        "論文": 0.601,
+        "地震": 0.79,
+        "量子": 0.835,
+        "量子コンピューター": 0.686,
+        "物理学": 0.536,
+        "考古学": 0.4,
+        "spaceflight": 0.7,
+        "outer space": 0.7,
+        "rocket": 0.7,
+        "satellite": 0.489,
+        "Starship": 0.582,
+        "Mars": 0.7,
+        "astronomy": 0.7,
+        "physics": 0.7,
+        "quantum computing": 0.7,
+        "study finds": 0.7,
+        "researchers": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "ガジェット・PC・電子工作",
+      "share": 0.0602,
+      "count": 385,
+      "recent_rate": 0.0548,
+      "older_rate": 0.0645,
+      "trend": "→ 横ばい",
+      "keywords_observed": [
+        {
+          "term": "PC",
+          "weighted": 41.85,
+          "count": 92
+        },
+        {
+          "term": "レビュー",
+          "weighted": 32.35,
+          "count": 78
+        },
+        {
+          "term": "スマホ",
+          "weighted": 25.7,
+          "count": 62
+        },
+        {
+          "term": "カメラ",
+          "weighted": 16.88,
+          "count": 36
+        },
+        {
+          "term": "スマートグラス",
+          "weighted": 13.11,
+          "count": 26
+        },
+        {
+          "term": "ドローン",
+          "weighted": 11.81,
+          "count": 28
+        },
+        {
+          "term": "ディスプレイ",
+          "weighted": 8.87,
+          "count": 22
+        },
+        {
+          "term": "ノートPC",
+          "weighted": 6.41,
+          "count": 16
+        },
+        {
+          "term": "イヤホン",
+          "weighted": 4.96,
+          "count": 10
+        },
+        {
+          "term": "DJI",
+          "weighted": 3.79,
+          "count": 11
+        },
+        {
+          "term": "Raspberry Pi",
+          "weighted": 3.76,
+          "count": 18
+        },
+        {
+          "term": "スマートフォン",
+          "weighted": 3.72,
+          "count": 8
+        },
+        {
+          "term": "キーボード",
+          "weighted": 3.22,
+          "count": 9
+        },
+        {
+          "term": "グラボ",
+          "weighted": 2.64,
+          "count": 6
+        },
+        {
+          "term": "ガジェット",
+          "weighted": 2.55,
+          "count": 7
+        },
+        {
+          "term": "モニター",
+          "weighted": 1.79,
+          "count": 4
+        },
+        {
+          "term": "ウェアラブル",
+          "weighted": 1.78,
+          "count": 5
+        },
+        {
+          "term": "AirTag",
+          "weighted": 1.35,
+          "count": 4
+        },
+        {
+          "term": "パソコン",
+          "weighted": 0.97,
+          "count": 2
+        },
+        {
+          "term": "camera",
+          "weighted": 0.8,
+          "count": 2
+        },
+        {
+          "term": "ラズパイ",
+          "weighted": 0.68,
+          "count": 2
+        },
+        {
+          "term": "laptop",
+          "weighted": 0.64,
+          "count": 1
+        },
+        {
+          "term": "LED",
+          "weighted": 0.59,
+          "count": 10
+        },
+        {
+          "term": "ヘッドホン",
+          "weighted": 0.48,
+          "count": 1
+        },
+        {
+          "term": "自作PC",
+          "weighted": 0.32,
+          "count": 1
+        },
+        {
+          "term": "Arduino",
+          "weighted": 0.0,
+          "count": 6
+        }
+      ],
+      "keywords_unused": [
+        "グラフィックボード",
+        "電子工作",
+        "gadget",
+        "smartphone",
+        "graphics card",
+        "mechanical keyboard",
+        "headphones",
+        "drone",
+        "smart glasses",
+        "wearable"
+      ],
+      "samples": [
+        "Metaがカメラのないスマートグラス「Ray-Ban Meta Audio」を発表、最大12時間のバッテリー駆動時間を実現し10月13日に出荷開始",
+        "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+        "「プライバシーを踏みにじられた」──デート中のスマートグラスに広がる警戒感",
+        "オーストラリア政府が公共の場でのスマートグラス規制を検討",
+        "「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "ガジェット",
+        "スマホ",
+        "スマートフォン",
+        "PC",
+        "パソコン",
+        "ノートPC",
+        "グラボ",
+        "グラフィックボード",
+        "キーボード",
+        "イヤホン",
+        "ヘッドホン",
+        "カメラ",
+        "ディスプレイ",
+        "モニター",
+        "Raspberry Pi",
+        "ラズパイ",
+        "LED",
+        "ドローン",
+        "DJI",
+        "スマートグラス",
+        "ウェアラブル",
+        "AirTag",
+        "電子工作",
+        "自作PC",
+        "レビュー"
+      ],
+      "english": [
+        "gadget",
+        "smartphone",
+        "laptop",
+        "graphics card",
+        "mechanical keyboard",
+        "headphones",
+        "camera",
+        "Raspberry Pi",
+        "Arduino",
+        "drone",
+        "smart glasses",
+        "wearable"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.441,
+      "weight": 0.441,
+      "allocation": 0.0589,
+      "keyword_weights": {
+        "ガジェット": 0.602,
+        "スマホ": 0.924,
+        "スマートフォン": 0.648,
+        "PC": 1.0,
+        "パソコン": 0.508,
+        "ノートPC": 0.72,
+        "グラボ": 0.606,
+        "グラフィックボード": 0.4,
+        "キーボード": 0.63,
+        "イヤホン": 0.685,
+        "ヘッドホン": 0.462,
+        "カメラ": 0.86,
+        "ディスプレイ": 0.766,
+        "モニター": 0.564,
+        "Raspberry Pi": 0.649,
+        "ラズパイ": 0.483,
+        "LED": 0.474,
+        "ドローン": 0.807,
+        "DJI": 0.65,
+        "スマートグラス": 0.823,
+        "ウェアラブル": 0.563,
+        "AirTag": 0.537,
+        "電子工作": 0.4,
+        "自作PC": 0.444,
+        "レビュー": 0.96,
+        "gadget": 0.7,
+        "smartphone": 0.7,
+        "laptop": 0.479,
+        "graphics card": 0.7,
+        "mechanical keyboard": 0.7,
+        "headphones": 0.7,
+        "camera": 0.494,
+        "Arduino": 0.4,
+        "drone": 0.7,
+        "smart glasses": 0.7,
+        "wearable": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "AIエージェント・AIコーディング",
+      "share": 0.0573,
+      "count": 254,
+      "recent_rate": 0.0862,
+      "older_rate": 0.0329,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "エージェント",
+          "weighted": 84.3,
+          "count": 132
+        },
+        {
+          "term": "AIエージェント",
+          "weighted": 59.25,
+          "count": 90
+        },
+        {
+          "term": "Claude Code",
+          "weighted": 28.44,
+          "count": 49
+        },
+        {
+          "term": "コーディング",
+          "weighted": 27.74,
+          "count": 52
+        },
+        {
+          "term": "Codex",
+          "weighted": 16.84,
+          "count": 30
+        },
+        {
+          "term": "MCP",
+          "weighted": 7.16,
+          "count": 11
+        },
+        {
+          "term": "Cursor",
+          "weighted": 5.01,
+          "count": 8
+        },
+        {
+          "term": "Copilot",
+          "weighted": 3.96,
+          "count": 9
+        },
+        {
+          "term": "ローカルLLM",
+          "weighted": 3.03,
+          "count": 7
+        },
+        {
+          "term": "バイブコーディング",
+          "weighted": 2.89,
+          "count": 5
+        },
+        {
+          "term": "プログラミング",
+          "weighted": 2.78,
+          "count": 6
+        },
+        {
+          "term": "GitHub Copilot",
+          "weighted": 1.74,
+          "count": 3
+        },
+        {
+          "term": "agentic",
+          "weighted": 0.73,
+          "count": 2
+        }
+      ],
+      "keywords_unused": [
+        "AI agent",
+        "coding agent",
+        "vibe coding",
+        "AI coding",
+        "developer tools"
+      ],
+      "samples": [
+        "AmazonがMetaのAIエージェント「Muse」の買い物代行をブロック",
+        "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
+        "AI関連株が急伸、メタのパーソナルAIエージェントで楽観論",
+        "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
+        "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "エージェント",
+        "AIエージェント",
+        "コーディング",
+        "Claude Code",
+        "Codex",
+        "Cursor",
+        "GitHub Copilot",
+        "Copilot",
+        "プログラミング",
+        "ローカルLLM",
+        "MCP",
+        "バイブコーディング"
+      ],
+      "english": [
+        "AI agent",
+        "agentic",
+        "coding agent",
+        "vibe coding",
+        "AI coding",
+        "developer tools"
+      ],
+      "multiplier": 2.0,
+      "base_weight": 0.43,
+      "weight": 0.86,
+      "allocation": 0.1148,
+      "keyword_weights": {
+        "エージェント": 1.0,
+        "AIエージェント": 0.953,
+        "コーディング": 0.853,
+        "Claude Code": 0.856,
+        "Codex": 0.789,
+        "Cursor": 0.642,
+        "GitHub Copilot": 0.536,
+        "Copilot": 0.616,
+        "プログラミング": 0.579,
+        "ローカルLLM": 0.588,
+        "MCP": 0.683,
+        "バイブコーディング": 0.583,
+        "AI agent": 0.7,
+        "agentic": 0.474,
+        "coding agent": 0.7,
+        "vibe coding": 0.7,
+        "AI coding": 0.7,
+        "developer tools": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "クルマ・EV・ロボット・自動運転",
+      "share": 0.0518,
+      "count": 337,
+      "recent_rate": 0.0487,
+      "older_rate": 0.0563,
+      "trend": "→ 横ばい",
+      "keywords_observed": [
+        {
+          "term": "ロボット",
+          "weighted": 40.93,
+          "count": 95
+        },
+        {
+          "term": "テスラ",
+          "weighted": 26.87,
+          "count": 78
+        },
+        {
+          "term": "イーロン・マスク",
+          "weighted": 21.0,
+          "count": 50
+        },
+        {
+          "term": "マスク氏",
+          "weighted": 18.64,
+          "count": 60
+        },
+        {
+          "term": "ロボタクシー",
+          "weighted": 17.66,
+          "count": 39
+        },
+        {
+          "term": "人型ロボット",
+          "weighted": 12.5,
+          "count": 24
+        },
+        {
+          "term": "自動運転",
+          "weighted": 10.48,
+          "count": 30
+        },
+        {
+          "term": "Waymo",
+          "weighted": 10.29,
+          "count": 21
+        },
+        {
+          "term": "EV",
+          "weighted": 7.66,
+          "count": 17
+        },
+        {
+          "term": "自動車",
+          "weighted": 6.8,
+          "count": 19
+        },
+        {
+          "term": "トヨタ",
+          "weighted": 4.53,
+          "count": 12
+        },
+        {
+          "term": "ヒューマノイド",
+          "weighted": 3.96,
+          "count": 7
+        },
+        {
+          "term": "robotics",
+          "weighted": 3.01,
+          "count": 7
+        },
+        {
+          "term": "電気自動車",
+          "weighted": 1.24,
+          "count": 3
+        },
+        {
+          "term": "Tesla",
+          "weighted": 1.06,
+          "count": 2
+        },
+        {
+          "term": "ホンダ",
+          "weighted": 1.06,
+          "count": 4
+        },
+        {
+          "term": "BYD",
+          "weighted": 0.97,
+          "count": 3
+        }
+      ],
+      "keywords_unused": [
+        "Elon Musk",
+        "robotaxi",
+        "self-driving",
+        "autonomous vehicle",
+        "humanoid robot",
+        "electric vehicle"
+      ],
+      "samples": [
+        "ロボタクシーのWaymoが公共交通機関との併用を推奨するプログラムを発表",
+        "「高速鉄道網の発達」が中国におけるEV普及の後押しになった可能性",
+        "テスラとスペースX、なぜ別会社？マスク氏は「いい質問だ」と回答",
+        "日本での自動運転タクシー商用化を2027年中に実現するべくGOとWaymoと日本交通が戦略的パートナーシップを締結",
+        "イーロン・マスクがAppleとの独禁法訴訟を取り下げる"
+      ],
+      "collect": true,
+      "lang": "",
+      "keywords": [
+        "自動車",
+        "トヨタ",
+        "ホンダ",
+        "テスラ",
+        "Tesla",
+        "イーロン・マスク",
+        "マスク氏",
+        "ロボタクシー",
+        "自動運転",
+        "Waymo",
+        "ロボット",
+        "人型ロボット",
+        "ヒューマノイド",
+        "EV",
+        "電気自動車",
+        "BYD"
+      ],
+      "english": [
+        "Elon Musk",
+        "robotaxi",
+        "self-driving",
+        "autonomous vehicle",
+        "humanoid robot",
+        "robotics",
+        "electric vehicle"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.409,
+      "weight": 0.409,
+      "allocation": 0.0546,
+      "keyword_weights": {
+        "自動車": 0.73,
+        "トヨタ": 0.675,
+        "ホンダ": 0.516,
+        "テスラ": 0.934,
+        "Tesla": 0.516,
+        "イーロン・マスク": 0.896,
+        "マスク氏": 0.878,
+        "ロボタクシー": 0.87,
+        "自動運転": 0.792,
+        "Waymo": 0.789,
+        "ロボット": 1.0,
+        "人型ロボット": 0.818,
+        "ヒューマノイド": 0.657,
+        "EV": 0.747,
+        "電気自動車": 0.53,
+        "BYD": 0.509,
+        "Elon Musk": 0.7,
+        "robotaxi": 0.7,
+        "self-driving": 0.7,
+        "autonomous vehicle": 0.7,
+        "humanoid robot": 0.7,
+        "robotics": 0.623,
+        "electric vehicle": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "映画・アニメ・映像",
+      "share": 0.0459,
+      "count": 301,
+      "recent_rate": 0.0345,
+      "older_rate": 0.052,
+      "trend": "↓ 減少",
+      "keywords_observed": [
+        {
+          "term": "映画",
+          "weighted": 48.52,
+          "count": 119
+        },
+        {
+          "term": "アニメ",
+          "weighted": 40.94,
+          "count": 105
+        },
+        {
+          "term": "Netflix",
+          "weighted": 40.19,
+          "count": 88
+        },
+        {
+          "term": "実写",
+          "weighted": 18.21,
+          "count": 48
+        },
+        {
+          "term": "監督",
+          "weighted": 12.08,
+          "count": 35
+        },
+        {
+          "term": "ディズニー",
+          "weighted": 6.04,
+          "count": 16
+        },
+        {
+          "term": "興行収入",
+          "weighted": 4.13,
+          "count": 9
+        },
+        {
+          "term": "ドラマ",
+          "weighted": 4.09,
+          "count": 14
+        },
+        {
+          "term": "劇場版",
+          "weighted": 3.86,
+          "count": 9
+        },
+        {
+          "term": "Disney",
+          "weighted": 1.94,
+          "count": 2
+        },
+        {
+          "term": "予告編",
+          "weighted": 1.86,
+          "count": 5
+        },
+        {
+          "term": "ジブリ",
+          "weighted": 0.95,
+          "count": 3
+        },
+        {
+          "term": "anime",
+          "weighted": 0.63,
+          "count": 1
+        },
+        {
+          "term": "ピクサー",
+          "weighted": 0.59,
+          "count": 2
+        },
+        {
+          "term": "Studio Ghibli",
+          "weighted": 0.39,
+          "count": 1
+        },
+        {
+          "term": "film",
+          "weighted": 0.31,
+          "count": 1
+        },
+        {
+          "term": "実写化",
+          "weighted": 0.27,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "ネットフリックス",
+        "特撮",
+        "movie",
+        "box office",
+        "Pixar"
+      ],
+      "samples": [
+        "Netflix実写映像化は1年前に話があった？ 『龍が如く』から客層が変わった？ 食事シーンはなんであんなに美味そうなんですか？ 『ストレンジャー ザン ヘヴン』開発陣にTGS会場で聞く【TGS2026】",
+        "映画『バイオハザード』北米オープニング興行収入が「6000万ドル」を記録。“シリーズ史上最高”のスタートに",
+        "Disney+がプレミアムを含む全プランで広告表示へ",
+        "料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定",
+        "Netflix・Disney+・Apple TV+・YouTube Premium・Spotifyなどのサブスク料金は5年間でなんと61％も値上がりしている"
+      ],
+      "collect": true,
+      "lang": "",
+      "keywords": [
+        "映画",
+        "アニメ",
+        "実写",
+        "実写化",
+        "Netflix",
+        "ネットフリックス",
+        "ディズニー",
+        "ドラマ",
+        "予告編",
+        "劇場版",
+        "興行収入",
+        "監督",
+        "ジブリ",
+        "ピクサー",
+        "特撮"
+      ],
+      "english": [
+        "film",
+        "movie",
+        "anime",
+        "box office",
+        "Disney",
+        "Pixar",
+        "Studio Ghibli",
+        "Netflix"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.385,
+      "weight": 0.385,
+      "allocation": 0.0514,
+      "keyword_weights": {
+        "映画": 1.0,
+        "アニメ": 0.974,
+        "実写": 0.854,
+        "実写化": 0.437,
+        "Netflix": 0.972,
+        "ネットフリックス": 0.4,
+        "ディズニー": 0.7,
+        "ドラマ": 0.65,
+        "予告編": 0.562,
+        "劇場版": 0.643,
+        "興行収入": 0.651,
+        "監督": 0.795,
+        "ジブリ": 0.503,
+        "ピクサー": 0.471,
+        "特撮": 0.4,
+        "film": 0.442,
+        "movie": 0.7,
+        "anime": 0.475,
+        "box office": 0.7,
+        "Disney": 0.566,
+        "Pixar": 0.7,
+        "Studio Ghibli": 0.45
+      },
+      "exclude": []
+    },
+    {
+      "name": "健康・医療・生物",
+      "share": 0.0212,
+      "count": 122,
+      "recent_rate": 0.0223,
+      "older_rate": 0.0195,
+      "trend": "→ 横ばい",
+      "keywords_observed": [
+        {
+          "term": "健康",
+          "weighted": 10.35,
+          "count": 24
+        },
+        {
+          "term": "治療",
+          "weighted": 6.22,
+          "count": 14
+        },
+        {
+          "term": "細菌",
+          "weighted": 5.04,
+          "count": 8
+        },
+        {
+          "term": "医療",
+          "weighted": 5.0,
+          "count": 10
+        },
+        {
+          "term": "感染",
+          "weighted": 4.88,
+          "count": 10
+        },
+        {
+          "term": "寿命",
+          "weighted": 4.7,
+          "count": 11
+        },
+        {
+          "term": "遺伝子",
+          "weighted": 3.93,
+          "count": 8
+        },
+        {
+          "term": "ワクチン",
+          "weighted": 3.59,
+          "count": 8
+        },
+        {
+          "term": "老化",
+          "weighted": 3.43,
+          "count": 7
+        },
+        {
+          "term": "CRISPR",
+          "weighted": 3.34,
+          "count": 4
+        },
+        {
+          "term": "治療薬",
+          "weighted": 3.02,
+          "count": 6
+        },
+        {
+          "term": "肥満",
+          "weighted": 2.69,
+          "count": 6
+        },
+        {
+          "term": "病気",
+          "weighted": 2.63,
+          "count": 5
+        },
+        {
+          "term": "睡眠",
+          "weighted": 2.48,
+          "count": 6
+        },
+        {
+          "term": "動物",
+          "weighted": 2.01,
+          "count": 6
+        },
+        {
+          "term": "ウイルス",
+          "weighted": 1.88,
+          "count": 3
+        },
+        {
+          "term": "認知症",
+          "weighted": 1.76,
+          "count": 5
+        },
+        {
+          "term": "化石",
+          "weighted": 1.55,
+          "count": 4
+        },
+        {
+          "term": "脳細胞",
+          "weighted": 1.25,
+          "count": 2
+        },
+        {
+          "term": "創薬",
+          "weighted": 0.94,
+          "count": 1
+        },
+        {
+          "term": "がん細胞",
+          "weighted": 0.82,
+          "count": 1
+        },
+        {
+          "term": "医薬",
+          "weighted": 0.8,
+          "count": 3
+        },
+        {
+          "term": "医薬品",
+          "weighted": 0.8,
+          "count": 3
+        },
+        {
+          "term": "抗がん",
+          "weighted": 0.34,
+          "count": 1
+        },
+        {
+          "term": "brain",
+          "weighted": 0.27,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "新薬",
+        "がん治療",
+        "癌",
+        "脳科学",
+        "medicine",
+        "drug",
+        "cancer",
+        "vaccine",
+        "obesity",
+        "gene therapy",
+        "biology"
+      ],
+      "samples": [
+        "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+        "肥満症治療薬のノボノルディスク、薄毛治療分野への進出を模索",
+        "ヒトの脳細胞をマウスの脳に移植することに成功",
+        "AIによる創薬は実際どこまで進んでいるのか？",
+        "家の付近の街並みに「建物や樹木に囲まれている感じ」があると睡眠時間が長くなる可能性"
+      ],
+      "collect": true,
+      "lang": "",
+      "keywords": [
+        "医療",
+        "医薬",
+        "医薬品",
+        "新薬",
+        "治療薬",
+        "創薬",
+        "治療",
+        "健康",
+        "病気",
+        "がん細胞",
+        "がん治療",
+        "抗がん",
+        "癌",
+        "感染",
+        "ウイルス",
+        "細菌",
+        "ワクチン",
+        "肥満",
+        "睡眠",
+        "老化",
+        "寿命",
+        "遺伝子",
+        "CRISPR",
+        "脳科学",
+        "脳細胞",
+        "認知症",
+        "化石",
+        "動物"
+      ],
+      "english": [
+        "medicine",
+        "drug",
+        "cancer",
+        "vaccine",
+        "obesity",
+        "gene therapy",
+        "CRISPR",
+        "brain",
+        "biology"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.261,
+      "weight": 0.261,
+      "allocation": 0.0348,
+      "keyword_weights": {
+        "医療": 0.842,
+        "医薬": 0.545,
+        "医薬品": 0.545,
+        "新薬": 0.4,
+        "治療薬": 0.744,
+        "創薬": 0.564,
+        "治療": 0.888,
+        "健康": 1.0,
+        "病気": 0.718,
+        "がん細胞": 0.548,
+        "がん治療": 0.4,
+        "抗がん": 0.473,
+        "癌": 0.4,
+        "感染": 0.838,
+        "ウイルス": 0.661,
+        "細菌": 0.844,
+        "ワクチン": 0.776,
+        "肥満": 0.723,
+        "睡眠": 0.708,
+        "老化": 0.767,
+        "寿命": 0.83,
+        "遺伝子": 0.794,
+        "CRISPR": 0.763,
+        "脳科学": 0.4,
+        "脳細胞": 0.6,
+        "認知症": 0.651,
+        "化石": 0.632,
+        "動物": 0.672,
+        "medicine": 0.7,
+        "drug": 0.7,
+        "cancer": 0.7,
+        "vaccine": 0.7,
+        "obesity": 0.7,
+        "gene therapy": 0.7,
+        "brain": 0.459,
+        "biology": 0.7
+      },
+      "exclude": [
+        "首脳"
+      ]
+    },
+    {
+      "name": "サイバーセキュリティ・プライバシー",
+      "share": 0.021,
+      "count": 102,
+      "recent_rate": 0.0284,
+      "older_rate": 0.0144,
+      "trend": "↑ 増加",
+      "keywords_observed": [
+        {
+          "term": "セキュリティ",
+          "weighted": 11.14,
+          "count": 18
+        },
+        {
+          "term": "ハッキング",
+          "weighted": 10.46,
+          "count": 17
+        },
+        {
+          "term": "脆弱性",
+          "weighted": 9.29,
+          "count": 15
+        },
+        {
+          "term": "サイバー攻撃",
+          "weighted": 6.78,
+          "count": 12
+        },
+        {
+          "term": "ハッカー",
+          "weighted": 6.75,
+          "count": 14
+        },
+        {
+          "term": "詐欺",
+          "weighted": 5.44,
+          "count": 15
+        },
+        {
+          "term": "プライバシー",
+          "weighted": 5.03,
+          "count": 9
+        },
+        {
+          "term": "マルウェア",
+          "weighted": 2.54,
+          "count": 4
+        },
+        {
+          "term": "暗号化",
+          "weighted": 2.08,
+          "count": 5
+        },
+        {
+          "term": "privacy",
+          "weighted": 0.55,
+          "count": 1
+        },
+        {
+          "term": "hacker",
+          "weighted": 0.42,
+          "count": 1
+        },
+        {
+          "term": "情報漏洩",
+          "weighted": 0.27,
+          "count": 1
+        },
+        {
+          "term": "情報漏えい",
+          "weighted": 0.2,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "ランサムウェア",
+        "不正アクセス",
+        "cybersecurity",
+        "hacking",
+        "vulnerability",
+        "malware",
+        "ransomware",
+        "data breach",
+        "encryption"
+      ],
+      "samples": [
+        "「プライバシーを踏みにじられた」──デート中のスマートグラスに広がる警戒感",
+        "軍の売店の冷凍庫にハッキング攻撃か、冷蔵・冷凍食品売り場が国家安全保障上の脅威になる可能性",
+        "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
+        "OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者",
+        "12億円相当の仮想通貨を盗もうとしたハッカーが数秒の差でボットに盗んだ仮想通貨を丸ごと横取りされる"
+      ],
+      "collect": true,
+      "lang": "en",
+      "keywords": [
+        "セキュリティ",
+        "サイバー攻撃",
+        "ハッキング",
+        "ハッカー",
+        "脆弱性",
+        "マルウェア",
+        "ランサムウェア",
+        "情報漏えい",
+        "情報漏洩",
+        "不正アクセス",
+        "詐欺",
+        "プライバシー",
+        "暗号化"
+      ],
+      "english": [
+        "cybersecurity",
+        "hacker",
+        "hacking",
+        "vulnerability",
+        "malware",
+        "ransomware",
+        "data breach",
+        "privacy",
+        "encryption"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.26,
+      "weight": 0.26,
+      "allocation": 0.0347,
+      "keyword_weights": {
+        "セキュリティ": 1.0,
+        "サイバー攻撃": 0.893,
+        "ハッキング": 0.986,
+        "ハッカー": 0.892,
+        "脆弱性": 0.96,
+        "マルウェア": 0.704,
+        "ランサムウェア": 0.4,
+        "情報漏えい": 0.444,
+        "情報漏洩": 0.457,
+        "不正アクセス": 0.4,
+        "詐欺": 0.848,
+        "プライバシー": 0.832,
+        "暗号化": 0.671,
+        "cybersecurity": 0.7,
+        "hacker": 0.484,
+        "hacking": 0.7,
+        "vulnerability": 0.7,
+        "malware": 0.7,
+        "ransomware": 0.7,
+        "data breach": 0.7,
+        "privacy": 0.505,
+        "encryption": 0.7
+      },
+      "exclude": []
+    },
+    {
+      "name": "暗号資産",
+      "share": 0.021,
+      "count": 179,
+      "recent_rate": 0.0061,
+      "older_rate": 0.0337,
+      "trend": "↓ 減少",
+      "keywords_observed": [
+        {
+          "term": "ビットコイン",
+          "weighted": 32.04,
+          "count": 99
+        },
+        {
+          "term": "仮想通貨",
+          "weighted": 11.14,
+          "count": 28
+        },
+        {
+          "term": "暗号資産",
+          "weighted": 7.51,
+          "count": 24
+        },
+        {
+          "term": "イーサリアム",
+          "weighted": 3.9,
+          "count": 19
+        },
+        {
+          "term": "ステーブルコイン",
+          "weighted": 2.95,
+          "count": 14
+        },
+        {
+          "term": "BTC",
+          "weighted": 2.02,
+          "count": 5
+        },
+        {
+          "term": "ETH",
+          "weighted": 1.62,
+          "count": 7
+        },
+        {
+          "term": "コインベース",
+          "weighted": 1.38,
+          "count": 7
+        },
+        {
+          "term": "ブロックチェーン",
+          "weighted": 0.65,
+          "count": 3
+        },
+        {
+          "term": "crypto",
+          "weighted": 0.63,
+          "count": 1
+        },
+        {
+          "term": "NFT",
+          "weighted": 0.35,
+          "count": 1
+        },
+        {
+          "term": "Coinbase",
+          "weighted": 0.3,
+          "count": 1
+        }
+      ],
+      "keywords_unused": [
+        "Web3",
+        "Bitcoin",
+        "cryptocurrency",
+        "Ethereum",
+        "stablecoin",
+        "blockchain"
+      ],
+      "samples": [
+        "12億円相当の仮想通貨を盗もうとしたハッカーが数秒の差でボットに盗んだ仮想通貨を丸ごと横取りされる",
+        "わずか約39円分のビットコインから約461億枚の「偽BTCトークン」が作られる、2つのバグでマイナス手数料を悪用",
+        "ビットコイン急落、米暗号資産関連法案が上院で頓挫－関連株も下げ",
+        "ハエの脳を基にした16万6700個の仮想ニューロンで仮想通貨のデイトレードを行う試み",
+        "ビットコインの「クジラ」が再び買いに転じる－低迷する市場に安心感"
+      ],
+      "collect": false,
+      "lang": "",
+      "keywords": [
+        "ビットコイン",
+        "暗号資産",
+        "仮想通貨",
+        "イーサリアム",
+        "ステーブルコイン",
+        "BTC",
+        "ETH",
+        "ブロックチェーン",
+        "NFT",
+        "Web3",
+        "コインベース"
+      ],
+      "english": [
+        "Bitcoin",
+        "crypto",
+        "cryptocurrency",
+        "Ethereum",
+        "stablecoin",
+        "blockchain",
+        "Coinbase"
+      ],
+      "multiplier": 1.0,
+      "base_weight": 0.0,
+      "weight": 0.0,
+      "allocation": 0.0,
+      "keyword_weights": {
+        "ビットコイン": 1.0,
+        "暗号資産": 0.767,
+        "仮想通貨": 0.828,
+        "イーサリアム": 0.673,
+        "ステーブルコイン": 0.636,
+        "BTC": 0.59,
+        "ETH": 0.566,
+        "ブロックチェーン": 0.486,
+        "NFT": 0.452,
+        "Web3": 0.4,
+        "コインベース": 0.549,
+        "Bitcoin": 0.7,
+        "crypto": 0.483,
+        "cryptocurrency": 0.7,
+        "Ethereum": 0.7,
+        "stablecoin": 0.7,
+        "blockchain": 0.7,
+        "Coinbase": 0.445
+      },
+      "exclude": []
+    }
+  ],
+  "sources": [
+    {
+      "name": "GIGAZINE",
+      "count": 3235,
+      "share": 0.5801,
+      "domain": "gigazine.net",
+      "feed_url": "http://gigazine.net/index.php?/news/rss_2.0/",
+      "known": true
+    },
+    {
+      "name": "Bloomberg",
+      "count": 437,
+      "share": 0.128,
+      "domain": "news.yahoo.co.jp",
+      "feed_url": "https://kidsnz.github.io/260518_bloomberg-jp-rss/feed.xml",
+      "known": true
+    },
+    {
+      "name": "電ファミニコゲーマー",
+      "count": 583,
+      "share": 0.082,
+      "domain": "news.denfaminicogamer.jp",
+      "feed_url": "http://news.denfaminicogamer.jp/feed",
+      "known": true
+    },
+    {
+      "name": "ブルームバーグ トップニュース",
+      "count": 866,
+      "share": 0.0771,
+      "domain": "bloomberg.co.jp",
+      "feed_url": "https://assets.wor.jp/rss/rdf/bloomberg/top.rdf",
+      "known": true
+    },
+    {
+      "name": "ギズモード・ジャパン",
+      "count": 459,
+      "share": 0.0551,
+      "domain": "gizmodo.jp",
+      "feed_url": "http://www.gizmodo.jp/index.xml",
+      "known": true
+    },
+    {
+      "name": "アートニュースジャパン",
+      "count": 194,
+      "share": 0.0267,
+      "domain": "artnewsjapan.com",
+      "feed_url": "https://artnewsjapan.com/feed",
+      "known": true
+    },
+    {
+      "name": "WIRED.jp",
+      "count": 69,
+      "share": 0.0172,
+      "domain": "wired.jp",
+      "feed_url": "http://wired.jp/rssfeeder/",
+      "known": true
+    },
+    {
+      "name": "MITテクノロジーレビュー",
+      "count": 45,
+      "share": 0.0112,
+      "domain": "technologyreview.jp",
+      "feed_url": "https://www.technologyreview.jp/feed/",
+      "known": true
+    },
+    {
+      "name": "コインデスク・ジャパン",
+      "count": 104,
+      "share": 0.0108,
+      "domain": "coindeskjapan.com",
+      "feed_url": "https://www.coindeskjapan.com/feed/",
+      "known": true
+    },
+    {
+      "name": "ビジネス+IT 最新記事",
+      "count": 46,
+      "share": 0.0079,
+      "domain": "sbbit.jp",
+      "feed_url": "http://www.sbbit.jp/index1.rss",
+      "known": true
+    },
+    {
+      "name": "Anthropic ブログ 日本語版（非公式）",
+      "count": 4,
+      "share": 0.0013,
+      "domain": "claude-jp-369b34.pages.dev",
+      "feed_url": "https://claude-jp-369b34.pages.dev/feed.xml",
+      "known": false
+    },
+    {
+      "name": "Anthropic ブログ 日本語版（非公式）｜Enterprise AI",
+      "count": 3,
+      "share": 0.001,
+      "domain": "claude-jp-369b34.pages.dev",
+      "feed_url": "https://claude-jp-369b34.pages.dev/feed-category-enterprise-ai.xml",
+      "known": false
+    },
+    {
+      "name": "Artnet News",
+      "count": 1,
+      "share": 0.0003,
+      "domain": "news.artnet.com",
+      "feed_url": "http://news.artnet.com/feed/",
+      "known": false
+    },
+    {
+      "name": "Wooster Collective",
+      "count": 2,
+      "share": 0.0003,
+      "domain": "woostercollective.com",
+      "feed_url": "http://www.woostercollective.com/atom.xml",
+      "known": false
+    },
+    {
+      "name": "it8Bit",
+      "count": 1,
+      "share": 0.0002,
+      "domain": "it8bit.com",
+      "feed_url": "http://www.it8bit.com/rss",
+      "known": false
+    },
+    {
+      "name": "『WIRED』日本版",
+      "count": 1,
+      "share": 0.0002,
+      "domain": "creators.spotify.com",
+      "feed_url": "https://anchor.fm/s/c0eda60/podcast/rss",
+      "known": false
+    },
+    {
+      "name": "Computer Hoy - Lo último",
+      "count": 1,
+      "share": 0.0001,
+      "domain": "computerhoy.20minutos.es",
+      "feed_url": "https://computerhoy.com/rss_all/all/rss.xml",
+      "known": false
+    },
+    {
+      "name": "Mashable India",
+      "count": 1,
+      "share": 0.0001,
+      "domain": "in.mashable.com",
+      "feed_url": "https://news.google.com/news/rss/search/section/q/salesforce/salesforce?ned=us",
+      "known": false
+    },
+    {
+      "name": "Andro4all",
+      "count": 1,
+      "share": 0.0001,
+      "domain": "andro4all.com",
+      "feed_url": "http://feeds.feedburner.com/Andro4allcom",
+      "known": false
+    },
+    {
+      "name": "Yahoo! Tech",
+      "count": 1,
+      "share": 0.0001,
+      "domain": "businessinsider.com",
+      "feed_url": "https://news.google.com/news/rss/search/section/q/salesforce/salesforce?ned=us",
+      "known": false
+    },
+    {
+      "name": "Times of India",
+      "count": 1,
+      "share": 0.0001,
+      "domain": "timesofindia.indiatimes.com",
+      "feed_url": "http://timesofindia.indiatimes.com/rssfeedmostread.cms",
+      "known": false
+    },
+    {
+      "name": "Artsy News",
+      "count": 6,
+      "share": 0.0001,
+      "domain": "artsy.net",
+      "feed_url": "https://www.artsy.net/rss/news",
+      "known": true
+    },
+    {
+      "name": "WK",
+      "count": 3,
+      "share": 0.0,
+      "domain": "wkinteract.com",
+      "feed_url": "http://www.wkinteract.com/feed/",
+      "known": false
+    },
+    {
+      "name": "リーディング＆カンパニー株式会社",
+      "count": 10,
+      "share": 0.0,
+      "domain": "lrandcom.com",
+      "feed_url": "http://lrandcom.com/feed",
+      "known": true
+    },
+    {
+      "name": "Paul Robertson",
+      "count": 7,
+      "share": 0.0,
+      "domain": "probertson.tumblr.com",
+      "feed_url": "http://probertson.tumblr.com/rss",
+      "known": true
+    },
+    {
+      "name": "Adafruit » Leds",
+      "count": 29,
+      "share": 0.0,
+      "domain": "blog.adafruit.com",
+      "feed_url": "http://www.adafruit.com/blog/category/ledslcds/feed/",
+      "known": true
+    },
+    {
+      "name": "ELON｜英語学習とイーロン・マスクのブログ",
+      "count": 1,
+      "share": 0.0,
+      "domain": "elon.jp",
+      "feed_url": "http://elon.jp/feed/",
+      "known": false
+    },
+    {
+      "name": "イーロン・マスクのすすめ",
+      "count": 1,
+      "share": 0.0,
+      "domain": "elongeek.hatenablog.com",
+      "feed_url": "http://elongeek.hatenablog.com/feed",
+      "known": false
+    },
+    {
+      "name": "Arrested Motion",
+      "count": 6,
+      "share": 0.0,
+      "domain": "arrestedmotion.com",
+      "feed_url": "http://arrestedmotion.com/feed/",
+      "known": true
+    },
+    {
+      "name": "GAMESCENES",
+      "count": 2,
+      "share": 0.0,
+      "domain": "gamescenes.org",
+      "feed_url": "http://www.gamescenes.org/atom.xml",
+      "known": false
+    }
+  ],
+  "known_domains": [
+    "arrestedmotion.com",
+    "artnewsjapan.com",
+    "artsy.net",
+    "blog.adafruit.com",
+    "bloomberg.co.jp",
+    "coindeskjapan.com",
+    "gigazine.net",
+    "gizmodo.jp",
+    "lifehacker.jp",
+    "lrandcom.com",
+    "nadanews.com",
+    "news.denfaminicogamer.jp",
+    "probertson.tumblr.com",
+    "roomie.jp",
+    "sbbit.jp",
+    "technologyreview.jp",
+    "wired.jp"
+  ],
+  "known_publishers": [
+    "Adafruit » Leds",
+    "Arrested Motion",
+    "Artsy News",
+    "Bloomberg",
+    "GIGAZINE",
+    "MITテクノロジーレビュー",
+    "Paul Robertson",
+    "WIRED.jp",
+    "アートニュースジャパン",
+    "ギズモード・ジャパン",
+    "コインデスク・ジャパン",
+    "ビジネス+IT 最新記事",
+    "ブルームバーグ トップニュース",
+    "リーディング＆カンパニー株式会社",
+    "電ファミニコゲーマー"
+  ],
+  "known_urls_count": 6117,
+  "top_terms": [
+    {
+      "term": "AI",
+      "weighted": 739.6,
+      "count": 1515
+    },
+    {
+      "term": "OpenAI",
+      "weighted": 143.4,
+      "count": 311
+    },
+    {
+      "term": "Claude",
+      "weighted": 131.4,
+      "count": 217
+    },
+    {
+      "term": "モデル",
+      "weighted": 128.2,
+      "count": 262
+    },
+    {
+      "term": "中国",
+      "weighted": 125.7,
+      "count": 264
+    },
+    {
+      "term": "Google",
+      "weighted": 124.7,
+      "count": 284
+    },
+    {
+      "term": "Anthropic",
+      "weighted": 100.8,
+      "count": 172
+    },
+    {
+      "term": "ゲーム",
+      "weighted": 99.8,
+      "count": 259
+    },
+    {
+      "term": "Apple",
+      "weighted": 90.8,
+      "count": 208
+    },
+    {
+      "term": "トランプ",
+      "weighted": 84.6,
+      "count": 243
+    },
+    {
+      "term": "CEO",
+      "weighted": 84.5,
+      "count": 183
+    },
+    {
+      "term": "エージェント",
+      "weighted": 81.8,
+      "count": 128
+    },
+    {
+      "term": "生成",
+      "weighted": 79.8,
+      "count": 191
+    },
+    {
+      "term": "NVIDIA",
+      "weighted": 79.5,
+      "count": 161
+    },
+    {
+      "term": "企業",
+      "weighted": 78.6,
+      "count": 175
+    },
+    {
+      "term": "アメリカ",
+      "weighted": 69.3,
+      "count": 154
+    },
+    {
+      "term": "研究",
+      "weighted": 66.5,
+      "count": 142
+    },
+    {
+      "term": "データ",
+      "weighted": 65.0,
+      "count": 140
+    },
+    {
+      "term": "投資",
+      "weighted": 62.7,
+      "count": 146
+    },
+    {
+      "term": "半導体",
+      "weighted": 61.2,
+      "count": 122
+    },
+    {
+      "term": "ChatGPT",
+      "weighted": 56.7,
+      "count": 152
+    },
+    {
+      "term": "発売",
+      "weighted": 55.1,
+      "count": 156
+    },
+    {
+      "term": "Gemini",
+      "weighted": 52.1,
+      "count": 120
+    },
+    {
+      "term": "価格",
+      "weighted": 51.5,
+      "count": 107
+    },
+    {
+      "term": "エヌビディア",
+      "weighted": 51.3,
+      "count": 130
+    },
+    {
+      "term": "無料",
+      "weighted": 49.7,
+      "count": 118
+    },
+    {
+      "term": "映画",
+      "weighted": 48.5,
+      "count": 119
+    },
+    {
+      "term": "iPhone",
+      "weighted": 48.3,
+      "count": 117
+    },
+    {
+      "term": "動画",
+      "weighted": 48.0,
+      "count": 127
+    },
+    {
+      "term": "リリース",
+      "weighted": 47.6,
+      "count": 109
+    },
+    {
+      "term": "AIエージェント",
+      "weighted": 46.6,
+      "count": 68
+    },
+    {
+      "term": "スペース",
+      "weighted": 45.1,
+      "count": 74
+    },
+    {
+      "term": "チップ",
+      "weighted": 44.6,
+      "count": 96
+    },
+    {
+      "term": "性能",
+      "weighted": 44.5,
+      "count": 80
+    },
+    {
+      "term": "オープン",
+      "weighted": 43.9,
+      "count": 101
+    },
+    {
+      "term": "市場",
+      "weighted": 43.8,
+      "count": 104
+    },
+    {
+      "term": "画像",
+      "weighted": 43.6,
+      "count": 107
+    },
+    {
+      "term": "搭載",
+      "weighted": 43.0,
+      "count": 103
+    },
+    {
+      "term": "GPT",
+      "weighted": 42.1,
+      "count": 74
+    },
+    {
+      "term": "PC",
+      "weighted": 41.9,
+      "count": 92
+    },
+    {
+      "term": "政府",
+      "weighted": 41.8,
+      "count": 90
+    },
+    {
+      "term": "人間",
+      "weighted": 41.4,
+      "count": 90
+    },
+    {
+      "term": "新作",
+      "weighted": 40.2,
+      "count": 102
+    },
+    {
+      "term": "攻撃",
+      "weighted": 40.1,
+      "count": 75
+    },
+    {
+      "term": "ロボット",
+      "weighted": 40.0,
+      "count": 92
+    },
+    {
+      "term": "AIモデル",
+      "weighted": 40.0,
+      "count": 78
+    },
+    {
+      "term": "メモリ",
+      "weighted": 38.7,
+      "count": 70
+    },
+    {
+      "term": "映像",
+      "weighted": 38.3,
+      "count": 101
+    },
+    {
+      "term": "技術",
+      "weighted": 37.0,
+      "count": 80
+    },
+    {
+      "term": "アニメ",
+      "weighted": 36.6,
+      "count": 95
+    },
+    {
+      "term": "システム",
+      "weighted": 35.5,
+      "count": 72
+    },
+    {
+      "term": "ツール",
+      "weighted": 35.4,
+      "count": 77
+    },
+    {
+      "term": "大統領",
+      "weighted": 35.2,
+      "count": 91
+    },
+    {
+      "term": "ビット",
+      "weighted": 35.1,
+      "count": 107
+    },
+    {
+      "term": "サービス",
+      "weighted": 35.0,
+      "count": 78
+    },
+    {
+      "term": "コイン",
+      "weighted": 33.9,
+      "count": 104
+    },
+    {
+      "term": "自動",
+      "weighted": 33.8,
+      "count": 84
+    },
+    {
+      "term": "センター",
+      "weighted": 33.6,
+      "count": 73
+    },
+    {
+      "term": "アプリ",
+      "weighted": 33.2,
+      "count": 82
+    },
+    {
+      "term": "米国",
+      "weighted": 32.1,
+      "count": 87
+    }
+  ],
+  "uncovered_top_terms": [
+    {
+      "term": "モデル",
+      "weighted": 128.2,
+      "count": 262
+    },
+    {
+      "term": "中国",
+      "weighted": 125.7,
+      "count": 264
+    },
+    {
+      "term": "トランプ",
+      "weighted": 84.6,
+      "count": 243
+    },
+    {
+      "term": "CEO",
+      "weighted": 84.5,
+      "count": 183
+    },
+    {
+      "term": "生成",
+      "weighted": 79.8,
+      "count": 191
+    },
+    {
+      "term": "企業",
+      "weighted": 78.6,
+      "count": 175
+    },
+    {
+      "term": "アメリカ",
+      "weighted": 69.3,
+      "count": 154
+    },
+    {
+      "term": "研究",
+      "weighted": 66.5,
+      "count": 142
+    },
+    {
+      "term": "データ",
+      "weighted": 65.0,
+      "count": 140
+    },
+    {
+      "term": "発売",
+      "weighted": 55.1,
+      "count": 156
+    },
+    {
+      "term": "価格",
+      "weighted": 51.5,
+      "count": 107
+    },
+    {
+      "term": "無料",
+      "weighted": 49.7,
+      "count": 118
+    },
+    {
+      "term": "動画",
+      "weighted": 48.0,
+      "count": 127
+    },
+    {
+      "term": "リリース",
+      "weighted": 47.6,
+      "count": 109
+    },
+    {
+      "term": "スペース",
+      "weighted": 45.1,
+      "count": 74
+    },
+    {
+      "term": "性能",
+      "weighted": 44.5,
+      "count": 80
+    },
+    {
+      "term": "オープン",
+      "weighted": 43.9,
+      "count": 101
+    },
+    {
+      "term": "市場",
+      "weighted": 43.8,
+      "count": 104
+    },
+    {
+      "term": "画像",
+      "weighted": 43.6,
+      "count": 107
+    },
+    {
+      "term": "搭載",
+      "weighted": 43.0,
+      "count": 103
+    },
+    {
+      "term": "政府",
+      "weighted": 41.8,
+      "count": 90
+    },
+    {
+      "term": "人間",
+      "weighted": 41.4,
+      "count": 90
+    },
+    {
+      "term": "新作",
+      "weighted": 40.2,
+      "count": 102
+    },
+    {
+      "term": "攻撃",
+      "weighted": 40.1,
+      "count": 75
+    },
+    {
+      "term": "映像",
+      "weighted": 38.3,
+      "count": 101
+    },
+    {
+      "term": "技術",
+      "weighted": 37.0,
+      "count": 80
+    },
+    {
+      "term": "システム",
+      "weighted": 35.5,
+      "count": 72
+    },
+    {
+      "term": "ツール",
+      "weighted": 35.4,
+      "count": 77
+    },
+    {
+      "term": "大統領",
+      "weighted": 35.2,
+      "count": 91
+    },
+    {
+      "term": "ビット",
+      "weighted": 35.1,
+      "count": 107
+    },
+    {
+      "term": "サービス",
+      "weighted": 35.0,
+      "count": 78
+    },
+    {
+      "term": "コイン",
+      "weighted": 33.9,
+      "count": 104
+    },
+    {
+      "term": "自動",
+      "weighted": 33.8,
+      "count": 84
+    },
+    {
+      "term": "センター",
+      "weighted": 33.6,
+      "count": 73
+    },
+    {
+      "term": "アプリ",
+      "weighted": 33.2,
+      "count": 82
+    },
+    {
+      "term": "米国",
+      "weighted": 32.1,
+      "count": 87
+    },
+    {
+      "term": "ユーザー",
+      "weighted": 31.4,
+      "count": 80
+    },
+    {
+      "term": "Pro",
+      "weighted": 31.3,
+      "count": 77
+    },
+    {
+      "term": "シリーズ",
+      "weighted": 31.0,
+      "count": 83
+    },
+    {
+      "term": "販売",
+      "weighted": 31.0,
+      "count": 71
+    }
+  ],
+  "rising_uncovered_terms": [
+    {
+      "term": "性能",
+      "recent": 25,
+      "older": 55,
+      "ratio": 2.4
+    },
+    {
+      "term": "SK",
+      "recent": 24,
+      "older": 9,
+      "ratio": 13.9
+    },
+    {
+      "term": "攻撃",
+      "recent": 22,
+      "older": 53,
+      "ratio": 2.2
+    },
+    {
+      "term": "リスク",
+      "recent": 19,
+      "older": 39,
+      "ratio": 2.5
+    },
+    {
+      "term": "韓国",
+      "recent": 19,
+      "older": 30,
+      "ratio": 3.3
+    },
+    {
+      "term": "安全",
+      "recent": 18,
+      "older": 31,
+      "ratio": 3.0
+    },
+    {
+      "term": "高速",
+      "recent": 15,
+      "older": 32,
+      "ratio": 2.4
+    },
+    {
+      "term": "Code",
+      "recent": 14,
+      "older": 36,
+      "ratio": 2.0
+    },
+    {
+      "term": "コスト",
+      "recent": 13,
+      "older": 26,
+      "ratio": 2.6
+    },
+    {
+      "term": "ローカル",
+      "recent": 13,
+      "older": 30,
+      "ratio": 2.3
+    },
+    {
+      "term": "イラン",
+      "recent": 13,
+      "older": 30,
+      "ratio": 2.3
+    },
+    {
+      "term": "高性能",
+      "recent": 13,
+      "older": 26,
+      "ratio": 2.6
+    },
+    {
+      "term": "女性",
+      "recent": 13,
+      "older": 32,
+      "ratio": 2.1
+    },
+    {
+      "term": "同等",
+      "recent": 12,
+      "older": 6,
+      "ratio": 10.4
+    },
+    {
+      "term": "経済",
+      "recent": 11,
+      "older": 27,
+      "ratio": 2.1
+    },
+    {
+      "term": "Astra",
+      "recent": 10,
+      "older": 0,
+      "ratio": 10141987.8
+    },
+    {
+      "term": "分析",
+      "recent": 10,
+      "older": 21,
+      "ratio": 2.5
+    },
+    {
+      "term": "Face",
+      "recent": 10,
+      "older": 3,
+      "ratio": 17.4
+    },
+    {
+      "term": "工場",
+      "recent": 10,
+      "older": 26,
+      "ratio": 2.0
+    },
+    {
+      "term": "事例",
+      "recent": 10,
+      "older": 10,
+      "ratio": 5.2
+    },
+    {
+      "term": "建設",
+      "recent": 10,
+      "older": 21,
+      "ratio": 2.5
+    },
+    {
+      "term": "オープンモデル",
+      "recent": 10,
+      "older": 10,
+      "ratio": 5.2
+    },
+    {
+      "term": "処理",
+      "recent": 9,
+      "older": 23,
+      "ratio": 2.0
+    },
+    {
+      "term": "API",
+      "recent": 9,
+      "older": 19,
+      "ratio": 2.5
+    },
+    {
+      "term": "投入",
+      "recent": 9,
+      "older": 13,
+      "ratio": 3.6
+    },
+    {
+      "term": "設計",
+      "recent": 9,
+      "older": 17,
+      "ratio": 2.8
+    },
+    {
+      "term": "死亡",
+      "recent": 9,
+      "older": 14,
+      "ratio": 3.3
+    },
+    {
+      "term": "Hugging",
+      "recent": 9,
+      "older": 1,
+      "ratio": 46.9
+    },
+    {
+      "term": "達成",
+      "recent": 9,
+      "older": 21,
+      "ratio": 2.2
+    },
+    {
+      "term": "大量",
+      "recent": 9,
+      "older": 23,
+      "ratio": 2.0
+    }
+  ],
+  "unmatched_samples": [
+    "Bloomberg｜米中、貿易休戦を1月10日まで延長－トランプ氏は習氏を異例の出迎え",
+    "GIGAZINE｜Firefoxに「ピクチャーインピクチャーで再生する動画の速度調整」や「新規タブにウェブサイトの未読通知をバッジで表示」などの新機能が追加予定",
+    "GIGAZINE｜マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
+    "電ファミニコゲーマー｜『ステラーブレイド』×『ベヨネッタ』4つ目の新衣装「ブラックトレス」が明らかに。「一緒にコラボ衣装を作りたい」キム・ヒョンテ氏の想いから実現",
+    "電ファミニコゲーマー｜コジマプロダクション、『PHYSINT』パートナー変更をめぐる憶測に対し公式声明。スタジオは健全かつ黒字の状態、『PHYSINT』開発はXBOXと連携して順調に進行、プレイステーションとの関係も引き続き強固と明言",
+    "GIGAZINE｜関税をかけると物価や雇用はどう変わるのか？",
+    "Bloomberg｜トランプ米大統領、イラン大統領との会談を恐らく排除しない－FOX",
+    "Bloomberg｜バークシャー会長にハワード・バフェット氏－異色の経歴、取締役33年",
+    "GIGAZINE｜VisaとMastercardは何をしているのか、カード会社とは何が違うのか？",
+    "GIGAZINE｜無料で成人男性の3D解剖モデルを表示できる「Human Atlas」",
+    "MITテクノロジーレビュー｜「神の声」に従っただけ—— 信者から300万ドルを集め 草コインを売った夫婦の末路",
+    "Bloomberg｜LNGのホルムズ通過が増加、生産者は輸送拡大を模索－供給不足に対応",
+    "GIGAZINE｜AutomatticのCEOが追放された件で代わりに暫定CEOとなった人物と法務責任者が815万ドルの退職金を得る合意を行っていたことが判明",
+    "Bloomberg｜イラン代表団、国連総会出席で訪米可能に－米国務省",
+    "GIGAZINE｜「Factorio」の乱数生成器を解析して「レジェンド品質のアイテム」が出る未来を予測する試み"
+  ]
+}
