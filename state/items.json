@@ -1,5 +1,774 @@
 [
  {
+  "title": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY3drbTFVQVV3TmpNNk12UXdDQ3JNTUZZbmpacElxSGVRY09JbUhhZ2pZZ3luMDdwZlV1elRISUljSV9LNTQxdUpGOHphSWltV1Blb1RoVkdZeUpYNjN0dl9kVDV1YVF0aDlvQ0dqZXpQRFFmMjVvcUxGM0xlX2lqd29ERjNCcmhjRUVfbWFWQXlUbERGZmRueHp0ZEp5UGZRR3NKb2hNMEZHaEtSTGZuN0dtWElUSXdVSWh1Rk9GNFBLWHR3TVlVZTFpQzE0SEU4MnlYMzhUSUplLTdxeUdJcnFtdDNxSXpGdUppVlQ3bnFvYnVYTU92ajViS1JhQ0toWkg5YzVFdw?oc=5",
+  "source": "Union-Bulletin",
+  "via": "Googleニュース",
+  "collector": "Google: \"AI agent\" OR \"coding agent\" OR \"vibe coding\" OR \"Claude Code\" OR Codex",
+  "feed_url": "https://news.google.com/rss/search?q=%22AI+agent%22+OR+%22coding+agent%22+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+Codex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "union-bulletin.com",
+  "lang": "en",
+  "score": 3.2094,
+  "published": "2026-09-29T22:43:43+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "AP News",
+   "DW.com",
+   "Durango Herald",
+   "Enidnews.com",
+   "MyHighPlains.com",
+   "The Batesville Daily Guard",
+   "The Globe and Mail",
+   "WLNS 6 News",
+   "seMissourian",
+   "조선일보"
+  ]
+ },
+ {
+  "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ ハードとモデルを一体化したオープンAIエコシステム加速へ",
+  "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+  "source": "ITmedia NEWS",
+  "via": "RSS",
+  "collector": "ITmedia NEWS",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+  "domain": "itmedia.co.jp",
+  "lang": "ja",
+  "score": 2.3576,
+  "published": "2026-09-29T00:38:11+00:00",
+  "original": {
+   "title": "AMD buys AI world model startup World Labs for $8.2 billion",
+   "link": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
+   "source": "The Decoder"
+  },
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "半導体・データセンター": [
+    "AMD"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "Ars Technica",
+   "Latent Space",
+   "The Next Platform"
+  ]
+ },
+ {
+  "title": "OpenAI cancels new AI model, claiming it’s not safe enough",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU3lVaFFwNm5NaXNlVmhiZlJLYW1CdjN4R19TSGdPcVc2UTVMWEVQTXBZNjFYT2VqOXVFTUhzWFNRVGw1ejJzWm5UcDNfZ2ZKX2FhVUNOcTU1by1wM0xFcmFWd2p4cmhyczZoQkp1OHdUVVJEZEF3U0NRMVg5YlVNSVVKX0twTHgtZTROUUlua2Y5QkRaMjFEUmV5Q0pQeVlVRktnSE1ZLVFfbVV1MG1vNTZZT2VLdXJESDJfZ1JSSTdPNVNhOUJUTTQyN2FIQ0IwUUlkbDVLVzJ6dk0?oc=5",
+  "source": "khq.com",
+  "via": "Googleニュース",
+  "collector": "Google: \"large language model\" OR \"AI model\" OR Gemini OR DeepSeek OR \"generative AI\"",
+  "feed_url": "https://news.google.com/rss/search?q=%22large+language+model%22+OR+%22AI+model%22+OR+Gemini+OR+DeepSeek+OR+%22generative+AI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "khq.com",
+  "lang": "en",
+  "score": 2.1141,
+  "published": "2026-09-29T18:41:56+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "Indiana Gazette Online",
+   "Iosco County News Herald",
+   "Key Biscayne Portal",
+   "News-Topic",
+   "The Conway Daily Sun",
+   "ashleycountyledger.com",
+   "dailygazette.com",
+   "lebanondemocrat.com",
+   "mydailyrecord.com"
+  ]
+ },
+ {
+  "title": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
+  "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+  "source": "STAT",
+  "via": "RSS",
+  "collector": "STAT",
+  "feed_url": "https://www.statnews.com/feed/",
+  "domain": "statnews.com",
+  "lang": "en",
+  "score": 1.9035,
+  "published": "2026-09-29T14:32:24+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "Anthropic・Claude": [
+    "Anthropic"
+   ],
+   "経済・マーケット・企業": [
+    "IPO"
+   ],
+   "健康・医療・生物": [
+    "専門媒体: STAT"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "statnews.com"
+  ]
+ },
+ {
+  "title": "Anthropic lists ‘existential risks to humanity’ as one of its risk factors in IPO prospectus",
+  "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 1.646,
+  "published": "2026-09-29T13:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "Anthropic・Claude": [
+    "Anthropic"
+   ],
+   "経済・マーケット・企業": [
+    "IPO",
+    "valuation"
+   ],
+   "半導体・データセンター": [
+    "専門媒体: Tom's Hardware"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "Forbes",
+   "Reuters",
+   "cnbc.com"
+  ]
+ },
+ {
+  "title": "マイクロソフト、「Copilot+ PC」ブランド縮小か 新Surfaceで名称使わず",
+  "link": "https://japan.cnet.com/article/35253016/",
+  "source": "CNET Japan",
+  "via": "RSS",
+  "collector": "CNET Japan",
+  "feed_url": "https://feeds.japan.cnet.com/rss/cnet/all.rdf",
+  "domain": "japan.cnet.com",
+  "lang": "ja",
+  "score": 1.6114,
+  "published": "2026-09-28T00:30:00+00:00",
+  "original": {
+   "title": "Microsoft Blames \"Limited Portfolio\" For Lack of AMD-Powered Surface Devices",
+   "link": "https://www.techpowerup.com/353225/microsoft-blames-limited-portfolio-for-lack-of-amd-powered-surface-devices",
+   "source": "TechPowerUp"
+  },
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "AMD",
+    "NVIDIA",
+    "CPU"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Microsoft",
+    "Windows"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": [
+   "Mashable"
+  ]
+ },
+ {
+  "title": "AIエージェントが「高金利口座」へ預金を一斉移動。アポロのエコノミストが描く「AI取り付け騒ぎ」のシナリオ",
+  "link": "https://www.businessinsider.jp/article/2609-ai-agents-maxing-out-cash-trigger-bank-run-deposit-apollo/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 1.439,
+  "published": "2026-09-29T21:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "金利"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "Are you a Codex Original?",
+  "link": "https://openai.com/form/codex-originals",
+  "source": "OpenAI News",
+  "via": "RSS",
+  "collector": "OpenAI News",
+  "feed_url": "https://openai.com/news/rss.xml",
+  "domain": "openai.com",
+  "lang": "en",
+  "score": 1.3733,
+  "published": "2026-09-28T00:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "専門媒体: OpenAI News"
+   ],
+   "AIエージェント・AIコーディング": [
+    "Codex"
+   ],
+   "OpenAI・ChatGPT": [
+    "Codex"
+   ],
+   "宇宙・科学研究": [
+    "researchers"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "話題のAIエージェント「Instinct」に旅行計画を任せてみた。出張は優秀、でも休暇はわくわく感が消えた",
+  "link": "https://www.businessinsider.jp/article/2609-instinct-ai-agent-plan-travel-dull-mistake-vacation-work-trip/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 1.3012,
+  "published": "2026-09-29T22:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント"
+   ],
+   "経済・マーケット・企業": [
+    "専門媒体: Business Insider Japan"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "AIや半導体関連など6つの業績改善ドライバーで日経平均は8万円台の可能性も､日本企業は27年度にかけて最高益に | 政治・経済・投資 | 東洋経済オンライン",
+  "link": "https://toyokeizai.net/articles/-/959491?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "source": "東洋経済オンライン",
+  "via": "RSS",
+  "collector": "東洋経済オンライン",
+  "feed_url": "https://toyokeizai.net/list/feed/rss",
+  "domain": "toyokeizai.net",
+  "lang": "ja",
+  "score": 1.298,
+  "published": "2026-09-29T21:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資",
+    "決算"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "半導体・データセンター": [
+    "半導体"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "Trump launches America.gov with AI chatbots at its core",
+  "link": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
+  "source": "The Register",
+  "via": "RSS",
+  "collector": "The Register",
+  "feed_url": "https://www.theregister.com/headlines.atom",
+  "domain": "theregister.com",
+  "lang": "en",
+  "score": 1.0414,
+  "published": "2026-09-29T20:14:32+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "chatbot",
+    "Gemini",
+    "Grok"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "Briefs Finance"
+  ]
+ },
+ {
+  "title": "Google has fixed an issue that caused thousands of iPhone apps to crash overnight",
+  "link": "https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5google.com",
+  "lang": "en",
+  "score": 1.0362,
+  "published": "2026-09-29T13:19:10+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Google",
+    "iPhone"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "9to5Google"
+  ]
+ },
+ {
+  "title": "Apple TV renews French drama ‘Carême’ for season two",
+  "link": "https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5mac.com",
+  "lang": "en",
+  "score": 1.0017,
+  "published": "2026-09-29T21:55:56+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "Apple Shares New Guide for Using iOS 27 Parental Controls",
+  "link": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/",
+  "source": "MacRumors",
+  "via": "RSS",
+  "collector": "MacRumors",
+  "feed_url": "https://www.macrumors.com/macrumors.xml",
+  "domain": "macrumors.com",
+  "lang": "en",
+  "score": 0.9983,
+  "published": "2026-09-29T18:28:50+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple",
+    "iOS"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)",
+  "link": "https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/",
+  "source": "Techmeme",
+  "via": "RSS",
+  "collector": "Techmeme",
+  "feed_url": "https://www.techmeme.com/feed.xml",
+  "domain": "reuters.com",
+  "lang": "en",
+  "score": 0.9982,
+  "published": "2026-09-29T23:50:01+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "AMD Publishes Full EPYC 9006 \"Venice\" Specs and Pricing: 8-Core at $700, 256-Core at $14,904",
+  "link": "https://www.techpowerup.com/353209/amd-publishes-full-epyc-9006-venice-specs-and-pricing-8-core-at-usd-700-256-core-at-usd-14-904",
+  "source": "TechPowerUp",
+  "via": "RSS",
+  "collector": "TechPowerUp",
+  "feed_url": "https://www.techpowerup.com/rss/news",
+  "domain": "techpowerup.com",
+  "lang": "en",
+  "score": 0.7379,
+  "published": "2026-09-29T16:20:21+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "AMD"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "ノバルティス日本法人社長｢革新的な医薬品､薬価でもっと評価を｣…魅力あふれる日本市場に投資していく | ビジネス | 東洋経済オンライン",
+  "link": "https://toyokeizai.net/articles/-/957772?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "source": "東洋経済オンライン",
+  "via": "RSS",
+  "collector": "東洋経済オンライン",
+  "feed_url": "https://toyokeizai.net/list/feed/rss",
+  "domain": "toyokeizai.net",
+  "lang": "ja",
+  "score": 0.7254,
+  "published": "2026-09-29T21:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ],
+   "健康・医療・生物": [
+    "医薬",
+    "医薬品",
+    "新薬"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "一般車で観光ドライブが可能に！『American Truck Simulator』向けの画期的なアドオンDLC「Road Trip: Ford」配信開始―ゲーム本編は10月1日まで75%オフ",
+  "link": "http://www.gamespark.jp/article/2026/09/30/172942.html",
+  "source": "Game*Spark",
+  "via": "RSS",
+  "collector": "Game*Spark",
+  "feed_url": "https://www.gamespark.jp/rss/index.rdf",
+  "domain": "gamespark.jp",
+  "lang": "ja",
+  "score": 0.7194,
+  "published": "2026-09-29T23:30:03+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": []
+ },
+ {
+  "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+  "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+  "source": "NASA",
+  "via": "RSS",
+  "collector": "NASA",
+  "feed_url": "https://www.nasa.gov/news-release/feed/",
+  "domain": "nasa.gov",
+  "lang": "en",
+  "score": 0.7176,
+  "published": "2026-09-29T21:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "NASA",
+    "spaceflight"
+   ],
+   "経済・マーケット・企業": [
+    "acquisition"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": []
+ },
+ {
+  "title": "「ウォーリーをさがせ！」のボードゲームでは，“謎の存在”からウォーリーになり，さらにもうひと仕事 昭和・平成レトロボードゲーム大百科 第19回",
+  "link": "https://www.4gamer.net/games/893/G089329/20260925008/",
+  "source": "4Gamer.net",
+  "via": "RSS",
+  "collector": "4Gamer.net",
+  "feed_url": "https://www.4gamer.net/rss/index.xml",
+  "domain": "4gamer.net",
+  "lang": "ja",
+  "score": 0.7125,
+  "published": "2026-09-29T22:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": []
+ },
+ {
+  "title": "AMD drops an EPYC $15,000, 256-core beast",
+  "link": "https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 0.7032,
+  "published": "2026-09-29T11:20:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "AMD"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "CD Projekt Red Unveils Detailed PC Requirements for The Witcher 3: Wild Hunt Remastered",
+  "link": "https://www.techpowerup.com/353167/cd-projekt-red-unveils-detailed-pc-requirements-for-the-witcher-3-wild-hunt-remastered",
+  "source": "TechPowerUp",
+  "via": "RSS",
+  "collector": "TechPowerUp",
+  "feed_url": "https://www.techpowerup.com/rss/news",
+  "domain": "techpowerup.com",
+  "lang": "en",
+  "score": 0.6825,
+  "published": "2026-09-28T16:58:29+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "専門媒体: TechPowerUp"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+  "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
+  "source": "NASA",
+  "via": "RSS",
+  "collector": "NASA",
+  "feed_url": "https://www.nasa.gov/news-release/feed/",
+  "domain": "nasa.gov",
+  "lang": "en",
+  "score": 0.5496,
+  "published": "2026-09-29T18:57:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "NASA",
+    "SpaceX"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": []
+ },
+ {
+  "title": "BYD tests new ultra-luxury EV with coach doors and a solid-state battery",
+  "link": "https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/",
+  "source": "Electrek",
+  "via": "RSS",
+  "collector": "Electrek",
+  "feed_url": "https://electrek.co/feed/",
+  "domain": "electrek.co",
+  "lang": "en",
+  "score": 0.521,
+  "published": "2026-09-29T20:49:14+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "EV",
+    "BYD"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "What is a public benefit corporation, the Anthropic legal structure?",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBjWjN4azRwTVZDcDUzTnR1Z190cUM4V0ZkT2FDZHVuUWtvaFFYbF9MNnh0RlJ5WEpIaFU5NGFsaHdSV1h0NFdSbXRDRkRtUGdHWXVZLW1CVUpDZ016UnRUOHFEU0NpMmRqZmo5WF9memRneTcwT19yMlRnUzhwS0F3MW81dEQyODd4cHE1RnRkOEhoR2hqenljS2xISjAtV2tXbnJ3UjRFckFGOGpWSmctQmN4Q1JwbXo0?oc=5",
+  "source": "Reuters",
+  "via": "Googleニュース",
+  "collector": "Google: Anthropic OR \"Claude AI\" OR \"Claude Code\"",
+  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22+OR+%22Claude+Code%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "reuters.com",
+  "lang": "en",
+  "score": 0.5171,
+  "published": "2026-09-29T21:08:53+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "Anthropic・Claude": [
+    "Anthropic"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "Kansas City Star",
+   "Wichita Eagle",
+   "theolympian.com"
+  ]
+ },
+ {
+  "title": "目黒蓮主演の映画『SAKAMOTO DAYS』10月30日よりPrime Videoで見放題独占配信",
+  "link": "https://www.cinra.net/article/202609-whn-skmtdays_edteam",
+  "source": "CINRA",
+  "via": "RSS",
+  "collector": "CINRA",
+  "feed_url": "https://www.cinra.net/feed",
+  "domain": "cinra.net",
+  "lang": "ja",
+  "score": 0.4933,
+  "published": "2026-09-29T07:39:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "映画・アニメ・映像": [
+    "映画"
+   ]
+  },
+  "primary": "映画・アニメ・映像",
+  "related": []
+ },
+ {
+  "title": "The Deep Magic of 3D Graphics Perspective",
+  "link": "https://hackaday.com/2026/09/29/the-deep-magic-of-3d-graphics-perspective/",
+  "source": "Hackaday",
+  "via": "RSS",
+  "collector": "Hackaday",
+  "feed_url": "https://hackaday.com/blog/feed/",
+  "domain": "hackaday.com",
+  "lang": "en",
+  "score": 0.492,
+  "published": "2026-09-29T23:00:46+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "ガジェット・PC・電子工作": [
+    "camera"
+   ],
+   "ゲーム": [
+    "video game"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "人気の「関節サプリ」、認知症の手前の人では発症リスク25%増",
+  "link": "https://nazology.kusuguru.co.jp/archives/200272",
+  "source": "ナゾロジー",
+  "via": "RSS",
+  "collector": "ナゾロジー",
+  "feed_url": "https://nazology.kusuguru.co.jp/feed",
+  "domain": "nazology.kusuguru.co.jp",
+  "lang": "ja",
+  "score": 0.4717,
+  "published": "2026-09-29T23:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "健康・医療・生物": [
+    "認知症",
+    "健康"
+   ],
+   "宇宙・科学研究": [
+    "研究チーム"
+   ]
+  },
+  "primary": "健康・医療・生物",
+  "related": []
+ },
+ {
+  "title": "EVgo’s 750 kW charging system is coming in 2027",
+  "link": "https://electrek.co/2026/09/29/evgos-750-kw-charging-system-is-coming-in-2027/",
+  "source": "Electrek",
+  "via": "RSS",
+  "collector": "Electrek",
+  "feed_url": "https://electrek.co/feed/",
+  "domain": "electrek.co",
+  "lang": "en",
+  "score": 0.3923,
+  "published": "2026-09-29T16:37:10+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "EV"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+  "link": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
+  "source": "The Register",
+  "via": "RSS",
+  "collector": "The Register",
+  "feed_url": "https://www.theregister.com/headlines.atom",
+  "domain": "theregister.com",
+  "lang": "en",
+  "score": 0.1715,
+  "published": "2026-09-29T17:49:45+00:00",
+  "original": null,
+  "selected_at": "2026-09-30T00:01:23+00:00",
+  "topics": {
+   "サイバーセキュリティ・プライバシー": [
+    "malware"
+   ]
+  },
+  "primary": "サイバーセキュリティ・プライバシー",
+  "related": []
+ },
+ {
   "title": "OpenAI、24時間働くAIエージェント「dots」発表 ただしプロ向け、月額500ドルの新プランも",
   "link": "https://ascii.jp/elem/000/004/438/4438355/?rss",
   "source": "ASCII.jp",

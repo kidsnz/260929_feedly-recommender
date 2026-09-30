@@ -9,6 +9,16 @@
   ],
   "last_seen": "2026-09-29"
  },
+ "reuters.com": {
+  "publisher": "reuters.com",
+  "count": 2,
+  "first_seen": "2026-09-30",
+  "examples": [
+   "What is a public benefit corporation, the Anthropic legal structure?",
+   "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)"
+  ],
+  "last_seen": "2026-09-30"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -98,5 +108,23 @@
    "FBI says it’s addressing massive data breach, vows to go after hackers"
   ],
   "last_seen": "2026-09-29"
+ },
+ "union-bulletin.com": {
+  "publisher": "Union-Bulletin",
+  "count": 1,
+  "first_seen": "2026-09-30",
+  "examples": [
+   "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns"
+  ],
+  "last_seen": "2026-09-30"
+ },
+ "khq.com": {
+  "publisher": "khq.com",
+  "count": 1,
+  "first_seen": "2026-09-30",
+  "examples": [
+   "OpenAI cancels new AI model, claiming it’s not safe enough"
+  ],
+  "last_seen": "2026-09-30"
  }
 }

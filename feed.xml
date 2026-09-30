@@ -5,8 +5,302 @@
     <link>https://kidsnz.github.io/260929_feedly-recommender/</link>
     <description>Feedly の既読記事から作った好みのプロファイルで、まだ読んでいない媒体の関連ニュースを毎日集めたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:01:23 +0000</lastBuildDate>
     <atom:link href="https://kidsnz.github.io/260929_feedly-recommender/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns</title>
+      <link>https://news.google.com/rss/articles/CBMihwJBVV95cUxNY3drbTFVQVV3TmpNNk12UXdDQ3JNTUZZbmpacElxSGVRY09JbUhhZ2pZZ3luMDdwZlV1elRISUljSV9LNTQxdUpGOHphSWltV1Blb1RoVkdZeUpYNjN0dl9kVDV1YVF0aDlvQ0dqZXpQRFFmMjVvcUxGM0xlX2lqd29ERjNCcmhjRUVfbWFWQXlUbERGZmRueHp0ZEp5UGZRR3NKb2hNMEZHaEtSTGZuN0dtWElUSXdVSWh1Rk9GNFBLWHR3TVlVZTFpQzE0SEU4MnlYMzhUSUplLTdxeUdJcnFtdDNxSXpGdUppVlQ3bnFvYnVYTU92ajViS1JhQ0toWkg5YzVFdw?oc=5</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（AI agent） / OpenAI・ChatGPT（OpenAI）｜出典: Union-Bulletin・Googleニュース経由｜同じ話題: 他10媒体（AP News、DW.com、Durango Herald ほか）｜スコア 3.21</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>OpenAI・ChatGPT</category>
+      <guid isPermaLink="false">e68f490763e2e4edac57dab866ad40a590f9aa43</guid>
+      <pubDate>Tue, 29 Sep 2026 22:43:43 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%22AI+agent%22+OR+%22coding+agent%22+OR+%22vibe+coding%22+OR+%22Claude+Code%22+OR+Codex+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Union-Bulletin</source>
+    </item>
+    <item>
+      <title>AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ ハードとモデルを一体化したオープンAIエコシステム加速へ</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/29/2000001826/</link>
+      <description>該当トピック: AI・生成AI全般（AI） / 半導体・データセンター（AMD）｜出典: ITmedia NEWS｜原典（英語）: The Decoder「AMD buys AI world model startup World Labs for $8.2 billion」｜同じ話題: 他3媒体（Ars Technica、Latent Space、The Next Platform）｜スコア 2.36</description>
+      <category>AI・生成AI全般</category>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">a469e834d841514c218367169953c4190b4a9a44</guid>
+      <pubDate>Tue, 29 Sep 2026 00:38:11 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml">ITmedia NEWS</source>
+    </item>
+    <item>
+      <title>OpenAI cancels new AI model, claiming it’s not safe enough</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU3lVaFFwNm5NaXNlVmhiZlJLYW1CdjN4R19TSGdPcVc2UTVMWEVQTXBZNjFYT2VqOXVFTUhzWFNRVGw1ejJzWm5UcDNfZ2ZKX2FhVUNOcTU1by1wM0xFcmFWd2p4cmhyczZoQkp1OHdUVVJEZEF3U0NRMVg5YlVNSVVKX0twTHgtZTROUUlua2Y5QkRaMjFEUmV5Q0pQeVlVRktnSE1ZLVFfbVV1MG1vNTZZT2VLdXJESDJfZ1JSSTdPNVNhOUJUTTQyN2FIQ0IwUUlkbDVLVzJ6dk0?oc=5</link>
+      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（OpenAI）｜出典: khq.com・Googleニュース経由｜同じ話題: 他9媒体（Indiana Gazette Online、Iosco County News Herald、Key Biscayne Portal ほか）｜スコア 2.11</description>
+      <category>AI・生成AI全般</category>
+      <category>OpenAI・ChatGPT</category>
+      <guid isPermaLink="false">ead02c45e61179c5759bfa038e72e1267d78341a</guid>
+      <pubDate>Tue, 29 Sep 2026 18:41:56 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%22large+language+model%22+OR+%22AI+model%22+OR+Gemini+OR+DeepSeek+OR+%22generative+AI%22+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">khq.com</source>
+    </item>
+    <item>
+      <title>STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event</title>
+      <link>https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss</link>
+      <description>該当トピック: AI・生成AI全般（AI） / Anthropic・Claude（Anthropic） / 経済・マーケット・企業（IPO） / 健康・医療・生物（専門媒体: STAT）｜出典: STAT｜同じ話題: 他1媒体（statnews.com）｜スコア 1.90</description>
+      <category>AI・生成AI全般</category>
+      <category>Anthropic・Claude</category>
+      <category>経済・マーケット・企業</category>
+      <category>健康・医療・生物</category>
+      <guid isPermaLink="false">23230d3afa550ae2e7f99346c5a48f544e5a5139</guid>
+      <pubDate>Tue, 29 Sep 2026 14:32:24 +0000</pubDate>
+      <source url="https://www.statnews.com/feed/">STAT</source>
+    </item>
+    <item>
+      <title>Anthropic lists ‘existential risks to humanity’ as one of its risk factors in IPO prospectus</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut</link>
+      <description>該当トピック: Anthropic・Claude（Anthropic） / 経済・マーケット・企業（IPO, valuation） / 半導体・データセンター（専門媒体: Tom's Hardware）｜出典: Tom's Hardware｜同じ話題: 他3媒体（Forbes、Reuters、cnbc.com）｜スコア 1.65</description>
+      <category>Anthropic・Claude</category>
+      <category>経済・マーケット・企業</category>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">c39b11c935db6806760083dafd3ecdcf6736fc92</guid>
+      <pubDate>Tue, 29 Sep 2026 13:30:00 +0000</pubDate>
+      <source url="https://www.tomshardware.com/feeds/all">Tom's Hardware</source>
+    </item>
+    <item>
+      <title>マイクロソフト、「Copilot+ PC」ブランド縮小か 新Surfaceで名称使わず</title>
+      <link>https://japan.cnet.com/article/35253016/</link>
+      <description>該当トピック: 半導体・データセンター（AMD, NVIDIA, CPU） / テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Microsoft, Windows）｜出典: CNET Japan｜原典（英語）: TechPowerUp「Microsoft Blames "Limited Portfolio" For Lack of AMD-Powered Surface Devices」｜同じ話題: 他1媒体（Mashable）｜スコア 1.61</description>
+      <category>半導体・データセンター</category>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">09ce7c148db188feb4c4fa357c150c3f7e3b8f5e</guid>
+      <pubDate>Mon, 28 Sep 2026 00:30:00 +0000</pubDate>
+      <source url="https://feeds.japan.cnet.com/rss/cnet/all.rdf">CNET Japan</source>
+    </item>
+    <item>
+      <title>AIエージェントが「高金利口座」へ預金を一斉移動。アポロのエコノミストが描く「AI取り付け騒ぎ」のシナリオ</title>
+      <link>https://www.businessinsider.jp/article/2609-ai-agents-maxing-out-cash-trigger-bank-run-deposit-apollo/</link>
+      <description>該当トピック: 経済・マーケット・企業（金利） / AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント）｜出典: Business Insider Japan｜スコア 1.44</description>
+      <category>経済・マーケット・企業</category>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <guid isPermaLink="false">b2586b778ac2793524beb8f889925acd3acf2e75</guid>
+      <pubDate>Tue, 29 Sep 2026 21:30:00 +0000</pubDate>
+      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
+    </item>
+    <item>
+      <title>Are you a Codex Original?</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <description>該当トピック: AI・生成AI全般（専門媒体: OpenAI News） / AIエージェント・AIコーディング（Codex） / OpenAI・ChatGPT（Codex） / 宇宙・科学研究（researchers）｜出典: OpenAI News｜スコア 1.37</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>OpenAI・ChatGPT</category>
+      <category>宇宙・科学研究</category>
+      <guid isPermaLink="false">914f14710638400cde9510287d4bbd1675b89081</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+    </item>
+    <item>
+      <title>話題のAIエージェント「Instinct」に旅行計画を任せてみた。出張は優秀、でも休暇はわくわく感が消えた</title>
+      <link>https://www.businessinsider.jp/article/2609-instinct-ai-agent-plan-travel-dull-mistake-vacation-work-trip/</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント） / 経済・マーケット・企業（専門媒体: Business Insider Japan）｜出典: Business Insider Japan｜スコア 1.30</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">bc995a4bea2a9a31993bcc2fcf9acc8b3e4260da</guid>
+      <pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
+      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
+    </item>
+    <item>
+      <title>AIや半導体関連など6つの業績改善ドライバーで日経平均は8万円台の可能性も､日本企業は27年度にかけて最高益に | 政治・経済・投資 | 東洋経済オンライン</title>
+      <link>https://toyokeizai.net/articles/-/959491?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link>
+      <description>該当トピック: 経済・マーケット・企業（投資, 決算） / AI・生成AI全般（AI） / 半導体・データセンター（半導体）｜出典: 東洋経済オンライン｜スコア 1.30</description>
+      <category>経済・マーケット・企業</category>
+      <category>AI・生成AI全般</category>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">08b568582c8a6cbf4b42e349f1dc437a8f13a743</guid>
+      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
+      <source url="https://toyokeizai.net/list/feed/rss">東洋経済オンライン</source>
+    </item>
+    <item>
+      <title>Trump launches America.gov with AI chatbots at its core</title>
+      <link>https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907</link>
+      <description>該当トピック: AI・生成AI全般（AI, chatbot, Gemini, Grok）｜出典: The Register｜同じ話題: 他1媒体（Briefs Finance）｜スコア 1.04</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">a416f5c8b5231e54d1de9280cdaf7b825119711a</guid>
+      <pubDate>Tue, 29 Sep 2026 20:14:32 +0000</pubDate>
+      <source url="https://www.theregister.com/headlines.atom">The Register</source>
+    </item>
+    <item>
+      <title>Google has fixed an issue that caused thousands of iPhone apps to crash overnight</title>
+      <link>https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Google, iPhone）｜出典: 9to5Mac｜同じ話題: 他1媒体（9to5Google）｜スコア 1.04</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">7731c124c04902794fa45c3a264f47e7b1198da2</guid>
+      <pubDate>Tue, 29 Sep 2026 13:19:10 +0000</pubDate>
+      <source url="https://9to5mac.com/feed/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Apple TV renews French drama ‘Carême’ for season two</title>
+      <link>https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple）｜出典: 9to5Mac｜スコア 1.00</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">02164e4d5871d5b9af2135bccaa2629a30859acb</guid>
+      <pubDate>Tue, 29 Sep 2026 21:55:56 +0000</pubDate>
+      <source url="https://9to5mac.com/feed/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Apple Shares New Guide for Using iOS 27 Parental Controls</title>
+      <link>https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple, iOS）｜出典: MacRumors｜スコア 1.00</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">f23c807f645ddd62d78f4e6ff3f45bc6edb29ca1</guid>
+      <pubDate>Tue, 29 Sep 2026 18:28:50 +0000</pubDate>
+      <source url="https://www.macrumors.com/macrumors.xml">MacRumors</source>
+    </item>
+    <item>
+      <title>Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)</title>
+      <link>https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/</link>
+      <description>該当トピック: AI・生成AI全般（AI）｜出典: Techmeme｜スコア 1.00</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">9d8849c46b7c1b70a23ed492cc2a2a12ee459151</guid>
+      <pubDate>Tue, 29 Sep 2026 23:50:01 +0000</pubDate>
+      <source url="https://www.techmeme.com/feed.xml">Techmeme</source>
+    </item>
+    <item>
+      <title>AMD Publishes Full EPYC 9006 "Venice" Specs and Pricing: 8-Core at $700, 256-Core at $14,904</title>
+      <link>https://www.techpowerup.com/353209/amd-publishes-full-epyc-9006-venice-specs-and-pricing-8-core-at-usd-700-256-core-at-usd-14-904</link>
+      <description>該当トピック: 半導体・データセンター（AMD）｜出典: TechPowerUp｜スコア 0.74</description>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">0883e319b2f81dda04f90977345cee1973883dbd</guid>
+      <pubDate>Tue, 29 Sep 2026 16:20:21 +0000</pubDate>
+      <source url="https://www.techpowerup.com/rss/news">TechPowerUp</source>
+    </item>
+    <item>
+      <title>ノバルティス日本法人社長｢革新的な医薬品､薬価でもっと評価を｣…魅力あふれる日本市場に投資していく | ビジネス | 東洋経済オンライン</title>
+      <link>https://toyokeizai.net/articles/-/957772?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link>
+      <description>該当トピック: 経済・マーケット・企業（投資） / 健康・医療・生物（医薬, 医薬品, 新薬）｜出典: 東洋経済オンライン｜スコア 0.73</description>
+      <category>経済・マーケット・企業</category>
+      <category>健康・医療・生物</category>
+      <guid isPermaLink="false">10574da77143d8fdd0fb251034f936d0a79e6899</guid>
+      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
+      <source url="https://toyokeizai.net/list/feed/rss">東洋経済オンライン</source>
+    </item>
+    <item>
+      <title>一般車で観光ドライブが可能に！『American Truck Simulator』向けの画期的なアドオンDLC「Road Trip: Ford」配信開始―ゲーム本編は10月1日まで75%オフ</title>
+      <link>http://www.gamespark.jp/article/2026/09/30/172942.html</link>
+      <description>該当トピック: ゲーム（ゲーム）｜出典: Game*Spark｜スコア 0.72</description>
+      <category>ゲーム</category>
+      <guid isPermaLink="false">ca42ab158c87bc2b62419d314c1ed83bcbaba85d</guid>
+      <pubDate>Tue, 29 Sep 2026 23:30:03 +0000</pubDate>
+      <source url="https://www.gamespark.jp/rss/index.rdf">Game*Spark</source>
+    </item>
+    <item>
+      <title>NASA Awards Orbital Safety Analysis Support Services Contract</title>
+      <link>https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/</link>
+      <description>該当トピック: 宇宙・科学研究（NASA, spaceflight） / 経済・マーケット・企業（acquisition）｜出典: NASA｜スコア 0.72</description>
+      <category>宇宙・科学研究</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">3cec6ca511c7cb7f7dd39f988b9a749473450103</guid>
+      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
+      <source url="https://www.nasa.gov/news-release/feed/">NASA</source>
+    </item>
+    <item>
+      <title>「ウォーリーをさがせ！」のボードゲームでは，“謎の存在”からウォーリーになり，さらにもうひと仕事 昭和・平成レトロボードゲーム大百科 第19回</title>
+      <link>https://www.4gamer.net/games/893/G089329/20260925008/</link>
+      <description>該当トピック: ゲーム（ゲーム）｜出典: 4Gamer.net｜スコア 0.71</description>
+      <category>ゲーム</category>
+      <guid isPermaLink="false">4f15c026b7a71d3d3769f794bf4bb299a225babf</guid>
+      <pubDate>Tue, 29 Sep 2026 22:30:00 +0000</pubDate>
+      <source url="https://www.4gamer.net/rss/index.xml">4Gamer.net</source>
+    </item>
+    <item>
+      <title>AMD drops an EPYC $15,000, 256-core beast</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904</link>
+      <description>該当トピック: 半導体・データセンター（AMD）｜出典: Tom's Hardware｜スコア 0.70</description>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">9193f079399ead7bc0a3ba31a2bdc8754aa00df0</guid>
+      <pubDate>Tue, 29 Sep 2026 11:20:00 +0000</pubDate>
+      <source url="https://www.tomshardware.com/feeds/all">Tom's Hardware</source>
+    </item>
+    <item>
+      <title>CD Projekt Red Unveils Detailed PC Requirements for The Witcher 3: Wild Hunt Remastered</title>
+      <link>https://www.techpowerup.com/353167/cd-projekt-red-unveils-detailed-pc-requirements-for-the-witcher-3-wild-hunt-remastered</link>
+      <description>該当トピック: 半導体・データセンター（専門媒体: TechPowerUp） / ガジェット・PC・電子工作（PC）｜出典: TechPowerUp｜スコア 0.68</description>
+      <category>半導体・データセンター</category>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">b91734db0688ce56e6d6ed0d54ac6ba8ddd7e9fd</guid>
+      <pubDate>Mon, 28 Sep 2026 16:58:29 +0000</pubDate>
+      <source url="https://www.techpowerup.com/rss/news">TechPowerUp</source>
+    </item>
+    <item>
+      <title>NASA Sets Crew-13 Launch, Docking Coverage</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/</link>
+      <description>該当トピック: 宇宙・科学研究（NASA, SpaceX）｜出典: NASA｜スコア 0.55</description>
+      <category>宇宙・科学研究</category>
+      <guid isPermaLink="false">1a6de0550330e7fe3c2ee81e488790c686b06065</guid>
+      <pubDate>Tue, 29 Sep 2026 18:57:14 +0000</pubDate>
+      <source url="https://www.nasa.gov/news-release/feed/">NASA</source>
+    </item>
+    <item>
+      <title>BYD tests new ultra-luxury EV with coach doors and a solid-state battery</title>
+      <link>https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/</link>
+      <description>該当トピック: クルマ・EV・ロボット・自動運転（EV, BYD）｜出典: Electrek｜スコア 0.52</description>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <guid isPermaLink="false">347a2d571fa753202878cf759113da4196e58192</guid>
+      <pubDate>Tue, 29 Sep 2026 20:49:14 +0000</pubDate>
+      <source url="https://electrek.co/feed/">Electrek</source>
+    </item>
+    <item>
+      <title>What is a public benefit corporation, the Anthropic legal structure?</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBjWjN4azRwTVZDcDUzTnR1Z190cUM4V0ZkT2FDZHVuUWtvaFFYbF9MNnh0RlJ5WEpIaFU5NGFsaHdSV1h0NFdSbXRDRkRtUGdHWXVZLW1CVUpDZ016UnRUOHFEU0NpMmRqZmo5WF9memRneTcwT19yMlRnUzhwS0F3MW81dEQyODd4cHE1RnRkOEhoR2hqenljS2xISjAtV2tXbnJ3UjRFckFGOGpWSmctQmN4Q1JwbXo0?oc=5</link>
+      <description>該当トピック: Anthropic・Claude（Anthropic）｜出典: Reuters・Googleニュース経由｜同じ話題: 他3媒体（Kansas City Star、Wichita Eagle、theolympian.com）｜スコア 0.52</description>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">673e674e5acaea4128d14800a5af1b8e1f7cfc43</guid>
+      <pubDate>Tue, 29 Sep 2026 21:08:53 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22+OR+%22Claude+Code%22+when%3A1d&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Reuters</source>
+    </item>
+    <item>
+      <title>目黒蓮主演の映画『SAKAMOTO DAYS』10月30日よりPrime Videoで見放題独占配信</title>
+      <link>https://www.cinra.net/article/202609-whn-skmtdays_edteam</link>
+      <description>該当トピック: 映画・アニメ・映像（映画）｜出典: CINRA｜スコア 0.49</description>
+      <category>映画・アニメ・映像</category>
+      <guid isPermaLink="false">3cf863882ada463f5efcb7bf02736a22cda8a1c7</guid>
+      <pubDate>Tue, 29 Sep 2026 07:39:00 +0000</pubDate>
+      <source url="https://www.cinra.net/feed">CINRA</source>
+    </item>
+    <item>
+      <title>The Deep Magic of 3D Graphics Perspective</title>
+      <link>https://hackaday.com/2026/09/29/the-deep-magic-of-3d-graphics-perspective/</link>
+      <description>該当トピック: ガジェット・PC・電子工作（camera） / ゲーム（video game）｜出典: Hackaday｜スコア 0.49</description>
+      <category>ガジェット・PC・電子工作</category>
+      <category>ゲーム</category>
+      <guid isPermaLink="false">3cec7a208107cce618cf248d3a6d892499dfd54d</guid>
+      <pubDate>Tue, 29 Sep 2026 23:00:46 +0000</pubDate>
+      <source url="https://hackaday.com/blog/feed/">Hackaday</source>
+    </item>
+    <item>
+      <title>人気の「関節サプリ」、認知症の手前の人では発症リスク25%増</title>
+      <link>https://nazology.kusuguru.co.jp/archives/200272</link>
+      <description>該当トピック: 健康・医療・生物（認知症, 健康） / 宇宙・科学研究（研究チーム）｜出典: ナゾロジー｜スコア 0.47</description>
+      <category>健康・医療・生物</category>
+      <category>宇宙・科学研究</category>
+      <guid isPermaLink="false">62232b4afb4a02d258557ee15e7746714f453e91</guid>
+      <pubDate>Tue, 29 Sep 2026 23:00:00 +0000</pubDate>
+      <source url="https://nazology.kusuguru.co.jp/feed">ナゾロジー</source>
+    </item>
+    <item>
+      <title>EVgo’s 750 kW charging system is coming in 2027</title>
+      <link>https://electrek.co/2026/09/29/evgos-750-kw-charging-system-is-coming-in-2027/</link>
+      <description>該当トピック: クルマ・EV・ロボット・自動運転（EV）｜出典: Electrek｜スコア 0.39</description>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <guid isPermaLink="false">a0b6fe7abba06306b3c506f343a6fdc9c645e216</guid>
+      <pubDate>Tue, 29 Sep 2026 16:37:10 +0000</pubDate>
+      <source url="https://electrek.co/feed/">Electrek</source>
+    </item>
+    <item>
+      <title>Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services</title>
+      <link>https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867</link>
+      <description>該当トピック: サイバーセキュリティ・プライバシー（malware）｜出典: The Register｜スコア 0.17</description>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">82020db9c5642ec8832d11400f7ccc17a14ebfce</guid>
+      <pubDate>Tue, 29 Sep 2026 17:49:45 +0000</pubDate>
+      <source url="https://www.theregister.com/headlines.atom">The Register</source>
+    </item>
     <item>
       <title>OpenAI、24時間働くAIエージェント「dots」発表 ただしプロ向け、月額500ドルの新プランも</title>
       <link>https://ascii.jp/elem/000/004/438/4438355/?rss</link>
