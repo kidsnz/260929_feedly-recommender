@@ -1,4 +1,15 @@
 {
+ "reuters.com": {
+  "publisher": "reuters.com",
+  "count": 4,
+  "first_seen": "2026-09-30",
+  "examples": [
+   "NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A",
+   "トヨタ、アルゼンチンＥＶ工場に13.4億ドル投資へ",
+   "What is a public benefit corporation, the Anthropic legal structure?"
+  ],
+  "last_seen": "2026-10-01"
+ },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
   "count": 2,
@@ -8,16 +19,6 @@
    "OpenAIの音声チャットがDevDay 2026のステージで止まる"
   ],
   "last_seen": "2026-09-29"
- },
- "reuters.com": {
-  "publisher": "reuters.com",
-  "count": 2,
-  "first_seen": "2026-09-30",
-  "examples": [
-   "What is a public benefit corporation, the Anthropic legal structure?",
-   "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)"
-  ],
-  "last_seen": "2026-09-30"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -126,5 +127,41 @@
    "OpenAI cancels new AI model, claiming it’s not safe enough"
   ],
   "last_seen": "2026-09-30"
+ },
+ "yellow.com": {
+  "publisher": "Yellow.com",
+  "count": 1,
+  "first_seen": "2026-10-01",
+  "examples": [
+   "グーグル、次世代モデル「Gemini 4 Argon」を発表 OpenAI・Anthropicをベンチマークで上回ったと主張"
+  ],
+  "last_seen": "2026-10-01"
+ },
+ "diamond.jp": {
+  "publisher": "ダイヤモンド・オンライン",
+  "count": 1,
+  "first_seen": "2026-10-01",
+  "examples": [
+   "メタの「ミューズ」を試してみた 便利な反面、怖さも | The Wall Street Journal発"
+  ],
+  "last_seen": "2026-10-01"
+ },
+ "abs-cbnnews.com": {
+  "publisher": "ABS-CBN",
+  "count": 1,
+  "first_seen": "2026-10-01",
+  "examples": [
+   "US regulator probes Anthropic and OpenAI over AI safety: report"
+  ],
+  "last_seen": "2026-10-01"
+ },
+ "parade.com": {
+  "publisher": "parade.com",
+  "count": 1,
+  "first_seen": "2026-10-01",
+  "examples": [
+   "I Photographed Every Red Wine at Costco and Asked ChatGPT, Claude and Gemini to Build a Wine Cellar"
+  ],
+  "last_seen": "2026-10-01"
  }
 }
