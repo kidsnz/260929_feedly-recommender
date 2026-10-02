@@ -1,5 +1,792 @@
 [
  {
+  "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
+  "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 2.7001,
+  "published": "2026-10-01T14:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "半導体・データセンター": [
+    "NVIDIA"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": [
+   "MSSP Alert",
+   "ServeTheHome"
+  ]
+ },
+ {
+  "title": "AIエージェントの責任論、訴訟と当局調査に拡大 OpenAI提訴、FTCも調査へ",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDcyMmhOSUdjbFZsVE4xZzZtUEwyUFlTV0lHNE1tSDBtay1wRlFMTU0ydjhheGItRTI2ZXZYX2F6UzdUYTVMWVBiZXl5UWd6UVQwWFROZWg3dlgzYnRfdTR0S3IxMjFkUVRHVXJpczUwYkpHdWtaWmJsY3VaVF9ZcUpldnJaS2g2ZU1Zd2hoSQ?oc=5",
+  "source": "디지털투데이",
+  "via": "Googleニュース",
+  "collector": "Google: OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini",
+  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "digitaltoday.co.kr",
+  "lang": "ja",
+  "score": 2.6678,
+  "published": "2026-10-01T22:30:00+00:00",
+  "original": {
+   "title": "FTC Opens Probe of AI Giants Anthropic, OpenAI Over Consumer Risks",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnFqdHk5LXdYNDVkcml6Q295Mm9fbnVzb1ZGa3VXUk00YmtrY3dGbEcyYnBILVdVczUtMlFaYktxRm1YUG9qdXl6TWpvb3NFQ09rZ3czd2czVXZoN1RPN2NTZFJ3SlJVNXBJa0NVNGJFU1FCY2hpaWdHck80dHFwMDVJeEZPWnk4eWNrcDVyNzBVeF95cHlZVlZXelhJUQ?oc=5",
+   "source": "Broadband Breakfast"
+  },
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ],
+   "Anthropic・Claude": [
+    "Anthropic"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "CNBC",
+   "Charleston Gazette-Mail",
+   "CyberSecurityNews",
+   "Technology Org",
+   "The Hill",
+   "shattered.io",
+   "turnto10.com"
+  ]
+ },
+ {
+  "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
+  "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 2.0406,
+  "published": "2026-10-01T13:19:33+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "Tom's Hardware"
+  ]
+ },
+ {
+  "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+  "link": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+  "source": "Engadget",
+  "via": "RSS",
+  "collector": "Engadget",
+  "feed_url": "https://www.engadget.com/rss.xml",
+  "domain": "engadget.com",
+  "lang": "en",
+  "score": 1.965,
+  "published": "2026-10-01T22:05:43+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "Forbes",
+   "Gizmodo",
+   "The Information",
+   "WSJ"
+  ]
+ },
+ {
+  "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording'",
+  "link": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
+  "source": "MacRumors",
+  "via": "RSS",
+  "collector": "MacRumors",
+  "feed_url": "https://www.macrumors.com/macrumors.xml",
+  "domain": "macrumors.com",
+  "lang": "en",
+  "score": 1.8929,
+  "published": "2026-10-01T17:44:21+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "ガジェット・PC・電子工作": [
+    "camera"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "Hacker News",
+   "The Verge"
+  ]
+ },
+ {
+  "title": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
+  "link": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 1.8101,
+  "published": "2026-10-01T12:58:02+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Google"
+   ],
+   "宇宙・科学研究": [
+    "researchers"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "Broadcom will lend Anthropic up to $42bn to lease its AI chips",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdFpBYjZMYl9mcFdBQzNpRjVYRHZ2a3RaRldvcmR4V3U2YWtfdDg2eHBXNHdPeTZZUnd1dVVpR1h0eVlJbXhjU3JHUkJwVGU0T1psY1dnYkhHVERyNzE2a0VnWTBoR0xNWXJxbmxjbnliVUJkRmt2NjFzekNQc1U?oc=5",
+  "source": "The Next Web",
+  "via": "Googleニュース",
+  "collector": "Google: Anthropic OR \"Claude AI\" OR \"Claude Code\"",
+  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22+OR+%22Claude+Code%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "thenextweb.com",
+  "lang": "en",
+  "score": 1.7433,
+  "published": "2026-10-01T15:52:20+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "Anthropic・Claude": [
+    "Anthropic"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "CNBC",
+   "Reuters",
+   "Semafor",
+   "The Lufkin Daily News",
+   "finance.yahoo.com",
+   "qz.com"
+  ]
+ },
+ {
+  "title": "The Pulse: Firebase’s global outage & poor response",
+  "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
+  "source": "The Pragmatic Engineer",
+  "via": "RSS",
+  "collector": "The Pragmatic Engineer",
+  "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+  "domain": "newsletter.pragmaticengineer.com",
+  "lang": "en",
+  "score": 1.538,
+  "published": "2026-10-01T16:43:19+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "専門媒体: The Pragmatic Engineer"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: The Pragmatic Engineer"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)",
+  "link": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+  "source": "Techmeme",
+  "via": "RSS",
+  "collector": "Techmeme",
+  "feed_url": "https://www.techmeme.com/feed.xml",
+  "domain": "theguardian.com",
+  "lang": "en",
+  "score": 1.4383,
+  "published": "2026-10-01T19:25:01+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "Anthropic・Claude": [
+    "Anthropic",
+    "Claude"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Big Tech"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": []
+ },
+ {
+  "title": "NVIDIA RTX Spark Arrives on October 7, New Teaser Confirms",
+  "link": "https://www.techpowerup.com/353314/nvidia-rtx-spark-arrives-on-october-7-new-teaser-confirms",
+  "source": "TechPowerUp",
+  "via": "RSS",
+  "collector": "TechPowerUp",
+  "feed_url": "https://www.techpowerup.com/rss/news",
+  "domain": "techpowerup.com",
+  "lang": "en",
+  "score": 1.4166,
+  "published": "2026-10-01T19:35:17+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "NVIDIA"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Microsoft",
+    "Windows"
+   ],
+   "ガジェット・PC・電子工作": [
+    "laptop"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+  "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 1.4112,
+  "published": "2026-10-01T18:03:40+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
+  "link": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5google.com",
+  "lang": "en",
+  "score": 1.3195,
+  "published": "2026-10-01T15:40:02+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "MacBook",
+    "Apple",
+    "Windows"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC",
+    "laptop"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "9to5Google",
+   "Tom's Hardware"
+  ]
+ },
+ {
+  "title": "YC社長Garry Tanが語る「エージェント時代の開発術」を要点解説",
+  "link": "https://zenn.dev/talks_tldr_jp/articles/tldr08-garry-tan-summary",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.3035,
+  "published": "2026-10-01T15:37:24+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "ガジェット・PC・電子工作": [
+    "レビュー"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": [
+   "Zenn: AI"
+  ]
+ },
+ {
+  "title": "First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA",
+  "link": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 1.0615,
+  "published": "2026-10-01T15:27:09+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "Intel"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "Google Pixel 2 XL set the stage for a decade of ups and downs",
+  "link": "https://9to5google.com/2026/10/01/google-pixel-2-xl-set-the-stage-for-a-decade-of-ups-and-downs/",
+  "source": "9to5Google",
+  "via": "RSS",
+  "collector": "9to5Google",
+  "feed_url": "https://9to5google.com/feed/",
+  "domain": "9to5google.com",
+  "lang": "en",
+  "score": 1.0145,
+  "published": "2026-10-01T19:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Google",
+    "Pixel"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "Maingear’s new program offers instant trade-ins for gaming PC buyers",
+  "link": "https://www.tomshardware.com/desktops/gaming-pcs/maingears-new-program-offers-instant-trade-ins-for-gaming-pc-buyers-delivers-quotes-for-old-laptops-phones-tablets-smartwatches-headphones-cameras-lenses-and-microphones-in-minutes",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 0.9828,
+  "published": "2026-10-01T13:45:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "専門媒体: Tom's Hardware"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ],
+   "ゲーム": [
+    "gaming"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "Sources: Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving (Bailey Lipschultz/Bloomberg)",
+  "link": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
+  "source": "Techmeme",
+  "via": "RSS",
+  "collector": "Techmeme",
+  "feed_url": "https://www.techmeme.com/feed.xml",
+  "domain": "bloomberg.com",
+  "lang": "en",
+  "score": 0.9775,
+  "published": "2026-10-01T17:37:27+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "Anthropic・Claude": [
+    "Anthropic"
+   ],
+   "経済・マーケット・企業": [
+    "IPO"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "TradingView"
+  ]
+ },
+ {
+  "title": "コーディングエージェントに「その方法で本当にいいのか」を考えさせる",
+  "link": "https://zenn.dev/sumx21t/articles/coding-agent-categorical-imperative",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 0.9696,
+  "published": "2026-10-01T19:08:24+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "コーディング"
+   ],
+   "AI・生成AI全般": [
+    "専門媒体: Zenn: AI"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "HBM価格は2027年に2.2倍へ 供給不足続く",
+  "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/30/news066.html",
+  "source": "EE Times Japan",
+  "via": "RSS",
+  "collector": "EE Times Japan",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/eetimes.xml",
+  "domain": "eetimes.itmedia.co.jp",
+  "lang": "ja",
+  "score": 0.879,
+  "published": "2026-09-30T02:30:00+00:00",
+  "original": {
+   "title": "NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion",
+   "link": "https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion",
+   "source": "TechPowerUp"
+  },
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "NVIDIA",
+    "HBM"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "ブルーカラーの「オリンピック」は熱かった",
+  "link": "https://www.businessinsider.jp/article/2610-worldskills-shanghai-blue-collar-olympics/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 0.8219,
+  "published": "2026-10-01T21:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "【エンタメGO】スピルバーグ新作『ディスクロージャー・デイ』。UFO映画の巨匠が描いた“古くて新しい”エイリアン",
+  "link": "https://av.watch.impress.co.jp/docs/series/entamego/2143570.html",
+  "source": "AV Watch",
+  "via": "RSS",
+  "collector": "AV Watch",
+  "feed_url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
+  "domain": "av.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.786,
+  "published": "2026-10-01T23:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "映画・アニメ・映像": [
+    "映画",
+    "監督"
+   ],
+   "宇宙・科学研究": [
+    "宇宙"
+   ]
+  },
+  "primary": "映画・アニメ・映像",
+  "related": []
+ },
+ {
+  "title": "最大3人協力のボードゲームRPG「ヴィラクタル」，Switch2/Switch版を本日発売。ダイスで箱庭を探索し，カードで強敵に挑む",
+  "link": "https://www.4gamer.net/games/011/G101108/20261001032/",
+  "source": "4Gamer.net",
+  "via": "RSS",
+  "collector": "4Gamer.net",
+  "feed_url": "https://www.4gamer.net/rss/index.xml",
+  "domain": "4gamer.net",
+  "lang": "ja",
+  "score": 0.7272,
+  "published": "2026-10-01T09:35:07+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム",
+    "Switch 2",
+    "Switch2"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "Gamer",
+   "千葉テレビ放送株式会社"
+  ]
+ },
+ {
+  "title": "［インタビュー］「世界のどこにもまだ存在しないゲームを作っている」――NCSOFT副社長James Bae氏に聞く「シンダーシティ」プレアルファテストの手応えと，12月に迫るアルファテスト",
+  "link": "https://www.4gamer.net/games/668/G066861/20260925003/",
+  "source": "4Gamer.net",
+  "via": "RSS",
+  "collector": "4Gamer.net",
+  "feed_url": "https://www.4gamer.net/rss/index.xml",
+  "domain": "4gamer.net",
+  "lang": "ja",
+  "score": 0.7116,
+  "published": "2026-10-01T22:45:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": []
+ },
+ {
+  "title": "バフェットはもう指揮を執っていない。だが、バークシャーの最新の投資は、彼の手法そのものだ",
+  "link": "https://www.businessinsider.jp/article/2609-warren-buffett-berkshire-stocks-value-investing-lennar-housing-market-retirement/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 0.6809,
+  "published": "2026-10-01T08:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "NASA’s SpaceX Crew-13 Launches",
+  "link": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+  "source": "NASA",
+  "via": "RSS",
+  "collector": "NASA",
+  "feed_url": "https://www.nasa.gov/news-release/feed/",
+  "domain": "nasa.gov",
+  "lang": "en",
+  "score": 0.6544,
+  "published": "2026-10-01T18:05:38+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "SpaceX",
+    "NASA",
+    "rocket"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": []
+ },
+ {
+  "title": "シンスペクティブ、ロケットラボと過去最大の打ち上げ契約 「エレクトロン」で20回",
+  "link": "https://sorae.info/biz/20261001-synspective-rocketlab-20-launches.html",
+  "source": "sorae",
+  "via": "RSS",
+  "collector": "sorae",
+  "feed_url": "https://sorae.info/feed",
+  "domain": "sorae.info",
+  "lang": "ja",
+  "score": 0.6336,
+  "published": "2026-10-01T06:13:24+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "ロケット",
+    "衛星",
+    "rocket"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "sorae.info",
+   "ｄメニューニュース"
+  ]
+ },
+ {
+  "title": "【自動車研究家“山本シンヤ”が聞いた「MORIZOがニュル24時間へ挑む理由」】第21回：トヨタの人材育成と乗り味磨きの原点である成瀬弘氏の突然の訃報が、窮地に立たされたモリゾウ氏を奮い立たせた",
+  "link": "https://car.watch.impress.co.jp/docs/series/morizo-nur24h/2142472.html",
+  "source": "Car Watch",
+  "via": "RSS",
+  "collector": "Car Watch",
+  "feed_url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf",
+  "domain": "car.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.5112,
+  "published": "2026-10-01T15:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "自動車",
+    "トヨタ"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "BMW is launching a smaller, more affordable EV",
+  "link": "https://electrek.co/2026/10/01/bmw-launching-smaller-more-affordable-ev/",
+  "source": "Electrek",
+  "via": "RSS",
+  "collector": "Electrek",
+  "feed_url": "https://electrek.co/feed/",
+  "domain": "electrek.co",
+  "lang": "en",
+  "score": 0.473,
+  "published": "2026-10-01T16:03:18+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "EV",
+    "electric vehicle"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "脳の老け方は「腸内細菌」と結びついていた",
+  "link": "https://nazology.kusuguru.co.jp/archives/200435",
+  "source": "ナゾロジー",
+  "via": "RSS",
+  "collector": "ナゾロジー",
+  "feed_url": "https://nazology.kusuguru.co.jp/feed",
+  "domain": "nazology.kusuguru.co.jp",
+  "lang": "ja",
+  "score": 0.4555,
+  "published": "2026-10-01T10:15:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "健康・医療・生物": [
+    "細菌",
+    "医療",
+    "病気"
+   ],
+   "宇宙・科学研究": [
+    "研究チーム"
+   ]
+  },
+  "primary": "健康・医療・生物",
+  "related": []
+ },
+ {
+  "title": "Teenager arrested in Spain suspected of leading KillSec ransomware group",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0t6RWxHUW5IY1h1Sl9ZekFTUTJCU3JMSUFWMm41V0kyb181WHpVZktmSHRnZC1UT0xkeGJ4R0lreGp3SmRQeDdWamgtazdMRVBqXzZoa3R5ZFB0dVR1MUI1QlBfbVN1b2tPQ1psMmJsdHRZRjhOcDZiUkhDNDlLU0g5QUM4STZsNU5HbFN3VWtUbFljS25TT2RDWkFaeWZYbGFBQw?oc=5",
+  "source": "SC Media",
+  "via": "Googleニュース",
+  "collector": "Google: cybersecurity OR ransomware OR \"data breach\" OR vulnerability",
+  "feed_url": "https://news.google.com/rss/search?q=cybersecurity+OR+ransomware+OR+%22data+breach%22+OR+vulnerability+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "scworld.com",
+  "lang": "en",
+  "score": 0.1893,
+  "published": "2026-10-01T23:02:17+00:00",
+  "original": null,
+  "selected_at": "2026-10-02T00:24:02+00:00",
+  "topics": {
+   "サイバーセキュリティ・プライバシー": [
+    "ransomware"
+   ]
+  },
+  "primary": "サイバーセキュリティ・プライバシー",
+  "related": [
+   "Europol",
+   "GovInfoSecurity",
+   "Help Net Security"
+  ]
+ },
+ {
   "title": "グーグル、次世代モデル「Gemini 4 Argon」を発表 OpenAI・Anthropicをベンチマークで上回ったと主張",
   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPb3RpNDFoanFwbEhjZVNyT19GdjJWZXZUanRfQ3l1aTk0cmNtSm9PUEZYODN4NDExZzZlU3AxaVdRQTJrRllsYlFKQUI4c29idzc1blRqT3BKS19HU0xUNGs3OFdfUXhCTnRPalRFLUMzZlpkWnlNNTd0eHhfWWRoRTZPSmljWHdnT21kNmwzSDYxRE0tTDYwOWlkbnFITHlpWXdmWUhRQTNjcXp5d25kOFpPY2doXy1SY0ZaM29hLXlQeXNvYkQtclZLclJaYkh0ODFkdnVfbHowazlCMHV1VTVMdlRDODNPZDUxWkgyUUxjN0VtdDI0NmNMZ0NMamRCclBEN2hUQzd4NXc1SjYyd0dNdXVFTFA5ZVlEWFZJT0FnR0c4ZVNIN0NtUXFVZ3Q3WnBWVjgwN0JxVnExYjlEZk1zeTdaVjBuNFFaR3hMUnVTVDRmdGtjXzZWbG01RVMyclQ0SExobE9Lb1hiMFhGaE52aW9DZEtQUUJuSXRhZjF1Sy1iTk1EV0RWWmhVSC1jOUZNSW5nQTBfUDVXODVpUHlDNzVVMDdVUDg4X3pVVkxSNDA5MVkzR05Ua3MtTVJOTTd4LWRrb1picVRDQ01UbFYxc2pRTE8wYlNldFZ2Y3RhWlNtMkxZMw?oc=5",
   "source": "Yellow.com",

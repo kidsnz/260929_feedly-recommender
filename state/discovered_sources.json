@@ -20,6 +20,16 @@
   ],
   "last_seen": "2026-09-29"
  },
+ "bloomberg.com": {
+  "publisher": "bloomberg.com",
+  "count": 2,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "Sources: Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving (Bailey Lipschultz/Bloomberg)",
+   "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)"
+  ],
+  "last_seen": "2026-10-02"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -44,15 +54,6 @@
   "first_seen": "2026-09-29",
   "examples": [
    "OpenAI Scraps Release of Latest AI Model Due to Safety Concerns"
-  ],
-  "last_seen": "2026-09-29"
- },
- "bloomberg.com": {
-  "publisher": "bloomberg.com",
-  "count": 1,
-  "first_seen": "2026-09-29",
-  "examples": [
-   "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)"
   ],
   "last_seen": "2026-09-29"
  },
@@ -163,5 +164,41 @@
    "I Photographed Every Red Wine at Costco and Asked ChatGPT, Claude and Gemini to Build a Wine Cellar"
   ],
   "last_seen": "2026-10-01"
+ },
+ "digitaltoday.co.kr": {
+  "publisher": "디지털투데이",
+  "count": 1,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "AIエージェントの責任論、訴訟と当局調査に拡大 OpenAI提訴、FTCも調査へ"
+  ],
+  "last_seen": "2026-10-02"
+ },
+ "thenextweb.com": {
+  "publisher": "The Next Web",
+  "count": 1,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "Broadcom will lend Anthropic up to $42bn to lease its AI chips"
+  ],
+  "last_seen": "2026-10-02"
+ },
+ "theguardian.com": {
+  "publisher": "theguardian.com",
+  "count": 1,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)"
+  ],
+  "last_seen": "2026-10-02"
+ },
+ "scworld.com": {
+  "publisher": "SC Media",
+  "count": 1,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "Teenager arrested in Spain suspected of leading KillSec ransomware group"
+  ],
+  "last_seen": "2026-10-02"
  }
 }
