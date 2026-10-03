@@ -200,5 +200,32 @@
    "Teenager arrested in Spain suspected of leading KillSec ransomware group"
   ],
   "last_seen": "2026-10-02"
+ },
+ "betanews.com": {
+  "publisher": "BetaNews",
+  "count": 1,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "OpenAI alerts 100+ groups to unauthorized AI agent activity"
+  ],
+  "last_seen": "2026-10-03"
+ },
+ "unite.ai": {
+  "publisher": "Unite.AI",
+  "count": 1,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "Chatham Financial、OpenAI Codexを活用して資本市場向けツールを構築"
+  ],
+  "last_seen": "2026-10-03"
+ },
+ "cnbc.com": {
+  "publisher": "CNBC",
+  "count": 1,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows: Reuters"
+  ],
+  "last_seen": "2026-10-03"
  }
 }
