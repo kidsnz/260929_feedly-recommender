@@ -12,13 +12,14 @@
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
-  "count": 2,
+  "count": 3,
   "first_seen": "2026-09-29",
   "examples": [
+   "グーグル、Geminiの無料版からFlashを外しAI PlusからProも外す、10月9日から",
    "OpenAI、ChatGPT Space発表。チームがAIと働く「オフィス」",
    "OpenAIの音声チャットがDevDay 2026のステージで止まる"
   ],
-  "last_seen": "2026-09-29"
+  "last_seen": "2026-10-03"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -29,6 +30,16 @@
    "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)"
   ],
   "last_seen": "2026-10-02"
+ },
+ "theguardian.com": {
+  "publisher": "theguardian.com",
+  "count": 2,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+   "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)"
+  ],
+  "last_seen": "2026-10-03"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -183,15 +194,6 @@
   ],
   "last_seen": "2026-10-02"
  },
- "theguardian.com": {
-  "publisher": "theguardian.com",
-  "count": 1,
-  "first_seen": "2026-10-02",
-  "examples": [
-   "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)"
-  ],
-  "last_seen": "2026-10-02"
- },
  "scworld.com": {
   "publisher": "SC Media",
   "count": 1,
@@ -225,6 +227,33 @@
   "first_seen": "2026-10-03",
   "examples": [
    "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows: Reuters"
+  ],
+  "last_seen": "2026-10-03"
+ },
+ "decrypt.co": {
+  "publisher": "Decrypt News",
+  "count": 1,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC"
+  ],
+  "last_seen": "2026-10-03"
+ },
+ "claude.dev": {
+  "publisher": "claude.dev",
+  "count": 1,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "Getting the most out of Opus 5.5 in Claude and Claude Code"
+  ],
+  "last_seen": "2026-10-03"
+ },
+ "timesfreepress.com": {
+  "publisher": "timesfreepress.com",
+  "count": 1,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "Stay on top of cybersecurity concerns during awareness month"
   ],
   "last_seen": "2026-10-03"
  }

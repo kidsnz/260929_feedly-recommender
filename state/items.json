@@ -1,5 +1,789 @@
 [
  {
+  "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+  "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+  "source": "Hacker News",
+  "via": "RSS",
+  "collector": "Hacker News",
+  "feed_url": "https://news.ycombinator.com/rss",
+  "domain": "theguardian.com",
+  "lang": "en",
+  "score": 2.3481,
+  "published": "2026-10-03T22:18:13+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "Business Insider",
+   "TechCrunch",
+   "The Atlantic",
+   "The Guardian",
+   "calcalistech.com",
+   "pluang.com",
+   "techbuzz.ai"
+  ]
+ },
+ {
+  "title": "グーグル、Geminiの無料版からFlashを外しAI PlusからProも外す、10月9日から",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWd4QWFLeWFJbzBwcmdnUkJqYXRvMVBNWVNiM0NBdFBDaGtxMWM5em1nUVhMR2JVQUNQRkdFazRnRGxSQVZTMTV1M01oaGtSd1BfbFNRNlNqejdyMFRERkxjQWNoWC1uaDI2MzZodHBOWkdHTXhaOWZsNE5VNkRfZEZyLWp6bURubzJxckZnMUpKQk5OZnQ0?oc=5",
+  "source": "Pasquale Pillitteri",
+  "via": "Googleニュース",
+  "collector": "Google: OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini",
+  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "pasqualepillitteri.it",
+  "lang": "ja",
+  "score": 2.3273,
+  "published": "2026-10-03T20:20:52+00:00",
+  "original": {
+   "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+   "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+   "source": "9to5Mac"
+  },
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "Gemini"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Google"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "9to5Google",
+   "Android Headlines",
+   "Pasquale Pillitteri",
+   "XDA"
+  ]
+ },
+ {
+  "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+  "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 2.2042,
+  "published": "2026-10-03T14:28:51+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "ガジェット・PC・電子工作": [
+    "gadget"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Meta"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZV95QTN5eGVZdWVLME1DSllYQ0xtLVJMZTR3WC1qNUpfRmdMeHUxUzVONHdmVllQbkEzNmZ6V040RmJ1VzlPd1dKVS1TbWVCclM0bWZLclJtQU42b2R2ZXJpQ09xSHJHSGdUSFJPQXhQRnNRNnJnOFNtYVhkbTg?oc=5",
+  "source": "Decrypt News",
+  "via": "Googleニュース",
+  "collector": "Google: OpenAI OR ChatGPT OR \"Sam Altman\"",
+  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+%22Sam+Altman%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "decrypt.co",
+  "lang": "en",
+  "score": 2.0502,
+  "published": "2026-10-03T16:01:03+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": [
+   "Gadget Review",
+   "Startup Fortune",
+   "Yahoo Tech",
+   "dev.ua"
+  ]
+ },
+ {
+  "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+  "link": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 2.0134,
+  "published": "2026-10-03T08:31:04+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ],
+   "OpenAI・ChatGPT": [
+    "GPT"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage",
+  "link": "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 1.9876,
+  "published": "2026-10-03T16:59:51+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "半導体・データセンター": [
+    "NVIDIA"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": [
+   "TweakTown"
+  ]
+ },
+ {
+  "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+  "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 1.9638,
+  "published": "2026-10-03T18:56:30+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI",
+    "Sam Altman"
+   ],
+   "Anthropic・Claude": [
+    "Anthropic"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "the-decoder.com"
+  ]
+ },
+ {
+  "title": "September sponsors-only newsletter",
+  "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+  "source": "Simon Willison's Weblog",
+  "via": "RSS",
+  "collector": "Simon Willison's Weblog",
+  "feed_url": "https://simonwillison.net/atom/everything/",
+  "domain": "simonwillison.net",
+  "lang": "en",
+  "score": 1.8092,
+  "published": "2026-10-03T22:00:31+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "専門媒体: Simon Willison's Weblog"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: Simon Willison's Weblog"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Pixel"
+   ],
+   "Anthropic・Claude": [
+    "Fable"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "非エンジニアが業務の自動化をAIエージェントに頼むときの設計 ― 書き出す・渡す・受け取り方を決める",
+  "link": "https://zenn.dev/tmiyachi/articles/automation-request-design",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.7614,
+  "published": "2026-10-03T23:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント",
+    "Codex"
+   ],
+   "経済・マーケット・企業": [
+    "株式"
+   ],
+   "OpenAI・ChatGPT": [
+    "GPT",
+    "Codex"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+  "link": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 1.6816,
+  "published": "2026-10-03T09:19:23+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "Anthropic・Claude": [
+    "Claude"
+   ],
+   "宇宙・科学研究": [
+    "physics"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "[AINews] not much happened today",
+  "link": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+  "source": "Latent Space",
+  "via": "RSS",
+  "collector": "Latent Space",
+  "feed_url": "https://www.latent.space/feed",
+  "domain": "latent.space",
+  "lang": "en",
+  "score": 1.2109,
+  "published": "2026-10-03T08:45:15+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "専門媒体: Latent Space"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: Latent Space"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+  "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+  "source": "Hacker News",
+  "via": "RSS",
+  "collector": "Hacker News",
+  "feed_url": "https://news.ycombinator.com/rss",
+  "domain": "claude.dev",
+  "lang": "en",
+  "score": 1.1985,
+  "published": "2026-10-03T18:29:30+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "Claude Code"
+   ],
+   "Anthropic・Claude": [
+    "Claude",
+    "Claude Code",
+    "Opus"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": []
+ },
+ {
+  "title": "Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs",
+  "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 1.1136,
+  "published": "2026-10-03T13:35:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "専門媒体: Tom's Hardware"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ],
+   "ゲーム": [
+    "Steam",
+    "gaming"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": [
+   "TechPowerUp"
+  ]
+ },
+ {
+  "title": "Google’s original Pixel Fold was the right idea years ahead of its time",
+  "link": "https://9to5google.com/2026/10/03/googles-original-pixel-fold-was-the-right-idea-years-ahead-of-its-time/",
+  "source": "9to5Google",
+  "via": "RSS",
+  "collector": "9to5Google",
+  "feed_url": "https://9to5google.com/feed/",
+  "domain": "9to5google.com",
+  "lang": "en",
+  "score": 1.0237,
+  "published": "2026-10-03T19:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Google",
+    "Pixel"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "米コストコの最新決算が映す｢広告を打たない企業｣への追い風 AI検索の売れ筋上位に\"会員権\" | 政治・経済・投資 | 東洋経済オンライン",
+  "link": "https://toyokeizai.net/articles/-/959348?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "source": "東洋経済オンライン",
+  "via": "RSS",
+  "collector": "東洋経済オンライン",
+  "feed_url": "https://toyokeizai.net/list/feed/rss",
+  "domain": "toyokeizai.net",
+  "lang": "ja",
+  "score": 1.0146,
+  "published": "2026-10-03T22:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資",
+    "決算"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+  "link": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5mac.com",
+  "lang": "en",
+  "score": 0.986,
+  "published": "2026-10-03T19:44:04+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+  "link": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5mac.com",
+  "lang": "en",
+  "score": 0.9828,
+  "published": "2026-10-03T16:36:23+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple",
+    "iPad"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day",
+  "link": "https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 0.9636,
+  "published": "2026-10-03T10:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "AMD",
+    "CPU"
+   ],
+   "ゲーム": [
+    "gaming"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "Buying used CPUs can expose users to existing bans from anti-cheat engines, and there's no way to check for violations before purchase",
+  "link": "https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 0.8113,
+  "published": "2026-10-03T14:09:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "CPU"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "アングラ音楽の猛者が集ったインディーゲーム音楽5選！『SIGNALIS』の1000 Eyes、ブレイクコアの雄Lauren Bousfieldなどご紹介【音楽からゲームをはじめてもいいんだよ #5】",
+  "link": "http://www.gamespark.jp/article/2026/10/04/173133.html",
+  "source": "Game*Spark",
+  "via": "RSS",
+  "collector": "Game*Spark",
+  "feed_url": "https://www.gamespark.jp/rss/index.rdf",
+  "domain": "gamespark.jp",
+  "lang": "ja",
+  "score": 0.7198,
+  "published": "2026-10-03T23:00:03+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム",
+    "インディーゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": []
+ },
+ {
+  "title": "キャラビルド＆アイテムハントを堪能！探索＆ハクスラRPG『モノクローム・エコーズ ホワイト』―白黒の世界を舞台に繰り広げられる超濃厚RPG | Game*Spark - 国内・海外ゲーム情報サイト",
+  "link": "https://www.gamespark.jp/article/2026/10/03/173108.html",
+  "source": "はてなブックマーク アニメとゲーム 人気",
+  "via": "RSS",
+  "collector": "はてなブックマーク アニメとゲーム 人気",
+  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
+  "domain": "gamespark.jp",
+  "lang": "ja",
+  "score": 0.6902,
+  "published": "2026-10-03T03:13:02+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "Game*Spark",
+   "gamespark.jp"
+  ]
+ },
+ {
+  "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
+  "link": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+  "source": "Electrek",
+  "via": "RSS",
+  "collector": "Electrek",
+  "feed_url": "https://electrek.co/feed/",
+  "domain": "electrek.co",
+  "lang": "en",
+  "score": 0.6103,
+  "published": "2026-10-03T14:36:59+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "Tesla",
+    "robotaxi",
+    "Elon Musk"
+   ],
+   "ガジェット・PC・電子工作": [
+    "camera"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "土星衛星エンケラドゥスで生命が見つかる可能性がさらに高まった！氷の粒が鍵に",
+  "link": "https://karapaia.com/archives/631036.html",
+  "source": "カラパイア",
+  "via": "RSS",
+  "collector": "カラパイア",
+  "feed_url": "https://karapaia.com/index.rdf",
+  "domain": "karapaia.com",
+  "lang": "ja",
+  "score": 0.607,
+  "published": "2026-10-03T11:30:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "衛星",
+    "宇宙"
+   ],
+   "健康・医療・生物": [
+    "専門媒体: カラパイア"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "ニコニコニュース"
+  ]
+ },
+ {
+  "title": "｢重い中華鍋は軽量化｣｢一度に4人分以上のチャーハンは作らない｣､日高屋が取り組む働きやすい職場作り | 政治・経済・投資 | 東洋経済オンライン",
+  "link": "https://toyokeizai.net/articles/-/959618?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "source": "東洋経済オンライン",
+  "via": "RSS",
+  "collector": "東洋経済オンライン",
+  "feed_url": "https://toyokeizai.net/list/feed/rss",
+  "domain": "toyokeizai.net",
+  "lang": "ja",
+  "score": 0.5267,
+  "published": "2026-10-03T23:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "【2026秋アニメ】『#ゾンビさがしてます』に『生徒会にも穴はある！』『幻想水滸伝』と注目の新作放送開始",
+  "link": "https://ascii.jp/elem/000/004/439/4439809/?rss",
+  "source": "ASCII.jp",
+  "via": "RSS",
+  "collector": "ASCII.jp",
+  "feed_url": "https://ascii.jp/rss.xml",
+  "domain": "ascii.jp",
+  "lang": "ja",
+  "score": 0.5172,
+  "published": "2026-10-03T10:55:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "映画・アニメ・映像": [
+    "アニメ"
+   ],
+   "ガジェット・PC・電子工作": [
+    "専門媒体: ASCII.jp"
+   ]
+  },
+  "primary": "映画・アニメ・映像",
+  "related": [
+   "TOKYO MX"
+  ]
+ },
+ {
+  "title": "果実を「どう食べるか」で心臓の健康に変化があると判明",
+  "link": "https://nazology.kusuguru.co.jp/archives/200472",
+  "source": "ナゾロジー",
+  "via": "RSS",
+  "collector": "ナゾロジー",
+  "feed_url": "https://nazology.kusuguru.co.jp/feed",
+  "domain": "nazology.kusuguru.co.jp",
+  "lang": "ja",
+  "score": 0.4909,
+  "published": "2026-10-03T04:40:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "健康・医療・生物": [
+    "健康"
+   ],
+   "宇宙・科学研究": [
+    "研究チーム"
+   ]
+  },
+  "primary": "健康・医療・生物",
+  "related": [
+   "topics.smt.docomo.ne.jp"
+  ]
+ },
+ {
+  "title": "欧中の科学衛星「Smile」が科学観測開始へ 紫外線で捉えたオーロラの映像をESAが公開",
+  "link": "https://sorae.info/space/20261002-smile.html",
+  "source": "sorae",
+  "via": "RSS",
+  "collector": "sorae",
+  "feed_url": "https://sorae.info/feed",
+  "domain": "sorae.info",
+  "lang": "ja",
+  "score": 0.4827,
+  "published": "2026-10-02T08:15:17+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "衛星",
+    "科学",
+    "宇宙"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": []
+ },
+ {
+  "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+  "link": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+  "source": "The Register",
+  "via": "RSS",
+  "collector": "The Register",
+  "feed_url": "https://www.theregister.com/headlines.atom",
+  "domain": "theregister.com",
+  "lang": "en",
+  "score": 0.4791,
+  "published": "2026-10-03T15:27:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "Anthropic・Claude": [
+    "Anthropic",
+    "Mythos"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": []
+ },
+ {
+  "title": "メディア対抗ロードスター耐久レース、エネオスの次世代レース用燃料を使いHRC・スバル・ニスモのスポーツ担当者が参戦",
+  "link": "https://car.watch.impress.co.jp/docs/news/2145453.html",
+  "source": "Car Watch",
+  "via": "RSS",
+  "collector": "Car Watch",
+  "feed_url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf",
+  "domain": "car.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.4158,
+  "published": "2026-10-03T22:44:35+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "自動車"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "Stay on top of cybersecurity concerns during awareness month",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0t1elQ2NV95d0RaMDlOUVRsSzFWUzNNOWFCYk5jNm5UY1FkVDFCSU5lMnQ0c2lNV2xXMnVNSDA4c0NTNHhpTlF3NGVYdlRXWlpfNlp4QnhrOHBXYlFBOWR5OTQ4Y1hXVG4tRncxRUdjQ2NNT2RsWE5uOUJobG5pV0lYWDhHbmlUSGRieHotYXBJQUs0U19VUg?oc=5",
+  "source": "timesfreepress.com",
+  "via": "Googleニュース",
+  "collector": "Google: cybersecurity OR ransomware OR \"data breach\" OR vulnerability",
+  "feed_url": "https://news.google.com/rss/search?q=cybersecurity+OR+ransomware+OR+%22data+breach%22+OR+vulnerability+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "timesfreepress.com",
+  "lang": "en",
+  "score": 0.1901,
+  "published": "2026-10-03T16:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-03T23:27:32+00:00",
+  "topics": {
+   "サイバーセキュリティ・プライバシー": [
+    "cybersecurity"
+   ]
+  },
+  "primary": "サイバーセキュリティ・プライバシー",
+  "related": [
+   "Daily Dodge",
+   "WDAM-TV",
+   "WLOX",
+   "wtok.com"
+  ]
+ },
+ {
   "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
   "link": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
   "source": "MacRumors",
