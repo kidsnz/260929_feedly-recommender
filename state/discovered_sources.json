@@ -256,5 +256,50 @@
    "Stay on top of cybersecurity concerns during awareness month"
   ],
   "last_seen": "2026-10-03"
+ },
+ "politico.com": {
+  "publisher": "politico.com",
+  "count": 1,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)"
+  ],
+  "last_seen": "2026-10-04"
+ },
+ "remio.ai": {
+  "publisher": "remio",
+  "count": 1,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "OpenAI Jalapeño推論チップ、Nvidiaの汎用AIハードウェアに挑む"
+  ],
+  "last_seen": "2026-10-04"
+ },
+ "indiantelevision.com": {
+  "publisher": "Indian Television Dot Com",
+  "count": 1,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "Anthropic to invest $100 million to train 10,000 AI engineers by 2027"
+  ],
+  "last_seen": "2026-10-04"
+ },
+ "theinformation.com": {
+  "publisher": "theinformation.com",
+  "count": 1,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)"
+  ],
+  "last_seen": "2026-10-04"
+ },
+ "edu.watch.impress.co.jp": {
+  "publisher": "こどもとIT",
+  "count": 1,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "生成AIを教育の「伴走者」へ、教員9人が活用アイデアを披露 「Gemini for Education アイデアソン 2026 Showcase」レポート"
+  ],
+  "last_seen": "2026-10-04"
  }
 }
