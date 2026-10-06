@@ -41,6 +41,26 @@
   ],
   "last_seen": "2026-10-03"
  },
+ "unite.ai": {
+  "publisher": "Unite.AI",
+  "count": 2,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "NYC市議会の公聴会でAnthropic、OpenAI、Google、Metaが宣誓下に呼び出される",
+   "Chatham Financial、OpenAI Codexを活用して資本市場向けツールを構築"
+  ],
+  "last_seen": "2026-10-06"
+ },
+ "moomoo.com": {
+  "publisher": "moomoo.com",
+  "count": 2,
+  "first_seen": "2026-10-06",
+  "examples": [
+   "マスク氏がTSMCとTerafabの協議を確認、インテルは118ドルのプットウォールを突破：オプション市場の噂",
+   "メタとマイクロソフト、従業員がAnthropicの「Claude」から離れるよう取り組む－The Information"
+  ],
+  "last_seen": "2026-10-06"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -212,15 +232,6 @@
   ],
   "last_seen": "2026-10-03"
  },
- "unite.ai": {
-  "publisher": "Unite.AI",
-  "count": 1,
-  "first_seen": "2026-10-03",
-  "examples": [
-   "Chatham Financial、OpenAI Codexを活用して資本市場向けツールを構築"
-  ],
-  "last_seen": "2026-10-03"
- },
  "cnbc.com": {
   "publisher": "CNBC",
   "count": 1,
@@ -301,5 +312,32 @@
    "生成AIを教育の「伴走者」へ、教員9人が活用アイデアを披露 「Gemini for Education アイデアソン 2026 Showcase」レポート"
   ],
   "last_seen": "2026-10-04"
+ },
+ "topics.smt.docomo.ne.jp": {
+  "publisher": "ｄメニューニュース",
+  "count": 1,
+  "first_seen": "2026-10-06",
+  "examples": [
+   "米国株式市場＝ナスダック最高値、エヌビディア・マイクロソフトけん引 企業決算に注目"
+  ],
+  "last_seen": "2026-10-06"
+ },
+ "techspot.com": {
+  "publisher": "techspot.com",
+  "count": 1,
+  "first_seen": "2026-10-06",
+  "examples": [
+   "Anthropic reported diary entry to police, woman faces felony charge"
+  ],
+  "last_seen": "2026-10-06"
+ },
+ "abc3340.com": {
+  "publisher": "WBMA",
+  "count": 1,
+  "first_seen": "2026-10-06",
+  "examples": [
+   "100,000 Alabama Power Customers Affected in Southern Company Data Breach"
+  ],
+  "last_seen": "2026-10-06"
  }
 }
