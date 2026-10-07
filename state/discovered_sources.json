@@ -339,5 +339,23 @@
    "100,000 Alabama Power Customers Affected in Southern Company Data Breach"
   ],
   "last_seen": "2026-10-06"
+ },
+ "hashout.jp": {
+  "publisher": "shiritomo",
+  "count": 1,
+  "first_seen": "2026-10-07",
+  "examples": [
+   "Google Docs・Sheets・Slidesの中からClaudeが直接編集、公開ベータで変わる使い方の中身"
+  ],
+  "last_seen": "2026-10-07"
+ },
+ "nintendo.co.jp": {
+  "publisher": "nintendo.co.jp",
+  "count": 1,
+  "first_seen": "2026-10-07",
+  "examples": [
+   "任天堂株式会社 ニュースリリース :2026年10月6日 - 3本のソフトからお好きな1本を選択してダウンロードできる「Nintendo Switch 2（日本語・国内専用） 選べるソフト セット」を発売｜任天堂"
+  ],
+  "last_seen": "2026-10-07"
  }
 }
