@@ -10,6 +10,17 @@
   ],
   "last_seen": "2026-10-01"
  },
+ "unite.ai": {
+  "publisher": "Unite.AI",
+  "count": 4,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告",
+   "OpenAI、ChatGPT for Teens向けにCollege Plannerと学習ツールを発表",
+   "NYC市議会の公聴会でAnthropic、OpenAI、Google、Metaが宣誓下に呼び出される"
+  ],
+  "last_seen": "2026-10-08"
+ },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
   "count": 3,
@@ -41,16 +52,6 @@
   ],
   "last_seen": "2026-10-03"
  },
- "unite.ai": {
-  "publisher": "Unite.AI",
-  "count": 2,
-  "first_seen": "2026-10-03",
-  "examples": [
-   "NYC市議会の公聴会でAnthropic、OpenAI、Google、Metaが宣誓下に呼び出される",
-   "Chatham Financial、OpenAI Codexを活用して資本市場向けツールを構築"
-  ],
-  "last_seen": "2026-10-06"
- },
  "moomoo.com": {
   "publisher": "moomoo.com",
   "count": 2,
@@ -60,6 +61,16 @@
    "メタとマイクロソフト、従業員がAnthropicの「Claude」から離れるよう取り組む－The Information"
   ],
   "last_seen": "2026-10-06"
+ },
+ "scworld.com": {
+  "publisher": "SC Media",
+  "count": 2,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "Ransomware group BYOD claims Trump Mobile data breach",
+   "Teenager arrested in Spain suspected of leading KillSec ransomware group"
+  ],
+  "last_seen": "2026-10-08"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -214,15 +225,6 @@
   ],
   "last_seen": "2026-10-02"
  },
- "scworld.com": {
-  "publisher": "SC Media",
-  "count": 1,
-  "first_seen": "2026-10-02",
-  "examples": [
-   "Teenager arrested in Spain suspected of leading KillSec ransomware group"
-  ],
-  "last_seen": "2026-10-02"
- },
  "betanews.com": {
   "publisher": "BetaNews",
   "count": 1,
@@ -357,5 +359,32 @@
    "任天堂株式会社 ニュースリリース :2026年10月6日 - 3本のソフトからお好きな1本を選択してダウンロードできる「Nintendo Switch 2（日本語・国内専用） 選べるソフト セット」を発売｜任天堂"
   ],
   "last_seen": "2026-10-07"
+ },
+ "rswebsols.com": {
+  "publisher": "rswebsols.com",
+  "count": 1,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "Meta and Microsoft take steps to reduce employee usage of Claude AI"
+  ],
+  "last_seen": "2026-10-08"
+ },
+ "mezha.net": {
+  "publisher": "mezha.net",
+  "count": 1,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
+  ],
+  "last_seen": "2026-10-08"
+ },
+ "xenospectrum.com": {
+  "publisher": "XenoSpectrum",
+  "count": 1,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
+  ],
+  "last_seen": "2026-10-08"
  }
 }

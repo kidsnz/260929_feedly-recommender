@@ -1,5 +1,847 @@
 [
  {
+  "title": "NVIDIA「RTX Spark」搭載のノートPC「Surface Laptop Ultra」発売 価格は51万3480円から",
+  "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002110/",
+  "source": "ITmedia AI+",
+  "via": "RSS",
+  "collector": "ITmedia AI+",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+  "domain": "itmedia.co.jp",
+  "lang": "ja",
+  "score": 4.1904,
+  "published": "2026-10-07T19:35:52+00:00",
+  "original": {
+   "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark starting at $2,599 — coinciding with major Windows 11 changes for agentic AI",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHJ0QXM4cldZUWlId2djUG5Mc3FFVHVkWmdCemplNko0bEZrY1RqU3RETzE3ZVk0a1NwbWQyZVJKTGxrUzBrUGNxbVNSQ1A2dUtCbE53aEZkQ0E1UjczUGFkRURIVVcxOWtFQ0ctM2dEZG5OOU52MEtNX2hIeVI5amtnZjA1bnBFMm1iVVo0WV9tTlkwMFhUamZCMEMxQnRwUVRMZ05fbUhTQTBEaHRSZkhsVGVfWE1uc0xtSzZlSFhIcFZFZVR1TzE5T1JfQkVRaXhHQ0VWSjVGbDhIenc2cl8yVE9BTWNFUlR0b1lYcHowYWVPTUIydjRFNUFGZUtlZjFZUzFVYUVWX3VWRXItUkNkOA?oc=5",
+   "source": "Tom's Hardware"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Microsoft",
+    "Windows"
+   ],
+   "半導体・データセンター": [
+    "NVIDIA"
+   ],
+   "AIエージェント・AIコーディング": [
+    "agentic"
+   ],
+   "ガジェット・PC・電子工作": [
+    "laptop"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": [
+   "BBN Times",
+   "Barron's",
+   "CNET",
+   "Engadget",
+   "France 24",
+   "Gagadget.com",
+   "TechPowerUp",
+   "TechRepublic",
+   "Techmeme",
+   "The Register",
+   "The Verge",
+   "Windows Central"
+  ]
+ },
+ {
+  "title": "AI競争の最前線「常時動作型AIエージェント」とはなにか Dots、Grok Bot、Muse【西田宗千佳のイマトミライ】",
+  "link": "https://www.watch.impress.co.jp/docs/series/nishida/2145835.html",
+  "source": "watch.impress.co.jp",
+  "via": "はてブ検索",
+  "collector": "はてブ: AIエージェント",
+  "feed_url": "https://b.hatena.ne.jp/q/AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88?mode=rss&sort=recent&users=5",
+  "domain": "watch.impress.co.jp",
+  "lang": "ja",
+  "score": 2.9535,
+  "published": "2026-10-06T00:44:22+00:00",
+  "original": {
+   "title": "Grok Bot just got a lot smarter thanks to Anthropic’s Claude",
+   "link": "https://9to5mac.com/2026/10/07/grok-bot-just-got-a-lot-smarter-thanks-to-anthropics-claude/",
+   "source": "9to5Mac"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "Grok",
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Meta"
+   ],
+   "Anthropic・Claude": [
+    "Anthropic",
+    "Claude"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI",
+    "ChatGPT"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "Campus Technology",
+   "조선일보"
+  ]
+ },
+ {
+  "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+  "source": "Hacker News",
+  "via": "RSS",
+  "collector": "Hacker News",
+  "feed_url": "https://news.ycombinator.com/rss",
+  "domain": "rswebsols.com",
+  "lang": "en",
+  "score": 2.0858,
+  "published": "2026-10-07T18:49:40+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Meta",
+    "Microsoft"
+   ],
+   "Anthropic・Claude": [
+    "Claude"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": []
+ },
+ {
+  "title": "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pMWlxZ3hkVmlTRjhjUTRXcFhITjc0VTZtWHJCeHlXUG1WZ0VqNWNWSmRzZ2NIbnpPUlczRFQ4Ym1TZVdrazFwNGxIS3E5MDdRSWRvekd5MFIzUkduSTRWa3BfNnFOLW8?oc=5",
+  "source": "mezha.net",
+  "via": "Googleニュース",
+  "collector": "Google: 生成AI OR AIエージェント",
+  "feed_url": "https://news.google.com/rss/search?q=%E7%94%9F%E6%88%90AI+OR+AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "mezha.net",
+  "lang": "ja",
+  "score": 2.0529,
+  "published": "2026-10-07T21:36:44+00:00",
+  "original": {
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "source": "TechCrunch"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ],
+   "経済・マーケット・企業": [
+    "valuation"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "The Next Web"
+  ]
+ },
+ {
+  "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+  "link": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+  "source": "The Decoder",
+  "via": "RSS",
+  "collector": "The Decoder",
+  "feed_url": "https://the-decoder.com/feed/",
+  "domain": "the-decoder.com",
+  "lang": "en",
+  "score": 2.013,
+  "published": "2026-10-07T17:58:20+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Zuckerberg",
+    "Google",
+    "Meta"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "link": "https://openai.com/index/teens-learn-and-plan",
+  "source": "OpenAI News",
+  "via": "RSS",
+  "collector": "OpenAI News",
+  "feed_url": "https://openai.com/news/rss.xml",
+  "domain": "openai.com",
+  "lang": "en",
+  "score": 1.975,
+  "published": "2026-10-07T12:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "ChatGPT"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "OpenAI"
+  ]
+ },
+ {
+  "title": "Meta launches Muse for iPad following weeks as the top iPhone app",
+  "link": "https://9to5mac.com/2026/10/07/meta-launches-muse-for-ipad-following-weeks-as-the-top-iphone-app/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5mac.com",
+  "lang": "en",
+  "score": 1.9507,
+  "published": "2026-10-07T14:19:14+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Meta",
+    "iPhone",
+    "iPad"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "AI agent"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "BigGo Finance",
+   "Cult of Mac"
+  ]
+ },
+ {
+  "title": "Building resilient systems with Sam Newman",
+  "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+  "source": "The Pragmatic Engineer",
+  "via": "RSS",
+  "collector": "The Pragmatic Engineer",
+  "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+  "domain": "newsletter.pragmaticengineer.com",
+  "lang": "en",
+  "score": 1.6496,
+  "published": "2026-10-07T17:19:58+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: The Pragmatic Engineer"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "SREのためのAIコーディングエージェント利用料最適化",
+  "link": "https://zenn.dev/kosments/books/ai-agent-cost-optimization-2026",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.5589,
+  "published": "2026-10-07T17:07:43+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "コーディング",
+    "Claude Code",
+    "Codex",
+    "Cursor"
+   ],
+   "Anthropic・Claude": [
+    "Claude",
+    "Claude Code"
+   ],
+   "OpenAI・ChatGPT": [
+    "Codex"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "OpenAI、ChatGPT for Teens向けにCollege Plannerと学習ツールを発表",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHNISG14Tm5sVWJnZlJxYkpCb1ZZZ2l5WUkzdmdOdzdiUzVHZWl6VkZtNDg4ZU1FVkMtSWZYR0R1NXBEMGtUY1BPdVk2NXZvc3kwLUNrS3BSTVd4ZmtOSUJ1bVhidWJCUFh3LV83d1FsWVFsbWJxcGZ0c082WktwYUN0dVh5WWpveXdpOS1TemhVbUxfZ1BfYWdTSQ?oc=5",
+  "source": "Unite.AI",
+  "via": "Googleニュース",
+  "collector": "Google: OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini",
+  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "unite.ai",
+  "lang": "ja",
+  "score": 1.4995,
+  "published": "2026-10-07T16:30:07+00:00",
+  "original": {
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "source": "TechCrunch"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "chatbot"
+   ],
+   "OpenAI・ChatGPT": [
+    "ChatGPT"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "AZ Family",
+   "Fox Business",
+   "GovTech",
+   "Redlands Daily Facts",
+   "WLOS"
+  ]
+ },
+ {
+  "title": "Samsung HBM4E Passes Testing for NVIDIA's \"Rubin Ultra\" GPU",
+  "link": "https://www.techpowerup.com/353467/samsung-hbm4e-passes-testing-for-nvidias-rubin-ultra-gpu",
+  "source": "TechPowerUp",
+  "via": "RSS",
+  "collector": "TechPowerUp",
+  "feed_url": "https://www.techpowerup.com/rss/news",
+  "domain": "techpowerup.com",
+  "lang": "en",
+  "score": 1.3481,
+  "published": "2026-10-07T16:28:32+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "NVIDIA",
+    "Samsung",
+    "GPU"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "1日16万円以上のAI費用発生で開発元が悲鳴。『妹に運転を教える』プレイヤー数1か月で20倍に―デモ版早期終了も視野 | Game*Spark - 国内・海外ゲーム情報サイト",
+  "link": "https://www.gamespark.jp/article/2026/10/07/173304.html",
+  "source": "はてなブックマーク アニメとゲーム 人気",
+  "via": "RSS",
+  "collector": "はてなブックマーク アニメとゲーム 人気",
+  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
+  "domain": "gamespark.jp",
+  "lang": "ja",
+  "score": 1.3171,
+  "published": "2026-10-07T16:55:36+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "Game*Spark",
+   "gamespark.jp"
+  ]
+ },
+ {
+  "title": "Anti-Patterns in Software Blogging",
+  "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+  "source": "Simon Willison's Weblog",
+  "via": "RSS",
+  "collector": "Simon Willison's Weblog",
+  "feed_url": "https://simonwillison.net/atom/everything/",
+  "domain": "simonwillison.net",
+  "lang": "en",
+  "score": 1.27,
+  "published": "2026-10-07T14:53:51+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "専門媒体: Simon Willison's Weblog"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: Simon Willison's Weblog"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "複数の AI エージェントで 1 つのリポジトリを回すとき、書き手と判断を 1 か所に寄せる",
+  "link": "https://zenn.dev/kodomo_news/articles/186-single-writer-and-organizer-role",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.2578,
+  "published": "2026-10-07T13:54:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "コーディング"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVdSN0lKLTUtZ01BRWt4T2F0ODNSdU1Fc0syMFZObXljaXR3Znl4dVNhLWRNaF8xYXFDNUNlWjU4ZkU2cUluMlUweUtCQll3ZERFd0E4MkVhNGlOdWNxNG5jZG1ZbzZHTGU2SGc4X2RSY0R5YXM1LXdDeFlYX2d5N3ZkM0wxMW9BTy1VbDRONEdmZw?oc=5",
+  "source": "Unite.AI",
+  "via": "Googleニュース",
+  "collector": "Google: OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini",
+  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "unite.ai",
+  "lang": "ja",
+  "score": 1.2568,
+  "published": "2026-10-07T17:40:11+00:00",
+  "original": {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "link": "https://openai.com/index/radisson",
+   "source": "OpenAI News"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "専門媒体: OpenAI News"
+   ],
+   "OpenAI・ChatGPT": [
+    "ChatGPT",
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": []
+ },
+ {
+  "title": "Apple partners with The King’s Trust on new Creative Labs initiative in the UK",
+  "link": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/",
+  "source": "9to5Mac",
+  "via": "RSS",
+  "collector": "9to5Mac",
+  "feed_url": "https://9to5mac.com/feed/",
+  "domain": "9to5mac.com",
+  "lang": "en",
+  "score": 1.1511,
+  "published": "2026-10-07T21:34:54+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "Apple",
+   "MacRumors"
+  ]
+ },
+ {
+  "title": "Some of the best PC speakers and soundbars we've tested are on sale starting at just $27.99",
+  "link": "https://www.tomshardware.com/speakers/some-of-the-best-pc-speakers-and-soundbars-weve-tested-are-on-sale-starting-at-just-usd27-99-save-up-to-36-percent-off-a-new-pair-of-pc-speakers-from-creative-edifier-and-onkyo",
+  "source": "Tom's Hardware",
+  "via": "RSS",
+  "collector": "Tom's Hardware",
+  "feed_url": "https://www.tomshardware.com/feeds/all",
+  "domain": "tomshardware.com",
+  "lang": "en",
+  "score": 1.1509,
+  "published": "2026-10-07T19:27:44+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "専門媒体: Tom's Hardware"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Amazon"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "Apple Watch Series 12 and Ultra 4 Score 4/10 for Repairability",
+  "link": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
+  "source": "MacRumors",
+  "via": "RSS",
+  "collector": "MacRumors",
+  "feed_url": "https://www.macrumors.com/macrumors.xml",
+  "domain": "macrumors.com",
+  "lang": "en",
+  "score": 1.0733,
+  "published": "2026-10-07T21:44:17+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "9to5Mac"
+  ]
+ },
+ {
+  "title": "OLEDなのに18万円台＝インテル・AMD・クアルコムが選べる14型モバイルノートPC「ASUS Zenbook 14」実機レビュー",
+  "link": "https://ascii.jp/elem/000/004/440/4440932/?rss",
+  "source": "ASCII.jp",
+  "via": "RSS",
+  "collector": "ASCII.jp",
+  "feed_url": "https://ascii.jp/rss.xml",
+  "domain": "ascii.jp",
+  "lang": "ja",
+  "score": 0.9889,
+  "published": "2026-10-07T18:00:00+00:00",
+  "original": {
+   "title": "Why I upgraded to a 4K OLED PC gaming monitor",
+   "link": "https://www.tomshardware.com/monitors/gaming-monitors/why-i-upgraded-to-a-4k-oled-pc-gaming-monitor-and-why-you-should-or-shouldnt",
+   "source": "Tom's Hardware"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "専門媒体: Tom's Hardware"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ],
+   "ゲーム": [
+    "gaming"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "メタデータ管理は攻めの投資 データインテリジェンスを獲得せよ",
+  "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/022000534/100200009/",
+  "source": "日経クロステック",
+  "via": "RSS",
+  "collector": "日経クロステック",
+  "feed_url": "https://xtech.nikkei.com/rss/index.rdf",
+  "domain": "xtech.nikkei.com",
+  "lang": "ja",
+  "score": 0.8451,
+  "published": "2026-10-07T22:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "メタ"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": [
+   "日経クロステック（xTECH）"
+  ]
+ },
+ {
+  "title": "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Odlp3QlVRcG1ob2NST2lpSDlXRnJ2a2w2cXdCSURMM2Y3bkFobmc0Nkx5enU1dGFOVXIyNDM1RmhMRE1uRmc1MWlFQzJOWDdBLW5LcGw2NHktMUY0VnV6RFdlRDRxdw?oc=5",
+  "source": "XenoSpectrum",
+  "via": "Googleニュース",
+  "collector": "Google: エヌビディア OR 半導体 OR TSMC OR HBM",
+  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2+OR+%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+TSMC+OR+HBM+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "xenospectrum.com",
+  "lang": "ja",
+  "score": 0.8107,
+  "published": "2026-10-07T21:16:30+00:00",
+  "original": {
+   "title": "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
+   "link": "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
+   "source": "TechPowerUp"
+  },
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "SK hynix",
+    "Samsung",
+    "HBM"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "コピーガード「Denuvo」、“謎のクラック常習犯”特定に向けて怒りの徹底追跡。25本以上ものゲームを破ったDenuvoキラー - AUTOMATON",
+  "link": "https://automaton-media.com/articles/newsjp/20261007-472231/",
+  "source": "はてなブックマーク アニメとゲーム 人気",
+  "via": "RSS",
+  "collector": "はてなブックマーク アニメとゲーム 人気",
+  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
+  "domain": "automaton-media.com",
+  "lang": "ja",
+  "score": 0.7591,
+  "published": "2026-10-07T14:17:27+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "AUTOMATON",
+   "automaton-media.com"
+  ]
+ },
+ {
+  "title": "Netflix「僕の狂ったフェミ彼女」、木戸大聖が“ヨリを戻したい元カレ”役。永野芽郁と初共演",
+  "link": "https://av.watch.impress.co.jp/docs/news/2146423.html",
+  "source": "AV Watch",
+  "via": "RSS",
+  "collector": "AV Watch",
+  "feed_url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
+  "domain": "av.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.7046,
+  "published": "2026-10-07T23:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "映画・アニメ・映像": [
+    "Netflix",
+    "Netflix",
+    "映画"
+   ]
+  },
+  "primary": "映画・アニメ・映像",
+  "related": [
+   "Yahoo!ニュース",
+   "cinemacafe.net",
+   "リアルサウンド"
+  ]
+ },
+ {
+  "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+  "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+  "source": "NASA",
+  "via": "RSS",
+  "collector": "NASA",
+  "feed_url": "https://www.nasa.gov/news-release/feed/",
+  "domain": "nasa.gov",
+  "lang": "en",
+  "score": 0.6642,
+  "published": "2026-10-07T21:16:42+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "SpaceX",
+    "NASA"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": []
+ },
+ {
+  "title": "コロナ後遺症の人の脳で「ドーパミン神経」が傷ついた兆しを発見",
+  "link": "https://nazology.kusuguru.co.jp/archives/200900",
+  "source": "ナゾロジー",
+  "via": "RSS",
+  "collector": "ナゾロジー",
+  "feed_url": "https://nazology.kusuguru.co.jp/feed",
+  "domain": "nazology.kusuguru.co.jp",
+  "lang": "ja",
+  "score": 0.5702,
+  "published": "2026-10-07T14:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "健康・医療・生物": [
+    "健康",
+    "感染",
+    "ウイルス"
+   ],
+   "宇宙・科学研究": [
+    "研究チーム"
+   ],
+   "映画・アニメ・映像": [
+    "ドラマ"
+   ]
+  },
+  "primary": "健康・医療・生物",
+  "related": []
+ },
+ {
+  "title": "銀河団ガスから受ける強烈な“向かい風” ハッブル宇宙望遠鏡が観測した「NGC 4522」",
+  "link": "https://sorae.info/astronomy/20261007-ngc-4522.html",
+  "source": "sorae",
+  "via": "RSS",
+  "collector": "sorae",
+  "feed_url": "https://sorae.info/feed",
+  "domain": "sorae.info",
+  "lang": "ja",
+  "score": 0.5698,
+  "published": "2026-10-07T01:46:04+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "宇宙"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "sorae 宇宙へのポータルサイト"
+  ]
+ },
+ {
+  "title": "フランス国債の激しい売りが、金融市場全体への波及懸念を引き起こしている",
+  "link": "https://www.businessinsider.jp/article/2610-bond-market-sell-off-france-yields-financial-contagion/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 0.5672,
+  "published": "2026-10-07T05:00:00+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "国債",
+    "投資",
+    "投資家"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "BYD’s ultra-luxury EV sedan with coach doors spotted ahead of imminent debut [Video]",
+  "link": "https://electrek.co/2026/10/07/byds-ultra-luxury-ev-coach-doors-spotted-ahead-of-debut/",
+  "source": "Electrek",
+  "via": "RSS",
+  "collector": "Electrek",
+  "feed_url": "https://electrek.co/feed/",
+  "domain": "electrek.co",
+  "lang": "en",
+  "score": 0.5166,
+  "published": "2026-10-07T20:34:08+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "EV",
+    "BYD"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "ジャガー、新型バッテリEV「Type 01」ワールドプレミア 最高出力1030PS、最大トルク1365Nmを発生",
+  "link": "https://car.watch.impress.co.jp/docs/news/2146433.html",
+  "source": "Car Watch",
+  "via": "RSS",
+  "collector": "Car Watch",
+  "feed_url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf",
+  "domain": "car.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.498,
+  "published": "2026-10-07T08:01:48+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "EV",
+    "自動車",
+    "電気自動車"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": [
+   "Yahoo!ニュース"
+  ]
+ },
+ {
+  "title": "Ransomware group BYOD claims Trump Mobile data breach",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWZSWlFYYnN0VzVmSTNSZjRjWGJMMjIwWGs2Ym44TFR3WXcwc1F1U2Rpc01fdVFvN1NFeGhIM2xJWDN1TGJHQnFrS09sazNJTnlWM2h0aDBxTXR5QTFWbnVzelI2M3Z5M0hYaUZtRTVfQUdRUDgtQTNKZ2dzclh4TGVjeWxLckNoWXE0?oc=5",
+  "source": "SC Media",
+  "via": "Googleニュース",
+  "collector": "Google: cybersecurity OR ransomware OR \"data breach\" OR vulnerability",
+  "feed_url": "https://news.google.com/rss/search?q=cybersecurity+OR+ransomware+OR+%22data+breach%22+OR+vulnerability+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+  "domain": "scworld.com",
+  "lang": "en",
+  "score": 0.2115,
+  "published": "2026-10-07T14:28:37+00:00",
+  "original": null,
+  "selected_at": "2026-10-08T00:39:01+00:00",
+  "topics": {
+   "サイバーセキュリティ・プライバシー": [
+    "ransomware",
+    "data breach"
+   ]
+  },
+  "primary": "サイバーセキュリティ・プライバシー",
+  "related": [
+   "CyberSecurityNews",
+   "Cybersecurity Insiders"
+  ]
+ },
+ {
   "title": "Insurers brace for millions in claims as AI agents spin out of control",
   "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
   "source": "The Decoder",
@@ -4760,836 +5602,5 @@
    "GovInfoSecurity",
    "Help Net Security"
   ]
- },
- {
-  "title": "グーグル、次世代モデル「Gemini 4 Argon」を発表 OpenAI・Anthropicをベンチマークで上回ったと主張",
-  "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPb3RpNDFoanFwbEhjZVNyT19GdjJWZXZUanRfQ3l1aTk0cmNtSm9PUEZYODN4NDExZzZlU3AxaVdRQTJrRllsYlFKQUI4c29idzc1blRqT3BKS19HU0xUNGs3OFdfUXhCTnRPalRFLUMzZlpkWnlNNTd0eHhfWWRoRTZPSmljWHdnT21kNmwzSDYxRE0tTDYwOWlkbnFITHlpWXdmWUhRQTNjcXp5d25kOFpPY2doXy1SY0ZaM29hLXlQeXNvYkQtclZLclJaYkh0ODFkdnVfbHowazlCMHV1VTVMdlRDODNPZDUxWkgyUUxjN0VtdDI0NmNMZ0NMamRCclBEN2hUQzd4NXc1SjYyd0dNdXVFTFA5ZVlEWFZJT0FnR0c4ZVNIN0NtUXFVZ3Q3WnBWVjgwN0JxVnExYjlEZk1zeTdaVjBuNFFaR3hMUnVTVDRmdGtjXzZWbG01RVMyclQ0SExobE9Lb1hiMFhGaE52aW9DZEtQUUJuSXRhZjF1Sy1iTk1EV0RWWmhVSC1jOUZNSW5nQTBfUDVXODVpUHlDNzVVMDdVUDg4X3pVVkxSNDA5MVkzR05Ua3MtTVJOTTd4LWRrb1picVRDQ01UbFYxc2pRTE8wYlNldFZ2Y3RhWlNtMkxZMw?oc=5",
-  "source": "Yellow.com",
-  "via": "Googleニュース",
-  "collector": "Google: OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini",
-  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "yellow.com",
-  "lang": "ja",
-  "score": 5.0875,
-  "published": "2026-09-30T21:49:17+00:00",
-  "original": {
-   "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
-   "link": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
-   "source": "The Decoder"
-  },
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "Gemini"
-   ],
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Google"
-   ],
-   "OpenAI・ChatGPT": [
-    "OpenAI",
-    "GPT"
-   ],
-   "Anthropic・Claude": [
-    "Anthropic",
-    "Claude",
-    "Opus"
-   ]
-  },
-  "primary": "OpenAI・ChatGPT",
-  "related": [
-   "9to5Google",
-   "Android Authority",
-   "Barron's",
-   "CNBC",
-   "Kingy AI",
-   "MIXED Reality News",
-   "NewsCord",
-   "SQ Magazine",
-   "TechCrunch",
-   "Techmeme",
-   "Techzine Global",
-   "TestingCatalog AI News",
-   "The Cryptonomist",
-   "The Information",
-   "The New Stack",
-   "The Next Web",
-   "VentureBeat",
-   "XDA",
-   "Yellow.com",
-   "finimize.com",
-   "forkast.news",
-   "seekingalpha.com",
-   "the-decoder.com",
-   "富途牛牛"
-  ]
- },
- {
-  "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
-  "link": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/",
-  "source": "The Decoder",
-  "via": "RSS",
-  "collector": "The Decoder",
-  "feed_url": "https://the-decoder.com/feed/",
-  "domain": "the-decoder.com",
-  "lang": "en",
-  "score": 2.6572,
-  "published": "2026-09-30T17:22:34+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Meta"
-   ],
-   "半導体・データセンター": [
-    "data center",
-    "NVIDIA"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "The New York Times"
-  ]
- },
- {
-  "title": "メタの「ミューズ」を試してみた 便利な反面、怖さも | The Wall Street Journal発",
-  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50cXh3amdNbC0zZ0JHODJfWGdUb3RoOEhnNzk4Vy1tWGVOeEdYWGNSem5MU2ZCbnhuTzdleGdrMGUxVlVqSmVmem8zdy0?oc=5",
-  "source": "ダイヤモンド・オンライン",
-  "via": "Googleニュース",
-  "collector": "Google: アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン",
-  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB+OR+%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB+OR+%E3%83%A1%E3%82%BF+OR+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88+OR+%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "diamond.jp",
-  "lang": "ja",
-  "score": 2.4531,
-  "published": "2026-09-30T05:40:00+00:00",
-  "original": {
-   "title": "Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest (Wall Street Journal)",
-   "link": "https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3",
-   "source": "Techmeme"
-  },
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "半導体・データセンター": [
-    "Jensen Huang",
-    "NVIDIA"
-   ],
-   "Anthropic・Claude": [
-    "Dario Amodei",
-    "Anthropic"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "AI: Reset to Zero",
-   "Android Headlines",
-   "thestreet.com",
-   "timothysykes.com"
-  ]
- },
- {
-  "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
-  "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-  "source": "Google Blog",
-  "via": "RSS",
-  "collector": "Google Blog",
-  "feed_url": "https://blog.google/rss/",
-  "domain": "blog.google",
-  "lang": "en",
-  "score": 2.3299,
-  "published": "2026-09-30T21:30:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Google"
-   ],
-   "AI・生成AI全般": [
-    "AI"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": [
-   "Unite.AI",
-   "blog.google"
-  ]
- },
- {
-  "title": "US regulator probes Anthropic and OpenAI over AI safety: report",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3dWNkdYcXBjUVQ5eDkxSWZBMmhCVlB5Z080Z2FhRERoUjRQdFpqOUdVUnNUSHVlN0JTdkNRY2l6YlNzek9GaXZHeWxYQkZ3a29QRVFETDZRNkc4Qlpzcy1KR09jbnpBcGhEMGl2d2RHTHEtXzAxdWdnNnlVSmxITHB6alZuWkdESjFvX255TE9vVGFtZ3BNdlFWcGppVlFycGMzNmdCeEszUU9Hd1gzNnA1SGtnelpTYjhqdg?oc=5",
-  "source": "ABS-CBN",
-  "via": "Googleニュース",
-  "collector": "Google: Anthropic OR \"Claude AI\" OR \"Claude Code\"",
-  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22+OR+%22Claude+Code%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-  "domain": "abs-cbnnews.com",
-  "lang": "en",
-  "score": 2.2713,
-  "published": "2026-10-01T00:12:13+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "OpenAI・ChatGPT": [
-    "OpenAI"
-   ],
-   "Anthropic・Claude": [
-    "Anthropic"
-   ]
-  },
-  "primary": "OpenAI・ChatGPT",
-  "related": [
-   "ABC News - Breaking News, Latest News and Videos",
-   "Al Jazeera",
-   "My Clallam County",
-   "The Guardian"
-  ]
- },
- {
-  "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-  "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-  "source": "NVIDIA Blog",
-  "via": "RSS",
-  "collector": "NVIDIA Blog",
-  "feed_url": "https://blogs.nvidia.com/feed/",
-  "domain": "blogs.nvidia.com",
-  "lang": "en",
-  "score": 2.1634,
-  "published": "2026-09-30T15:00:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "半導体・データセンター": [
-    "NVIDIA"
-   ],
-   "AIエージェント・AIコーディング": [
-    "agentic"
-   ]
-  },
-  "primary": "半導体・データセンター",
-  "related": []
- },
- {
-  "title": "Helping small businesses put AI to work",
-  "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-  "source": "OpenAI News",
-  "via": "RSS",
-  "collector": "OpenAI News",
-  "feed_url": "https://openai.com/news/rss.xml",
-  "domain": "openai.com",
-  "lang": "en",
-  "score": 1.9642,
-  "published": "2026-09-30T10:00:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "OpenAI・ChatGPT": [
-    "OpenAI"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "OpenAI"
-  ]
- },
- {
-  "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
-  "link": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
-  "source": "The Decoder",
-  "via": "RSS",
-  "collector": "The Decoder",
-  "feed_url": "https://the-decoder.com/feed/",
-  "domain": "the-decoder.com",
-  "lang": "en",
-  "score": 1.7901,
-  "published": "2026-09-30T14:37:24+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI",
-    "DeepSeek"
-   ],
-   "半導体・データセンター": [
-    "NVIDIA"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "qz.com"
-  ]
- },
- {
-  "title": "ミニPCでローカルAIエージェントはどこまで動く？「LM Studio Bionic」で試した",
-  "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2144569.html",
-  "source": "PC Watch",
-  "via": "RSS",
-  "collector": "PC Watch",
-  "feed_url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
-  "domain": "pc.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 1.5485,
-  "published": "2026-09-30T21:06:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "AIエージェント・AIコーディング": [
-    "エージェント",
-    "AIエージェント"
-   ],
-   "ガジェット・PC・電子工作": [
-    "PC"
-   ],
-   "OpenAI・ChatGPT": [
-    "ChatGPT"
-   ]
-  },
-  "primary": "ガジェット・PC・電子工作",
-  "related": [
-   "はてなブックマーク IT 人気",
-   "千葉テレビ放送株式会社"
-  ]
- },
- {
-  "title": "AIエージェントを無人で働かせたら、最後の1行で全部止まった話",
-  "link": "https://zenn.dev/hullspark/articles/570e42ead0c0c1",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 1.4873,
-  "published": "2026-09-30T11:07:21+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "AIエージェント・AIコーディング": [
-    "エージェント",
-    "AIエージェント",
-    "Claude Code"
-   ],
-   "Anthropic・Claude": [
-    "Claude",
-    "Claude Code"
-   ],
-   "ガジェット・PC・電子工作": [
-    "PC"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": []
- },
- {
-  "title": "I Photographed Every Red Wine at Costco and Asked ChatGPT, Claude and Gemini to Build a Wine Cellar",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnV5UW1ySXJIVjRnMHZkVWdRWFQ5YndUTGltVnhpLVFmN21LNnZWa1ZwM3N3UGN2dHVDN3NySlhVUVdmM203R1o3RnYtQWZqT1FxWW9UVlZZcl9MU0liRXMzRl81aTgzM0k5azN0cXBkQ1ZMZXRZeGVYWFNyTE5Bc0lQQmp4Um1u?oc=5",
-  "source": "parade.com",
-  "via": "Googleニュース",
-  "collector": "Google: OpenAI OR ChatGPT OR \"Sam Altman\"",
-  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+%22Sam+Altman%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-  "domain": "parade.com",
-  "lang": "en",
-  "score": 1.4543,
-  "published": "2026-09-30T22:15:24+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "Gemini"
-   ],
-   "Anthropic・Claude": [
-    "Claude"
-   ],
-   "OpenAI・ChatGPT": [
-    "ChatGPT"
-   ]
-  },
-  "primary": "Anthropic・Claude",
-  "related": []
- },
- {
-  "title": "He Built This City",
-  "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-  "source": "Simon Willison's Weblog",
-  "via": "RSS",
-  "collector": "Simon Willison's Weblog",
-  "feed_url": "https://simonwillison.net/atom/everything/",
-  "domain": "simonwillison.net",
-  "lang": "en",
-  "score": 1.3631,
-  "published": "2026-09-30T21:54:19+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "専門媒体: Simon Willison's Weblog"
-   ],
-   "AIエージェント・AIコーディング": [
-    "専門媒体: Simon Willison's Weblog"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": []
- },
- {
-  "title": "主要コーディングエージェントCLI6種の仕様比較：フック・権限・サブエージェント・MCP設定",
-  "link": "https://zenn.dev/yuuichie/articles/e430634357b226",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 1.2972,
-  "published": "2026-09-30T14:14:41+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "AIエージェント・AIコーディング": [
-    "エージェント",
-    "コーディング",
-    "MCP",
-    "Claude Code",
-    "Codex"
-   ],
-   "AI・生成AI全般": [
-    "Grok"
-   ],
-   "Anthropic・Claude": [
-    "Claude",
-    "Claude Code"
-   ],
-   "OpenAI・ChatGPT": [
-    "Codex"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": []
- },
- {
-  "title": "Minisforum AtomMan G1 Pro-89A6 Mini PC Launches With RX 9060 XT Joining RTX 5060 SKU",
-  "link": "https://www.techpowerup.com/353262/minisforum-atomman-g1-pro-89a6-mini-pc-launches-with-rx-9060-xt-joining-rtx-5060-sku",
-  "source": "TechPowerUp",
-  "via": "RSS",
-  "collector": "TechPowerUp",
-  "feed_url": "https://www.techpowerup.com/rss/news",
-  "domain": "techpowerup.com",
-  "lang": "en",
-  "score": 1.23,
-  "published": "2026-09-30T17:14:44+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "半導体・データセンター": [
-    "NVIDIA",
-    "AMD",
-    "GPU"
-   ],
-   "ガジェット・PC・電子工作": [
-    "PC"
-   ]
-  },
-  "primary": "ガジェット・PC・電子工作",
-  "related": []
- },
- {
-  "title": "Amazon、スリム＆USB給電対応の新「Fire TV Stick 4K」。デザイン一新「Fire TVリモコン」",
-  "link": "https://av.watch.impress.co.jp/docs/news/2144504.html",
-  "source": "AV Watch",
-  "via": "RSS",
-  "collector": "AV Watch",
-  "feed_url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
-  "domain": "av.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 1.2223,
-  "published": "2026-09-30T13:00:00+00:00",
-  "original": {
-   "title": "Amazon’s new Fire TV Stick 4K ditches Android & sideloading for $59.99",
-   "link": "https://9to5google.com/2026/09/30/amazon-fire-tv-stick-4k-2026/",
-   "source": "9to5Google"
-  },
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Amazon",
-    "Android"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": [
-   "Engadget",
-   "PCMag",
-   "TechCrunch",
-   "Variety"
-  ]
- },
- {
-  "title": "NVIDIA RTX Spark N1X-Powered ASUS ProArt 16 Laptop Slated for October Launch",
-  "link": "https://www.techpowerup.com/353268/nvidia-rtx-spark-n1x-powered-asus-proart-16-laptop-slated-for-october-launch",
-  "source": "TechPowerUp",
-  "via": "RSS",
-  "collector": "TechPowerUp",
-  "feed_url": "https://www.techpowerup.com/rss/news",
-  "domain": "techpowerup.com",
-  "lang": "en",
-  "score": 1.1018,
-  "published": "2026-09-30T18:05:17+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "半導体・データセンター": [
-    "NVIDIA"
-   ],
-   "ガジェット・PC・電子工作": [
-    "laptop"
-   ]
-  },
-  "primary": "半導体・データセンター",
-  "related": []
- },
- {
-  "title": "Google is supporting water resilience in Chile.",
-  "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
-  "source": "Google Blog",
-  "via": "RSS",
-  "collector": "Google Blog",
-  "feed_url": "https://blog.google/rss/",
-  "domain": "blog.google",
-  "lang": "en",
-  "score": 1.0868,
-  "published": "2026-09-30T18:34:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Google"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": [
-   "blog.google"
-  ]
- },
- {
-  "title": "スマホゲームのセルラン分析（2026年9月17日〜9月23日）。今週の1位は「eFootball」。東南アジアにおける4月〜6月の収益ランキングも",
-  "link": "https://www.4gamer.net/games/536/G053628/20260928001/",
-  "source": "4Gamer.net",
-  "via": "RSS",
-  "collector": "4Gamer.net",
-  "feed_url": "https://www.4gamer.net/rss/index.xml",
-  "domain": "4gamer.net",
-  "lang": "ja",
-  "score": 0.924,
-  "published": "2026-10-01T00:00:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "ゲーム": [
-    "ゲーム"
-   ],
-   "ガジェット・PC・電子工作": [
-    "スマホ"
-   ]
-  },
-  "primary": "ゲーム",
-  "related": []
- },
- {
-  "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-  "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-  "source": "NVIDIA Blog",
-  "via": "RSS",
-  "collector": "NVIDIA Blog",
-  "feed_url": "https://blogs.nvidia.com/feed/",
-  "domain": "blogs.nvidia.com",
-  "lang": "en",
-  "score": 0.8934,
-  "published": "2026-09-30T17:00:21+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "半導体・データセンター": [
-    "NVIDIA"
-   ]
-  },
-  "primary": "半導体・データセンター",
-  "related": []
- },
- {
-  "title": "トヨタ、アルゼンチンＥＶ工場に13.4億ドル投資へ",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Vkhad0tfMWt2NXNlaW42U3lsMHNmN19PNzB0WnpGOWhDQW13MW1jQllvcTJMa1VMaUtIRVZJblRQUUw2OE5FclJyeWRRYUpoT2taYzB1eFZUNURmRTlTWmotQlBFeWJaUjQySFd0ZmZxVjRaSVBiQkhFbw?oc=5",
-  "source": "Reuters",
-  "via": "Googleニュース",
-  "collector": "Google: 自動運転 OR EV OR 人型ロボット",
-  "feed_url": "https://news.google.com/rss/search?q=%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2+OR+EV+OR+%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "reuters.com",
-  "lang": "ja",
-  "score": 0.8895,
-  "published": "2026-10-01T00:03:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "経済・マーケット・企業": [
-    "投資"
-   ],
-   "クルマ・EV・ロボット・自動運転": [
-    "トヨタ",
-    "EV"
-   ]
-  },
-  "primary": "経済・マーケット・企業",
-  "related": [
-   "ニューズウィーク日本版",
-   "ｄメニューニュース"
-  ]
- },
- {
-  "title": "「バブルボブル 4 フレンズ Nintendo Switch 2 Edition + スタードロップマウンテン」，2027年2月25日発売。縦スクロールの新ステージを追加",
-  "link": "https://www.4gamer.net/games/046/G104680/20260930032/",
-  "source": "4Gamer.net",
-  "via": "RSS",
-  "collector": "4Gamer.net",
-  "feed_url": "https://www.4gamer.net/rss/index.xml",
-  "domain": "4gamer.net",
-  "lang": "ja",
-  "score": 0.8175,
-  "published": "2026-09-30T09:59:23+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "ゲーム": [
-    "Nintendo",
-    "Nintendo Switch",
-    "Switch 2"
-   ],
-   "ガジェット・PC・電子工作": [
-    "カメラ"
-   ]
-  },
-  "primary": "ゲーム",
-  "related": [
-   "4gamer.net",
-   "ninten-switch.com"
-  ]
- },
- {
-  "title": "相模原市の光学ガラスメーカー「オハラ」の製品、ローマン宇宙望遠鏡に採用",
-  "link": "https://sorae.info/space/20260930-ohara-roman.html",
-  "source": "sorae",
-  "via": "RSS",
-  "collector": "sorae",
-  "feed_url": "https://sorae.info/feed",
-  "domain": "sorae.info",
-  "lang": "ja",
-  "score": 0.7323,
-  "published": "2026-09-30T10:20:10+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "宇宙・科学研究": [
-    "宇宙",
-    "NASA"
-   ]
-  },
-  "primary": "宇宙・科学研究",
-  "related": [
-   "machida.keizai.biz",
-   "sorae 宇宙へのポータルサイト",
-   "ｄメニューニュース"
-  ]
- },
- {
-  "title": "移植された心臓に見られた「ある意外な変化」とは",
-  "link": "https://nazology.kusuguru.co.jp/archives/200385",
-  "source": "ナゾロジー",
-  "via": "RSS",
-  "collector": "ナゾロジー",
-  "feed_url": "https://nazology.kusuguru.co.jp/feed",
-  "domain": "nazology.kusuguru.co.jp",
-  "lang": "ja",
-  "score": 0.5432,
-  "published": "2026-10-01T00:15:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "健康・医療・生物": [
-    "健康"
-   ],
-   "宇宙・科学研究": [
-    "研究チーム",
-    "論文"
-   ]
-  },
-  "primary": "健康・医療・生物",
-  "related": []
- },
- {
-  "title": "ESA木星氷衛星探査機「Juice」が地球スイングバイに成功 最後のスイングバイは2029年1月予定",
-  "link": "https://sorae.info/space/20260930-juice.html",
-  "source": "sorae",
-  "via": "RSS",
-  "collector": "sorae",
-  "feed_url": "https://sorae.info/feed",
-  "domain": "sorae.info",
-  "lang": "ja",
-  "score": 0.5283,
-  "published": "2026-09-30T02:25:16+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "宇宙・科学研究": [
-    "衛星",
-    "宇宙"
-   ]
-  },
-  "primary": "宇宙・科学研究",
-  "related": []
- },
- {
-  "title": "日本の食卓インフレは遅れてやってくる。欧州熱波、同時多発的不作がもたらす2027年の値上げ、欠品リスク",
-  "link": "https://www.businessinsider.jp/article/2609-european-heatwave-2027-food-inflation/",
-  "source": "Business Insider Japan",
-  "via": "RSS",
-  "collector": "Business Insider Japan",
-  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
-  "domain": "businessinsider.jp",
-  "lang": "ja",
-  "score": 0.5227,
-  "published": "2026-09-30T21:10:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "経済・マーケット・企業": [
-    "インフレ"
-   ]
-  },
-  "primary": "経済・マーケット・企業",
-  "related": []
- },
- {
-  "title": "松本人志プロデュース新コンテンツ、NetflixとDOWNTOWN+で同時配信",
-  "link": "https://av.watch.impress.co.jp/docs/news/2144540.html",
-  "source": "AV Watch",
-  "via": "RSS",
-  "collector": "AV Watch",
-  "feed_url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
-  "domain": "av.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 0.4899,
-  "published": "2026-09-30T07:18:19+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "映画・アニメ・映像": [
-    "Netflix",
-    "Netflix"
-   ]
-  },
-  "primary": "映画・アニメ・映像",
-  "related": []
- },
- {
-  "title": "NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFhLTkZneU9Ya2hKLWthbzg3TmpESVlwR3JVN01jc0VGaE85T0FOUnp6Z09ManVqcDJVNVFwVzUzUk5FMFJ5dUw5UFA4ckpEeDhTcVJLSldfa3k1c3FHMHFjMUVlRURuX014b3BQMmhPSVhrWmQ3ZnhPT05TM2w5dVZYZFZ5ZVoyRjdtSzlUT1Ffck5RSWNGSW9tbUVvSndMMlNUeEFnMWVIalRl?oc=5",
-  "source": "Reuters",
-  "via": "Googleニュース",
-  "collector": "Google: Anthropic OR \"Claude AI\" OR \"Claude Code\"",
-  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22+OR+%22Claude+Code%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-  "domain": "reuters.com",
-  "lang": "en",
-  "score": 0.4547,
-  "published": "2026-09-30T22:25:09+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "Anthropic・Claude": [
-    "Anthropic"
-   ]
-  },
-  "primary": "Anthropic・Claude",
-  "related": [
-   "tradingview.com"
-  ]
- },
- {
-  "title": "Ford’s $30,000 Fathom EV pickup production launch faces uncertainty",
-  "link": "https://electrek.co/2026/09/30/fords-30000-ev-pickup-production-launch-faces-uncertainty/",
-  "source": "Electrek",
-  "via": "RSS",
-  "collector": "Electrek",
-  "feed_url": "https://electrek.co/feed/",
-  "domain": "electrek.co",
-  "lang": "en",
-  "score": 0.4437,
-  "published": "2026-09-30T20:56:09+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "クルマ・EV・ロボット・自動運転": [
-    "EV"
-   ]
-  },
-  "primary": "クルマ・EV・ロボット・自動運転",
-  "related": []
- },
- {
-  "title": "Range Rover Sport EV orders open at nearly $150,000 with up to 378 miles of range",
-  "link": "https://electrek.co/2026/09/30/range-rover-sport-ev-orders-open-nearly-150000-378-miles-range/",
-  "source": "Electrek",
-  "via": "RSS",
-  "collector": "Electrek",
-  "feed_url": "https://electrek.co/feed/",
-  "domain": "electrek.co",
-  "lang": "en",
-  "score": 0.4174,
-  "published": "2026-09-30T14:36:45+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "クルマ・EV・ロボット・自動運転": [
-    "EV"
-   ]
-  },
-  "primary": "クルマ・EV・ロボット・自動運転",
-  "related": []
- },
- {
-  "title": "Russian state hackers use new RedFlick technique to push malware",
-  "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-  "source": "BleepingComputer",
-  "via": "RSS",
-  "collector": "BleepingComputer",
-  "feed_url": "https://www.bleepingcomputer.com/feed/",
-  "domain": "bleepingcomputer.com",
-  "lang": "en",
-  "score": 0.212,
-  "published": "2026-09-30T20:34:01+00:00",
-  "original": null,
-  "selected_at": "2026-10-01T00:18:25+00:00",
-  "topics": {
-   "サイバーセキュリティ・プライバシー": [
-    "hacker",
-    "malware"
-   ]
-  },
-  "primary": "サイバーセキュリティ・プライバシー",
-  "related": []
  }
 ]
