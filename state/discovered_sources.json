@@ -1,4 +1,15 @@
 {
+ "unite.ai": {
+  "publisher": "Unite.AI",
+  "count": 5,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "Sophos、Daybreak AI エージェントが平均ケース対応時間を 89 秒に短縮したと発表",
+   "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告",
+   "OpenAI、ChatGPT for Teens向けにCollege Plannerと学習ツールを発表"
+  ],
+  "last_seen": "2026-10-10"
+ },
  "reuters.com": {
   "publisher": "reuters.com",
   "count": 4,
@@ -9,17 +20,6 @@
    "What is a public benefit corporation, the Anthropic legal structure?"
   ],
   "last_seen": "2026-10-01"
- },
- "unite.ai": {
-  "publisher": "Unite.AI",
-  "count": 4,
-  "first_seen": "2026-10-03",
-  "examples": [
-   "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告",
-   "OpenAI、ChatGPT for Teens向けにCollege Plannerと学習ツールを発表",
-   "NYC市議会の公聴会でAnthropic、OpenAI、Google、Metaが宣誓下に呼び出される"
-  ],
-  "last_seen": "2026-10-08"
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
@@ -395,5 +395,32 @@
    "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
   ],
   "last_seen": "2026-10-09"
+ },
+ "nishinippon.co.jp": {
+  "publisher": "西日本新聞me",
+  "count": 1,
+  "first_seen": "2026-10-10",
+  "examples": [
+   "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
+  ],
+  "last_seen": "2026-10-10"
+ },
+ "cinematoday.jp": {
+  "publisher": "シネマトゥデイ",
+  "count": 1,
+  "first_seen": "2026-10-10",
+  "examples": [
+   "「ホタルの嫁入り」2027年に実写化決定！アニメ放送開始と同時に発表（動画）"
+  ],
+  "last_seen": "2026-10-10"
+ },
+ "fox8live.com": {
+  "publisher": "fox8live.com",
+  "count": 1,
+  "first_seen": "2026-10-10",
+  "examples": [
+   "Judge approves $177 million in AT&T data breach settlement funds"
+  ],
+  "last_seen": "2026-10-10"
  }
 }
