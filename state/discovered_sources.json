@@ -422,5 +422,104 @@
    "Judge approves $177 million in AT&T data breach settlement funds"
   ],
   "last_seen": "2026-10-10"
+ },
+ "scmp.com": {
+  "publisher": "South China Morning Post",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "Anthropic AI agent sent fake murder tip to US police in testing glitch"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "latimes.com": {
+  "publisher": "Los Angeles Times",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "Anthropic’s Claude AI submits a false tip on a Philadelphia crime website"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "cbsnews.com": {
+  "publisher": "cbsnews.com",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "ft.com": {
+  "publisher": "ft.com",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "Nvidia in talks to acquire US 'open' model startup Reflection AI"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "abcnews.com": {
+  "publisher": "ABC News - Breaking News, Latest News and Videos",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "A timeline of developments in AI safety since the attack on Hugging Face"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "ganganonline.com": {
+  "publisher": "ganganonline.com",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "ブルーアーカイブ ゲーム開発部だいぼうけん! 42話 (原作／ブルーアーカイブ 漫画／水あさと) | ガンガンONLINE"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "note.com": {
+  "publisher": "note.com",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "QTEが目指した「ゲームの夢」と現在地｜遊星歯車機関"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "techno-edge.net": {
+  "publisher": "techno-edge.net",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "timesargus.com": {
+  "publisher": "Times Argus",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "Anthropic"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "modernghana.com": {
+  "publisher": "Modern Ghana",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "‘A CHILLING EFFECT’: How OpenAI’s massive math breakthrough is ‘DESTROYING’ early careers"
+  ],
+  "last_seen": "2026-10-11"
+ },
+ "wwltv.com": {
+  "publisher": "WWLTV.com",
+  "count": 1,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "New Orleans cybersecurity company faces several lawsuits after data breach"
+  ],
+  "last_seen": "2026-10-11"
  }
 }
