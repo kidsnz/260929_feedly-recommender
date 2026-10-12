@@ -521,5 +521,77 @@
    "New Orleans cybersecurity company faces several lawsuits after data breach"
   ],
   "last_seen": "2026-10-11"
+ },
+ "biz.chosun.com": {
+  "publisher": "Chosunbiz",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "エヌビディアがReflection AIに追加出資や買収検討中核人材確保も協議 - CHOSUNBIZ"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "mensjournal.com": {
+  "publisher": "Men's Journal",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "Anthropic Took Its AI Tests Offline After Claude Submitted a False Homicide Tip to Police"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "smartnews.com": {
+  "publisher": "SmartNews",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "映画『君の話』主題歌がMrs. GREEN APPLEに決定"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "games.gg": {
+  "publisher": "games.gg",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "Bloodborne PC Port With Multiplayer Faces Vibe Coding Backlash"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "claude.ai": {
+  "publisher": "claude.ai",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "Claude Artifact"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "crossroadstoday.com": {
+  "publisher": "crossroadstoday.com",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "Report: ChatGPT's teen suicide safeguards failed to alert parents"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "thelec.net": {
+  "publisher": "THE ELEC, Korea Electronics Industry Media",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "OpenAI Annualized Revenue Near $50 Billion, Below Earlier Estimate"
+  ],
+  "last_seen": "2026-10-12"
+ },
+ "foxbusiness.com": {
+  "publisher": "Fox Business",
+  "count": 1,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probe"
+  ],
+  "last_seen": "2026-10-12"
  }
 }
