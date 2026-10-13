@@ -72,6 +72,16 @@
   ],
   "last_seen": "2026-10-08"
  },
+ "thenextweb.com": {
+  "publisher": "The Next Web",
+  "count": 2,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+   "Broadcom will lend Anthropic up to $42bn to lease its AI chips"
+  ],
+  "last_seen": "2026-10-13"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -213,15 +223,6 @@
   "first_seen": "2026-10-02",
   "examples": [
    "AIエージェントの責任論、訴訟と当局調査に拡大 OpenAI提訴、FTCも調査へ"
-  ],
-  "last_seen": "2026-10-02"
- },
- "thenextweb.com": {
-  "publisher": "The Next Web",
-  "count": 1,
-  "first_seen": "2026-10-02",
-  "examples": [
-   "Broadcom will lend Anthropic up to $42bn to lease its AI chips"
   ],
   "last_seen": "2026-10-02"
  },
@@ -593,5 +594,23 @@
    "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probe"
   ],
   "last_seen": "2026-10-12"
+ },
+ "malaymail.com": {
+  "publisher": "Malay Mail",
+  "count": 1,
+  "first_seen": "2026-10-13",
+  "examples": [
+   "Meta unveils new AI models it says rival OpenAI, Anthropic"
+  ],
+  "last_seen": "2026-10-13"
+ },
+ "cbc.ca": {
+  "publisher": "CBC",
+  "count": 1,
+  "first_seen": "2026-10-13",
+  "examples": [
+   "Shock and surprise after FBI arrests Canadian cybersecurity expert in ShinyHunters hacking case"
+  ],
+  "last_seen": "2026-10-13"
  }
 }
