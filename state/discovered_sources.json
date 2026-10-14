@@ -12,14 +12,14 @@
  },
  "reuters.com": {
   "publisher": "reuters.com",
-  "count": 4,
+  "count": 5,
   "first_seen": "2026-09-30",
   "examples": [
+   "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち",
    "NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A",
-   "トヨタ、アルゼンチンＥＶ工場に13.4億ドル投資へ",
-   "What is a public benefit corporation, the Anthropic legal structure?"
+   "トヨタ、アルゼンチンＥＶ工場に13.4億ドル投資へ"
   ],
-  "last_seen": "2026-10-01"
+  "last_seen": "2026-10-14"
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
@@ -612,5 +612,41 @@
    "Shock and surprise after FBI arrests Canadian cybersecurity expert in ShinyHunters hacking case"
   ],
   "last_seen": "2026-10-13"
+ },
+ "itmedia.co.jp": {
+  "publisher": "itmedia.co.jp",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "「AI投資の4割が頓挫する」現実 ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "togetter.com": {
+  "publisher": "togetter.com",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "yahoo.com": {
+  "publisher": "Yahoo",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "OpenAI employee arrested for allegedly bugging conference room"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "inc.com": {
+  "publisher": "Inc.com",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "A Cybersecurity Expert Said He Could Beat Ransomware. Prosecutors Say He Paid Hackers Over $8 Million"
+  ],
+  "last_seen": "2026-10-14"
  }
 }
