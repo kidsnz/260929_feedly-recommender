@@ -1,4 +1,15 @@
 {
+ "reuters.com": {
+  "publisher": "reuters.com",
+  "count": 6,
+  "first_seen": "2026-09-30",
+  "examples": [
+   "スペースＸがスターリンク利用制限、ドローン攻撃や防空に支障＝ウクライナ",
+   "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち",
+   "NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A"
+  ],
+  "last_seen": "2026-10-14"
+ },
  "unite.ai": {
   "publisher": "Unite.AI",
   "count": 5,
@@ -9,17 +20,6 @@
    "OpenAI、ChatGPT for Teens向けにCollege Plannerと学習ツールを発表"
   ],
   "last_seen": "2026-10-10"
- },
- "reuters.com": {
-  "publisher": "reuters.com",
-  "count": 5,
-  "first_seen": "2026-09-30",
-  "examples": [
-   "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち",
-   "NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A",
-   "トヨタ、アルゼンチンＥＶ工場に13.4億ドル投資へ"
-  ],
-  "last_seen": "2026-10-14"
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
@@ -646,6 +646,42 @@
   "first_seen": "2026-10-14",
   "examples": [
    "A Cybersecurity Expert Said He Could Beat Ransomware. Prosecutors Say He Paid Hackers Over $8 Million"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "jiji.com": {
+  "publisher": "時事ドットコム",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "対米投資第３弾で半導体工場建設 東京エレ装置供給、ルネサスは調達"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "wmbdradio.com": {
+  "publisher": "1470 & 100.3 WMBD",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "Anthropic to add US voting information to Claude before midterms"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "streetinsider.com": {
+  "publisher": "StreetInsider",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "Anthropic's Q3 revenue surges 45% to nearly $17 billion"
+  ],
+  "last_seen": "2026-10-14"
+ },
+ "securityboulevard.com": {
+  "publisher": "Security Boulevard",
+  "count": 1,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "FBI Data Breach Highlights Risks of Unpatched Oracle PeopleSoft Vulnerability"
   ],
   "last_seen": "2026-10-14"
  }
