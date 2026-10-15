@@ -82,6 +82,16 @@
   ],
   "last_seen": "2026-10-13"
  },
+ "mezha.net": {
+  "publisher": "mezha.net",
+  "count": 2,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "Anthropic、METRの研究者に社員と同等のアクセスを認め、AIシステムの評価を委託",
+   "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
+  ],
+  "last_seen": "2026-10-15"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -367,15 +377,6 @@
   "first_seen": "2026-10-08",
   "examples": [
    "Meta and Microsoft take steps to reduce employee usage of Claude AI"
-  ],
-  "last_seen": "2026-10-08"
- },
- "mezha.net": {
-  "publisher": "mezha.net",
-  "count": 1,
-  "first_seen": "2026-10-08",
-  "examples": [
-   "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
   ],
   "last_seen": "2026-10-08"
  },
@@ -684,5 +685,50 @@
    "FBI Data Breach Highlights Risks of Unpatched Oracle PeopleSoft Vulnerability"
   ],
   "last_seen": "2026-10-14"
+ },
+ "katv.com": {
+  "publisher": "KATV",
+  "count": 1,
+  "first_seen": "2026-10-15",
+  "examples": [
+   "New lawsuits: OpenAI's 'insatiable hunger to win AI race' led to people getting hurt"
+  ],
+  "last_seen": "2026-10-15"
+ },
+ "couriernews.com": {
+  "publisher": "couriernews.com",
+  "count": 1,
+  "first_seen": "2026-10-15",
+  "examples": [
+   "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults"
+  ],
+  "last_seen": "2026-10-15"
+ },
+ "youtu.be": {
+  "publisher": "YouTube",
+  "count": 1,
+  "first_seen": "2026-10-15",
+  "examples": [
+   "【AI朝刊】Anthropic・OpenAI ニュース 2026/10/16（金）｜Anthropic Q3売上168億ドル・黒字（報道）"
+  ],
+  "last_seen": "2026-10-15"
+ },
+ "cnet.com": {
+  "publisher": "CNET",
+  "count": 1,
+  "first_seen": "2026-10-15",
+  "examples": [
+   "New Amazon Bee Personal AI Devices Will Listen and Record You"
+  ],
+  "last_seen": "2026-10-15"
+ },
+ "niigata-nippo.co.jp": {
+  "publisher": "新潟日報",
+  "count": 1,
+  "first_seen": "2026-10-15",
+  "examples": [
+   "宇宙の謎解く望遠鏡が完成 国際観測の中核、北大西洋に"
+  ],
+  "last_seen": "2026-10-15"
  }
 }
