@@ -12,25 +12,36 @@
  },
  "unite.ai": {
   "publisher": "Unite.AI",
-  "count": 5,
+  "count": 6,
   "first_seen": "2026-10-03",
   "examples": [
+   "Anthropic、ClaudeがNISTのECDSA曲線のシードを1990年代の乱数生成器にたどり着いたと発表",
    "Sophos、Daybreak AI エージェントが平均ケース対応時間を 89 秒に短縮したと発表",
-   "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告",
-   "OpenAI、ChatGPT for Teens向けにCollege Plannerと学習ツールを発表"
+   "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告"
   ],
-  "last_seen": "2026-10-10"
+  "last_seen": "2026-10-16"
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
-  "count": 3,
+  "count": 4,
   "first_seen": "2026-09-29",
   "examples": [
+   "Google、米国でUniversal Cartを提供開始、日本は未定",
    "グーグル、Geminiの無料版からFlashを外しAI PlusからProも外す、10月9日から",
-   "OpenAI、ChatGPT Space発表。チームがAIと働く「オフィス」",
-   "OpenAIの音声チャットがDevDay 2026のステージで止まる"
+   "OpenAI、ChatGPT Space発表。チームがAIと働く「オフィス」"
   ],
-  "last_seen": "2026-10-03"
+  "last_seen": "2026-10-16"
+ },
+ "mezha.net": {
+  "publisher": "mezha.net",
+  "count": 3,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "ReplitはAnthropicとの協業を終了、CEOが語る",
+   "Anthropic、METRの研究者に社員と同等のアクセスを認め、AIシステムの評価を委託",
+   "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
+  ],
+  "last_seen": "2026-10-16"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -82,15 +93,15 @@
   ],
   "last_seen": "2026-10-13"
  },
- "mezha.net": {
-  "publisher": "mezha.net",
+ "betanews.com": {
+  "publisher": "BetaNews",
   "count": 2,
-  "first_seen": "2026-10-08",
+  "first_seen": "2026-10-03",
   "examples": [
-   "Anthropic、METRの研究者に社員と同等のアクセスを認め、AIシステムの評価を委託",
-   "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
+   "Eight states sue OpenAI over ChatGPT safety claims",
+   "OpenAI alerts 100+ groups to unauthorized AI agent activity"
   ],
-  "last_seen": "2026-10-15"
+  "last_seen": "2026-10-16"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -235,15 +246,6 @@
    "AIエージェントの責任論、訴訟と当局調査に拡大 OpenAI提訴、FTCも調査へ"
   ],
   "last_seen": "2026-10-02"
- },
- "betanews.com": {
-  "publisher": "BetaNews",
-  "count": 1,
-  "first_seen": "2026-10-03",
-  "examples": [
-   "OpenAI alerts 100+ groups to unauthorized AI agent activity"
-  ],
-  "last_seen": "2026-10-03"
  },
  "cnbc.com": {
   "publisher": "CNBC",
@@ -730,5 +732,23 @@
    "宇宙の謎解く望遠鏡が完成 国際観測の中核、北大西洋に"
   ],
   "last_seen": "2026-10-15"
+ },
+ "coindesk.com": {
+  "publisher": "CoinDesk",
+  "count": 1,
+  "first_seen": "2026-10-16",
+  "examples": [
+   "連邦裁判官、ジェミニとCFTCの共同による500万ドルの暗号通貨和解無効化の要求を却下"
+  ],
+  "last_seen": "2026-10-16"
+ },
+ "investors.com": {
+  "publisher": "Investor's Business Daily",
+  "count": 1,
+  "first_seen": "2026-10-16",
+  "examples": [
+   "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability"
+  ],
+  "last_seen": "2026-10-16"
  }
 }
