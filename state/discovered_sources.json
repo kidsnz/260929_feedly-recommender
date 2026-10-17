@@ -23,14 +23,14 @@
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
-  "count": 4,
+  "count": 5,
   "first_seen": "2026-09-29",
   "examples": [
+   "Claudeが楕円曲線ECDSAの起源を解明、NSAのシードはタイムスタンプだった",
    "Google、米国でUniversal Cartを提供開始、日本は未定",
-   "グーグル、Geminiの無料版からFlashを外しAI PlusからProも外す、10月9日から",
-   "OpenAI、ChatGPT Space発表。チームがAIと働く「オフィス」"
+   "グーグル、Geminiの無料版からFlashを外しAI PlusからProも外す、10月9日から"
   ],
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-17"
  },
  "mezha.net": {
   "publisher": "mezha.net",
@@ -102,6 +102,26 @@
    "OpenAI alerts 100+ groups to unauthorized AI agent activity"
   ],
   "last_seen": "2026-10-16"
+ },
+ "xenospectrum.com": {
+  "publisher": "XenoSpectrum",
+  "count": 2,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き",
+   "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
+  ],
+  "last_seen": "2026-10-17"
+ },
+ "youtu.be": {
+  "publisher": "YouTube",
+  "count": 2,
+  "first_seen": "2026-10-15",
+  "examples": [
+   "「人型ロボット」で負担軽減 作業時間も夜間から日中へ JR東日本(2026年10月17日)",
+   "【AI朝刊】Anthropic・OpenAI ニュース 2026/10/16（金）｜Anthropic Q3売上168億ドル・黒字（報道）"
+  ],
+  "last_seen": "2026-10-17"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -379,15 +399,6 @@
   "first_seen": "2026-10-08",
   "examples": [
    "Meta and Microsoft take steps to reduce employee usage of Claude AI"
-  ],
-  "last_seen": "2026-10-08"
- },
- "xenospectrum.com": {
-  "publisher": "XenoSpectrum",
-  "count": 1,
-  "first_seen": "2026-10-08",
-  "examples": [
-   "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
   ],
   "last_seen": "2026-10-08"
  },
@@ -706,15 +717,6 @@
   ],
   "last_seen": "2026-10-15"
  },
- "youtu.be": {
-  "publisher": "YouTube",
-  "count": 1,
-  "first_seen": "2026-10-15",
-  "examples": [
-   "【AI朝刊】Anthropic・OpenAI ニュース 2026/10/16（金）｜Anthropic Q3売上168億ドル・黒字（報道）"
-  ],
-  "last_seen": "2026-10-15"
- },
  "cnet.com": {
   "publisher": "CNET",
   "count": 1,
@@ -750,5 +752,50 @@
    "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability"
   ],
   "last_seen": "2026-10-16"
+ },
+ "the420.in": {
+  "publisher": "The420.in",
+  "count": 1,
+  "first_seen": "2026-10-17",
+  "examples": [
+   "Anthropic Reportedly Offers Blackstone Over 10% Yield for AI Chip Financing"
+  ],
+  "last_seen": "2026-10-17"
+ },
+ "enterpriseai.economictimes.indiatimes.com": {
+  "publisher": "ET Enterprise AI",
+  "count": 1,
+  "first_seen": "2026-10-17",
+  "examples": [
+   "OpenAI hires former xAI sales executive to lead cybersecurity business"
+  ],
+  "last_seen": "2026-10-17"
+ },
+ "sanyonews.jp": {
+  "publisher": "山陽新聞",
+  "count": 1,
+  "first_seen": "2026-10-17",
+  "examples": [
+   "『我々は宇宙人』シッチェス映画祭で最優秀長編アニメーション映画賞 30歳・門脇康平監督、日本人最年少受賞"
+  ],
+  "last_seen": "2026-10-17"
+ },
+ "github.com": {
+  "publisher": "github.com",
+  "count": 1,
+  "first_seen": "2026-10-17",
+  "examples": [
+   "Codex Desktop continuously generates Crashpad pending dumps"
+  ],
+  "last_seen": "2026-10-17"
+ },
+ "startupfortune.com": {
+  "publisher": "startupfortune.com",
+  "count": 1,
+  "first_seen": "2026-10-17",
+  "examples": [
+   "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)"
+  ],
+  "last_seen": "2026-10-17"
  }
 }
