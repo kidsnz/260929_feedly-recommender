@@ -23,14 +23,14 @@
  },
  "pasqualepillitteri.it": {
   "publisher": "Pasquale Pillitteri",
-  "count": 5,
+  "count": 6,
   "first_seen": "2026-09-29",
   "examples": [
+   "OpenAI leak, three aurora alpha models show up in the API without an announcement",
    "Claudeが楕円曲線ECDSAの起源を解明、NSAのシードはタイムスタンプだった",
-   "Google、米国でUniversal Cartを提供開始、日本は未定",
-   "グーグル、Geminiの無料版からFlashを外しAI PlusからProも外す、10月9日から"
+   "Google、米国でUniversal Cartを提供開始、日本は未定"
   ],
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-18"
  },
  "mezha.net": {
   "publisher": "mezha.net",
@@ -42,6 +42,28 @@
    "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
   ],
   "last_seen": "2026-10-16"
+ },
+ "xenospectrum.com": {
+  "publisher": "XenoSpectrum",
+  "count": 3,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "Samsungが自社製4nmを使わずTSMCの3nmを採用へ、NVIDIAの次世代HBMで異例の判断",
+   "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き",
+   "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
+  ],
+  "last_seen": "2026-10-18"
+ },
+ "github.com": {
+  "publisher": "github.com",
+  "count": 3,
+  "first_seen": "2026-10-17",
+  "examples": [
+   "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+   "Show HN: WhatsApp MCP running free on Cloudflare",
+   "Codex Desktop continuously generates Crashpad pending dumps"
+  ],
+  "last_seen": "2026-10-18"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -103,16 +125,6 @@
   ],
   "last_seen": "2026-10-16"
  },
- "xenospectrum.com": {
-  "publisher": "XenoSpectrum",
-  "count": 2,
-  "first_seen": "2026-10-08",
-  "examples": [
-   "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き",
-   "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
-  ],
-  "last_seen": "2026-10-17"
- },
  "youtu.be": {
   "publisher": "YouTube",
   "count": 2,
@@ -122,6 +134,16 @@
    "【AI朝刊】Anthropic・OpenAI ニュース 2026/10/16（金）｜Anthropic Q3売上168億ドル・黒字（報道）"
   ],
   "last_seen": "2026-10-17"
+ },
+ "nishinippon.co.jp": {
+  "publisher": "西日本新聞me",
+  "count": 2,
+  "first_seen": "2026-10-10",
+  "examples": [
+   "火星の近くに到着した「MMX」の探査機のイメージ（JAXA提供） - 火星衛星の砂採取、31年に地球帰還へ JAXA主導の「MMX」探査機、20日未明打ち上げ - 写真・画像(1/2)",
+   "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
+  ],
+  "last_seen": "2026-10-18"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -410,15 +432,6 @@
    "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
   ],
   "last_seen": "2026-10-09"
- },
- "nishinippon.co.jp": {
-  "publisher": "西日本新聞me",
-  "count": 1,
-  "first_seen": "2026-10-10",
-  "examples": [
-   "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
-  ],
-  "last_seen": "2026-10-10"
  },
  "cinematoday.jp": {
   "publisher": "シネマトゥデイ",
@@ -780,15 +793,6 @@
   ],
   "last_seen": "2026-10-17"
  },
- "github.com": {
-  "publisher": "github.com",
-  "count": 1,
-  "first_seen": "2026-10-17",
-  "examples": [
-   "Codex Desktop continuously generates Crashpad pending dumps"
-  ],
-  "last_seen": "2026-10-17"
- },
  "startupfortune.com": {
   "publisher": "startupfortune.com",
   "count": 1,
@@ -797,5 +801,41 @@
    "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)"
   ],
   "last_seen": "2026-10-17"
+ },
+ "anthropic.com": {
+  "publisher": "anthropic.com",
+  "count": 1,
+  "first_seen": "2026-10-18",
+  "examples": [
+   "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
+  ],
+  "last_seen": "2026-10-18"
+ },
+ "vnua.edu.vn": {
+  "publisher": "Học viện Nông nghiệp Việt Nam",
+  "count": 1,
+  "first_seen": "2026-10-18",
+  "examples": [
+   "OpenAI API Android Software Installer"
+  ],
+  "last_seen": "2026-10-18"
+ },
+ "techbuzz.ai": {
+  "publisher": "The Tech Buzz",
+  "count": 1,
+  "first_seen": "2026-10-18",
+  "examples": [
+   "Anthropic Commits 5% Equity Stake to Public Benefit Fund"
+  ],
+  "last_seen": "2026-10-18"
+ },
+ "enewspf.com": {
+  "publisher": "eNews Park Forest",
+  "count": 1,
+  "first_seen": "2026-10-18",
+  "examples": [
+   "Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence"
+  ],
+  "last_seen": "2026-10-18"
  }
 }
