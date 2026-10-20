@@ -34,14 +34,14 @@
  },
  "mezha.net": {
   "publisher": "mezha.net",
-  "count": 3,
+  "count": 4,
   "first_seen": "2026-10-08",
   "examples": [
+   "元Google CEOのEric Schmidt氏、Anthropic株を約1%保有とBloombergが報道",
    "ReplitはAnthropicとの協業を終了、CEOが語る",
-   "Anthropic、METRの研究者に社員と同等のアクセスを認め、AIシステムの評価を委託",
-   "Nous Researchが9000万ドル調達、企業向けAIエージェントを開発へ"
+   "Anthropic、METRの研究者に社員と同等のアクセスを認め、AIシステムの評価を委託"
   ],
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-20"
  },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
@@ -144,6 +144,16 @@
    "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
   ],
   "last_seen": "2026-10-18"
+ },
+ "news.yahoo.co.jp": {
+  "publisher": "テクノエッジ",
+  "count": 2,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定",
+   "アップル、次のイベントは10月28日「Pro and Tell」。初のタッチスクリーンMacBook Pro発表が有力視"
+  ],
+  "last_seen": "2026-10-20"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -837,5 +847,41 @@
    "Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence"
   ],
   "last_seen": "2026-10-18"
+ },
+ "dailypress.com": {
+  "publisher": "Daily Press",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won’t replace heavy industry"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "jg-tc.com": {
+  "publisher": "Journal Gazette & Times-Courier",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "AI agent governance at scale: The four pillars every enterprise needs"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "tech-blog.rakus.co.jp": {
+  "publisher": "tech-blog.rakus.co.jp",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "clintonherald.com": {
+  "publisher": "Clinton Herald",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say"
+  ],
+  "last_seen": "2026-10-20"
  }
 }
