@@ -34,12 +34,12 @@
  },
  "mezha.net": {
   "publisher": "mezha.net",
-  "count": 4,
+  "count": 5,
   "first_seen": "2026-10-08",
   "examples": [
+   "OpenAIが創薬支援のOrchestra Bioを買収、研究向けAIを拡充",
    "元Google CEOのEric Schmidt氏、Anthropic株を約1%保有とBloombergが報道",
-   "ReplitはAnthropicとの協業を終了、CEOが語る",
-   "Anthropic、METRの研究者に社員と同等のアクセスを認め、AIシステムの評価を委託"
+   "ReplitはAnthropicとの協業を終了、CEOが語る"
   ],
   "last_seen": "2026-10-20"
  },
@@ -152,6 +152,16 @@
   "examples": [
    "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定",
    "アップル、次のイベントは10月28日「Pro and Tell」。初のタッチスクリーンMacBook Pro発表が有力視"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "anthropic.com": {
+  "publisher": "anthropic.com",
+  "count": 2,
+  "first_seen": "2026-10-18",
+  "examples": [
+   "Claude designed protein binders against scorpion neurotoxins",
+   "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
   ],
   "last_seen": "2026-10-20"
  },
@@ -812,15 +822,6 @@
   ],
   "last_seen": "2026-10-17"
  },
- "anthropic.com": {
-  "publisher": "anthropic.com",
-  "count": 1,
-  "first_seen": "2026-10-18",
-  "examples": [
-   "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
-  ],
-  "last_seen": "2026-10-18"
- },
  "vnua.edu.vn": {
   "publisher": "Học viện Nông nghiệp Việt Nam",
   "count": 1,
@@ -881,6 +882,33 @@
   "first_seen": "2026-10-20",
   "examples": [
    "Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "dbrnews.com": {
+  "publisher": "DBRNews.com",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "A flaw in three major AI agent platforms shows why guardrails don't work"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "mainichi.jp": {
+  "publisher": "毎日新聞",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "WSJ日本版：アンソロピック、IPO目論見書草案が示す急成長とリスク"
+  ],
+  "last_seen": "2026-10-20"
+ },
+ "wgme.com": {
+  "publisher": "WGME",
+  "count": 1,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "Hannaford website, app back online after cybersecurity incident"
   ],
   "last_seen": "2026-10-20"
  }
