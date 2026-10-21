@@ -34,14 +34,14 @@
  },
  "mezha.net": {
   "publisher": "mezha.net",
-  "count": 5,
+  "count": 6,
   "first_seen": "2026-10-08",
   "examples": [
+   "Walmart、AIエージェントによる顧客の買い物を可能に",
    "OpenAIが創薬支援のOrchestra Bioを買収、研究向けAIを拡充",
-   "元Google CEOのEric Schmidt氏、Anthropic株を約1%保有とBloombergが報道",
-   "ReplitはAnthropicとの協業を終了、CEOが語る"
+   "元Google CEOのEric Schmidt氏、Anthropic株を約1%保有とBloombergが報道"
   ],
-  "last_seen": "2026-10-20"
+  "last_seen": "2026-10-21"
  },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
@@ -64,6 +64,17 @@
    "Codex Desktop continuously generates Crashpad pending dumps"
   ],
   "last_seen": "2026-10-18"
+ },
+ "news.yahoo.co.jp": {
+  "publisher": "テクノエッジ",
+  "count": 3,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "米テスラ7～9月期、56％減益 AI投資重荷、EV販売は堅調",
+   "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定",
+   "アップル、次のイベントは10月28日「Pro and Tell」。初のタッチスクリーンMacBook Pro発表が有力視"
+  ],
+  "last_seen": "2026-10-21"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -144,16 +155,6 @@
    "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
   ],
   "last_seen": "2026-10-18"
- },
- "news.yahoo.co.jp": {
-  "publisher": "テクノエッジ",
-  "count": 2,
-  "first_seen": "2026-10-20",
-  "examples": [
-   "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定",
-   "アップル、次のイベントは10月28日「Pro and Tell」。初のタッチスクリーンMacBook Pro発表が有力視"
-  ],
-  "last_seen": "2026-10-20"
  },
  "anthropic.com": {
   "publisher": "anthropic.com",
@@ -911,5 +912,32 @@
    "Hannaford website, app back online after cybersecurity incident"
   ],
   "last_seen": "2026-10-20"
+ },
+ "gori.me": {
+  "publisher": "ゴリミー",
+  "count": 1,
+  "first_seen": "2026-10-21",
+  "examples": [
+   "ついにCarPlayのGoogle マップでGeminiが使えるようになった"
+  ],
+  "last_seen": "2026-10-21"
+ },
+ "blog.flatt.tech": {
+  "publisher": "blog.flatt.tech",
+  "count": 1,
+  "first_seen": "2026-10-21",
+  "examples": [
+   "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog"
+  ],
+  "last_seen": "2026-10-21"
+ },
+ "rutlandherald.com": {
+  "publisher": "Rutland Herald",
+  "count": 1,
+  "first_seen": "2026-10-21",
+  "examples": [
+   "Anthropic"
+  ],
+  "last_seen": "2026-10-21"
  }
 }
