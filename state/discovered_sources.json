@@ -1,4 +1,15 @@
 {
+ "mezha.net": {
+  "publisher": "mezha.net",
+  "count": 7,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "Geminiアプリ、Personal IntelligenceにGoogle Mapsのデータを追加 ArgonがDeep Thinkに取って代わる見通し",
+   "Walmart、AIエージェントによる顧客の買い物を可能に",
+   "OpenAIが創薬支援のOrchestra Bioを買収、研究向けAIを拡充"
+  ],
+  "last_seen": "2026-10-22"
+ },
  "reuters.com": {
   "publisher": "reuters.com",
   "count": 6,
@@ -31,17 +42,6 @@
    "Google、米国でUniversal Cartを提供開始、日本は未定"
   ],
   "last_seen": "2026-10-18"
- },
- "mezha.net": {
-  "publisher": "mezha.net",
-  "count": 6,
-  "first_seen": "2026-10-08",
-  "examples": [
-   "Walmart、AIエージェントによる顧客の買い物を可能に",
-   "OpenAIが創薬支援のOrchestra Bioを買収、研究向けAIを拡充",
-   "元Google CEOのEric Schmidt氏、Anthropic株を約1%保有とBloombergが報道"
-  ],
-  "last_seen": "2026-10-21"
  },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
@@ -165,6 +165,16 @@
    "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
   ],
   "last_seen": "2026-10-20"
+ },
+ "theinformation.com": {
+  "publisher": "theinformation.com",
+  "count": 2,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "Sources: SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November (The Information)",
+   "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)"
+  ],
+  "last_seen": "2026-10-22"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -370,15 +380,6 @@
   "first_seen": "2026-10-04",
   "examples": [
    "Anthropic to invest $100 million to train 10,000 AI engineers by 2027"
-  ],
-  "last_seen": "2026-10-04"
- },
- "theinformation.com": {
-  "publisher": "theinformation.com",
-  "count": 1,
-  "first_seen": "2026-10-04",
-  "examples": [
-   "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)"
   ],
   "last_seen": "2026-10-04"
  },
