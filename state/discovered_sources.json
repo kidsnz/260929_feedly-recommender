@@ -176,6 +176,16 @@
   ],
   "last_seen": "2026-10-22"
  },
+ "remio.ai": {
+  "publisher": "remio",
+  "count": 2,
+  "first_seen": "2026-10-04",
+  "examples": [
+   "OpenAIとNASKの提携、AIの安全性・セキュリティ研究を拡大",
+   "OpenAI Jalapeño推論チップ、Nvidiaの汎用AIハードウェアに挑む"
+  ],
+  "last_seen": "2026-10-23"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -362,15 +372,6 @@
   "first_seen": "2026-10-04",
   "examples": [
    "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)"
-  ],
-  "last_seen": "2026-10-04"
- },
- "remio.ai": {
-  "publisher": "remio",
-  "count": 1,
-  "first_seen": "2026-10-04",
-  "examples": [
-   "OpenAI Jalapeño推論チップ、Nvidiaの汎用AIハードウェアに挑む"
   ],
   "last_seen": "2026-10-04"
  },
@@ -940,5 +941,23 @@
    "Anthropic"
   ],
   "last_seen": "2026-10-21"
+ },
+ "cgworld.jp": {
+  "publisher": "CGWORLD.jp",
+  "count": 1,
+  "first_seen": "2026-10-23",
+  "examples": [
+   "「NVIDIA NemoClaw」×「NVIDIA DGX Spark」ではじめる自分専用AIエージェント 第2回：「自分専用AIエージェント」をセットアップする"
+  ],
+  "last_seen": "2026-10-23"
+ },
+ "wskg.org": {
+  "publisher": "WSKG",
+  "count": 1,
+  "first_seen": "2026-10-23",
+  "examples": [
+   "Broome County government website taken down due to global ‘cybersecurity vulnerability’"
+  ],
+  "last_seen": "2026-10-23"
  }
 }
