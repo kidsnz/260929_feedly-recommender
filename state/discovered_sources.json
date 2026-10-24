@@ -10,6 +10,17 @@
   ],
   "last_seen": "2026-10-22"
  },
+ "pasqualepillitteri.it": {
+  "publisher": "Pasquale Pillitteri",
+  "count": 7,
+  "first_seen": "2026-09-29",
+  "examples": [
+   "BlockがDessaを発表、ジャック・ドーシーの音声AIはテキストなしで学習",
+   "OpenAI leak, three aurora alpha models show up in the API without an announcement",
+   "Claudeが楕円曲線ECDSAの起源を解明、NSAのシードはタイムスタンプだった"
+  ],
+  "last_seen": "2026-10-24"
+ },
  "reuters.com": {
   "publisher": "reuters.com",
   "count": 6,
@@ -32,16 +43,16 @@
   ],
   "last_seen": "2026-10-16"
  },
- "pasqualepillitteri.it": {
-  "publisher": "Pasquale Pillitteri",
-  "count": 6,
-  "first_seen": "2026-09-29",
+ "github.com": {
+  "publisher": "github.com",
+  "count": 4,
+  "first_seen": "2026-10-17",
   "examples": [
-   "OpenAI leak, three aurora alpha models show up in the API without an announcement",
-   "Claudeが楕円曲線ECDSAの起源を解明、NSAのシードはタイムスタンプだった",
-   "Google、米国でUniversal Cartを提供開始、日本は未定"
+   "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+   "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+   "Show HN: WhatsApp MCP running free on Cloudflare"
   ],
-  "last_seen": "2026-10-18"
+  "last_seen": "2026-10-24"
  },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
@@ -51,17 +62,6 @@
    "Samsungが自社製4nmを使わずTSMCの3nmを採用へ、NVIDIAの次世代HBMで異例の判断",
    "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き",
    "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
-  ],
-  "last_seen": "2026-10-18"
- },
- "github.com": {
-  "publisher": "github.com",
-  "count": 3,
-  "first_seen": "2026-10-17",
-  "examples": [
-   "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-   "Show HN: WhatsApp MCP running free on Cloudflare",
-   "Codex Desktop continuously generates Crashpad pending dumps"
   ],
   "last_seen": "2026-10-18"
  },
@@ -959,5 +959,32 @@
    "Broome County government website taken down due to global ‘cybersecurity vulnerability’"
   ],
   "last_seen": "2026-10-23"
+ },
+ "kucoin.com": {
+  "publisher": "KuCoin",
+  "count": 1,
+  "first_seen": "2026-10-24",
+  "examples": [
+   "Sweden Bans ChatGPT and Claude, Approves Microsoft Copilot for Government Use"
+  ],
+  "last_seen": "2026-10-24"
+ },
+ "themalaysianreserve.com": {
+  "publisher": "The Malaysian Reserve",
+  "count": 1,
+  "first_seen": "2026-10-24",
+  "examples": [
+   "OpenAI resumes training AI, but without internet access"
+  ],
+  "last_seen": "2026-10-24"
+ },
+ "coladaily.com": {
+  "publisher": "coladaily.com",
+  "count": 1,
+  "first_seen": "2026-10-24",
+  "examples": [
+   "SLED: Columbia cybersecurity incident was ransomware attack"
+  ],
+  "last_seen": "2026-10-24"
  }
 }
