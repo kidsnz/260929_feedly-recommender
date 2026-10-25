@@ -23,14 +23,14 @@
  },
  "reuters.com": {
   "publisher": "reuters.com",
-  "count": 6,
+  "count": 7,
   "first_seen": "2026-09-30",
   "examples": [
+   "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
    "スペースＸがスターリンク利用制限、ドローン攻撃や防空に支障＝ウクライナ",
-   "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち",
-   "NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A"
+   "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち"
   ],
-  "last_seen": "2026-10-14"
+  "last_seen": "2026-10-25"
  },
  "unite.ai": {
   "publisher": "Unite.AI",
@@ -54,6 +54,17 @@
   ],
   "last_seen": "2026-10-24"
  },
+ "news.yahoo.co.jp": {
+  "publisher": "テクノエッジ",
+  "count": 4,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "髙橋海人 念願ダンサー役で映画初主演「かけがえのない作品になった」振り付け担当は「師匠」NOPPO",
+   "米テスラ7～9月期、56％減益 AI投資重荷、EV販売は堅調",
+   "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定"
+  ],
+  "last_seen": "2026-10-25"
+ },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
   "count": 3,
@@ -64,17 +75,6 @@
    "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
   ],
   "last_seen": "2026-10-18"
- },
- "news.yahoo.co.jp": {
-  "publisher": "テクノエッジ",
-  "count": 3,
-  "first_seen": "2026-10-20",
-  "examples": [
-   "米テスラ7～9月期、56％減益 AI投資重荷、EV販売は堅調",
-   "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定",
-   "アップル、次のイベントは10月28日「Pro and Tell」。初のタッチスクリーンMacBook Pro発表が有力視"
-  ],
-  "last_seen": "2026-10-21"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -986,5 +986,68 @@
    "SLED: Columbia cybersecurity incident was ransomware attack"
   ],
   "last_seen": "2026-10-24"
+ },
+ "cnbctv18.com": {
+  "publisher": "CNBC TV18",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "OpenAI, Anthropic and other tech firms turn to religion to guide AI ethics, but some say it isn't that simple"
+  ],
+  "last_seen": "2026-10-25"
+ },
+ "nydailynews.com": {
+  "publisher": "New York Daily News",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "Owners of Elvis Presley’s music sue Anthropic over un-permissioned AI use"
+  ],
+  "last_seen": "2026-10-25"
+ },
+ "minimaxir.com": {
+  "publisher": "minimaxir.com",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
+  ],
+  "last_seen": "2026-10-25"
+ },
+ "dailycal.org": {
+  "publisher": "dailycal.org",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "AI use leads UC Berkeley math professor to see 'no point' in grading homework"
+  ],
+  "last_seen": "2026-10-25"
+ },
+ "pcguide.com": {
+  "publisher": "PC Guide",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "Punchy MSI RTX 5060 Ti, Intel 7 265 prebuilt PC spotted at its lowest price in 30 days at Newegg"
+  ],
+  "last_seen": "2026-10-25"
+ },
+ "opentools.ai": {
+  "publisher": "OpenTools",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "GitHub Copilot metrics now capture OpenCode and other clients beyond the IDE"
+  ],
+  "last_seen": "2026-10-25"
+ },
+ "tribuneindia.com": {
+  "publisher": "The Tribune",
+  "count": 1,
+  "first_seen": "2026-10-25",
+  "examples": [
+   "PM Modi inaugurates RBI’s data centre, cybersecurity institute in Odisha"
+  ],
+  "last_seen": "2026-10-25"
  }
 }
