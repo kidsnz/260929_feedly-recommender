@@ -186,6 +186,26 @@
   ],
   "last_seen": "2026-10-23"
  },
+ "forest.watch.impress.co.jp": {
+  "publisher": "窓の杜",
+  "count": 2,
+  "first_seen": "2026-10-09",
+  "examples": [
+   "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
+   "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
+  ],
+  "last_seen": "2026-10-26"
+ },
+ "itmedia.co.jp": {
+  "publisher": "itmedia.co.jp",
+  "count": 2,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃",
+   "「AI投資の4割が頓挫する」現実 ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？"
+  ],
+  "last_seen": "2026-10-26"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -447,15 +467,6 @@
   ],
   "last_seen": "2026-10-08"
  },
- "forest.watch.impress.co.jp": {
-  "publisher": "窓の杜",
-  "count": 1,
-  "first_seen": "2026-10-09",
-  "examples": [
-   "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
-  ],
-  "last_seen": "2026-10-09"
- },
  "cinematoday.jp": {
   "publisher": "シネマトゥデイ",
   "count": 1,
@@ -662,15 +673,6 @@
    "Shock and surprise after FBI arrests Canadian cybersecurity expert in ShinyHunters hacking case"
   ],
   "last_seen": "2026-10-13"
- },
- "itmedia.co.jp": {
-  "publisher": "itmedia.co.jp",
-  "count": 1,
-  "first_seen": "2026-10-14",
-  "examples": [
-   "「AI投資の4割が頓挫する」現実 ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？"
-  ],
-  "last_seen": "2026-10-14"
  },
  "togetter.com": {
   "publisher": "togetter.com",
