@@ -21,7 +21,6 @@ import re
 from pathlib import Path
 from urllib.parse import urlparse
 
-from crosslang import xl_tokens
 from topics import TOPICS_MD, load_topics, normalize
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -135,7 +134,6 @@ def build(rows: list[dict], topics, half_life: int) -> dict:
     max_share = max(t["share"] for t in collecting) or 1
     for t in topic_out:
         t["collect"] = t["_def"].collect
-        t["lang"] = t["_def"].lang
         t["keywords"] = t["_def"].keywords
         t["english"] = t["_def"].english
         # 平方根で圧縮（「AI」が他のすべてを押し流さないように）してから、topics.md の倍率を掛ける
@@ -230,8 +228,6 @@ def build(rows: list[dict], topics, half_life: int) -> dict:
         "known_domains": known_domains,
         "known_publishers": known_publishers,
         "known_urls_count": len({r["url"] for r in rows}),
-        # 英日照合（crosslang.py）で「よく出る名前か」を判断するための、既読見出しでの特徴語の出現回数
-        "xl_df": dict(sorted(collections.Counter(t for r in rows for t in xl_tokens(r["title"])).items())),
         "top_terms": [{"term": k, "weighted": round(v, 1), "count": term_n[k]} for k, v in term_w.most_common(60)],
         "uncovered_top_terms": uncovered_top,
         "rising_uncovered_terms": rising[:30],
@@ -281,16 +277,13 @@ def render_md(p: dict) -> str:
     a("「採点の重み」は収集時の点数に使う値（割合の平方根 × `topics.md` の倍率を、最大 1.0 に揃えたもの）。"
       "「配分」はその構成比で、合計 100%。表は配分の大きい順。")
     a("")
-    a("「優先言語」のあるトピックでは、その言語の記事を満点、他の言語の記事を半分の点で数えます。")
-    a("")
-    a("| # | トピック | 割合 | 件数 | 傾向 | 倍率 | 優先言語 | 採点の重み | 配分 | |")
-    a("|---|---|---:|---:|---|---:|:---:|---:|---:|---|")
+    a("| # | トピック | 割合 | 件数 | 傾向 | 倍率 | 採点の重み | 配分 | |")
+    a("|---|---|---:|---:|---|---:|---:|---:|---|")
     shown = [t for t in p["topics"] if t["collect"]]
     max_alloc = max(t["allocation"] for t in shown) or 1
     for i, t in enumerate(sorted(shown, key=lambda t: -t["allocation"]), 1):
         mult = f"×{t['multiplier']:g}" if t["multiplier"] != 1 else ""
-        lang = {"en": "英語", "ja": "日本語"}.get(t["lang"], "")
-        a(f"| {i} | {t['name']} | {100 * t['share']:.1f}% | {t['count']} | {t['trend']} | {mult} | {lang} | {t['weight']:.2f} "
+        a(f"| {i} | {t['name']} | {100 * t['share']:.1f}% | {t['count']} | {t['trend']} | {mult} | {t['weight']:.2f} "
           f"| {100 * t['allocation']:.1f}% | `{bar(t['allocation'] / max_alloc, 12)}` |")
     a("")
     skipped = [t for t in p["topics"] if not t["collect"]]
@@ -352,8 +345,7 @@ def render_md(p: dict) -> str:
         yrs = s["old_items_published_years"]
         a(f"- **古い記事 {s['old_items']} 件**: 公開が{yrs[0]}〜{yrs[-1]}年の記事が既読リストの末尾にまとまっています（{srcs}）。"
           "読んだ時期を推定できないため重みはほぼ0ですが、件数としてはソース表に含めています。")
-    a("- **英語の関心**: 既読の大半が日本語のため、英語記事への関心の強さはデータからは測れません。"
-      "`topics.md` の「英語」欄は英語記事を拾うために推測で足した語です。")
+    a("- **「英語」欄**: `topics.md` の「英語」欄は既読データ由来ではなく、英字表記の名前などを推測で足した語です。")
     a("")
     return "\n".join(L)
 

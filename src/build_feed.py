@@ -19,7 +19,7 @@ import xml.etree.ElementTree as ET
 from email.utils import format_datetime
 from pathlib import Path
 
-from collect import Item, collect_all, domain_of, fetch
+from collect import Item, collect_all, detect_lang, domain_of, fetch
 from rank import Profile, load_profile, rank
 from sources import load_sources
 
@@ -35,8 +35,8 @@ MIN_SCORE = 0.1          # これ未満の点数の記事は載せない（ノ�
 PER_SOURCE_CAP = 4       # 1回の実行で同じ媒体から載せる最大件数
 KEEP_DAYS = 7            # フィードに残す日数
 MIN_OK_RSS_RATIO = 0.5   # RSS の半分以上が取得できなければ、フィードを更新せず失敗にする
-AGGREGATOR_RSS = {"Techmeme", "Hacker News", "はてなブックマーク IT 人気", "はてなブックマーク 学び 人気",
-                  "はてなブックマーク アニメとゲーム 人気", "Qiita トレンド"}
+AGGREGATOR_RSS = {"はてなブックマーク IT 人気", "はてなブックマーク 学び 人気", "はてなブックマーク アニメとゲーム 人気",
+                  "Qiita トレンド"}
 JST = dt.timezone(dt.timedelta(hours=9))
 
 STATE_DIR = ROOT / "state"
@@ -54,14 +54,11 @@ def load_json(path: Path, default):
 
 
 def item_to_record(it: Item, selected_at: dt.datetime) -> dict:
-    """採用した記事を保存用の形にする。日本語版があれば、見出し・リンク・出典は日本語記事のものにする。"""
-    shown = it.ja_alt or it
-    original = ({"title": it.title, "link": it.link, "source": it.source} if it.ja_alt else None)
+    """採用した記事を保存用の形にする。"""
     return {
-        "title": shown.title, "link": shown.link, "source": shown.source, "via": shown.via, "collector": shown.collector,
-        "feed_url": shown.feed_url, "domain": shown.domain, "lang": shown.lang, "score": it.score,
-        "published": shown.published.isoformat() if shown.published else None,
-        "original": original,
+        "title": it.title, "link": it.link, "source": it.source, "via": it.via, "collector": it.collector,
+        "feed_url": it.feed_url, "domain": it.domain, "lang": it.lang, "score": it.score,
+        "published": it.published.isoformat() if it.published else None,
         "selected_at": selected_at.isoformat(),
         "topics": {k: v["keywords"] for k, v in it.topics.items()},
         "primary": it.primary,
@@ -90,9 +87,7 @@ def description(rec: dict) -> str:
     via = "" if rec["via"] == "RSS" else f"・{rec['via']}経由"
     related = rec.get("related", [])
     rel = f"｜同じ話題: 他{len(related)}媒体（{'、'.join(related[:3])}{' ほか' if len(related) > 3 else ''}）" if related else ""
-    orig = rec.get("original")
-    org = f"｜原典（英語）: {orig['source']}「{orig['title']}」" if orig else ""
-    return f"該当トピック: {' / '.join(parts)}｜出典: {rec['source']}{via}{org}{rel}｜スコア {rec['score']:.2f}"
+    return f"該当トピック: {' / '.join(parts)}｜出典: {rec['source']}{via}{rel}｜スコア {rec['score']:.2f}"
 
 
 def write_feed(records: list[dict], path: Path, now: dt.datetime) -> None:
@@ -150,14 +145,9 @@ def write_index(records: list[dict], disc: dict, statuses, path: Path, now: dt.d
         for r in recs:
             chips = "".join(f'<span class="chip">{esc(n)}</span>' for n in r["topics"])
             via = "" if r["via"] == "RSS" else f' <span class="via">{esc(r["via"])}経由</span>'
-            lang = '<span class="lang">EN</span>' if r["lang"] == "en" else ""
-            orig = r.get("original")
-            if orig:
-                via += (f' <span class="via">原典: <a class="orig" href="{esc(orig["link"])}" target="_blank" '
-                        f'rel="noopener">{esc(orig["source"])}</a></span>')
             rows.append(
                 f'<li><a href="{esc(r["link"])}" target="_blank" rel="noopener">{esc(r["title"])}</a>'
-                f'<div class="meta">{lang}<span class="src">{esc(r["source"])}</span>{via}'
+                f'<div class="meta"><span class="src">{esc(r["source"])}</span>{via}'
                 f'<span class="score">{r["score"]:.2f}</span></div><div class="chips">{chips}</div></li>')
         sections.append(f'<section><h2>{day} <small>{len(recs)}件</small></h2><ol>{"".join(rows)}</ol></section>')
     disc_rows = "".join(
@@ -189,12 +179,10 @@ li{{padding:12px 0;border-bottom:1px solid var(--line)}}
 li a{{color:var(--fg);text-decoration:none;font-weight:600}}
 li a:hover{{color:var(--accent)}}
 .meta{{display:flex;gap:10px;font-size:12px;color:var(--muted);margin-top:4px;flex-wrap:wrap}}
-.lang{{border:1px solid var(--muted);border-radius:3px;padding:0 4px;font-size:10px;line-height:16px}}
 .score{{margin-left:auto;font-variant-numeric:tabular-nums}}
 .chips{{margin-top:6px;display:flex;gap:6px;flex-wrap:wrap}}
 .chip{{background:var(--chip);border-radius:999px;padding:1px 9px;font-size:12px}}
 .ex{{color:var(--muted);font-size:12px}}
-li a.orig{{font-weight:normal;color:var(--muted);text-decoration:underline}}
 .warn{{color:var(--accent);font-size:13px}}
 footer{{color:var(--muted);font-size:12px;margin-top:40px}}
 </style></head><body><main>
@@ -237,13 +225,13 @@ def main() -> int:
         log(f"RSS の取得成功率が {ok_ratio:.0%} しかないため、フィードを更新せずに終了します")
         return 1
 
-    # 前回までに選んだ記事（残す期間内）と、既読ソースの最新記事を「既に見たもの」として登録
-    old = [r for r in load_json(ITEMS_JSON, [])
-           if now - dt.datetime.fromisoformat(r["selected_at"]) < dt.timedelta(days=KEEP_DAYS)]
+    # 前回までに選んだ記事（残す期間内）と、既読ソースの最新記事を「既に見たもの」として登録。
+    # v2.0.0 より前に選んだ英語記事は載せ続けない（「既に見た」には入れる）
+    old_all = [r for r in load_json(ITEMS_JSON, [])
+               if now - dt.datetime.fromisoformat(r["selected_at"]) < dt.timedelta(days=KEEP_DAYS)]
+    old = [r for r in old_all if detect_lang(r["title"]) == "ja"]
     known_titles = known_source_titles(profile_data, log)
-    seen_titles = [(r["link"], r["title"]) for r in old] + known_titles
-    # 日本語版に差し替えて載せた記事は、英語の原典も「既に見た」に入れる
-    seen_titles += [(r["original"]["link"], r["original"]["title"]) for r in old if r.get("original")]
+    seen_titles = [(r["link"], r["title"]) for r in old_all] + known_titles
     log(f"  既に見た記事として扱う: 前回までの選択 {len(old)} 件 + 既読ソースの最新記事 {len(known_titles)} 件")
 
     res = rank(items, profile, sources.blocked, now=now, limit=args.limit, min_score=args.min_score,

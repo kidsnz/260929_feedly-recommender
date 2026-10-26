@@ -10,9 +10,10 @@
 選んだ基準:
 
 1. **媒体が公式に配信しているRSS**であること（ページの読み取り＝スクレイピングはしない）。
-2. 2026-09-29 に実際に取得でき、直近数日の記事が載っていること。
+2. 追加した日（2026-09-29 か 2026-10-25）に実際に取得でき、直近数日の記事が載っていること。
 3. 既に Feedly で読んでいる媒体（GIGAZINE、Bloomberg、電ファミニコゲーマー、ギズモード、WIRED.jp など）と**重ならない**こと。
-4. プロファイルのどれかのトピックを受け持つこと。AI・テックは**海外媒体を優先**（英語記事は満点、日本語記事は半分の点）、ゲームは日本の媒体だけ。暗号資産は集めない。政治とアートはトピックから外した（2026-09-29）。
+4. プロファイルのどれかのトピックを受け持つこと。暗号資産は集めない。政治とアートはトピックから外した（2026-09-29）。
+5. **日本語の記事だけを載せる**（2026-10-25）。英語の媒体は外し、海外のニュースは日本語で報じる媒体から拾う。見出しに日本語が無い記事は、日本語の媒体のものでも載せない。
 
 「主なトピック」の**先頭**が特定の分野（「半導体」「宇宙」など）の媒体は専門媒体として扱い、見出しにキーワードが無くてもその分野の記事とみなし、その分野の点を1.5倍にします。先頭が「〜全般」の媒体は総合媒体として扱い、この加点をしません。
 
@@ -54,68 +55,35 @@
 | ナゾロジー | ja | https://nazology.kusuguru.co.jp/feed | 科学・健康 | 研究結果の紹介。GIGAZINE の「〜という研究結果」系に近い |
 | カラパイア | ja | https://karapaia.com/index.rdf | 科学・生物 | 動物・科学の不思議ネタ |
 | CINRA | ja | https://www.cinra.net/feed | 映画 | 映画・カルチャー |
-| The Verge | en | https://www.theverge.com/rss/index.xml | テック全般、テック大手、ガジェット | 米国テックの代表的媒体 |
-| Ars Technica | en | https://feeds.arstechnica.com/arstechnica/index | テック全般、AI、科学 | 技術的に踏み込んだ報道 |
-| TechCrunch | en | https://techcrunch.com/feed/ | テック全般、AI、経済 | スタートアップ・AI企業の資金調達と新製品 |
-| MIT Technology Review | en | https://www.technologyreview.com/feed/ | テック全般、AI、科学 | 日本語版は既読。英語版は翻訳されない記事を含む |
-| WIRED (US) | en | https://www.wired.com/feed/rss | テック全般、カルチャー | 日本語版は既読。米国版は翻訳されない記事を含む |
-| Engadget | en | https://www.engadget.com/rss.xml | テック全般、ガジェット | 製品ニュース |
-| Tom's Hardware | en | https://www.tomshardware.com/feeds/all | 半導体、PC | CPU/GPU/メモリの速報 |
-| IEEE Spectrum | en | https://spectrum.ieee.org/feeds/feed.rss | 半導体、ロボット、科学 | 技術者団体の専門誌 |
-| The Register | en | https://www.theregister.com/headlines.atom | テック全般、半導体、セキュリティ | 企業IT・半導体・セキュリティ |
-| Simon Willison's Weblog | en | https://simonwillison.net/atom/everything/ | AIコーディング、AI | LLMとAIコーディングを毎日検証している開発者のブログ |
-| Latent Space | en | https://www.latent.space/feed | AIコーディング、AI | AIエンジニア向けの有力ニュースレター |
-| GitHub Blog | en | https://github.blog/feed/ | 開発全般、AIコーディング | Copilot・開発ツールの公式発表 |
-| Hacker News | en | https://news.ycombinator.com/rss | テック全般、AIコーディング | 開発者コミュニティの公式トップページRSS |
-| OpenAI News | en | https://openai.com/news/rss.xml | OpenAI | OpenAI 公式の発表 |
-| Google Blog | en | https://blog.google/rss/ | テック大手、AI | Google 公式の発表（Gemini など） |
-| Hugging Face Blog | en | https://huggingface.co/blog/feed.xml | AI | オープンモデルの公式発表 |
-| NVIDIA Blog | en | https://blogs.nvidia.com/feed/ | 半導体 | NVIDIA 公式の発表 |
-| Electrek | en | https://electrek.co/feed/ | EV・自動運転 | Tesla・EV専門 |
-| Phys.org | en | https://phys.org/rss-feed/ | 科学 | 研究成果のニュース |
-| ScienceDaily | en | https://www.sciencedaily.com/rss/all.xml | 科学・健康 | 大学・研究機関の発表 |
-| NASA | en | https://www.nasa.gov/news-release/feed/ | 宇宙 | NASA 公式発表 |
-| STAT | en | https://www.statnews.com/feed/ | 健康・医療 | 医療・製薬の専門報道 |
-| BleepingComputer | en | https://www.bleepingcomputer.com/feed/ | セキュリティ | サイバー攻撃・脆弱性の速報 |
-| Cartoon Brew | en | https://www.cartoonbrew.com/feed | アニメ・映像 | アニメーション業界の専門 |
-| Hackaday | en | https://hackaday.com/blog/feed/ | 電子工作 | 電子工作・LED・ハードウェアハック（Adafruit を読んでいた履歴から） |
-| Techmeme | en | https://www.techmeme.com/feed.xml | テック全般・AI | 米国テック業界の主要ニュースを人手で選んで最速で並べる定番。リンクは元記事を使う |
-| The Decoder | en | https://the-decoder.com/feed/ | AI | AIニュース専門。モデル発表・研究を速く拾う |
-| 404 Media | en | https://www.404media.co/rss/ | テック全般、AI | 独立系の調査報道。他が書かないテック・AIの裏側 |
-| Platformer | en | https://www.platformer.news/rss/ | テック大手、AI | Casey Newton のニュースレター。大手プラットフォームとAIの分析 |
-| Stratechery | en | https://stratechery.com/feed/ | テック大手、AI | Ben Thompson の戦略分析（無料記事のみ全文） |
-| Interconnects | en | https://www.interconnects.ai/feed | AI | Nathan Lambert によるモデル訓練・オープンモデルの深い解説 |
-| Import AI | en | https://importai.substack.com/feed | AI | Anthropic 共同創業者 Jack Clark の週刊AI研究まとめ |
-| Understanding AI | en | https://www.understandingai.org/feed | AI | Timothy B. Lee によるAIの丁寧な解説 |
-| One Useful Thing | en | https://www.oneusefulthing.org/feed | AI | Ethan Mollick によるAI活用の考察 |
-| The Pragmatic Engineer | en | https://newsletter.pragmaticengineer.com/feed | AIコーディング | ソフトウェア開発現場とAIツールの実態 |
-| Ben's Bites | en | https://www.bensbites.com/feed | AI、AIコーディング | AIプロダクトの新着まとめ |
-| Google DeepMind Blog | en | https://deepmind.google/blog/rss.xml | AI | DeepMind 公式の研究発表 |
-| 9to5Mac | en | https://9to5mac.com/feed/ | テック大手（Apple） | Apple のリーク・新製品を最速で |
-| MacRumors | en | https://www.macrumors.com/macrumors.xml | テック大手（Apple） | Apple の噂と新製品 |
-| 9to5Google | en | https://9to5google.com/feed/ | テック大手（Google） | Google・Pixel・Gemini の新機能 |
-| TechPowerUp | en | https://www.techpowerup.com/rss/news | 半導体、PC | GPU/CPU/メモリの速報 |
-| ServeTheHome | en | https://www.servethehome.com/feed/ | 半導体・データセンター | サーバー・データセンターハードウェア |
-| Chips and Cheese | en | https://chipsandcheese.com/feed/ | 半導体 | CPU/GPUのアーキテクチャ詳細分析 |
+| Security NEXT | ja | https://www.security-next.com/feed | セキュリティ | 脆弱性・情報漏えい・サイバー攻撃の速報専門。英語の BleepingComputer の代わり |
+| ScanNetSecurity | ja | https://scan.netsecurity.ne.jp/rss/index.rdf | セキュリティ | 国内のセキュリティ専門媒体。インシデントと脆弱性 |
+| ITmedia エンタープライズ | ja | https://rss.itmedia.co.jp/rss/2.0/enterprise.xml | 企業IT全般、AI、セキュリティ | 企業のAI導入・クラウド・セキュリティ |
+| @IT | ja | https://rss.itmedia.co.jp/rss/2.0/ait.xml | 開発全般、セキュリティ、AIコーディング | 開発者・インフラ技術者向け。海外の調査や発表の紹介も多い |
+| Impress クラウドWatch | ja | https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf | データセンター、テック大手 | クラウド・データセンター。海外テックの解説も |
+| MONOist | ja | https://rss.itmedia.co.jp/rss/2.0/monoist.xml | ロボット、半導体 | 製造業・ロボット・組み込み・半導体 |
+| テクノエッジ | ja | https://www.techno-edge.net/rss20/index.rdf | テック全般、AI、ガジェット | 海外のAI・ガジェットの新着を日本語で速く拾う。英語の The Verge・Engadget の代わり |
+| 気になる、記になる… | ja | https://taisy0.com/feed | テック大手（Apple） | Apple の噂・新製品の速報。英語の 9to5Mac・MacRumors の代わり |
+| iPhone Mania | ja | https://iphone-mania.jp/feed/ | テック大手（Apple）、ガジェット | iPhone・Apple の海外報道を日本語で |
+| ITmedia Mobile | ja | https://rss.itmedia.co.jp/rss/2.0/mobile.xml | ガジェット、テック大手 | スマホ・周辺機器 |
+| Make: Japan | ja | https://makezine.jp/feed | 電子工作 | 電子工作・ものづくり。英語の Hackaday の代わり |
+| レスポンス | ja | https://response.jp/rss/index.rdf | クルマ・EV | 自動車・EV の業界ニュース |
+| アニメ！アニメ！ | ja | https://animeanime.jp/rss/index.rdf | アニメ・映像 | アニメ業界のニュース。英語の Cartoon Brew の代わり |
+| QLifePro | ja | https://www.qlifepro.com/feed/ | 健康・医療 | 大学・研究機関の医学研究の発表。英語の STAT の代わり |
+| 大学ジャーナル | ja | https://univ-journal.jp/feed/ | 科学・健康 | 国内大学の研究成果。英語の ScienceDaily・Phys.org の代わり |
 
 ## Googleニュース検索
 
-Googleニュースの検索結果RSS（`news.google.com/rss/search`）。Google が公開APIとして文書化しているものではありませんが、個人利用のRSSとして広く使われています（2026-09-29 にユーザーが採用を判断）。「日本語版さがし」の行は、海外の記事と同じニュースの日本語記事を見つけるためのもの（見つかれば日本語記事に差し替える）。直近1日の記事に限って検索し、1回の実行で下の行数だけアクセスします（間隔1秒）。リンクは Google 経由の転送URLになります。
+Googleニュースの検索結果RSS（`news.google.com/rss/search`）。Google が公開APIとして文書化しているものではありませんが、個人利用のRSSとして広く使われています（2026-09-29 にユーザーが採用を判断）。直近1日の記事に限って検索し、1回の実行で下の行数だけアクセスします（間隔1秒）。リンクは Google 経由の転送URLになります。
 
 | 検索語 | 言語 | ねらうトピック |
 |---|---|---|
-| Anthropic OR "Claude AI" OR "Claude Code" | en | Anthropic・Claude |
-| OpenAI OR ChatGPT OR "Sam Altman" | en | OpenAI・ChatGPT |
-| "AI agent" OR "coding agent" OR "vibe coding" OR "Claude Code" OR Codex | en | AIコーディング |
-| "large language model" OR "AI model" OR Gemini OR DeepSeek OR "generative AI" | en | AI全般 |
-| Nvidia OR TSMC OR "SK Hynix" OR HBM OR semiconductor | en | 半導体 |
-| Apple OR Google OR Meta OR Microsoft OR Amazon | en | テック大手 |
-| cybersecurity OR ransomware OR "data breach" OR vulnerability | en | セキュリティ |
-| 生成AI OR AIエージェント | ja | AI（日本語版さがし） |
-| OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini | ja | AI（日本語版さがし） |
-| エヌビディア OR 半導体 OR TSMC OR HBM | ja | 半導体（日本語版さがし） |
-| アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン | ja | テック大手（日本語版さがし） |
-| サイバー攻撃 OR 脆弱性 OR ランサムウェア | ja | セキュリティ（日本語版さがし） |
+| Anthropic OR Claude OR アンソロピック | ja | Anthropic・Claude |
+| OpenAI OR ChatGPT OR オープンAI OR アルトマン | ja | OpenAI・ChatGPT |
+| AIエージェント OR "Claude Code" OR Codex OR バイブコーディング | ja | AIコーディング |
+| 生成AI OR Gemini OR DeepSeek OR 大規模言語モデル | ja | AI全般 |
+| エヌビディア OR 半導体 OR TSMC OR HBM | ja | 半導体 |
+| アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン | ja | テック大手 |
+| サイバー攻撃 OR 脆弱性 OR ランサムウェア OR 情報漏えい | ja | セキュリティ |
 | 任天堂 OR "Nintendo Switch 2" OR 新作ゲーム OR ゲーム 発売 | ja | ゲーム |
 | 映画 OR アニメ OR 実写化 | ja | 映画・アニメ |
 | 研究結果 OR 研究チーム OR 新発見 | ja | 科学 |

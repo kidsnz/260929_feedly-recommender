@@ -7,13 +7,12 @@ topics.md の書式（1トピック = 1つの「## 見出し」）:
     - 英語: artificial intelligence, generative AI
     - 除外: AIメイク
     - 倍率: 2
-    - 優先言語: en
     - 扱い: 集めない
 
-「キーワード」は既読記事のデータから拾った語、「英語」は英語記事を拾うために足した語。
+「キーワード」は既読記事のデータから拾った語、「英語」は英字表記の名前など推測で足した語。
 照合ではどちらも同じに扱う。「除外」を含む記事はそのトピックに数えない。
 「倍率」は採点の重みに掛ける数（省略時 1）。
-「優先言語」（en / ja）はそのトピックで満点にする記事の言語。「扱い: 集めない」は収集から除外する話題。
+「扱い: 集めない」は収集から除外する話題。
 """
 from __future__ import annotations
 
@@ -40,7 +39,6 @@ class Topic:
     english: list[str] = field(default_factory=list)
     exclude: list[str] = field(default_factory=list)
     multiplier: float = 1.0
-    lang: str = ""          # 優先言語（"en" / "ja" / ""）
     collect: bool = True    # False = 「集めない」話題（当たった記事を除外する）
 
     def __post_init__(self) -> None:
@@ -86,8 +84,6 @@ def load_topics(path: Path = TOPICS_MD) -> list[Topic]:
             key, value = m.groups()
             if key == "倍率":
                 current["multiplier"] = float(value)
-            elif key == "優先言語":
-                current["lang"] = value.strip().lower()
             elif key == "扱い":
                 current["collect"] = value.strip() != "集めない"
             elif key in FIELD_KEYS:
@@ -103,8 +99,7 @@ def load_topics(path: Path = TOPICS_MD) -> list[Topic]:
 def topic_from_dict(d: dict) -> Topic:
     """profile.json のトピック項目から Topic を作る（GitHub Actions 側は topics.md を読まず profile.json だけを使う）。"""
     return Topic(name=d["name"], keywords=d.get("keywords", []), english=d.get("english", []),
-                 exclude=d.get("exclude", []), multiplier=d.get("multiplier", 1.0),
-                 lang=d.get("lang", ""), collect=d.get("collect", True))
+                 exclude=d.get("exclude", []), multiplier=d.get("multiplier", 1.0), collect=d.get("collect", True))
 
 
 def match_all(topics: list[Topic], text: str) -> dict[str, list[str]]:

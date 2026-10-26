@@ -46,8 +46,6 @@ class Item:
     related: list = field(default_factory=list)         # 同じ話題を報じた他の媒体
     fresh: float = 1.0                                  # 新しさの係数（経路の係数を含む）
     buzz: float = 1.0                                   # 話題の大きさの係数
-    ja_alt: "Item | None" = None                        # 同じニュースの日本語記事（あれば出力で差し替える）
-    merged: bool = False
     source_topics: str = ""                             # 収集元の「主なトピック」欄（専門媒体の判定に使う）
 
 

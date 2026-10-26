@@ -4,42 +4,35 @@
 
 - `## 見出し` = トピック名。トピックの追加・削除・並べ替えは自由です。
 - **キーワード**: 既読記事のタイトルに実際に出てきた語から選んだもの。
-- **英語**: 英語の記事を拾うために追加した語（既読記事のデータ由来ではなく、キーワードの英訳・英語表記として推測で足したもの）。
+- **英語**: 推測で足した語（既読記事のデータ由来ではない）。日本語の見出しにも英字のまま出る人名・製品名などに当たる。
 - **除外**: この語を含む記事はそのトピックに数えません。
 - **倍率**: 採点の重みに掛ける数（省略時は 1）。「もっと読みたい」トピックは 2、「控えめに」は 0.5 など。掛けたあと全体を最大 1.0 に揃え直します。
-- **優先言語**: `en` か `ja`。そのトピックでは、この言語の記事を満点、それ以外の言語の記事を半分の点で数えます（省略時は言語で差を付けない）。
 - **扱い**: `集めない` と書くと、そのトピックに当たる記事は**収集から除外**します（タイトルに当たるか、要約に2語以上当たった場合）。
 - 区切りは `,` か `、`。英数字の語は単語単位で照合します。大文字を含む4文字以下の英語（Meta、AI など）は大文字小文字を区別し、それ以外（NVIDIA と Nvidia など）は区別しません。
 
 ## Anthropic・Claude
-- 優先言語: en
 - キーワード: Anthropic, アンソロピック, Claude, Claude Code, Opus, Sonnet, Haiku, Fable, Mythos, ダリオ・アモデイ, アモデイ
 - 英語: Dario Amodei
 
 ## OpenAI・ChatGPT
-- 優先言語: en
 - キーワード: OpenAI, ChatGPT, GPT, Codex, Sora, サム・アルトマン, アルトマン
 - 英語: Sam Altman
 
 ## AI・生成AI全般
-- 優先言語: en
 - キーワード: AI, 生成AI, 人工知能, LLM, 大規模言語モデル, AIモデル, 言語モデル, Gemini, Grok, DeepSeek, Llama, Qwen, Mistral, xAI, AGI, 画像生成, 動画生成, 推論, ベンチマーク, チャットボット
 - 英語: artificial intelligence, generative AI, large language model, chatbot, machine learning, deep learning, foundation model
 - 除外: アートメイク
 
 ## AIエージェント・AIコーディング
 - 倍率: 2
-- 優先言語: en
 - キーワード: エージェント, AIエージェント, コーディング, Claude Code, Codex, Cursor, GitHub Copilot, Copilot, プログラミング, ローカルLLM, MCP, バイブコーディング
 - 英語: AI agent, agentic, coding agent, vibe coding, AI coding, developer tools
 
 ## テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）
-- 優先言語: en
 - キーワード: Google, グーグル, Apple, アップル, Meta, メタ, Amazon, アマゾン, Microsoft, マイクロソフト, iPhone, iPad, Mac, MacBook, Siri, iOS, Android, Pixel, YouTube, Windows, Oracle, オラクル, Palantir, パランティア, ザッカーバーグ, ティム・クック
 - 英語: Alphabet, Zuckerberg, Tim Cook, Sundar Pichai, Satya Nadella, Big Tech
 
 ## 半導体・データセンター
-- 優先言語: en
 - キーワード: 半導体, NVIDIA, エヌビディア, TSMC, SK hynix, SKハイニックス, ハイニックス, サムスン, Samsung, Intel, インテル, AMD, メモリ, メモリー, HBM, DRAM, GPU, CPU, チップ, データセンター, ラピダス, ジェンスン・フアン
 - 英語: semiconductor, chipmaker, Jensen Huang, data center, foundry, Rapidus
 
@@ -48,7 +41,6 @@
 - 英語: stock market, valuation, earnings, acquisition, funding round, Federal Reserve, inflation, SoftBank, Masayoshi Son
 
 ## ゲーム
-- 優先言語: ja
 - キーワード: ゲーム, 任天堂, Nintendo, Steam, Nintendo Switch, Switch 2, Switch2, PlayStation, PS5, Xbox, インディーゲーム, 新作ゲーム, カプコン, スクウェア・エニックス, セガ, バンダイナムコ, コナミ, ゲームボーイ, ファミコン, レトロゲーム, ポケモン, Pokémon
 - 英語: video game, gaming, indie game, game developer
 - 除外: ゲーム理論
@@ -66,7 +58,6 @@
 - 英語: Elon Musk, robotaxi, self-driving, autonomous vehicle, humanoid robot, robotics, electric vehicle
 
 ## サイバーセキュリティ・プライバシー
-- 優先言語: en
 - キーワード: セキュリティ, サイバー攻撃, ハッキング, ハッカー, 脆弱性, マルウェア, ランサムウェア, 情報漏えい, 情報漏洩, 不正アクセス, 詐欺, プライバシー, 暗号化
 - 英語: cybersecurity, hacker, hacking, vulnerability, malware, ransomware, data breach, privacy, encryption
 
@@ -76,7 +67,6 @@
 - 除外: 首脳
 
 ## ガジェット・PC・電子工作
-- 優先言語: en
 - キーワード: ガジェット, スマホ, スマートフォン, PC, パソコン, ノートPC, グラボ, グラフィックボード, キーボード, イヤホン, ヘッドホン, カメラ, ディスプレイ, モニター, Raspberry Pi, ラズパイ, LED, ドローン, DJI, スマートグラス, ウェアラブル, AirTag, 電子工作, 自作PC, レビュー
 - 英語: gadget, smartphone, laptop, graphics card, mechanical keyboard, headphones, camera, Raspberry Pi, Arduino, drone, smart glasses, wearable
 
