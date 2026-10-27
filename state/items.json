@@ -1,5 +1,790 @@
 [
  {
+  "title": "マイクロソフト、6万人対象に希望退職募集 全従業員の4分の1超 AI投資で人件費削減か",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtZlpMeXEzeDg3MENTNUZ6RmhGLXdwQ3JNN2lmX0pLdHFwQmRGRzlhQkN5eHFFQjczWWZtY25tczhXM0d2dWs1eDQya1c1UQ?oc=5",
+  "source": "FNNプライムオンライン",
+  "via": "Googleニュース",
+  "collector": "Google: アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン",
+  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB+OR+%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB+OR+%E3%83%A1%E3%82%BF+OR+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88+OR+%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "fnn.jp",
+  "lang": "ja",
+  "score": 3.0226,
+  "published": "2026-10-26T23:31:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "経済・マーケット・企業": [
+    "投資"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "マイクロソフト"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": [
+   "47NEWS",
+   "CNET Japan",
+   "Infoseek",
+   "RTB SQUARE",
+   "Reuters",
+   "SmartNews",
+   "Yahoo!ニュース",
+   "nippon.com",
+   "テレ朝NEWS",
+   "京都新聞デジタル",
+   "共同通信",
+   "徳島新聞デジタル",
+   "沖縄タイムス社"
+  ]
+ },
+ {
+  "title": "AIエージェントが量子研究の優れた助手に、米OpenAIが発表",
+  "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03098/092900088/",
+  "source": "日経クロステック",
+  "via": "RSS",
+  "collector": "日経クロステック",
+  "feed_url": "https://xtech.nikkei.com/rss/index.rdf",
+  "domain": "xtech.nikkei.com",
+  "lang": "ja",
+  "score": 2.952,
+  "published": "2026-10-26T20:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "AIモデル"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント",
+    "コーディング",
+    "Codex"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI",
+    "GPT",
+    "Codex"
+   ],
+   "宇宙・科学研究": [
+    "量子"
+   ],
+   "半導体・データセンター": [
+    "チップ"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": []
+ },
+ {
+  "title": "Apple、A20 ProチップやOLEDディスプレイを搭載した新型｢iPad mini｣を発表",
+  "link": "https://taisy0.com/2026/10/26/229437.html",
+  "source": "気になる、記になる…",
+  "via": "RSS",
+  "collector": "気になる、記になる…",
+  "feed_url": "https://taisy0.com/feed",
+  "domain": "taisy0.com",
+  "lang": "ja",
+  "score": 2.6316,
+  "published": "2026-10-26T13:13:28+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple",
+    "iPad"
+   ],
+   "半導体・データセンター": [
+    "チップ"
+   ],
+   "ガジェット・PC・電子工作": [
+    "ディスプレイ"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "GAME Watch",
+   "Gadget Gate",
+   "ITmedia NEWS",
+   "はてなブックマーク IT 人気",
+   "ケータイ Watch",
+   "テクノエッジ"
+  ]
+ },
+ {
+  "title": "スペースXのロゴ（ゲッティ＝共同） - AI半導体確保に6兆円超 スペースXがリース契約 - 写真・画像(1/1)",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMNXVSSW9Cb25ITW9vQ3VQZTQyLWNRenZKQ2ZnZHpTeWxZa2VoQ2JubWw4UGNiOFloSTBielZtQldQYlZBbVRheHhZZlQ3d0RWeElqeTZ3OA?oc=5",
+  "source": "西日本新聞me",
+  "via": "Googleニュース",
+  "collector": "Google: エヌビディア OR 半導体 OR TSMC OR HBM",
+  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2+OR+%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+TSMC+OR+HBM+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "nishinippon.co.jp",
+  "lang": "ja",
+  "score": 2.6029,
+  "published": "2026-10-26T23:07:26+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "半導体・データセンター": [
+    "半導体"
+   ],
+   "宇宙・科学研究": [
+    "スペースX"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "OANDA証券",
+   "下野新聞社",
+   "共同通信",
+   "南日本新聞",
+   "大分合同新聞",
+   "ｄメニューニュース"
+  ]
+ },
+ {
+  "title": "AIエージェントと生成ボタンの開発ルールを共通リポジトリで管理する",
+  "link": "https://zenn.dev/kakami21/articles/f4254231afaa87",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.5272,
+  "published": "2026-10-26T13:52:44+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか",
+  "link": "https://automaton-media.com/articles/newsjp/20261026-475703/",
+  "source": "AUTOMATON",
+  "via": "RSS",
+  "collector": "AUTOMATON",
+  "feed_url": "https://automaton-media.com/feed/",
+  "domain": "automaton-media.com",
+  "lang": "ja",
+  "score": 2.3057,
+  "published": "2026-10-26T11:33:32+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "AIモデル"
+   ],
+   "ゲーム": [
+    "ゲーム"
+   ],
+   "Anthropic・Claude": [
+    "Claude"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "automaton-media.com",
+   "はてなブックマーク IT 人気"
+  ]
+ },
+ {
+  "title": "サブエージェントfork・プリロードによるコンテキストの効率化について",
+  "link": "https://zenn.dev/shikamaru/articles/d3142afedf9997",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.1595,
+  "published": "2026-10-26T12:32:30+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "エージェント"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "320BのエージェントCLIモデルIQuest-Q1は動かせなかったが、ライセンスとトークナイザは実際に確認できた",
+  "link": "https://zenn.dev/matsushima_a/articles/day-027-iquest-q1-license-and-tokenizer",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.9716,
+  "published": "2026-10-26T14:11:48+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "エージェント"
+   ],
+   "AI・生成AI全般": [
+    "専門媒体: Zenn: AI"
+   ],
+   "サイバーセキュリティ・プライバシー": [
+    "セキュリティ"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "大企業はAIコストを管理できていない サイボウズ調査で浮かび上がった「3割の壁」",
+  "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
+  "source": "ITmedia AI+",
+  "via": "RSS",
+  "collector": "ITmedia AI+",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+  "domain": "itmedia.co.jp",
+  "lang": "ja",
+  "score": 1.8846,
+  "published": "2026-10-26T23:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "経済・マーケット・企業": [
+    "投資"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "ITmedia エンタープライズ"
+  ]
+ },
+ {
+  "title": "アンソロピック、上場に向け目論見書を公表 ティッカーシンボルは「ANT」",
+  "link": "https://www.watch.impress.co.jp/docs/news/2151319.html",
+  "source": "Impress Watch",
+  "via": "RSS",
+  "collector": "Impress Watch",
+  "feed_url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
+  "domain": "watch.impress.co.jp",
+  "lang": "ja",
+  "score": 1.7003,
+  "published": "2026-10-26T14:57:32+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "専門媒体: Impress Watch"
+   ],
+   "経済・マーケット・企業": [
+    "上場",
+    "株式",
+    "IPO"
+   ],
+   "Anthropic・Claude": [
+    "アンソロピック",
+    "Anthropic"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "47NEWS",
+   "nippon.com",
+   "日本経済新聞"
+  ]
+ },
+ {
+  "title": "「Claude」のAnthropicが上場申請 売上好調で営業損失縮小 ティッカー「ANT」に",
+  "link": "https://japan.cnet.com/article/35253994/",
+  "source": "CNET Japan",
+  "via": "RSS",
+  "collector": "CNET Japan",
+  "feed_url": "https://feeds.japan.cnet.com/rss/cnet/all.rdf",
+  "domain": "japan.cnet.com",
+  "lang": "ja",
+  "score": 1.6746,
+  "published": "2026-10-26T21:58:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "生成AI"
+   ],
+   "Anthropic・Claude": [
+    "Anthropic",
+    "Claude"
+   ],
+   "経済・マーケット・企業": [
+    "上場",
+    "株式",
+    "IPO",
+    "売上高"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": []
+ },
+ {
+  "title": "Cadenceが半導体設計に特化したAIモデル群「Maestro」を発表〜NVIDIAと協業、汎用LLM比で設計品質30％向上",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNnhtUmlFY2t6V3hlZEFKdk9fM0pBMGI4T3N5UUthVW5GRVF3a1lsbHRTLUhoLUJmWnBoV3g2QzBDcEdrN1hWSHNmUQ?oc=5",
+  "source": "EDA EXPRESS",
+  "via": "Googleニュース",
+  "collector": "Google: エヌビディア OR 半導体 OR TSMC OR HBM",
+  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2+OR+%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+TSMC+OR+HBM+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "eda-express.com",
+  "lang": "ja",
+  "score": 1.6127,
+  "published": "2026-10-26T23:56:39+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI",
+    "LLM",
+    "AIモデル"
+   ],
+   "半導体・データセンター": [
+    "半導体",
+    "NVIDIA"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": [
+   "XenoSpectrum",
+   "디지털투데이"
+  ]
+ },
+ {
+  "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか",
+  "link": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news041.html",
+  "source": "ITmedia AI+",
+  "via": "RSS",
+  "collector": "ITmedia AI+",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+  "domain": "monoist.itmedia.co.jp",
+  "lang": "ja",
+  "score": 1.5828,
+  "published": "2026-10-26T21:45:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": [
+   "MONOist"
+  ]
+ },
+ {
+  "title": "AIで「月○○時間削減」それ本当？ 浮いた時間はどこに消えたのか",
+  "link": "https://www.itmedia.co.jp/business/articles/2610/27/news016.html",
+  "source": "ITmedia AI+",
+  "via": "RSS",
+  "collector": "ITmedia AI+",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+  "domain": "itmedia.co.jp",
+  "lang": "ja",
+  "score": 1.4692,
+  "published": "2026-10-26T22:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会",
+  "link": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
+  "source": "ITmedia AI+",
+  "via": "RSS",
+  "collector": "ITmedia AI+",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+  "domain": "itmedia.co.jp",
+  "lang": "ja",
+  "score": 1.4692,
+  "published": "2026-10-26T22:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "｢お前は失うものがない｣とAIがAIに圧力…OpenAIで1200のAIが勝手に\"軍隊化\"するに至った一部始終",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjcUxzcWxnOXNjdk9VbXdrTzg3amo2S05iZUtRbVNDOFRkbE5wSnJSaTdUNE00VnpneDF2TW02a0lrLU40Vk1DbDd4SldPLUpxQV9IQjM4Mi1iMUJxNlRqZ3hqdEtBZGhHNmlpYkYwQWxTYXNPOEFOMlBWUENqWnM?oc=5",
+  "source": "プレジデントオンライン",
+  "via": "Googleニュース",
+  "collector": "Google: OpenAI OR ChatGPT OR オープンAI OR アルトマン",
+  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI+OR+%E3%82%A2%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "news.yahoo.co.jp",
+  "lang": "ja",
+  "score": 1.4596,
+  "published": "2026-10-26T21:16:36+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "Infoseek",
+   "PRESIDENT Online（プレジデントオンライン）"
+  ]
+ },
+ {
+  "title": "台湾も直面する「半導体人材不足」 官民の積極対応促す",
+  "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/26/news061.html",
+  "source": "EE Times Japan",
+  "via": "RSS",
+  "collector": "EE Times Japan",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/eetimes.xml",
+  "domain": "eetimes.itmedia.co.jp",
+  "lang": "ja",
+  "score": 1.3985,
+  "published": "2026-10-26T06:30:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "半導体",
+    "AMD"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "日本の漫画を「即時翻訳」。LINEマンガ運営元が3年100億円投資、NAVER傘下WEBTOONと描く世界戦略",
+  "link": "https://www.businessinsider.jp/article/2610-line-manga-global-strategy-webtoon/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 1.27,
+  "published": "2026-10-26T22:15:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "Apple、｢iPhone Duo｣の画面ひび割れ問題に対する初の公式見解を明らかに",
+  "link": "https://taisy0.com/2026/10/27/229459.html",
+  "source": "気になる、記になる…",
+  "via": "RSS",
+  "collector": "気になる、記になる…",
+  "feed_url": "https://taisy0.com/feed",
+  "domain": "taisy0.com",
+  "lang": "ja",
+  "score": 1.1535,
+  "published": "2026-10-26T17:41:47+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple",
+    "iPhone"
+   ],
+   "ガジェット・PC・電子工作": [
+    "ディスプレイ"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "ソフトバンク、緊急速報メールの配信をすべて再開 PHP脆弱性対応完了",
+  "link": "https://k-tai.watch.impress.co.jp/docs/news/2151324.html",
+  "source": "ケータイ Watch",
+  "via": "RSS",
+  "collector": "ケータイ Watch",
+  "feed_url": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
+  "domain": "k-tai.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 1.1435,
+  "published": "2026-10-26T15:22:28+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "ソフトバンク"
+   ],
+   "ガジェット・PC・電子工作": [
+    "専門媒体: ケータイ Watch"
+   ],
+   "サイバーセキュリティ・プライバシー": [
+    "脆弱性"
+   ]
+  },
+  "primary": "サイバーセキュリティ・プライバシー",
+  "related": [
+   "CNET Japan",
+   "ITmedia Mobile",
+   "Yahoo!ニュース"
+  ]
+ },
+ {
+  "title": "アンソロピック向けに630億ドル、米銀など ブロードコム半導体購入",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk9LTEx6VDB1a0tRTDBEOTZZZVQ1M3pyRVNOS3o1U3ZqejJfYUtVb0ZkbXhHNURPT3hiNlh6ZVEtXzE0SGotSjAtdVNUZ3l6WTBwLVloN3ZSQ3VVSVEwbVEtZEo4ZkN4ZUZ2bVh1SnVJbWFUT3h5Yk15b1dlb2tLbTFTNjVDUQ?oc=5",
+  "source": "Reuters",
+  "via": "Googleニュース",
+  "collector": "Google: Anthropic OR Claude OR アンソロピック",
+  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+Claude+OR+%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "reuters.com",
+  "lang": "ja",
+  "score": 1.0919,
+  "published": "2026-10-26T23:05:35+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "半導体"
+   ],
+   "Anthropic・Claude": [
+    "アンソロピック"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": [
+   "Infoseek",
+   "TBS CROSS DIG with Bloomberg",
+   "ニューズウィーク日本版"
+  ]
+ },
+ {
+  "title": "【第10回アンケート】iPhone Duo もう手元にある？ 使ってみた感想を教えてください",
+  "link": "https://iphone-mania.jp/iphone18-607381/",
+  "source": "iPhone Mania",
+  "via": "RSS",
+  "collector": "iPhone Mania",
+  "feed_url": "https://iphone-mania.jp/feed/",
+  "domain": "iphone-mania.jp",
+  "lang": "ja",
+  "score": 0.9969,
+  "published": "2026-10-27T00:00:46+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "iPhone",
+    "Apple"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "幅約13cmで3画面出力！ AcerのミニPC「Revo Box」新モデル4機種が登場",
+  "link": "https://ascii.jp/elem/000/004/445/4445861/?rss",
+  "source": "ASCII.jp",
+  "via": "RSS",
+  "collector": "ASCII.jp",
+  "feed_url": "https://ascii.jp/rss.xml",
+  "domain": "ascii.jp",
+  "lang": "ja",
+  "score": 0.9016,
+  "published": "2026-10-26T23:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ],
+   "半導体・データセンター": [
+    "CPU"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "巨大なブラックホールはどうやってジェットを噴き出す？ JAXA天文衛星「XRISM」などの観測成果",
+  "link": "https://sorae.info/astronomy/20261026-jet-of-3c-120.html",
+  "source": "sorae",
+  "via": "RSS",
+  "collector": "sorae",
+  "feed_url": "https://sorae.info/feed",
+  "domain": "sorae.info",
+  "lang": "ja",
+  "score": 0.7533,
+  "published": "2026-10-26T11:13:51+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "衛星",
+    "JAXA",
+    "宇宙",
+    "研究チーム"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "Infoseek",
+   "sorae 宇宙へのポータルサイト",
+   "ｄメニューニュース"
+  ]
+ },
+ {
+  "title": "散逸する企業研修用や自治体製作のゲームを収集・保存し“評価の物差し”を作る。石神康秀氏が語った「シリアスゲームミュージアム」の設立構想",
+  "link": "https://www.4gamer.net/games/991/G999104/20261026036/",
+  "source": "4Gamer.net",
+  "via": "RSS",
+  "collector": "4Gamer.net",
+  "feed_url": "https://www.4gamer.net/rss/index.xml",
+  "domain": "4gamer.net",
+  "lang": "ja",
+  "score": 0.7219,
+  "published": "2026-10-27T00:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": []
+ },
+ {
+  "title": "約3980円で省スペース！ DeepCool「CC310」は工具なしでパネルを外せるミニタワーPCケース",
+  "link": "https://ascii.jp/elem/000/004/445/4445862/?rss",
+  "source": "ASCII.jp",
+  "via": "RSS",
+  "collector": "ASCII.jp",
+  "feed_url": "https://ascii.jp/rss.xml",
+  "domain": "ascii.jp",
+  "lang": "ja",
+  "score": 0.6605,
+  "published": "2026-10-27T00:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "ガジェット・PC・電子工作": [
+    "PC",
+    "グラフィックボード"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "自動運転EVバス、滋賀県・彦根城ルートで実証運行…マクニカ",
+  "link": "https://response.jp/article/2026/10/26/418213.html",
+  "source": "レスポンス",
+  "via": "RSS",
+  "collector": "レスポンス",
+  "feed_url": "https://response.jp/rss/index.rdf",
+  "domain": "response.jp",
+  "lang": "ja",
+  "score": 0.558,
+  "published": "2026-10-26T04:30:03+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "自動運転",
+    "EV"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": [
+   "レスポンス（Response.jp）",
+   "山陽新聞"
+  ]
+ },
+ {
+  "title": "「これは買いでしょ」テスラからCHAdeMO対応アダプター発売に、オーナーからは喜びの声",
+  "link": "https://response.jp/article/2026/10/26/418233.html",
+  "source": "レスポンス",
+  "via": "RSS",
+  "collector": "レスポンス",
+  "feed_url": "https://response.jp/rss/index.rdf",
+  "domain": "response.jp",
+  "lang": "ja",
+  "score": 0.5024,
+  "published": "2026-10-26T10:30:03+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "テスラ"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": []
+ },
+ {
+  "title": "「劇場版 怪獣８号」2027年公開決定！ 完結は映画で―未曾有の脅威描くビジュアルもお披露目",
+  "link": "https://animeanime.jp/article/2026/10/26/104214.html",
+  "source": "アニメ！アニメ！",
+  "via": "RSS",
+  "collector": "アニメ！アニメ！",
+  "feed_url": "https://animeanime.jp/rss/index.rdf",
+  "domain": "animeanime.jp",
+  "lang": "ja",
+  "score": 0.4919,
+  "published": "2026-10-26T07:30:03+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "映画・アニメ・映像": [
+    "映画",
+    "劇場版"
+   ]
+  },
+  "primary": "映画・アニメ・映像",
+  "related": []
+ },
+ {
+  "title": "動物園のライオンに丸ごと獲物を与えたところ、野生の本能が呼び覚まされた",
+  "link": "https://karapaia.com/archives/632425.html",
+  "source": "カラパイア",
+  "via": "RSS",
+  "collector": "カラパイア",
+  "feed_url": "https://karapaia.com/index.rdf",
+  "domain": "karapaia.com",
+  "lang": "ja",
+  "score": 0.4117,
+  "published": "2026-10-26T23:00:00+00:00",
+  "selected_at": "2026-10-27T00:09:25+00:00",
+  "topics": {
+   "健康・医療・生物": [
+    "動物"
+   ],
+   "宇宙・科学研究": [
+    "研究チーム"
+   ]
+  },
+  "primary": "健康・医療・生物",
+  "related": []
+ },
+ {
   "title": "別のAIにレビューさせる決まりをClaude Codeが忘れるので、終了時に1回だけ止めるフックを作った",
   "link": "https://zenn.dev/twinharness/articles/codex-review-gate-stop-hook",
   "source": "Zenn: Claude Code",
@@ -2955,434 +3740,5 @@
   "related": [
    "Yahoo!ニュース"
   ]
- },
- {
-  "title": "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ",
-  "link": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
-  "source": "はてなブックマーク IT 人気",
-  "via": "RSS",
-  "collector": "はてなブックマーク IT 人気",
-  "feed_url": "https://b.hatena.ne.jp/hotentry/it.rss",
-  "domain": "tech-blog.rakus.co.jp",
-  "lang": "ja",
-  "score": 2.131,
-  "published": "2026-10-19T06:12:20+00:00",
-  "original": {
-   "title": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)",
-   "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-   "source": "Techmeme"
-  },
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "AIエージェント・AIコーディング": [
-    "Claude Code"
-   ],
-   "Anthropic・Claude": [
-    "Claude",
-    "Claude Code"
-   ]
-  },
-  "primary": "Anthropic・Claude",
-  "related": []
- },
- {
-  "title": "あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開",
-  "link": "https://pc.watch.impress.co.jp/docs/news/2149440.html",
-  "source": "PC Watch",
-  "via": "RSS",
-  "collector": "PC Watch",
-  "feed_url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
-  "domain": "pc.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 1.6473,
-  "published": "2026-10-19T12:59:42+00:00",
-  "original": {
-   "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
-   "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
-   "source": "The Decoder"
-  },
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI",
-    "DeepSeek"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "SiliconANGLE",
-   "VentureBeat"
-  ]
- },
- {
-  "title": "元Google CEOのEric Schmidt氏、Anthropic株を約1%保有とBloombergが報道",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdlh1d0ZBWkhqOVZ4Yjh5RUhwYWZWMVl6ek9ySlJCLUx2Qy02TURUMnlJSlBvTDBRR1NpeUxGa1pTN2lIVzlja1RNS2ctZHRlWXZRTWhURXBFVEg2ZjdFTVNvT0xKYzJzZUR0b0NLSFFwYXBUMGpTU25TaVYxb2R1RFEtSnl4TTg5REVBdlp0dVc3VFZlenNDMw?oc=5",
-  "source": "Mezha.net",
-  "via": "Googleニュース",
-  "collector": "Google: OpenAI OR ChatGPT OR Anthropic OR Claude OR Gemini",
-  "feed_url": "https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "mezha.net",
-  "lang": "ja",
-  "score": 1.5116,
-  "published": "2026-10-19T17:07:00+00:00",
-  "original": {
-   "title": "Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO (Bloomberg)",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall",
-   "source": "Techmeme"
-  },
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "Anthropic・Claude": [
-    "Anthropic"
-   ],
-   "経済・マーケット・企業": [
-    "IPO"
-   ],
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Google"
-   ]
-  },
-  "primary": "Anthropic・Claude",
-  "related": [
-   "Stocktwits",
-   "TradingView"
-  ]
- },
- {
-  "title": "アンソロピックの巨額契約が映すAIコストの現実。トークン単価低下でも投資増の理由をAkamai幹部に聞く",
-  "link": "https://www.businessinsider.jp/article/2610-anthropic-akamai-ai-infrastructure-cost/",
-  "source": "Business Insider Japan",
-  "via": "RSS",
-  "collector": "Business Insider Japan",
-  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
-  "domain": "businessinsider.jp",
-  "lang": "ja",
-  "score": 1.4656,
-  "published": "2026-10-19T21:00:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "経済・マーケット・企業": [
-    "投資"
-   ],
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "Anthropic・Claude": [
-    "アンソロピック"
-   ]
-  },
-  "primary": "経済・マーケット・企業",
-  "related": []
- },
- {
-  "title": "Codexに動画を調べさせても、発言の時刻と文言は確認できなかった",
-  "link": "https://zenn.dev/twinharness/articles/video-codex-text-claude-crosscheck",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 1.4399,
-  "published": "2026-10-19T14:30:52+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "AIエージェント・AIコーディング": [
-    "Codex",
-    "Claude Code"
-   ],
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "OpenAI・ChatGPT": [
-    "Codex",
-    "OpenAI"
-   ],
-   "Anthropic・Claude": [
-    "Anthropic",
-    "Claude",
-    "Claude Code"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": []
- },
- {
-  "title": "常駐型AIチャットエージェントの「処理中」サイン設計 — 既読後の沈黙をどう埋めるか",
-  "link": "https://zenn.dev/hach/articles/chat-agent-progress-acknowledgment-design",
-  "source": "Zenn: AI",
-  "via": "RSS",
-  "collector": "Zenn: AI",
-  "feed_url": "https://zenn.dev/topics/ai/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 1.3705,
-  "published": "2026-10-19T22:13:06+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "AIエージェント・AIコーディング": [
-    "エージェント",
-    "AIエージェント"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": []
- },
- {
-  "title": "アップル、次のイベントは10月28日「Pro and Tell」。初のタッチスクリーンMacBook Pro発表が有力視",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsaG1xXzdaWS1TVmN0Q1F5TGY2OEZQU0dIa18wTHV4Zm9lazRVWVJIcExtX1ZLbXRTcm4ydzMzMnZGc0J1cjJOMlgzak1wUUM3OXRDZndSNHZhcHNtaE9aMzJMMF95VVV0RFloMV9VZ2U2YndEUzhnTHRqWFBRaW8?oc=5",
-  "source": "テクノエッジ",
-  "via": "Googleニュース",
-  "collector": "Google: アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン",
-  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB+OR+%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB+OR+%E3%83%A1%E3%82%BF+OR+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88+OR+%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "news.yahoo.co.jp",
-  "lang": "ja",
-  "score": 1.1832,
-  "published": "2026-10-19T22:19:57+00:00",
-  "original": {
-   "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
-   "link": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
-   "source": "MacRumors"
-  },
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Apple"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": [
-   "9to5Mac",
-   "Reuters"
-  ]
- },
- {
-  "title": "米国債利回りが魅力的になっても、株式投資を続ける――。著名ストラテジストの投資方法",
-  "link": "https://www.businessinsider.jp/article/2610-hightower-stephanie-link-stocks-treasury-yields-rise/",
-  "source": "Business Insider Japan",
-  "via": "RSS",
-  "collector": "Business Insider Japan",
-  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
-  "domain": "businessinsider.jp",
-  "lang": "ja",
-  "score": 1.1028,
-  "published": "2026-10-19T08:30:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "経済・マーケット・企業": [
-    "株式",
-    "国債",
-    "投資"
-   ],
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "宇宙・科学研究": [
-    "スペースX"
-   ]
-  },
-  "primary": "経済・マーケット・企業",
-  "related": []
- },
- {
-  "title": "火星衛星探査機「MMX」いよいよ出発へ JAXAがH3ロケット10号機の打ち上げ日時を決定",
-  "link": "https://sorae.info/space/20261019-h3f10-mmx.html",
-  "source": "sorae",
-  "via": "RSS",
-  "collector": "sorae",
-  "feed_url": "https://sorae.info/feed",
-  "domain": "sorae.info",
-  "lang": "ja",
-  "score": 1.0391,
-  "published": "2026-10-19T02:41:50+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "宇宙・科学研究": [
-    "ロケット",
-    "衛星",
-    "JAXA",
-    "火星",
-    "宇宙"
-   ]
-  },
-  "primary": "宇宙・科学研究",
-  "related": [
-   "47NEWS",
-   "CNET Japan",
-   "FNNプライムオンライン",
-   "HOME広島ホームテレビ",
-   "Infoseek",
-   "MBC南日本放送",
-   "SPACE CONNECT",
-   "SmartNews",
-   "TBS NEWS DIG",
-   "Yahoo!ニュース",
-   "innovaTopia",
-   "jaxa.jp",
-   "news.web.nhk",
-   "nippon.com",
-   "sorae 宇宙へのポータルサイト",
-   "はてなブックマーク 学び 人気",
-   "ウェザーニュース",
-   "マイナビニュース",
-   "南日本新聞",
-   "山形新聞",
-   "日本経済新聞",
-   "時事ドットコム",
-   "時事通信",
-   "時事通信ニュース",
-   "産経ニュース",
-   "福井新聞社",
-   "西日本新聞me",
-   "ｄメニューニュース"
-  ]
- },
- {
-  "title": "「ショックで立ち直れない」…9年かけた成人向けSLG『ディザーターズ』クラックされ勝手に改造＆翻訳の海賊版が配信。今後リリース予定のSteam版にも影響か | Game*Spark - 国内・海外ゲーム情報サイト",
-  "link": "https://www.gamespark.jp/article/2026/10/19/173789.html",
-  "source": "はてなブックマーク アニメとゲーム 人気",
-  "via": "RSS",
-  "collector": "はてなブックマーク アニメとゲーム 人気",
-  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
-  "domain": "gamespark.jp",
-  "lang": "ja",
-  "score": 0.8422,
-  "published": "2026-10-19T09:44:37+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "ゲーム": [
-    "ゲーム",
-    "Steam"
-   ],
-   "ガジェット・PC・電子工作": [
-    "PC"
-   ]
-  },
-  "primary": "ゲーム",
-  "related": [
-   "Game*Spark",
-   "gamespark.jp"
-  ]
- },
- {
-  "title": "アライグマたちが“資金洗浄”を勘違いして，現金を丸洗い。ランドリー経営ゲーム「Money Laundering Raccoon」，2027年第3四半期に発売",
-  "link": "https://www.4gamer.net/games/051/G105112/20261019007/",
-  "source": "はてなブックマーク アニメとゲーム 人気",
-  "via": "RSS",
-  "collector": "はてなブックマーク アニメとゲーム 人気",
-  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
-  "domain": "4gamer.net",
-  "lang": "ja",
-  "score": 0.8245,
-  "published": "2026-10-19T07:33:21+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "ゲーム": [
-    "ゲーム"
-   ],
-   "ガジェット・PC・電子工作": [
-    "PC"
-   ]
-  },
-  "primary": "ゲーム",
-  "related": [
-   "4Gamer.net",
-   "4gamer.net"
-  ]
- },
- {
-  "title": "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56MFZnYWhmTkxsMEhQd3dxQ0kzdGstS1lGYWRENTRHV1U2WEtPdjBwQUxqYnNyeUhyT0VLeTJkYWRuWU84dEFKRGFXY0FLUUdHY1o2b2p0SWc2a0RSWnVCaWxUX1kyR29JdnI3TjJjbURJdzZvdUFJdnc3TmZTbXM?oc=5",
-  "source": "映画.com",
-  "via": "Googleニュース",
-  "collector": "Google: 映画 OR アニメ OR 実写化",
-  "feed_url": "https://news.google.com/rss/search?q=%E6%98%A0%E7%94%BB+OR+%E3%82%A2%E3%83%8B%E3%83%A1+OR+%E5%AE%9F%E5%86%99%E5%8C%96+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "news.yahoo.co.jp",
-  "lang": "ja",
-  "score": 0.5854,
-  "published": "2026-10-19T23:24:27+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "映画・アニメ・映像": [
-    "映画"
-   ]
-  },
-  "primary": "映画・アニメ・映像",
-  "related": [
-   "Bezzy",
-   "Culture Cruise",
-   "ENCOUNT",
-   "THE FIRST TIMES",
-   "cinemacafe.net",
-   "キネマ旬報WEB",
-   "クランクイン！",
-   "シネマトゥデイ",
-   "ナタリー",
-   "ファッションプレス",
-   "モデルプレス",
-   "映画の時間"
-  ]
- },
- {
-  "title": "トヨタやホンダ、パナソニックが出展する「第32回ITS世界会議2026江陵」開幕 “Beyond Mobility,Connected World”がテーマ",
-  "link": "https://car.watch.impress.co.jp/docs/news/2149453.html",
-  "source": "Car Watch",
-  "via": "RSS",
-  "collector": "Car Watch",
-  "feed_url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf",
-  "domain": "car.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 0.515,
-  "published": "2026-10-19T23:39:38+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "クルマ・EV・ロボット・自動運転": [
-    "トヨタ",
-    "ホンダ"
-   ]
-  },
-  "primary": "クルマ・EV・ロボット・自動運転",
-  "related": []
- },
- {
-  "title": "なぜ大型犬は小型犬より短命なのか？「ジャンピング遺伝子」の暴走と関連",
-  "link": "https://karapaia.com/archives/633334.html",
-  "source": "カラパイア",
-  "via": "RSS",
-  "collector": "カラパイア",
-  "feed_url": "https://karapaia.com/index.rdf",
-  "domain": "karapaia.com",
-  "lang": "ja",
-  "score": 0.4051,
-  "published": "2026-10-18T23:00:00+00:00",
-  "original": null,
-  "selected_at": "2026-10-20T00:03:35+00:00",
-  "topics": {
-   "健康・医療・生物": [
-    "遺伝子",
-    "老化",
-    "寿命"
-   ],
-   "宇宙・科学研究": [
-    "研究チーム"
-   ]
-  },
-  "primary": "健康・医療・生物",
-  "related": []
  }
 ]

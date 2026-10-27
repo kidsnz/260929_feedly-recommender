@@ -1,4 +1,15 @@
 {
+ "reuters.com": {
+  "publisher": "reuters.com",
+  "count": 8,
+  "first_seen": "2026-09-30",
+  "examples": [
+   "アンソロピック向けに630億ドル、米銀など ブロードコム半導体購入",
+   "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
+   "スペースＸがスターリンク利用制限、ドローン攻撃や防空に支障＝ウクライナ"
+  ],
+  "last_seen": "2026-10-27"
+ },
  "mezha.net": {
   "publisher": "mezha.net",
   "count": 7,
@@ -21,17 +32,6 @@
   ],
   "last_seen": "2026-10-24"
  },
- "reuters.com": {
-  "publisher": "reuters.com",
-  "count": 7,
-  "first_seen": "2026-09-30",
-  "examples": [
-   "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
-   "スペースＸがスターリンク利用制限、ドローン攻撃や防空に支障＝ウクライナ",
-   "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち"
-  ],
-  "last_seen": "2026-10-25"
- },
  "unite.ai": {
   "publisher": "Unite.AI",
   "count": 6,
@@ -42,6 +42,17 @@
    "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告"
   ],
   "last_seen": "2026-10-16"
+ },
+ "news.yahoo.co.jp": {
+  "publisher": "テクノエッジ",
+  "count": 5,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "｢お前は失うものがない｣とAIがAIに圧力…OpenAIで1200のAIが勝手に\"軍隊化\"するに至った一部始終",
+   "髙橋海人 念願ダンサー役で映画初主演「かけがえのない作品になった」振り付け担当は「師匠」NOPPO",
+   "米テスラ7～9月期、56％減益 AI投資重荷、EV販売は堅調"
+  ],
+  "last_seen": "2026-10-27"
  },
  "github.com": {
   "publisher": "github.com",
@@ -54,17 +65,6 @@
   ],
   "last_seen": "2026-10-24"
  },
- "news.yahoo.co.jp": {
-  "publisher": "テクノエッジ",
-  "count": 4,
-  "first_seen": "2026-10-20",
-  "examples": [
-   "髙橋海人 念願ダンサー役で映画初主演「かけがえのない作品になった」振り付け担当は「師匠」NOPPO",
-   "米テスラ7～9月期、56％減益 AI投資重荷、EV販売は堅調",
-   "坂東龍汰×髙石あかり、「羊文学」の楽曲から生まれた物語を映画化！「サタデー・ナイト・シアター」27年春公開決定"
-  ],
-  "last_seen": "2026-10-25"
- },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
   "count": 3,
@@ -75,6 +75,17 @@
    "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
   ],
   "last_seen": "2026-10-18"
+ },
+ "nishinippon.co.jp": {
+  "publisher": "西日本新聞me",
+  "count": 3,
+  "first_seen": "2026-10-10",
+  "examples": [
+   "スペースXのロゴ（ゲッティ＝共同） - AI半導体確保に6兆円超 スペースXがリース契約 - 写真・画像(1/1)",
+   "火星の近くに到着した「MMX」の探査機のイメージ（JAXA提供） - 火星衛星の砂採取、31年に地球帰還へ JAXA主導の「MMX」探査機、20日未明打ち上げ - 写真・画像(1/2)",
+   "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
+  ],
+  "last_seen": "2026-10-27"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -145,16 +156,6 @@
    "【AI朝刊】Anthropic・OpenAI ニュース 2026/10/16（金）｜Anthropic Q3売上168億ドル・黒字（報道）"
   ],
   "last_seen": "2026-10-17"
- },
- "nishinippon.co.jp": {
-  "publisher": "西日本新聞me",
-  "count": 2,
-  "first_seen": "2026-10-10",
-  "examples": [
-   "火星の近くに到着した「MMX」の探査機のイメージ（JAXA提供） - 火星衛星の砂採取、31年に地球帰還へ JAXA主導の「MMX」探査機、20日未明打ち上げ - 写真・画像(1/2)",
-   "記者会見する小泉防衛相＝9日午前、国会 - ロケット迅速発射へ調査 防衛省、宇宙輸送を強化 - 写真・画像(1/1)"
-  ],
-  "last_seen": "2026-10-18"
  },
  "anthropic.com": {
   "publisher": "anthropic.com",
@@ -1051,5 +1052,23 @@
    "PM Modi inaugurates RBI’s data centre, cybersecurity institute in Odisha"
   ],
   "last_seen": "2026-10-25"
+ },
+ "fnn.jp": {
+  "publisher": "FNNプライムオンライン",
+  "count": 1,
+  "first_seen": "2026-10-27",
+  "examples": [
+   "マイクロソフト、6万人対象に希望退職募集 全従業員の4分の1超 AI投資で人件費削減か"
+  ],
+  "last_seen": "2026-10-27"
+ },
+ "eda-express.com": {
+  "publisher": "EDA EXPRESS",
+  "count": 1,
+  "first_seen": "2026-10-27",
+  "examples": [
+   "Cadenceが半導体設計に特化したAIモデル群「Maestro」を発表〜NVIDIAと協業、汎用LLM比で設計品質30％向上"
+  ],
+  "last_seen": "2026-10-27"
  }
 }
