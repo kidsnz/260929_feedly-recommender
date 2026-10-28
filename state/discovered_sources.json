@@ -207,6 +207,16 @@
   ],
   "last_seen": "2026-10-26"
  },
+ "smartnews.com": {
+  "publisher": "SmartNews",
+  "count": 2,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "「映画 九条の大罪」予告公開、主題歌は羊文学",
+   "映画『君の話』主題歌がMrs. GREEN APPLEに決定"
+  ],
+  "last_seen": "2026-10-28"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -600,15 +610,6 @@
   "first_seen": "2026-10-12",
   "examples": [
    "Anthropic Took Its AI Tests Offline After Claude Submitted a False Homicide Tip to Police"
-  ],
-  "last_seen": "2026-10-12"
- },
- "smartnews.com": {
-  "publisher": "SmartNews",
-  "count": 1,
-  "first_seen": "2026-10-12",
-  "examples": [
-   "映画『君の話』主題歌がMrs. GREEN APPLEに決定"
   ],
   "last_seen": "2026-10-12"
  },
@@ -1070,5 +1071,23 @@
    "Cadenceが半導体設計に特化したAIモデル群「Maestro」を発表〜NVIDIAと協業、汎用LLM比で設計品質30％向上"
   ],
   "last_seen": "2026-10-27"
+ },
+ "innovatopia.jp": {
+  "publisher": "innovaTopia",
+  "count": 1,
+  "first_seen": "2026-10-28",
+  "examples": [
+   "Meta、AIエージェント「Muse」を日本で提供開始｜Claudeのスキルを渡してみた"
+  ],
+  "last_seen": "2026-10-28"
+ },
+ "japan.cnet.com": {
+  "publisher": "japan.cnet.com",
+  "count": 1,
+  "first_seen": "2026-10-28",
+  "examples": [
+   "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表"
+  ],
+  "last_seen": "2026-10-28"
  }
 }
