@@ -5,8 +5,311 @@
     <link>https://kidsnz.github.io/260929_feedly-recommender/</link>
     <description>Feedly の既読記事から作った好みのプロファイルで、まだ読んでいない媒体の関連ニュースを毎日集めたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:32:01 +0000</lastBuildDate>
     <atom:link href="https://kidsnz.github.io/260929_feedly-recommender/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code（クロードコード）を新しい環境に入れて最初の作業まで――初心者がつまずく3か所を実画面で確認した（v2.1.304）</title>
+      <link>https://zenn.dev/deepai/articles/claude-code-cm-article</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（Claude Code） / Anthropic・Claude（Claude, Claude Code, Opus） / 経済・マーケット・企業（株式）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 2.93</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>Anthropic・Claude</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">c3d0df75168743fb45e5b33f0fcf4c4956cbe587</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:04 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>Tech Watch 2026-10-30: エージェントの判断と監視</title>
+      <link>https://zenn.dev/laiken/articles/20261030-tech-watch</link>
+      <description>該当トピック: AIエージェント・AIコーディング（エージェント） / AI・生成AI全般（AI, 推論） / OpenAI・ChatGPT（OpenAI） / ガジェット・PC・電子工作（レビュー）｜出典: Zenn: Claude Code｜スコア 2.92</description>
+      <category>AIエージェント・AIコーディング</category>
+      <category>AI・生成AI全般</category>
+      <category>OpenAI・ChatGPT</category>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">cfdd3d5917bb0fc67346432398a01ef3472b98d0</guid>
+      <pubDate>Thu, 29 Oct 2026 21:25:11 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>AIエージェントの「役割別サブエージェント分割」vs「単一ループ統合＋段階的スキル開示」を実機サンドボックスでA/B検証</title>
+      <link>https://zenn.dev/tappers/articles/ai-labo-e05-subagent-folding</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント, コーディング） / Anthropic・Claude（Anthropic）｜出典: Zenn: AI｜スコア 2.76</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">2cdef455b7be9702b647fa361117cb3434a4863d</guid>
+      <pubDate>Thu, 29 Oct 2026 14:29:49 +0000</pubDate>
+      <source url="https://zenn.dev/topics/ai/feed">Zenn: AI</source>
+    </item>
+    <item>
+      <title>AIエージェントの承認はどこに置くべきか。取り消せない操作だけを人が止める</title>
+      <link>https://zenn.dev/kimshoshi/articles/ai-production-deploy-permission</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 2.73</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <guid isPermaLink="false">180c19cf46aa744a40e919130cebd92664cfb410</guid>
+      <pubDate>Thu, 29 Oct 2026 14:22:46 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>【AWS】AI にインフラを把握させるため、手作業で作った環境を CDK 化した</title>
+      <link>https://zenn.dev/linkedge/articles/0c14017ab7446c</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（Claude Code） / Anthropic・Claude（Claude, Claude Code）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 2.69</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">18e4b8ed3ba5b0fff87db0db2dc0f98ae29da26f</guid>
+      <pubDate>Thu, 29 Oct 2026 12:41:20 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃</title>
+      <link>https://japan.cnet.com/article/35254160/</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（Claude Code, Codex） / Anthropic・Claude（Claude, Claude Code） / OpenAI・ChatGPT（Codex） / サイバーセキュリティ・プライバシー（セキュリティ）｜出典: CNET Japan｜同じ話題: 他1媒体（UQライフ）｜スコア 2.67</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>Anthropic・Claude</category>
+      <category>OpenAI・ChatGPT</category>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">1f2dd2dd729761e10eb1cec95d2455463813965a</guid>
+      <pubDate>Thu, 29 Oct 2026 08:45:00 +0000</pubDate>
+      <source url="https://feeds.japan.cnet.com/rss/cnet/all.rdf">CNET Japan</source>
+    </item>
+    <item>
+      <title>徳丸浩氏 登壇 ～ 日銀金融研究所、オンラインセミナー「AIエージェント時代に求められるセキュリティ戦略と課題」を 11/30 開催</title>
+      <link>https://scan.netsecurity.ne.jp/article/2026/10/30/56623.html</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント） / 経済・マーケット・企業（日銀） / サイバーセキュリティ・プライバシー（セキュリティ）｜出典: ScanNetSecurity｜同じ話題: 他1媒体（Yahoo!ニュース）｜スコア 2.64</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>経済・マーケット・企業</category>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">a0f004c670d9568f7f6520ea02c2bad60e3c14ec</guid>
+      <pubDate>Thu, 29 Oct 2026 23:00:03 +0000</pubDate>
+      <source url="https://scan.netsecurity.ne.jp/rss/index.rdf">ScanNetSecurity</source>
+    </item>
+    <item>
+      <title>ChatGPT Pro/Business加入者に月最大500ドルのAPIクレジット</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2152278.html</link>
+      <description>該当トピック: AIエージェント・AIコーディング（エージェント, AIエージェント） / AI・生成AI全般（AI） / OpenAI・ChatGPT（ChatGPT, OpenAI） / ガジェット・PC・電子工作（専門媒体: PC Watch）｜出典: PC Watch｜同じ話題: 他7媒体（Excite エキサイト、ITmedia、ITmedia AI+ ほか）｜スコア 2.57</description>
+      <category>AIエージェント・AIコーディング</category>
+      <category>AI・生成AI全般</category>
+      <category>OpenAI・ChatGPT</category>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">118e971a1ac0f6ac8219e9613f39bde538363bf4</guid>
+      <pubDate>Thu, 29 Oct 2026 06:38:10 +0000</pubDate>
+      <source url="https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf">PC Watch</source>
+    </item>
+    <item>
+      <title>物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html</link>
+      <description>該当トピック: AI・生成AI全般（AI） / 半導体・データセンター（NVIDIA）｜出典: ITmedia AI+｜同じ話題: 他1媒体（MONOist）｜スコア 1.92</description>
+      <category>AI・生成AI全般</category>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">f50dc82f68c874dcc56c77663bec6d3e4795ffa3</guid>
+      <pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>ベテラン投資家が語るAIブームの行方…ドットコム・バブルとの相違点とAI時代の生き抜き方</title>
+      <link>https://www.businessinsider.jp/article/2610-ai-boom-vs-dotcom-bubble-investor-insights/</link>
+      <description>該当トピック: AI・生成AI全般（AI） / 経済・マーケット・企業（投資, 投資家）｜出典: Business Insider Japan｜スコア 1.75</description>
+      <category>AI・生成AI全般</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">832de544dc9308dace87fc04523aae6740614763</guid>
+      <pubDate>Thu, 29 Oct 2026 21:45:00 +0000</pubDate>
+      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
+    </item>
+    <item>
+      <title>アンソロピックのIPO申請書類の中に、エヌビディアの「価格決定力」への脅威が潜んでいる</title>
+      <link>https://www.businessinsider.jp/article/2610-anthropic-ipo-multi-chip-strategy-nvidia/</link>
+      <description>該当トピック: 経済・マーケット・企業（IPO） / 半導体・データセンター（エヌビディア, チップ） / Anthropic・Claude（アンソロピック）｜出典: Business Insider Japan｜スコア 1.68</description>
+      <category>経済・マーケット・企業</category>
+      <category>半導体・データセンター</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">8944e20eba7a340f190f58c29d5eb9f6d397216e</guid>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 +0000</pubDate>
+      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
+    </item>
+    <item>
+      <title>AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html</link>
+      <description>該当トピック: AI・生成AI全般（AI）｜出典: ITmedia AI+｜同じ話題: 他1媒体（MONOist）｜スコア 1.60</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">52e5010e7e9fb0f923ecd9ec4aefe898dcd23b20</guid>
+      <pubDate>Thu, 29 Oct 2026 23:00:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>見積書100枚超をどうさばく？ 「半日仕事」を約30分にした建設会社のAI活用</title>
+      <link>https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/</link>
+      <description>該当トピック: AI・生成AI全般（AI）｜出典: ITmedia AI+｜スコア 1.45</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">a510e062ec93ab018c19bb2444e8fabadb3cfca3</guid>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>終わり近づくWindows 10搭載PC、UbuntuとChromeOSでまだ戦えるかも！</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2152063.html</link>
+      <description>該当トピック: ガジェット・PC・電子工作（PC） / テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Windows, Microsoft） / サイバーセキュリティ・プライバシー（セキュリティ）｜出典: PC Watch｜スコア 1.30</description>
+      <category>ガジェット・PC・電子工作</category>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">cd1b389be42b7f25693d63801636497a262c33e7</guid>
+      <pubDate>Thu, 29 Oct 2026 21:12:00 +0000</pubDate>
+      <source url="https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf">PC Watch</source>
+    </item>
+    <item>
+      <title>SQLを学びつつ事件の謎を解いていくプログラミング系の推理ADV『Ghost in the SQL Data』Steam配信開始！事件の矛盾を見つけろ | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/10/29/174245.html</link>
+      <description>該当トピック: ゲーム（ゲーム, Steam） / AIエージェント・AIコーディング（プログラミング）｜出典: はてなブックマーク アニメとゲーム 人気｜同じ話題: 他2媒体（Game*Spark、gamespark.jp）｜スコア 1.25</description>
+      <category>ゲーム</category>
+      <category>AIエージェント・AIコーディング</category>
+      <guid isPermaLink="false">f9a4f75dba84d59ed99a819c2c37abdd2f1831ea</guid>
+      <pubDate>Thu, 29 Oct 2026 11:24:05 +0000</pubDate>
+      <source url="https://b.hatena.ne.jp/hotentry/game.rss">はてなブックマーク アニメとゲーム 人気</source>
+    </item>
+    <item>
+      <title>アンソロピックのIPOで巨額の富を得る7人の共同創業者</title>
+      <link>https://www.businessinsider.jp/article/2610how-rich-anthropic-ipo-7-cofounders/</link>
+      <description>該当トピック: 経済・マーケット・企業（IPO, 株式） / Anthropic・Claude（アンソロピック）｜出典: Business Insider Japan｜スコア 1.13</description>
+      <category>経済・マーケット・企業</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">2c1701127224f873512f3a05eaf965d7b048c630</guid>
+      <pubDate>Thu, 29 Oct 2026 21:15:00 +0000</pubDate>
+      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
+    </item>
+    <item>
+      <title>NVIDIAフアンCEOと「親密」な取引先幹部は中国のスパイ工作員か--米紙報道</title>
+      <link>https://japan.cnet.com/article/35254187/</link>
+      <description>該当トピック: 半導体・データセンター（NVIDIA, データセンター, ジェンスン・フアン） / AI・生成AI全般（AI）｜出典: CNET Japan｜スコア 1.12</description>
+      <category>半導体・データセンター</category>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">5dfbb1448daba55e7a85f0bc68de3b1028001d9f</guid>
+      <pubDate>Thu, 29 Oct 2026 23:09:00 +0000</pubDate>
+      <source url="https://feeds.japan.cnet.com/rss/cnet/all.rdf">CNET Japan</source>
+    </item>
+    <item>
+      <title>楽天モバイルがAppleの｢iPad｣シリーズの取り扱いを開始 ｰ 11月6日より</title>
+      <link>https://taisy0.com/2026/10/29/229678.html</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple, iPad）｜出典: 気になる、記になる…｜同じ話題: 他3媒体（CNET Japan、ITmedia Mobile、ケータイ Watch）｜スコア 1.06</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">bdeb5f904687bc5138cc7e7121a11ce66d4693d1</guid>
+      <pubDate>Thu, 29 Oct 2026 02:44:18 +0000</pubDate>
+      <source url="https://taisy0.com/feed">気になる、記になる…</source>
+    </item>
+    <item>
+      <title>Apple、明日10月31日より台湾におけるApp Storeの手数料を引き下げへ</title>
+      <link>https://taisy0.com/2026/10/30/229704.html</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple, iOS）｜出典: 気になる、記になる…｜スコア 1.03</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">b403123ad1c6f2562e69938517d7e9873ca13749</guid>
+      <pubDate>Thu, 29 Oct 2026 23:59:43 +0000</pubDate>
+      <source url="https://taisy0.com/feed">気になる、記になる…</source>
+    </item>
+    <item>
+      <title>iPhone Duoが在庫あり！【10/30】〜公式・キャリア・家電量販店の最新状況</title>
+      <link>https://iphone-mania.jp/iphone18-608106/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（iPhone, Apple）｜出典: iPhone Mania｜スコア 0.99</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">4bed6fe6ccadad3b69ddabbf923b881ee2dd7345</guid>
+      <pubDate>Thu, 29 Oct 2026 23:51:16 +0000</pubDate>
+      <source url="https://iphone-mania.jp/feed/">iPhone Mania</source>
+    </item>
+    <item>
+      <title>「Apex」ダイヤ以上のロビーで「レジェンドBAN」を実装。シーズン31「サイファー」11月4日より開幕クリプトの刷新、ウィングマン2丁持ちなど新要素多数</title>
+      <link>https://game.watch.impress.co.jp/docs/news/2152324.html</link>
+      <description>該当トピック: ゲーム（ゲーム, Nintendo, Nintendo Switch, Switch 2） / ガジェット・PC・電子工作（PC）｜出典: GAME Watch｜同じ話題: 他2媒体（4Gamer.net、Game*Spark）｜スコア 0.97</description>
+      <category>ゲーム</category>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">2c3c87391006fc534bffe48725a5f2cf95920798</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <source url="https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf">GAME Watch</source>
+    </item>
+    <item>
+      <title>OpenAIが支援するThrive Holdings、ADTを153億ドルの全額現金取引で買収へ</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3JWQlUzYlU1dm9kQWNnYkxyNVlJNjd1V0pRcEFUVUxqYzk5eXlWaEhCNlEtSUFiRVY2Wjh3QXVKMXMtMTRwSDQtbVdGNXpxWVpnRjkzQ1RfQXl3cjd0ZS1jX0wteU5tUjdTUUxpZnQ3SDY2VjY0enJzQTdMclREUnlXTTdXWkxWbzM1VGhfUlZKY0Z2amRF?oc=5</link>
+      <description>該当トピック: OpenAI・ChatGPT（OpenAI） / 経済・マーケット・企業（買収）｜出典: Unite.AI・Googleニュース経由｜同じ話題: 他1媒体（Mezha.net）｜スコア 0.87</description>
+      <category>OpenAI・ChatGPT</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">cff11aa1222463cd4c0dd3c8a132ecf71be57983</guid>
+      <pubDate>Thu, 29 Oct 2026 20:09:04 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI+OR+%E3%82%A2%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Unite.AI</source>
+    </item>
+    <item>
+      <title>ElevationSpaceとドイツ航空宇宙センターが協力覚書 再突入技術と微小重力利用で連携へ</title>
+      <link>https://sorae.info/biz/20261029-elevationspace-dlr.html</link>
+      <description>該当トピック: 宇宙・科学研究（宇宙） / 経済・マーケット・企業（株式）｜出典: sorae｜同じ話題: 他2媒体（SPACE Media、sorae 宇宙へのポータルサイト）｜スコア 0.83</description>
+      <category>宇宙・科学研究</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">9ef34349d0f3f18c861dd924e6f7dcd7d13bc0fe</guid>
+      <pubDate>Thu, 29 Oct 2026 05:27:27 +0000</pubDate>
+      <source url="https://sorae.info/feed">sorae</source>
+    </item>
+    <item>
+      <title>初期宇宙では恒星どうしの衝突もめずらしくなかった？ 超大質量ブラックホールの誕生にも関わった可能性</title>
+      <link>https://sorae.info/astronomy/20261029-stellar-collisions-in-the-early-universe.html</link>
+      <description>該当トピック: 宇宙・科学研究（宇宙, 研究チーム）｜出典: sorae｜同じ話題: 他3媒体（Infoseek、sorae 宇宙へのポータルサイト、ｄメニューニュース）｜スコア 0.74</description>
+      <category>宇宙・科学研究</category>
+      <guid isPermaLink="false">fb4be15824a9ae9e350f6da3f0f1460042afe5c9</guid>
+      <pubDate>Thu, 29 Oct 2026 12:11:22 +0000</pubDate>
+      <source url="https://sorae.info/feed">sorae</source>
+    </item>
+    <item>
+      <title>ASUS ROG、発熱と電力の偏りを抑えるケーブル付属のPC電源5製品 1200W／1000Wを展開</title>
+      <link>https://ascii.jp/elem/000/004/447/4447089/?rss</link>
+      <description>該当トピック: ガジェット・PC・電子工作（PC）｜出典: ASCII.jp｜スコア 0.66</description>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">121713aab5fd3cf45b094dc91238f1f7d94f2e60</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://ascii.jp/rss.xml">ASCII.jp</source>
+    </item>
+    <item>
+      <title>Volkswagenのゾーン型SDVにNXP製MCU採用 27年に1号機発表</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2610/29/news048.html</link>
+      <description>該当トピック: 半導体・データセンター（半導体, semiconductor）｜出典: EE Times Japan｜スコア 0.64</description>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">409d97a7d12dc9bfc95baf0a71730dbcd5f8d1ee</guid>
+      <pubDate>Thu, 29 Oct 2026 01:30:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/eetimes.xml">EE Times Japan</source>
+    </item>
+    <item>
+      <title>ブリヂストンの次世代タイヤ「AirFree」、レベル4自動運転の無人搬送車で実証実験</title>
+      <link>https://response.jp/article/2026/10/30/418401.html</link>
+      <description>該当トピック: クルマ・EV・ロボット・自動運転（自動運転）｜出典: レスポンス｜同じ話題: 他4媒体（Digital PR Platform、LOGI-BIZ online、ゴム報知新聞ＮＥＸＴ ほか）｜スコア 0.63</description>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <guid isPermaLink="false">20c914e854e7a0a1fa0a395cbd2e9e79f819cee1</guid>
+      <pubDate>Thu, 29 Oct 2026 22:30:03 +0000</pubDate>
+      <source url="https://response.jp/rss/index.rdf">レスポンス</source>
+    </item>
+    <item>
+      <title>ホンダの新型ピックアップ、三菱自動車との協業から登場…今週のビジネス記事ランキング</title>
+      <link>https://response.jp/article/2026/10/30/418402.html</link>
+      <description>該当トピック: クルマ・EV・ロボット・自動運転（自動車, ホンダ）｜出典: レスポンス｜スコア 0.53</description>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <guid isPermaLink="false">a00474f355018884d6f8309d936480c7d75d6015</guid>
+      <pubDate>Thu, 29 Oct 2026 23:00:03 +0000</pubDate>
+      <source url="https://response.jp/rss/index.rdf">レスポンス</source>
+    </item>
+    <item>
+      <title>柳楽優弥が語る、映画『竜二』リメイクへの挑戦と「人間臭さ」への回帰。7年の歳月がもたらした覚悟</title>
+      <link>https://www.cinra.net/article/202610_ryuji-movie_htrmm</link>
+      <description>該当トピック: 映画・アニメ・映像（映画）｜出典: CINRA｜スコア 0.37</description>
+      <category>映画・アニメ・映像</category>
+      <guid isPermaLink="false">36589af0bb1a17572aefcfa37ada23ca103040dc</guid>
+      <pubDate>Wed, 28 Oct 2026 01:59:00 +0000</pubDate>
+      <source url="https://www.cinra.net/feed">CINRA</source>
+    </item>
+    <item>
+      <title>レカネマブ18か月継続率78％、ptau181が治療中断の予測マーカーに－金沢大</title>
+      <link>https://www.qlifepro.com/news/20261030/alzheimers-disease-9.html</link>
+      <description>該当トピック: 健康・医療・生物（治療）｜出典: QLifePro｜スコア 0.35</description>
+      <category>健康・医療・生物</category>
+      <guid isPermaLink="false">ef5c9b10364485d2f7d6fbd6e8534df41ed61078</guid>
+      <pubDate>Fri, 30 Oct 2026 00:30:50 +0000</pubDate>
+      <source url="https://www.qlifepro.com/feed/">QLifePro</source>
+    </item>
     <item>
       <title>ダウンロードフォルダで Claude Code や Codex を起動してはいけないのはなぜ？</title>
       <link>https://zenn.dev/takuh/articles/d4148e707a18a5</link>
@@ -1601,164 +1904,6 @@
       <guid isPermaLink="false">48a21249e3d2c4f46bb9e538d851f4275d46530c</guid>
       <pubDate>Fri, 23 Oct 2026 21:30:00 +0000</pubDate>
       <source url="https://toyokeizai.net/list/feed/rss">東洋経済オンライン</source>
-    </item>
-    <item>
-      <title>コーディングエージェントの「指示書・Skill・Hooks」役割分担</title>
-      <link>https://qiita.com/acshu_moriyama/items/0d35781c10fe8d436b5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（agentic） / Anthropic・Claude（Anthropic）｜出典: Qiita トレンド｜同じ話題: 他2媒体（FourWeekMBA、Techmeme）｜スコア 2.60</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <category>Anthropic・Claude</category>
-      <guid isPermaLink="false">02ef1ce07e29d9c1a3931b69f5e621027c660401</guid>
-      <pubDate>Thu, 22 Oct 2026 00:10:31 +0000</pubDate>
-      <source url="https://qiita.com/popular-items/feed">Qiita トレンド</source>
-    </item>
-    <item>
-      <title>NVIDIA、AIファクトリーをコンテナで届ける「DSX POD」発表 アヒル型ロボット「Microduck」も登壇──GTC Berlin基調講演</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/22/2000002492/</link>
-      <description>該当トピック: AI・生成AI全般（AI） / 半導体・データセンター（NVIDIA）｜出典: ITmedia NEWS｜同じ話題: 他7媒体（Channel Insider、Data Center Dynamics、Data Center Knowledge ほか）｜スコア 2.12</description>
-      <category>AI・生成AI全般</category>
-      <category>半導体・データセンター</category>
-      <guid isPermaLink="false">9b22a74dc4ec1e6aa8477f0803ca7de8dfe3f2af</guid>
-      <pubDate>Thu, 22 Oct 2026 01:56:01 +0000</pubDate>
-      <source url="https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml">ITmedia NEWS</source>
-    </item>
-    <item>
-      <title>Geminiアプリ、Personal IntelligenceにGoogle Mapsのデータを追加 ArgonがDeep Thinkに取って代わる見通し</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHEwQkVtUTl2ZUNyX1BXTTREMnJPNXdvaUZ6eW9fSXRHdlF0aDctQU9FNWFJVUQxdGVQQ0dPVk5oc3hyN0V2bEdselUzaldBOVQtRkFGTi1tQ29pTW5ERzhPRERBUlA4N2JlQm1hNUFDaElycGVRam45NEtFM285M2xwMUhrU1BNLXBBMHRaM1VzTDVT?oc=5</link>
-      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Google, Android） / AI・生成AI全般（Gemini）｜出典: Mezha.net・Googleニュース経由｜同じ話題: 他1媒体（Mezha.net）｜スコア 1.89</description>
-      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
-      <category>AI・生成AI全般</category>
-      <guid isPermaLink="false">ceaf002247d30f0d302beeb959fd70607f6ad6ae</guid>
-      <pubDate>Thu, 22 Oct 2026 13:33:00 +0000</pubDate>
-      <source url="https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+Anthropic+OR+Claude+OR+Gemini+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Mezha.net</source>
-    </item>
-    <item>
-      <title>AIバブルの崩壊は、投資家が“注目していない”場所から起こる可能性がある。エコノミストによる指摘</title>
-      <link>https://www.businessinsider.jp/article/2610-ai-bubble-burst-stock-market-risks-politics-debt-chips/</link>
-      <description>該当トピック: 経済・マーケット・企業（投資, 投資家） / AI・生成AI全般（AI） / 半導体・データセンター（半導体, データセンター）｜出典: Business Insider Japan｜スコア 1.50</description>
-      <category>経済・マーケット・企業</category>
-      <category>AI・生成AI全般</category>
-      <category>半導体・データセンター</category>
-      <guid isPermaLink="false">41ecf6ef135736293127da25f27cdea11ad83a33</guid>
-      <pubDate>Thu, 22 Oct 2026 22:30:00 +0000</pubDate>
-      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
-    </item>
-    <item>
-      <title>chatlog-exporter: AI エージェントのチャットログを Markdown 資産に変える</title>
-      <link>https://zenn.dev/atsushifx/articles/oss-chatlog-exporter-overview</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント） / テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（メタ）｜出典: Zenn: Claude Code｜スコア 1.37</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
-      <guid isPermaLink="false">d5f4cdc0bcb1b71e3ca35c8e1a702e316a170ddd</guid>
-      <pubDate>Thu, 22 Oct 2026 12:20:54 +0000</pubDate>
-      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
-    </item>
-    <item>
-      <title>描く前に値段を言う Blender の MCP サーバー：48 コマから 1,800 コマまでの見積もり（実測）</title>
-      <link>https://zenn.dev/renderjanction/articles/ae8580821c64c1</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（MCP, エージェント） / 半導体・データセンター（GPU）｜出典: Zenn: AI｜スコア 1.07</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <category>半導体・データセンター</category>
-      <guid isPermaLink="false">715a7a2f2b6294b972f6241ff7e992d515f5692a</guid>
-      <pubDate>Thu, 22 Oct 2026 08:35:02 +0000</pubDate>
-      <source url="https://zenn.dev/topics/ai/feed">Zenn: AI</source>
-    </item>
-    <item>
-      <title>AMD Ryzen 9 9950X3D搭載PCが10万円オフ！ パソコンショップSEVEN、10月23日限定セール</title>
-      <link>https://ascii.jp/elem/000/004/444/4444348/?rss</link>
-      <description>該当トピック: 半導体・データセンター（AMD, CPU） / ゲーム（gaming）｜出典: ASCII.jp｜同じ話題: 他1媒体（TechPowerUp）｜スコア 1.00</description>
-      <category>半導体・データセンター</category>
-      <category>ゲーム</category>
-      <guid isPermaLink="false">879fb88da6b808d68a116c63ae0bf1650445394a</guid>
-      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
-      <source url="https://ascii.jp/rss.xml">ASCII.jp</source>
-    </item>
-    <item>
-      <title>DADSを参考にサイト点検をスキル化した：Pythonで拾える候補とブラウザで見る境目</title>
-      <link>https://zenn.dev/hirosta/articles/8f8840d166447e</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント）｜出典: Zenn: Claude Code｜スコア 0.96</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <guid isPermaLink="false">0b1624c2f07ee2ea4c1990079598c86cfe1b69b7</guid>
-      <pubDate>Thu, 22 Oct 2026 07:35:08 +0000</pubDate>
-      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
-    </item>
-    <item>
-      <title>ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化 - AUTOMATON</title>
-      <link>https://automaton-media.com/articles/newsjp/20261022-475027/</link>
-      <description>該当トピック: ゲーム（ゲーム） / 宇宙・科学研究（論文）｜出典: はてなブックマーク アニメとゲーム 人気｜同じ話題: 他2媒体（AUTOMATON、automaton-media.com）｜スコア 0.89</description>
-      <category>ゲーム</category>
-      <category>宇宙・科学研究</category>
-      <guid isPermaLink="false">ff35c977095f49758a51396cb1e0fde4d1d43696</guid>
-      <pubDate>Thu, 22 Oct 2026 11:23:23 +0000</pubDate>
-      <source url="https://b.hatena.ne.jp/hotentry/game.rss">はてなブックマーク アニメとゲーム 人気</source>
-    </item>
-    <item>
-      <title>北海道大樹町と米バージニア州の宇宙港が教育・まちづくりで連携へ 基本合意書を締結</title>
-      <link>https://sorae.info/biz/20261022-hospo-vsa-mou.html</link>
-      <description>該当トピック: 宇宙・科学研究（宇宙） / 経済・マーケット・企業（株式）｜出典: sorae｜同じ話題: 他1媒体（sorae 宇宙へのポータルサイト）｜スコア 0.78</description>
-      <category>宇宙・科学研究</category>
-      <category>経済・マーケット・企業</category>
-      <guid isPermaLink="false">fe4733b7f430a4b8359d82b263da6324450145c0</guid>
-      <pubDate>Thu, 22 Oct 2026 05:42:53 +0000</pubDate>
-      <source url="https://sorae.info/feed">sorae</source>
-    </item>
-    <item>
-      <title>【135円】プレイヤーができるのはボタンを押すことだけ。友達に贈って楽しめる"世界一短いホラーゲーム"『The World's Shortest Horror Game』Steamでリリース</title>
-      <link>http://www.gamespark.jp/article/2026/10/23/173969.html</link>
-      <description>該当トピック: ゲーム（ゲーム, Steam）｜出典: Game*Spark｜スコア 0.71</description>
-      <category>ゲーム</category>
-      <guid isPermaLink="false">8504384b8a99651774ae0bad20f2035e19cee6e4</guid>
-      <pubDate>Thu, 22 Oct 2026 22:30:03 +0000</pubDate>
-      <source url="https://www.gamespark.jp/rss/index.rdf">Game*Spark</source>
-    </item>
-    <item>
-      <title>火星・マリネリス峡谷は今も活動中？ NASA探査機が観測した地震波の分析結果が示唆</title>
-      <link>https://sorae.info/astronomy/20261022-mars-valles-marineris.html</link>
-      <description>該当トピック: 宇宙・科学研究（NASA, 火星, 地震, 宇宙）｜出典: sorae｜同じ話題: 他1媒体（Infoseek）｜スコア 0.67</description>
-      <category>宇宙・科学研究</category>
-      <guid isPermaLink="false">a1420732444fe85b092f3ef30987a032f1499c22</guid>
-      <pubDate>Thu, 22 Oct 2026 11:04:58 +0000</pubDate>
-      <source url="https://sorae.info/feed">sorae</source>
-    </item>
-    <item>
-      <title>ウォーレン・バフェットの古典的なアドバイスは今なお有効…「S&amp;P500を買い、仕事に戻る」</title>
-      <link>https://www.businessinsider.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire/</link>
-      <description>該当トピック: 経済・マーケット・企業（投資）｜出典: Business Insider Japan｜スコア 0.58</description>
-      <category>経済・マーケット・企業</category>
-      <guid isPermaLink="false">767e518dc5f711fd53a7a0ed72e8d67cd63710e1</guid>
-      <pubDate>Thu, 22 Oct 2026 21:00:00 +0000</pubDate>
-      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
-    </item>
-    <item>
-      <title>経産省、EV補助金の上限を125万円から75万円に引き下げ 令和7年度補正CEV補助金の補助額を見直し</title>
-      <link>https://car.watch.impress.co.jp/docs/news/2150528.html</link>
-      <description>該当トピック: クルマ・EV・ロボット・自動運転（EV, 自動車, 電気自動車）｜出典: Car Watch｜スコア 0.50</description>
-      <category>クルマ・EV・ロボット・自動運転</category>
-      <guid isPermaLink="false">69df4ef77a878e434ba7871143ad7e9df45d5aaf</guid>
-      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
-      <source url="https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf">Car Watch</source>
-    </item>
-    <item>
-      <title>ホンダと三菱自動車、商品相互補完で覚書締結 ホンダ向けに「トライトン」ベースのモデルを開発し2028年中に発売へ</title>
-      <link>https://car.watch.impress.co.jp/docs/news/2150451.html</link>
-      <description>該当トピック: クルマ・EV・ロボット・自動運転（自動車, ホンダ）｜出典: Car Watch｜スコア 0.46</description>
-      <category>クルマ・EV・ロボット・自動運転</category>
-      <guid isPermaLink="false">72757eebdc24a44631a7c83599c28dee91d9fa03</guid>
-      <pubDate>Thu, 22 Oct 2026 08:31:48 +0000</pubDate>
-      <source url="https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf">Car Watch</source>
-    </item>
-    <item>
-      <title>カタツムリの殻が「右巻きか左巻きか」を決める遺伝子を発見</title>
-      <link>https://nazology.kusuguru.co.jp/archives/203050</link>
-      <description>該当トピック: 健康・医療・生物（遺伝子, 動物, biology）｜出典: ナゾロジー｜スコア 0.35</description>
-      <category>健康・医療・生物</category>
-      <guid isPermaLink="false">eaea5075965d165a51e9b7e7d6c5024c56b7aed9</guid>
-      <pubDate>Thu, 22 Oct 2026 22:30:00 +0000</pubDate>
-      <source url="https://nazology.kusuguru.co.jp/feed">ナゾロジー</source>
     </item>
   </channel>
 </rss>

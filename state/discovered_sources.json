@@ -34,14 +34,14 @@
  },
  "unite.ai": {
   "publisher": "Unite.AI",
-  "count": 6,
+  "count": 7,
   "first_seen": "2026-10-03",
   "examples": [
+   "OpenAIが支援するThrive Holdings、ADTを153億ドルの全額現金取引で買収へ",
    "Anthropic、ClaudeがNISTのECDSA曲線のシードを1990年代の乱数生成器にたどり着いたと発表",
-   "Sophos、Daybreak AI エージェントが平均ケース対応時間を 89 秒に短縮したと発表",
-   "OpenAI、Radisson HotelsのChatGPTプラグインに関する早期結果を報告"
+   "Sophos、Daybreak AI エージェントが平均ケース対応時間を 89 秒に短縮したと発表"
   ],
-  "last_seen": "2026-10-16"
+  "last_seen": "2026-10-30"
  },
  "news.yahoo.co.jp": {
   "publisher": "テクノエッジ",
