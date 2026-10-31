@@ -217,6 +217,26 @@
   ],
   "last_seen": "2026-10-28"
  },
+ "topics.smt.docomo.ne.jp": {
+  "publisher": "ｄメニューニュース",
+  "count": 2,
+  "first_seen": "2026-10-06",
+  "examples": [
+   "韓国の半導体ブームの背後に潜む「冷ややかな懸念」―中国メディア",
+   "米国株式市場＝ナスダック最高値、エヌビディア・マイクロソフトけん引 企業決算に注目"
+  ],
+  "last_seen": "2026-10-31"
+ },
+ "newsdig.tbs.co.jp": {
+  "publisher": "TBS NEWS DIG",
+  "count": 2,
+  "first_seen": "2026-10-31",
+  "examples": [
+   "【倒産】半導体製造装置の設計・製作業者が破産手続き開始決定 負債は約5000万円【帝国データバンク】",
+   "OpenAIが資金調達目標を100億ドル引き下げ、AI株安響く－FT紙"
+  ],
+  "last_seen": "2026-10-31"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -423,15 +443,6 @@
    "生成AIを教育の「伴走者」へ、教員9人が活用アイデアを披露 「Gemini for Education アイデアソン 2026 Showcase」レポート"
   ],
   "last_seen": "2026-10-04"
- },
- "topics.smt.docomo.ne.jp": {
-  "publisher": "ｄメニューニュース",
-  "count": 1,
-  "first_seen": "2026-10-06",
-  "examples": [
-   "米国株式市場＝ナスダック最高値、エヌビディア・マイクロソフトけん引 企業決算に注目"
-  ],
-  "last_seen": "2026-10-06"
  },
  "techspot.com": {
   "publisher": "techspot.com",
@@ -1089,5 +1100,14 @@
    "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表"
   ],
   "last_seen": "2026-10-28"
+ },
+ "yomiuri.co.jp": {
+  "publisher": "読売新聞",
+  "count": 1,
+  "first_seen": "2026-10-31",
+  "examples": [
+   "ＧＭＯ脆弱性 ２４年指摘 関連会社から 熊谷社長 あすにも会見"
+  ],
+  "last_seen": "2026-10-31"
  }
 }
