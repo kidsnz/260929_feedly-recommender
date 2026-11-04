@@ -1,14 +1,14 @@
 {
  "reuters.com": {
   "publisher": "reuters.com",
-  "count": 8,
+  "count": 9,
   "first_seen": "2026-09-30",
   "examples": [
+   "日経平均は小幅続落で寄り付く、半導体株は売り先行",
    "アンソロピック向けに630億ドル、米銀など ブロードコム半導体購入",
-   "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
-   "スペースＸがスターリンク利用制限、ドローン攻撃や防空に支障＝ウクライナ"
+   "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports"
   ],
-  "last_seen": "2026-10-27"
+  "last_seen": "2026-11-04"
  },
  "mezha.net": {
   "publisher": "mezha.net",
@@ -1119,5 +1119,32 @@
    "欧州各地で冷蔵設備にサイバー攻撃 ベルギーのスーパー40店で温度上昇"
   ],
   "last_seen": "2026-11-03"
+ },
+ "paymentnavi.com": {
+  "publisher": "ペイメントナビ",
+  "count": 1,
+  "first_seen": "2026-11-04",
+  "examples": [
+   "ACompany、OpenAIやNVIDIAも注力する機密AI（Confidential AI）で国内の市場形成、技術開発を主導へ"
+  ],
+  "last_seen": "2026-11-04"
+ },
+ "ryukyushimpo.jp": {
+  "publisher": "琉球新報デジタル",
+  "count": 1,
+  "first_seen": "2026-11-04",
+  "examples": [
+   "タイが輸入ＥＶ 物品税引き上げ 来年１月、国内投資促す"
+  ],
+  "last_seen": "2026-11-04"
+ },
+ "riken.jp": {
+  "publisher": "riken.jp",
+  "count": 1,
+  "first_seen": "2026-11-04",
+  "examples": [
+   "エントロピー増大則を量子力学から証明"
+  ],
+  "last_seen": "2026-11-04"
  }
 }
