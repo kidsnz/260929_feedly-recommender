@@ -10,6 +10,17 @@
   ],
   "last_seen": "2026-11-04"
  },
+ "news.yahoo.co.jp": {
+  "publisher": "テクノエッジ",
+  "count": 8,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "木村昴 「宇宙」をテーマに描いたアートブックが完成 閉所恐怖症で「宇宙に行けないと分かった」",
+   "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠",
+   "Claudeが「家計簿」化！ OpenAIのサイバー特化モデルにGoogleの動画生成AI発表も【AIニュース3選】"
+  ],
+  "last_seen": "2026-11-08"
+ },
  "mezha.net": {
   "publisher": "mezha.net",
   "count": 7,
@@ -43,17 +54,6 @@
   ],
   "last_seen": "2026-10-30"
  },
- "news.yahoo.co.jp": {
-  "publisher": "テクノエッジ",
-  "count": 6,
-  "first_seen": "2026-10-20",
-  "examples": [
-   "Claudeが「家計簿」化！ OpenAIのサイバー特化モデルにGoogleの動画生成AI発表も【AIニュース3選】",
-   "｢お前は失うものがない｣とAIがAIに圧力…OpenAIで1200のAIが勝手に\"軍隊化\"するに至った一部始終",
-   "髙橋海人 念願ダンサー役で映画初主演「かけがえのない作品になった」振り付け担当は「師匠」NOPPO"
-  ],
-  "last_seen": "2026-11-07"
- },
  "github.com": {
   "publisher": "github.com",
   "count": 4,
@@ -86,6 +86,17 @@
    "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
   ],
   "last_seen": "2026-10-18"
+ },
+ "topics.smt.docomo.ne.jp": {
+  "publisher": "ｄメニューニュース",
+  "count": 3,
+  "first_seen": "2026-10-06",
+  "examples": [
+   "ダイヤモンドが新たな能力を発揮、半導体チップの放熱分野で活躍―中国",
+   "韓国の半導体ブームの背後に潜む「冷ややかな懸念」―中国メディア",
+   "米国株式市場＝ナスダック最高値、エヌビディア・マイクロソフトけん引 企業決算に注目"
+  ],
+  "last_seen": "2026-11-08"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -216,16 +227,6 @@
    "映画『君の話』主題歌がMrs. GREEN APPLEに決定"
   ],
   "last_seen": "2026-10-28"
- },
- "topics.smt.docomo.ne.jp": {
-  "publisher": "ｄメニューニュース",
-  "count": 2,
-  "first_seen": "2026-10-06",
-  "examples": [
-   "韓国の半導体ブームの背後に潜む「冷ややかな懸念」―中国メディア",
-   "米国株式市場＝ナスダック最高値、エヌビディア・マイクロソフトけん引 企業決算に注目"
-  ],
-  "last_seen": "2026-10-31"
  },
  "newsdig.tbs.co.jp": {
   "publisher": "TBS NEWS DIG",
@@ -1182,5 +1183,41 @@
    "いよいよアンソロピック上場へ…時価総額230兆円、スペースX超えのIPO、それでも消えない「懸念材料」"
   ],
   "last_seen": "2026-11-07"
+ },
+ "chibanippo.co.jp": {
+  "publisher": "千葉日報オンライン",
+  "count": 1,
+  "first_seen": "2026-11-08",
+  "examples": [
+   "Redis、Redis Irisを拡張しAIエージェントの本番運用に必要なメモリ、コンテキスト、メッセージングを提供"
+  ],
+  "last_seen": "2026-11-08"
+ },
+ "ledge.ai": {
+  "publisher": "Ledge.ai",
+  "count": 1,
+  "first_seen": "2026-11-08",
+  "examples": [
+   "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証"
+  ],
+  "last_seen": "2026-11-08"
+ },
+ "nichepcgamer.com": {
+  "publisher": "ニッチなPCゲーマーの環境構築Z",
+  "count": 1,
+  "first_seen": "2026-11-08",
+  "examples": [
+   "TSMC、3D DRAMの製造を検討か。NVIDIAからの要請を受けて"
+  ],
+  "last_seen": "2026-11-08"
+ },
+ "chugoku-np.co.jp": {
+  "publisher": "中国新聞デジタル",
+  "count": 1,
+  "first_seen": "2026-11-08",
+  "examples": [
+   "東広島でビジネスホテル新設ラッシュ 半導体特需に沸き3社進出、計400室超"
+  ],
+  "last_seen": "2026-11-08"
  }
 }
