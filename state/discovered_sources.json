@@ -12,14 +12,14 @@
  },
  "news.yahoo.co.jp": {
   "publisher": "テクノエッジ",
-  "count": 8,
+  "count": 9,
   "first_seen": "2026-10-20",
   "examples": [
+   "アンソロピック（Claude）上場の黄信号は杞憂である（尾藤克之） - エキスパート",
    "木村昴 「宇宙」をテーマに描いたアートブックが完成 閉所恐怖症で「宇宙に行けないと分かった」",
-   "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠",
-   "Claudeが「家計簿」化！ OpenAIのサイバー特化モデルにGoogleの動画生成AI発表も【AIニュース3選】"
+   "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠"
   ],
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-09"
  },
  "mezha.net": {
   "publisher": "mezha.net",
@@ -247,6 +247,16 @@
    "QTEが目指した「ゲームの夢」と現在地｜遊星歯車機関"
   ],
   "last_seen": "2026-11-02"
+ },
+ "sankei.com": {
+  "publisher": "sankei.com",
+  "count": 2,
+  "first_seen": "2026-11-03",
+  "examples": [
+   "CEOと不倫関係、中国スパイ疑惑の調査開始 エヌビディア 半導体の情報収集",
+   "欧州各地で冷蔵設備にサイバー攻撃 ベルギーのスーパー40店で温度上昇"
+  ],
+  "last_seen": "2026-11-09"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -1112,15 +1122,6 @@
   ],
   "last_seen": "2026-10-31"
  },
- "sankei.com": {
-  "publisher": "sankei.com",
-  "count": 1,
-  "first_seen": "2026-11-03",
-  "examples": [
-   "欧州各地で冷蔵設備にサイバー攻撃 ベルギーのスーパー40店で温度上昇"
-  ],
-  "last_seen": "2026-11-03"
- },
  "paymentnavi.com": {
   "publisher": "ペイメントナビ",
   "count": 1,
@@ -1219,5 +1220,32 @@
    "東広島でビジネスホテル新設ラッシュ 半導体特需に沸き3社進出、計400室超"
   ],
   "last_seen": "2026-11-08"
+ },
+ "dev.ponkotsu.dev": {
+  "publisher": "dev.ponkotsu.dev",
+  "count": 1,
+  "first_seen": "2026-11-09",
+  "examples": [
+   "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note"
+  ],
+  "last_seen": "2026-11-09"
+ },
+ "ict-enews.net": {
+  "publisher": "ICT教育ニュース",
+  "count": 1,
+  "first_seen": "2026-11-09",
+  "examples": [
+   "AI英会話「スピーク」、OpenAIの最新モデル「GPT-Live-1」活用した新レッスン登場"
+  ],
+  "last_seen": "2026-11-09"
+ },
+ "nikkei.com": {
+  "publisher": "nikkei.com",
+  "count": 1,
+  "first_seen": "2026-11-09",
+  "examples": [
+   "半導体の生産量は「ラピダスの40倍」 マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞"
+  ],
+  "last_seen": "2026-11-09"
  }
 }
