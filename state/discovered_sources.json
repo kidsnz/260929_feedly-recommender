@@ -258,6 +258,26 @@
   ],
   "last_seen": "2026-11-09"
  },
+ "digitaltoday.co.kr": {
+  "publisher": "디지털투데이",
+  "count": 2,
+  "first_seen": "2026-10-02",
+  "examples": [
+   "Kakao、OpenAIとAI活用短編アニメ「それでも、ライアン」公開",
+   "AIエージェントの責任論、訴訟と当局調査に拡大 OpenAI提訴、FTCも調査へ"
+  ],
+  "last_seen": "2026-11-10"
+ },
+ "ledge.ai": {
+  "publisher": "Ledge.ai",
+  "count": 2,
+  "first_seen": "2026-11-08",
+  "examples": [
+   "米中間選挙でAIデータセンター建設が争点に Googleが170億ドル投資、OpenAIは電力費全額負担など地域対策を発表",
+   "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証"
+  ],
+  "last_seen": "2026-11-10"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -392,15 +412,6 @@
    "I Photographed Every Red Wine at Costco and Asked ChatGPT, Claude and Gemini to Build a Wine Cellar"
   ],
   "last_seen": "2026-10-01"
- },
- "digitaltoday.co.kr": {
-  "publisher": "디지털투데이",
-  "count": 1,
-  "first_seen": "2026-10-02",
-  "examples": [
-   "AIエージェントの責任論、訴訟と当局調査に拡大 OpenAI提訴、FTCも調査へ"
-  ],
-  "last_seen": "2026-10-02"
  },
  "cnbc.com": {
   "publisher": "CNBC",
@@ -1194,15 +1205,6 @@
   ],
   "last_seen": "2026-11-08"
  },
- "ledge.ai": {
-  "publisher": "Ledge.ai",
-  "count": 1,
-  "first_seen": "2026-11-08",
-  "examples": [
-   "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証"
-  ],
-  "last_seen": "2026-11-08"
- },
  "nichepcgamer.com": {
   "publisher": "ニッチなPCゲーマーの環境構築Z",
   "count": 1,
@@ -1247,5 +1249,14 @@
    "半導体の生産量は「ラピダスの40倍」 マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞"
   ],
   "last_seen": "2026-11-09"
+ },
+ "platform.claude.com": {
+  "publisher": "platform.claude.com",
+  "count": 1,
+  "first_seen": "2026-11-10",
+  "examples": [
+   "Claude Fable 5.2へのプロンプト"
+  ],
+  "last_seen": "2026-11-10"
  }
 }
