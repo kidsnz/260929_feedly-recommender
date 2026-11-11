@@ -1,4 +1,15 @@
 {
+ "news.yahoo.co.jp": {
+  "publisher": "テクノエッジ",
+  "count": 11,
+  "first_seen": "2026-10-20",
+  "examples": [
+   "映画『VIVANT』ビジュアル初解禁！堺雅人ら17人が続投、阿部寛＆二階堂ふみ＆二宮和也ら集結",
+   "米議員、対中半導体規制強化を要求 スパイ疑惑受け",
+   "アンソロピック（Claude）上場の黄信号は杞憂である（尾藤克之） - エキスパート"
+  ],
+  "last_seen": "2026-11-11"
+ },
  "reuters.com": {
   "publisher": "reuters.com",
   "count": 9,
@@ -9,17 +20,6 @@
    "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports"
   ],
   "last_seen": "2026-11-04"
- },
- "news.yahoo.co.jp": {
-  "publisher": "テクノエッジ",
-  "count": 9,
-  "first_seen": "2026-10-20",
-  "examples": [
-   "アンソロピック（Claude）上場の黄信号は杞憂である（尾藤克之） - エキスパート",
-   "木村昴 「宇宙」をテーマに描いたアートブックが完成 閉所恐怖症で「宇宙に行けないと分かった」",
-   "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠"
-  ],
-  "last_seen": "2026-11-09"
  },
  "mezha.net": {
   "publisher": "mezha.net",
@@ -78,14 +78,14 @@
  },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
-  "count": 3,
+  "count": 4,
   "first_seen": "2026-10-08",
   "examples": [
+   "OpenAIが旅行AI「Odessia」を買収、好みを記憶して予約までこなすAIエージェントの開発者を獲得",
    "Samsungが自社製4nmを使わずTSMCの3nmを採用へ、NVIDIAの次世代HBMで異例の判断",
-   "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き",
-   "SamsungがHBM次世代接合で先行か、SK hynixは開発難航との報道"
+   "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き"
   ],
-  "last_seen": "2026-10-18"
+  "last_seen": "2026-11-11"
  },
  "topics.smt.docomo.ne.jp": {
   "publisher": "ｄメニューニュース",
@@ -97,6 +97,17 @@
    "米国株式市場＝ナスダック最高値、エヌビディア・マイクロソフトけん引 企業決算に注目"
   ],
   "last_seen": "2026-11-08"
+ },
+ "forest.watch.impress.co.jp": {
+  "publisher": "窓の杜",
+  "count": 3,
+  "first_seen": "2026-10-09",
+  "examples": [
+   "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか【柳谷智宣のAI ウォッチ！】",
+   "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
+   "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
+  ],
+  "last_seen": "2026-11-11"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -197,16 +208,6 @@
    "OpenAI Jalapeño推論チップ、Nvidiaの汎用AIハードウェアに挑む"
   ],
   "last_seen": "2026-10-23"
- },
- "forest.watch.impress.co.jp": {
-  "publisher": "窓の杜",
-  "count": 2,
-  "first_seen": "2026-10-09",
-  "examples": [
-   "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
-   "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
-  ],
-  "last_seen": "2026-10-26"
  },
  "itmedia.co.jp": {
   "publisher": "itmedia.co.jp",
