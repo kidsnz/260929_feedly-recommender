@@ -1259,5 +1259,23 @@
    "Claude Fable 5.2へのプロンプト"
   ],
   "last_seen": "2026-11-10"
+ },
+ "news.web.nhk": {
+  "publisher": "news.web.nhk",
+  "count": 1,
+  "first_seen": "2026-11-12",
+  "examples": [
+   "エヌビディア フアンCEO解任へ準備 米紙報道 | NHKニュース"
+  ],
+  "last_seen": "2026-11-12"
+ },
+ "47news.jp": {
+  "publisher": "47news.jp",
+  "count": 1,
+  "first_seen": "2026-11-12",
+  "examples": [
+   "【速報】エヌビディアCEO、女性幹部とも不倫か"
+  ],
+  "last_seen": "2026-11-12"
  }
 }
