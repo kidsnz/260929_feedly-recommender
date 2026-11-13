@@ -54,6 +54,17 @@
   ],
   "last_seen": "2026-10-30"
  },
+ "xenospectrum.com": {
+  "publisher": "XenoSpectrum",
+  "count": 5,
+  "first_seen": "2026-10-08",
+  "examples": [
+   "OpenAIやGoogleなどAI大手5社が提訴される、新モデルの開発停止を要求する異例の訴訟",
+   "OpenAIが旅行AI「Odessia」を買収、好みを記憶して予約までこなすAIエージェントの開発者を獲得",
+   "Samsungが自社製4nmを使わずTSMCの3nmを採用へ、NVIDIAの次世代HBMで異例の判断"
+  ],
+  "last_seen": "2026-11-13"
+ },
  "github.com": {
   "publisher": "github.com",
   "count": 4,
@@ -75,17 +86,6 @@
    "火星の近くに到着した「MMX」の探査機のイメージ（JAXA提供） - 火星衛星の砂採取、31年に地球帰還へ JAXA主導の「MMX」探査機、20日未明打ち上げ - 写真・画像(1/2)"
   ],
   "last_seen": "2026-10-31"
- },
- "xenospectrum.com": {
-  "publisher": "XenoSpectrum",
-  "count": 4,
-  "first_seen": "2026-10-08",
-  "examples": [
-   "OpenAIが旅行AI「Odessia」を買収、好みを記憶して予約までこなすAIエージェントの開発者を獲得",
-   "Samsungが自社製4nmを使わずTSMCの3nmを採用へ、NVIDIAの次世代HBMで異例の判断",
-   "DeepSeekの新AI「V4.1 Flash」がClaude Opus 5を上回る、コード修正性能で逆転し料金は据え置き"
-  ],
-  "last_seen": "2026-11-11"
  },
  "topics.smt.docomo.ne.jp": {
   "publisher": "ｄメニューニュース",
@@ -278,6 +278,16 @@
    "東京科学大、AIエージェントだけで構成した実験チームがダイヤモンドの量子スピン応答を予測する法則を導出 実機で検証"
   ],
   "last_seen": "2026-11-10"
+ },
+ "nikkei.com": {
+  "publisher": "nikkei.com",
+  "count": 2,
+  "first_seen": "2026-11-09",
+  "examples": [
+   "NVIDIA、ジェンスン・ファンCEO辞任 暫定トップにクレスCFO - 日本経済新聞",
+   "半導体の生産量は「ラピダスの40倍」 マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞"
+  ],
+  "last_seen": "2026-11-13"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -1242,15 +1252,6 @@
   ],
   "last_seen": "2026-11-09"
  },
- "nikkei.com": {
-  "publisher": "nikkei.com",
-  "count": 1,
-  "first_seen": "2026-11-09",
-  "examples": [
-   "半導体の生産量は「ラピダスの40倍」 マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞"
-  ],
-  "last_seen": "2026-11-09"
- },
  "platform.claude.com": {
   "publisher": "platform.claude.com",
   "count": 1,
@@ -1277,5 +1278,32 @@
    "【速報】エヌビディアCEO、女性幹部とも不倫か"
   ],
   "last_seen": "2026-11-12"
+ },
+ "cygames.co.jp": {
+  "publisher": "cygames.co.jp",
+  "count": 1,
+  "first_seen": "2026-11-13",
+  "examples": [
+   "『ウマ娘 プリティーダービー』がF1日本グランプリ初のファウンディングパートナーに就任 | お知らせ | 株式会社Cygames（サイゲームス）"
+  ],
+  "last_seen": "2026-11-13"
+ },
+ "vietnam.vn": {
+  "publisher": "Vietnam.vn",
+  "count": 1,
+  "first_seen": "2026-11-13",
+  "examples": [
+   "初期宇宙のこれまでで最も詳細なモデルが公開された。"
+  ],
+  "last_seen": "2026-11-13"
+ },
+ "mashdigi.com": {
+  "publisher": "Mashdigi",
+  "count": 1,
+  "first_seen": "2026-11-13",
+  "examples": [
+   "年間収益10億ドル突破も、半数以上のブランドが赤字？OpenAI「ChatGPT Ads」開始9ヶ月の成績表を読み解く"
+  ],
+  "last_seen": "2026-11-13"
  }
 }
