@@ -1,14 +1,14 @@
 {
  "news.yahoo.co.jp": {
   "publisher": "テクノエッジ",
-  "count": 11,
+  "count": 12,
   "first_seen": "2026-10-20",
   "examples": [
+   "米スペースX、データセンターに12兆円投資",
    "映画『VIVANT』ビジュアル初解禁！堺雅人ら17人が続投、阿部寛＆二階堂ふみ＆二宮和也ら集結",
-   "米議員、対中半導体規制強化を要求 スパイ疑惑受け",
-   "アンソロピック（Claude）上場の黄信号は杞憂である（尾藤克之） - エキスパート"
+   "米議員、対中半導体規制強化を要求 スパイ疑惑受け"
   ],
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-14"
  },
  "reuters.com": {
   "publisher": "reuters.com",
@@ -20,6 +20,17 @@
    "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports"
   ],
   "last_seen": "2026-11-04"
+ },
+ "unite.ai": {
+  "publisher": "Unite.AI",
+  "count": 8,
+  "first_seen": "2026-10-03",
+  "examples": [
+   "OpenAI Codexレビュー：私が投げかけたバグをすべて修正",
+   "OpenAIが支援するThrive Holdings、ADTを153億ドルの全額現金取引で買収へ",
+   "Anthropic、ClaudeがNISTのECDSA曲線のシードを1990年代の乱数生成器にたどり着いたと発表"
+  ],
+  "last_seen": "2026-11-14"
  },
  "mezha.net": {
   "publisher": "mezha.net",
@@ -42,17 +53,6 @@
    "Claudeが楕円曲線ECDSAの起源を解明、NSAのシードはタイムスタンプだった"
   ],
   "last_seen": "2026-10-24"
- },
- "unite.ai": {
-  "publisher": "Unite.AI",
-  "count": 7,
-  "first_seen": "2026-10-03",
-  "examples": [
-   "OpenAIが支援するThrive Holdings、ADTを153億ドルの全額現金取引で買収へ",
-   "Anthropic、ClaudeがNISTのECDSA曲線のシードを1990年代の乱数生成器にたどり着いたと発表",
-   "Sophos、Daybreak AI エージェントが平均ケース対応時間を 89 秒に短縮したと発表"
-  ],
-  "last_seen": "2026-10-30"
  },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
@@ -288,6 +288,16 @@
    "半導体の生産量は「ラピダスの40倍」 マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞"
   ],
   "last_seen": "2026-11-13"
+ },
+ "yomiuri.co.jp": {
+  "publisher": "読売新聞",
+  "count": 2,
+  "first_seen": "2026-10-31",
+  "examples": [
+   "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
+   "ＧＭＯ脆弱性 ２４年指摘 関連会社から 熊谷社長 あすにも会見"
+  ],
+  "last_seen": "2026-11-14"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -1134,15 +1144,6 @@
    "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表"
   ],
   "last_seen": "2026-10-28"
- },
- "yomiuri.co.jp": {
-  "publisher": "読売新聞",
-  "count": 1,
-  "first_seen": "2026-10-31",
-  "examples": [
-   "ＧＭＯ脆弱性 ２４年指摘 関連会社から 熊谷社長 あすにも会見"
-  ],
-  "last_seen": "2026-10-31"
  },
  "paymentnavi.com": {
   "publisher": "ペイメントナビ",

@@ -1,5 +1,777 @@
 [
  {
+  "title": "AIが作ったPowerPointの日本語を後から直すエージェントスキル「slide-text-polish」",
+  "link": "https://zenn.dev/earlyware_labs/articles/slide-text-polish",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.9202,
+  "published": "2026-11-13T10:50:53+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "Claude Code",
+    "Codex",
+    "GitHub Copilot",
+    "Copilot"
+   ],
+   "Anthropic・Claude": [
+    "Claude",
+    "Claude Code"
+   ],
+   "OpenAI・ChatGPT": [
+    "Codex"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "AIエージェントの『提案』が『決定』に変わる場所を、印(スタンプ)1つで塞いだ記録",
+  "link": "https://zenn.dev/hakumaigenki/articles/ai-agent-approval-log-1113",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.8788,
+  "published": "2026-11-13T09:21:49+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント",
+    "Claude Code",
+    "Codex"
+   ],
+   "Anthropic・Claude": [
+    "Claude",
+    "Claude Code"
+   ],
+   "OpenAI・ChatGPT": [
+    "Codex"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": []
+ },
+ {
+  "title": "Codexで画像を作るたびにNotionを読ませていた話と、terraとlunaのトークン比較",
+  "link": "https://zenn.dev/dk_architect/articles/codex-image-model-tokens",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.5382,
+  "published": "2026-11-13T13:02:11+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "Codex",
+    "Claude Code"
+   ],
+   "AI・生成AI全般": [
+    "専門媒体: Zenn: Claude Code"
+   ],
+   "OpenAI・ChatGPT": [
+    "Codex"
+   ],
+   "Anthropic・Claude": [
+    "Claude",
+    "Claude Code"
+   ]
+  },
+  "primary": "AIエージェント・AIコーディング",
+  "related": [
+   "Zenn: AI"
+  ]
+ },
+ {
+  "title": "自分のサイトを12個のAIに審査させたら、人間度12から100まで全部出た話",
+  "link": "https://zenn.dev/ray_9618/articles/6ec984248b8ee3",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.4213,
+  "published": "2026-11-13T16:55:45+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "Claude Codeの手順書は、指定しても読まれない——教訓を「読ませる」から「貼る」「止める」へ変えた3か月の記録",
+  "link": "https://zenn.dev/tottoko_hamu/articles/2026-11-14-000106",
+  "source": "Zenn: Claude Code",
+  "via": "RSS",
+  "collector": "Zenn: Claude Code",
+  "feed_url": "https://zenn.dev/topics/claudecode/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 2.4197,
+  "published": "2026-11-13T15:07:12+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "Claude Code",
+    "エージェント"
+   ],
+   "AI・生成AI全般": [
+    "専門媒体: Zenn: Claude Code"
+   ],
+   "Anthropic・Claude": [
+    "Claude",
+    "Claude Code"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "Zenn: AI"
+  ]
+ },
+ {
+  "title": "ChatGPTが買い物の支払いまで代行、「Wallet」提供開始--購入ごとに本人認証",
+  "link": "https://japan.cnet.com/article/35254870/",
+  "source": "CNET Japan",
+  "via": "RSS",
+  "collector": "CNET Japan",
+  "feed_url": "https://feeds.japan.cnet.com/rss/cnet/all.rdf",
+  "domain": "japan.cnet.com",
+  "lang": "ja",
+  "score": 2.2212,
+  "published": "2026-11-13T22:30:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "エージェント",
+    "AIエージェント"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "OpenAI・ChatGPT": [
+    "ChatGPT",
+    "OpenAI"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": [
+   "Mezha.net",
+   "千葉テレビ放送",
+   "琉球新報デジタル",
+   "西日本新聞me",
+   "財経新聞"
+  ]
+ },
+ {
+  "title": "AI需要が材料／部品に波及 NVIDIA創業者CEOが辞任",
+  "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html",
+  "source": "EE Times Japan",
+  "via": "RSS",
+  "collector": "EE Times Japan",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/eetimes.xml",
+  "domain": "eetimes.itmedia.co.jp",
+  "lang": "ja",
+  "score": 1.9366,
+  "published": "2026-11-14T00:00:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "半導体・データセンター": [
+    "NVIDIA"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "外観検査AI、誤警報半減の落とし穴 — 不良率1%の試算で人手は逆転する",
+  "link": "https://zenn.dev/jodycraft/articles/inspection-ai-input-false-alarm-tradeoff",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.9058,
+  "published": "2026-11-13T12:53:08+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: Zenn: AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "re:Invent 2025から2026へ ― KiroとAI-DLCの1年で見えた「Agentに仕事を任せる」の次",
+  "link": "https://zenn.dev/nobu_13/articles/6b4c503decc4bb",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.9035,
+  "published": "2026-11-13T12:45:45+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: Zenn: AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "AIの人工無能化 — 自分と同じ答えが返ってきたときこそ",
+  "link": "https://zenn.dev/sugitakenji/articles/c0680f7eb2ba74",
+  "source": "Zenn: AI",
+  "via": "RSS",
+  "collector": "Zenn: AI",
+  "feed_url": "https://zenn.dev/topics/ai/feed",
+  "domain": "zenn.dev",
+  "lang": "ja",
+  "score": 1.9026,
+  "published": "2026-11-13T12:42:46+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "AIエージェント・AIコーディング": [
+    "専門媒体: Zenn: AI"
+   ]
+  },
+  "primary": "AI・生成AI全般",
+  "related": []
+ },
+ {
+  "title": "議事録も資料も会議が終わる前にできている、Claude Meetings",
+  "link": "https://pc.watch.impress.co.jp/docs/news/2156234.html",
+  "source": "PC Watch",
+  "via": "RSS",
+  "collector": "PC Watch",
+  "feed_url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+  "domain": "pc.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 1.9014,
+  "published": "2026-11-13T21:00:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "Anthropic・Claude": [
+    "Claude",
+    "Anthropic"
+   ],
+   "AI・生成AI全般": [
+    "AI"
+   ],
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Google"
+   ],
+   "ガジェット・PC・電子工作": [
+    "専門媒体: PC Watch"
+   ]
+  },
+  "primary": "Anthropic・Claude",
+  "related": [
+   "CNET Japan",
+   "shiritomo"
+  ]
+ },
+ {
+  "title": "米スペースX、データセンターに12兆円投資",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jUjVIeXR4a1lXamNzQ193WU90REpVSzYwZkQ3bmtPTkplZXVMUU1Ja0t4eDkxRDItaWZnSlNYRW5Vb3d2akhra0VwTjFKdXhNOWg5YXJITFc2U0VMaEE3VHpDeFpyYUpkd1FXaW1NT083RTJ4b0NuWHVsQnJvak0?oc=5",
+  "source": "時事通信",
+  "via": "Googleニュース",
+  "collector": "Google: 宇宙 OR ロケット OR JAXA OR スペースX",
+  "feed_url": "https://news.google.com/rss/search?q=%E5%AE%87%E5%AE%99+OR+%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88+OR+JAXA+OR+%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "news.yahoo.co.jp",
+  "lang": "ja",
+  "score": 1.3462,
+  "published": "2026-11-13T11:01:29+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "データセンター"
+   ],
+   "経済・マーケット・企業": [
+    "投資"
+   ],
+   "宇宙・科学研究": [
+    "スペースX"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "時事ドットコム",
+   "ｄメニューニュース"
+  ]
+ },
+ {
+  "title": "OpenAI Codexレビュー：私が投げかけたバグをすべて修正",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QamdhbTNNVnFTU1RuUzhNV2NCaHdVeWlDQzJMTm1NbG05TkRMN0d4SlRkdHRkYktHUEdDUUU3QXVEeXFxSWtmRmxUNDl6WUVyM0dCTkpWUQ?oc=5",
+  "source": "Unite.AI",
+  "via": "Googleニュース",
+  "collector": "Google: AIエージェント OR \"Claude Code\" OR Codex OR バイブコーディング",
+  "feed_url": "https://news.google.com/rss/search?q=AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%22Claude+Code%22+OR+Codex+OR+%E3%83%90%E3%82%A4%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "unite.ai",
+  "lang": "ja",
+  "score": 1.318,
+  "published": "2026-11-13T20:22:01+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "AIエージェント・AIコーディング": [
+    "Codex"
+   ],
+   "OpenAI・ChatGPT": [
+    "OpenAI",
+    "Codex"
+   ],
+   "ガジェット・PC・電子工作": [
+    "レビュー"
+   ]
+  },
+  "primary": "OpenAI・ChatGPT",
+  "related": []
+ },
+ {
+  "title": "全国のApple Store全店舗が｢ポケモンGO｣のポケストップに——11月16日〜30日の期間限定",
+  "link": "https://taisy0.com/2026/11/13/230378.html",
+  "source": "気になる、記になる…",
+  "via": "RSS",
+  "collector": "気になる、記になる…",
+  "feed_url": "https://taisy0.com/feed",
+  "domain": "taisy0.com",
+  "lang": "ja",
+  "score": 1.2362,
+  "published": "2026-11-13T02:05:41+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ],
+   "ゲーム": [
+    "ポケモン",
+    "ゲーム"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "ITmedia Mobile"
+  ]
+ },
+ {
+  "title": "「エヌビディア株を買い増す予定」。ファンCEO辞任後も続く、個人投資家の強気",
+  "link": "https://www.businessinsider.jp/article/2611-nvidia-stock-retail-investors-buy-the-dip-jensen-huang-resigns/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 1.1126,
+  "published": "2026-11-13T01:50:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資",
+    "投資家"
+   ],
+   "半導体・データセンター": [
+    "エヌビディア"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "AMD Ryzen 9 9900X＋RTX 5070 Ti搭載PCが6万4000円引き！ パソコンショップSEVEN、11月14日限定セール",
+  "link": "https://ascii.jp/elem/000/004/450/4450801/?rss",
+  "source": "ASCII.jp",
+  "via": "RSS",
+  "collector": "ASCII.jp",
+  "feed_url": "https://ascii.jp/rss.xml",
+  "domain": "ascii.jp",
+  "lang": "ja",
+  "score": 1.0801,
+  "published": "2026-11-13T15:00:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "ガジェット・PC・電子工作": [
+    "PC",
+    "パソコン"
+   ],
+   "半導体・データセンター": [
+    "AMD"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "KDDIが｢BLACK FRIDAY 2026｣のキャンペーンを開始——Apple Watchが最大16,500円オフ、AirPods Pro 3が最大6,600円オフなど",
+  "link": "https://taisy0.com/2026/11/13/230394.html",
+  "source": "気になる、記になる…",
+  "via": "RSS",
+  "collector": "気になる、記になる…",
+  "feed_url": "https://taisy0.com/feed",
+  "domain": "taisy0.com",
+  "lang": "ja",
+  "score": 1.0767,
+  "published": "2026-11-13T08:15:45+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "Apple"
+   ],
+   "ガジェット・PC・電子工作": [
+    "イヤホン"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": [
+   "ケータイ Watch"
+  ]
+ },
+ {
+  "title": "「ガルパン」の麻雀ゲーム『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』発表。戦いの舞台はなぜか麻雀、“味方持ち点平均化”“有効牌率アップ”など「特殊技」を駆使してタッグ打ち",
+  "link": "https://automaton-media.com/articles/newsjp/20261114-479244/",
+  "source": "AUTOMATON",
+  "via": "RSS",
+  "collector": "AUTOMATON",
+  "feed_url": "https://automaton-media.com/feed/",
+  "domain": "automaton-media.com",
+  "lang": "ja",
+  "score": 0.9771,
+  "published": "2026-11-14T00:30:11+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム"
+   ],
+   "映画・アニメ・映像": [
+    "アニメ"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "Game*Spark"
+  ]
+ },
+ {
+  "title": "壊れるまで継続中の｢iPhone Duo｣の開閉テスト、45万回突破もヒンジの動きに変化が",
+  "link": "https://taisy0.com/2026/11/14/230412.html",
+  "source": "気になる、記になる…",
+  "via": "RSS",
+  "collector": "気になる、記になる…",
+  "feed_url": "https://taisy0.com/feed",
+  "domain": "taisy0.com",
+  "lang": "ja",
+  "score": 0.9324,
+  "published": "2026-11-14T00:32:34+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "iPhone"
+   ]
+  },
+  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
+  "related": []
+ },
+ {
+  "title": "鎌倉製作所、顕熱交換方式の採用で消費電力を抑えたコンテナ型データセンター向け空調機「AirX CROSS」を発表",
+  "link": "https://cloud.watch.impress.co.jp/docs/news/2155797.html",
+  "source": "Impress クラウドWatch",
+  "via": "RSS",
+  "collector": "Impress クラウドWatch",
+  "feed_url": "https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf",
+  "domain": "cloud.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.838,
+  "published": "2026-11-13T02:00:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "データセンター"
+   ],
+   "経済・マーケット・企業": [
+    "株式"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vWjEtdjAtS2NzNTlsdm9tMG9Nam1DcFE2Umg2ZGNEU2hrc21nY1FldkRzM1RaZHhkeTlkWVBzRnA5S2hDMGRBbVdIMWE4N2I1TldINTJOMDhBNjdSV09aSThiZW0?oc=5",
+  "source": "読売新聞",
+  "via": "Googleニュース",
+  "collector": "Google: アップル OR グーグル OR メタ OR マイクロソフト OR アマゾン",
+  "feed_url": "https://news.google.com/rss/search?q=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB+OR+%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB+OR+%E3%83%A1%E3%82%BF+OR+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88+OR+%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
+  "domain": "yomiuri.co.jp",
+  "lang": "ja",
+  "score": 0.7717,
+  "published": "2026-11-14T00:42:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
+    "マイクロソフト"
+   ],
+   "サイバーセキュリティ・プライバシー": [
+    "サイバー攻撃"
+   ]
+  },
+  "primary": "サイバーセキュリティ・プライバシー",
+  "related": [
+   "AFPBB News",
+   "TBS NEWS DIG",
+   "Yahoo!ニュース",
+   "ＡＦＰ＝時事"
+  ]
+ },
+ {
+  "title": "センサーの自社開発にこだわるVaisala 半導体や電池製造で存在感",
+  "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/13/news068.html",
+  "source": "EE Times Japan",
+  "via": "RSS",
+  "collector": "EE Times Japan",
+  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/eetimes.xml",
+  "domain": "eetimes.itmedia.co.jp",
+  "lang": "ja",
+  "score": 0.7485,
+  "published": "2026-11-13T03:30:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "半導体・データセンター": [
+    "半導体"
+   ]
+  },
+  "primary": "半導体・データセンター",
+  "related": []
+ },
+ {
+  "title": "Steamで「まったく同じ名前＆ほぼ同時発売」だった2本のゲーム、今度はSwitch版を“同じ日”に発売へ。仲良しすぎて任天堂もちょっと困惑 - AUTOMATON",
+  "link": "https://automaton-media.com/articles/newsjp/20261113-479045/",
+  "source": "はてなブックマーク アニメとゲーム 人気",
+  "via": "RSS",
+  "collector": "はてなブックマーク アニメとゲーム 人気",
+  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
+  "domain": "automaton-media.com",
+  "lang": "ja",
+  "score": 0.7201,
+  "published": "2026-11-13T02:24:30+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "ゲーム": [
+    "ゲーム",
+    "任天堂",
+    "Steam",
+    "Nintendo",
+    "Nintendo Switch"
+   ]
+  },
+  "primary": "ゲーム",
+  "related": [
+   "AUTOMATON",
+   "automaton-media.com",
+   "ニコニコニュース"
+  ]
+ },
+ {
+  "title": "【今すぐ読みたい！人気記事】眠っているPC、まだ捨てないで！最軽量級OS「Lubuntu」で古いPCを完全再生 - PC Watch",
+  "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2156463.html",
+  "source": "PC Watch",
+  "via": "RSS",
+  "collector": "PC Watch",
+  "feed_url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+  "domain": "pc.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.6366,
+  "published": "2026-11-13T21:11:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "ガジェット・PC・電子工作": [
+    "PC"
+   ]
+  },
+  "primary": "ガジェット・PC・電子工作",
+  "related": []
+ },
+ {
+  "title": "楽天モバイルの「最強衛星サービス」、打ち上げのボトクネック解消？ ASTが自社ロケット開発",
+  "link": "https://japan.cnet.com/article/35254857/",
+  "source": "CNET Japan",
+  "via": "RSS",
+  "collector": "CNET Japan",
+  "feed_url": "https://feeds.japan.cnet.com/rss/cnet/all.rdf",
+  "domain": "japan.cnet.com",
+  "lang": "ja",
+  "score": 0.6225,
+  "published": "2026-11-13T10:10:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "宇宙・科学研究": [
+    "ロケット",
+    "衛星"
+   ],
+   "経済・マーケット・企業": [
+    "決算"
+   ]
+  },
+  "primary": "宇宙・科学研究",
+  "related": [
+   "Yahoo!ニュース"
+  ]
+ },
+ {
+  "title": "120歳を目指す生物学者が語る、最先端テクノロジーより大切な「4つの長寿習慣」",
+  "link": "https://www.businessinsider.jp/article/2611-gary-brecka-longevity-habits/",
+  "source": "Business Insider Japan",
+  "via": "RSS",
+  "collector": "Business Insider Japan",
+  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
+  "domain": "businessinsider.jp",
+  "lang": "ja",
+  "score": 0.5856,
+  "published": "2026-11-13T23:30:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "経済・マーケット・企業": [
+    "投資"
+   ]
+  },
+  "primary": "経済・マーケット・企業",
+  "related": []
+ },
+ {
+  "title": "万引き常習者にスロットをさせたら設定が変わっても台の乗り換えが遅かった",
+  "link": "https://nazology.kusuguru.co.jp/archives/208917",
+  "source": "ナゾロジー",
+  "via": "RSS",
+  "collector": "ナゾロジー",
+  "feed_url": "https://nazology.kusuguru.co.jp/feed",
+  "domain": "nazology.kusuguru.co.jp",
+  "lang": "ja",
+  "score": 0.5761,
+  "published": "2026-11-13T11:00:53+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "健康・医療・生物": [
+    "病気"
+   ],
+   "ゲーム": [
+    "ゲーム"
+   ],
+   "宇宙・科学研究": [
+    "研究チーム"
+   ]
+  },
+  "primary": "健康・医療・生物",
+  "related": []
+ },
+ {
+  "title": "映画「ゴジラ-0.0」制作現場に500日間完全密着。Prime Videoで11月27日独占配信",
+  "link": "https://av.watch.impress.co.jp/docs/news/2156027.html",
+  "source": "AV Watch",
+  "via": "RSS",
+  "collector": "AV Watch",
+  "feed_url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
+  "domain": "av.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.4802,
+  "published": "2026-11-12T22:00:00+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "映画・アニメ・映像": [
+    "映画",
+    "監督"
+   ]
+  },
+  "primary": "映画・アニメ・映像",
+  "related": [
+   "CINRA"
+  ]
+ },
+ {
+  "title": "トヨタ「ヤリス クロス GR SPORT」純正装着タイヤにミシュラン「プライマシー5エナジー」採用",
+  "link": "https://car.watch.impress.co.jp/docs/news/2156352.html",
+  "source": "Car Watch",
+  "via": "RSS",
+  "collector": "Car Watch",
+  "feed_url": "https://car.watch.impress.co.jp/data/rss/1.0/car/feed.rdf",
+  "domain": "car.watch.impress.co.jp",
+  "lang": "ja",
+  "score": 0.4476,
+  "published": "2026-11-13T08:25:11+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "トヨタ",
+    "自動車"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": [
+   "レスポンス"
+  ]
+ },
+ {
+  "title": "城崎温泉街で自動運転バス実証運行開始、韓国製「ROii」を国内初採用…KDDIや損保ジャパン",
+  "link": "https://response.jp/article/2026/11/13/418993.html",
+  "source": "レスポンス",
+  "via": "RSS",
+  "collector": "レスポンス",
+  "feed_url": "https://response.jp/rss/index.rdf",
+  "domain": "response.jp",
+  "lang": "ja",
+  "score": 0.4395,
+  "published": "2026-11-13T06:45:03+00:00",
+  "selected_at": "2026-11-14T01:10:07+00:00",
+  "topics": {
+   "クルマ・EV・ロボット・自動運転": [
+    "自動運転"
+   ]
+  },
+  "primary": "クルマ・EV・ロボット・自動運転",
+  "related": [
+   "レスポンス（Response.jp）"
+  ]
+ },
+ {
   "title": "【Hothotレビュー】メモリ48GBで26万円台のミニPC「T5 Max」でローカルAIエージェントを動かしてみた",
   "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2155899.html",
   "source": "PC Watch",
@@ -4610,775 +5382,6 @@
   "topics": {
    "健康・医療・生物": [
     "動物"
-   ]
-  },
-  "primary": "健康・医療・生物",
-  "related": []
- },
- {
-  "title": "AIエージェントを手元のMacで動かし続ける理由 ― クラウドのVMに届かないものと、技術の土地勘",
-  "link": "https://zenn.dev/tmiyachi/articles/local-agent-vm-intuition",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 4.1295,
-  "published": "2026-11-06T14:15:59+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "AIエージェント・AIコーディング": [
-    "エージェント",
-    "AIエージェント",
-    "Claude Code",
-    "Codex"
-   ],
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Mac",
-    "YouTube"
-   ],
-   "Anthropic・Claude": [
-    "Claude",
-    "Claude Code"
-   ],
-   "OpenAI・ChatGPT": [
-    "ChatGPT",
-    "Codex"
-   ],
-   "ガジェット・PC・電子工作": [
-    "スマホ",
-    "パソコン"
-   ],
-   "経済・マーケット・企業": [
-    "株式"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": []
- },
- {
-  "title": "米国中間選挙でAIデータセンターに逆風 OpenAI、Googleらが地域貢献をアピール",
-  "link": "https://www.watch.impress.co.jp/docs/news/2154351.html",
-  "source": "Impress Watch",
-  "via": "RSS",
-  "collector": "Impress Watch",
-  "feed_url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
-  "domain": "watch.impress.co.jp",
-  "lang": "ja",
-  "score": 3.0589,
-  "published": "2026-11-06T06:13:14+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Google"
-   ],
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "半導体・データセンター": [
-    "データセンター"
-   ],
-   "OpenAI・ChatGPT": [
-    "OpenAI"
-   ]
-  },
-  "primary": "OpenAI・ChatGPT",
-  "related": [
-   "Excite エキサイト",
-   "Yahoo!ニュース"
-  ]
- },
- {
-  "title": "AIが書いたXの下書き14本のうち、6本を出さなかった —— 出さない理由を3つに決めておいた話",
-  "link": "https://zenn.dev/ai_shihan/articles/5785b771e9583d",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 2.6884,
-  "published": "2026-11-06T12:47:23+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI",
-    "Grok"
-   ],
-   "AIエージェント・AIコーディング": [
-    "Claude Code"
-   ],
-   "Anthropic・Claude": [
-    "Claude",
-    "Claude Code"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "Zenn: AI"
-  ]
- },
- {
-  "title": "Claudeが「家計簿」化！ OpenAIのサイバー特化モデルにGoogleの動画生成AI発表も【AIニュース3選】",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbFRHdjNPTkp4RTR1YTI2eU80a1VGTVFFM2NObHQzZ0g3MTRfQ2RLUmxfRllZbTVmbHZrSE5KaGZRMEVsTy1QU2R5VWlIWktkWDQ5bExCOV9EcjR0OGNnZGFObWxxNnRsMXZFN3p6NldNWmczbXNqOWFmRE5qV1E?oc=5",
-  "source": "リアルサウンド",
-  "via": "Googleニュース",
-  "collector": "Google: Anthropic OR Claude OR アンソロピック",
-  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+Claude+OR+%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "news.yahoo.co.jp",
-  "lang": "ja",
-  "score": 2.4054,
-  "published": "2026-11-06T12:01:48+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI",
-    "生成AI",
-    "動画生成"
-   ],
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Google"
-   ],
-   "OpenAI・ChatGPT": [
-    "OpenAI"
-   ],
-   "Anthropic・Claude": [
-    "Claude"
-   ]
-  },
-  "primary": "Anthropic・Claude",
-  "related": [
-   "Yahoo!ニュース",
-   "ライブドアニュース"
-  ]
- },
- {
-  "title": "年間数億円のSaaSを、開発者一人バイブコーディングでリプレイスして感じた達成感と危機感",
-  "link": "https://zenn.dev/ttake/articles/0b6c8f887b160e",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 2.3852,
-  "published": "2026-11-06T13:05:43+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AIエージェント・AIコーディング": [
-    "コーディング",
-    "バイブコーディング"
-   ],
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "サイバーセキュリティ・プライバシー": [
-    "セキュリティ"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": [
-   "Zenn: AI"
-  ]
- },
- {
-  "title": "エージェントスキルの定量検証をしよう",
-  "link": "https://zenn.dev/yasuakiomokawa/articles/d271586275672e",
-  "source": "Zenn: Claude Code",
-  "via": "RSS",
-  "collector": "Zenn: Claude Code",
-  "feed_url": "https://zenn.dev/topics/claudecode/feed",
-  "domain": "zenn.dev",
-  "lang": "ja",
-  "score": 2.346,
-  "published": "2026-11-06T11:37:58+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AIエージェント・AIコーディング": [
-    "エージェント"
-   ],
-   "AI・生成AI全般": [
-    "LLM"
-   ],
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "オラクル"
-   ]
-  },
-  "primary": "AIエージェント・AIコーディング",
-  "related": [
-   "Zenn: AI"
-  ]
- },
- {
-  "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
-  "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
-  "source": "ITmedia AI+",
-  "via": "RSS",
-  "collector": "ITmedia AI+",
-  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
-  "domain": "kn.itmedia.co.jp",
-  "lang": "ja",
-  "score": 2.3442,
-  "published": "2026-11-06T22:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI",
-    "生成AI"
-   ],
-   "OpenAI・ChatGPT": [
-    "ChatGPT"
-   ],
-   "Anthropic・Claude": [
-    "Claude"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": [
-   "キーマンズネット"
-  ]
- },
- {
-  "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら愛でる”奇ゲーがSteamで無料配信。推奨グラボはRTX 5080、グラボを見るためのグラボが要る",
-  "link": "https://automaton-media.com/articles/newsjp/geforce-8800-gtx-20261106-477923/",
-  "source": "AUTOMATON",
-  "via": "RSS",
-  "collector": "AUTOMATON",
-  "feed_url": "https://automaton-media.com/feed/",
-  "domain": "automaton-media.com",
-  "lang": "ja",
-  "score": 1.5012,
-  "published": "2026-11-06T12:08:34+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "ゲーム": [
-    "Steam",
-    "ゲーム"
-   ],
-   "半導体・データセンター": [
-    "NVIDIA"
-   ],
-   "ガジェット・PC・電子工作": [
-    "グラボ"
-   ]
-  },
-  "primary": "半導体・データセンター",
-  "related": [
-   "テクノエッジ"
-  ]
- },
- {
-  "title": "AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ",
-  "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
-  "source": "ITmedia AI+",
-  "via": "RSS",
-  "collector": "ITmedia AI+",
-  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
-  "domain": "kn.itmedia.co.jp",
-  "lang": "ja",
-  "score": 1.4636,
-  "published": "2026-11-06T22:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": []
- },
- {
-  "title": "AIで営業は効率化した、でもなぜ売れない？ 成果を出す人が大切にしていること",
-  "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
-  "source": "ITmedia AI+",
-  "via": "RSS",
-  "collector": "ITmedia AI+",
-  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
-  "domain": "kn.itmedia.co.jp",
-  "lang": "ja",
-  "score": 1.4636,
-  "published": "2026-11-06T22:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ]
-  },
-  "primary": "AI・生成AI全般",
-  "related": []
- },
- {
-  "title": "AIバブル崩壊への懸念が高まる中、専門家が推奨する3つの投資防衛策",
-  "link": "https://www.businessinsider.jp/article/2611-how-to-invest-ai-bubble-stock-market-crash/",
-  "source": "Business Insider Japan",
-  "via": "RSS",
-  "collector": "Business Insider Japan",
-  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
-  "domain": "businessinsider.jp",
-  "lang": "ja",
-  "score": 1.4366,
-  "published": "2026-11-06T01:30:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "経済・マーケット・企業": [
-    "投資"
-   ]
-  },
-  "primary": "経済・マーケット・企業",
-  "related": []
- },
- {
-  "title": "設備点検用AIロボットをキヤノン電子で量産へ、新モデルの供給力強化",
-  "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news057.html",
-  "source": "MONOist",
-  "via": "RSS",
-  "collector": "MONOist",
-  "feed_url": "https://rss.itmedia.co.jp/rss/2.0/monoist.xml",
-  "domain": "monoist.itmedia.co.jp",
-  "lang": "ja",
-  "score": 1.3239,
-  "published": "2026-11-06T04:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "AI・生成AI全般": [
-    "AI"
-   ],
-   "クルマ・EV・ロボット・自動運転": [
-    "ロボット"
-   ]
-  },
-  "primary": "クルマ・EV・ロボット・自動運転",
-  "related": []
- },
- {
-  "title": "【BoxWorks 2026】Box、NVIDIA「Nemotron」ベースの「Box Context Retrieval」を発表",
-  "link": "https://cloud.watch.impress.co.jp/docs/event/2154257.html",
-  "source": "Impress クラウドWatch",
-  "via": "RSS",
-  "collector": "Impress クラウドWatch",
-  "feed_url": "https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf",
-  "domain": "cloud.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 1.3173,
-  "published": "2026-11-06T02:58:49+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "半導体・データセンター": [
-    "NVIDIA",
-    "ジェンスン・フアン"
-   ],
-   "AI・生成AI全般": [
-    "AI",
-    "推論"
-   ]
-  },
-  "primary": "半導体・データセンター",
-  "related": []
- },
- {
-  "title": "【今すぐ読みたい！人気記事】Apple WatchとPixel Watch、日本で使うと差が出るのはここ！ - PC Watch",
-  "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2154526.html",
-  "source": "PC Watch",
-  "via": "RSS",
-  "collector": "PC Watch",
-  "feed_url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
-  "domain": "pc.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 1.3171,
-  "published": "2026-11-06T21:11:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Apple",
-    "Pixel"
-   ],
-   "ガジェット・PC・電子工作": [
-    "PC"
-   ]
-  },
-  "primary": "ガジェット・PC・電子工作",
-  "related": []
- },
- {
-  "title": "Apple、来年後半発売の新型iPhoneからアクションボタンを廃止か ｰ カメラコントロールボタンに統合??",
-  "link": "https://taisy0.com/2026/11/07/230104.html",
-  "source": "気になる、記になる…",
-  "via": "RSS",
-  "collector": "気になる、記になる…",
-  "feed_url": "https://taisy0.com/feed",
-  "domain": "taisy0.com",
-  "lang": "ja",
-  "score": 1.3165,
-  "published": "2026-11-06T15:23:09+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Apple",
-    "iPhone"
-   ],
-   "ガジェット・PC・電子工作": [
-    "カメラ"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": []
- },
- {
-  "title": "いよいよアンソロピック上場へ…時価総額230兆円、スペースX超えのIPO、それでも消えない「懸念材料」",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTmRmYl9iMUplX1ZpMWZsQnpXVWpjMDJaQTh1UHhkX3NRZjlSc2M5T3VjQWx5eS15VHlwUjF4b3VORDQwdXFnNVNkc3FNQTBRWWR3Y25mOGJTa25UdlNV?oc=5",
-  "source": "ライブドアニュース",
-  "via": "Googleニュース",
-  "collector": "Google: Anthropic OR Claude OR アンソロピック",
-  "feed_url": "https://news.google.com/rss/search?q=Anthropic+OR+Claude+OR+%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja",
-  "domain": "news.livedoor.com",
-  "lang": "ja",
-  "score": 1.2838,
-  "published": "2026-11-06T22:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "経済・マーケット・企業": [
-    "IPO",
-    "上場",
-    "時価総額"
-   ],
-   "宇宙・科学研究": [
-    "スペースX"
-   ],
-   "Anthropic・Claude": [
-    "アンソロピック"
-   ]
-  },
-  "primary": "宇宙・科学研究",
-  "related": [
-   "BeInCrypto"
-  ]
- },
- {
-  "title": "壊れるまで継続中の｢iPhone Duo｣の開閉テストが30万回を突破——動作に問題はなし",
-  "link": "https://taisy0.com/2026/11/07/230123.html",
-  "source": "気になる、記になる…",
-  "via": "RSS",
-  "collector": "気になる、記になる…",
-  "feed_url": "https://taisy0.com/feed",
-  "domain": "taisy0.com",
-  "lang": "ja",
-  "score": 0.9326,
-  "published": "2026-11-06T23:57:10+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "iPhone"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": []
- },
- {
-  "title": "Apple、ホリデーシーズンに向けた返品可能期間の延長対応を開始",
-  "link": "https://taisy0.com/2026/11/07/230101.html",
-  "source": "気になる、記になる…",
-  "via": "RSS",
-  "collector": "気になる、記になる…",
-  "feed_url": "https://taisy0.com/feed",
-  "domain": "taisy0.com",
-  "lang": "ja",
-  "score": 0.9324,
-  "published": "2026-11-06T15:01:10+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "Apple"
-   ]
-  },
-  "primary": "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）",
-  "related": []
- },
- {
-  "title": "ドコモの5G SA障害、原因は交換機メモリ異常とDB更新の並行作業",
-  "link": "https://k-tai.watch.impress.co.jp/docs/news/2154545.html",
-  "source": "ケータイ Watch",
-  "via": "RSS",
-  "collector": "ケータイ Watch",
-  "feed_url": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
-  "domain": "k-tai.watch.impress.co.jp",
-  "lang": "ja",
-  "score": 0.9111,
-  "published": "2026-11-06T14:24:30+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "半導体・データセンター": [
-    "メモリ"
-   ],
-   "ガジェット・PC・電子工作": [
-    "専門媒体: ケータイ Watch"
-   ]
-  },
-  "primary": "半導体・データセンター",
-  "related": [
-   "CNET Japan"
-  ]
- },
- {
-  "title": "政府、「サイバーセキュリティ緊急対策パッケージ」策定 予備費から100億円",
-  "link": "https://www.watch.impress.co.jp/docs/news/2154548.html",
-  "source": "Impress Watch",
-  "via": "RSS",
-  "collector": "Impress Watch",
-  "feed_url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
-  "domain": "watch.impress.co.jp",
-  "lang": "ja",
-  "score": 0.9048,
-  "published": "2026-11-06T23:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）": [
-    "専門媒体: Impress Watch"
-   ],
-   "サイバーセキュリティ・プライバシー": [
-    "セキュリティ",
-    "サイバー攻撃",
-    "情報漏えい"
-   ]
-  },
-  "primary": "サイバーセキュリティ・プライバシー",
-  "related": [
-   "日テレNEWS NNN",
-   "産経ニュース"
-  ]
- },
- {
-  "title": "OpenAI新モデル「GPT-6 Cyber」のサイバー能力は「Critical」、審査済み顧客に限定提供。Linuxの攻撃コード作成は前モデルの5倍超、Firefoxで未知の脆弱性81件発見",
-  "link": "https://www.techno-edge.net/article/2026/11/06/5682.html",
-  "source": "テクノエッジ",
-  "via": "RSS",
-  "collector": "テクノエッジ",
-  "feed_url": "https://www.techno-edge.net/rss20/index.rdf",
-  "domain": "techno-edge.net",
-  "lang": "ja",
-  "score": 0.7639,
-  "published": "2026-11-06T08:05:21+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "OpenAI・ChatGPT": [
-    "OpenAI",
-    "GPT"
-   ],
-   "サイバーセキュリティ・プライバシー": [
-    "脆弱性"
-   ]
-  },
-  "primary": "OpenAI・ChatGPT",
-  "related": [
-   "UQライフ",
-   "テクノエッジ TechnoEdge"
-  ]
- },
- {
-  "title": "脱衣麻雀が約28年ぶりゲーセンに帰還するアケ版『スーパーリアル麻雀AC』2026年冬稼働へ！「麻雀コンパネ」令和に爆誕、いま平成38年？“届けるため”のクラファンも実施 | Game*Spark - 国内・海外ゲーム情報サイト",
-  "link": "https://www.gamespark.jp/article/2026/11/06/174557.html",
-  "source": "はてなブックマーク アニメとゲーム 人気",
-  "via": "RSS",
-  "collector": "はてなブックマーク アニメとゲーム 人気",
-  "feed_url": "https://b.hatena.ne.jp/hotentry/game.rss",
-  "domain": "gamespark.jp",
-  "lang": "ja",
-  "score": 0.7291,
-  "published": "2026-11-06T10:00:22+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "ゲーム": [
-    "ゲーム"
-   ]
-  },
-  "primary": "ゲーム",
-  "related": [
-   "Game*Spark",
-   "gamespark.jp"
-  ]
- },
- {
-  "title": "インディーゲーム展示会「東京ゲームダンジョン14」レポート（前編）。ロボ暴走族に花札バトル，限界集落まで揃った“ゲームの迷宮”",
-  "link": "https://www.4gamer.net/games/991/G999110/20261106027/",
-  "source": "4Gamer.net",
-  "via": "RSS",
-  "collector": "4Gamer.net",
-  "feed_url": "https://www.4gamer.net/rss/index.xml",
-  "domain": "4gamer.net",
-  "lang": "ja",
-  "score": 0.7192,
-  "published": "2026-11-07T00:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "ゲーム": [
-    "ゲーム",
-    "インディーゲーム"
-   ]
-  },
-  "primary": "ゲーム",
-  "related": []
- },
- {
-  "title": "滅多に出ないシグナルが点滅、S&P500が「景気後退」と「株価の急落」を警告していた",
-  "link": "https://www.businessinsider.jp/article/2611-stock-market-sp500-recession-signal-pe-ratio-decline/",
-  "source": "Business Insider Japan",
-  "via": "RSS",
-  "collector": "Business Insider Japan",
-  "feed_url": "https://www.businessinsider.jp/feed/index.xml",
-  "domain": "businessinsider.jp",
-  "lang": "ja",
-  "score": 0.6825,
-  "published": "2026-11-06T07:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "経済・マーケット・企業": [
-    "株価",
-    "景気",
-    "相場"
-   ]
-  },
-  "primary": "経済・マーケット・企業",
-  "related": [
-   "海外"
-  ]
- },
- {
-  "title": "世界初「宇宙に行ったVTuberグッズ」が地球へ帰還 「推し宙プロジェクト」によって国際宇宙ステーションに滞在",
-  "link": "https://sorae.info/news/20261106-oshisora-space-live.html",
-  "source": "sorae",
-  "via": "RSS",
-  "collector": "sorae",
-  "feed_url": "https://sorae.info/feed",
-  "domain": "sorae.info",
-  "lang": "ja",
-  "score": 0.6272,
-  "published": "2026-11-06T02:29:29+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "宇宙・科学研究": [
-    "宇宙",
-    "JAXA"
-   ]
-  },
-  "primary": "宇宙・科学研究",
-  "related": [
-   "Yahoo!ニュース",
-   "sorae 宇宙へのポータルサイト"
-  ]
- },
- {
-  "title": "「幸せカナコの殺し屋生活」実写ドラマ×アニメのコラボビジュアル公開！ のん＆アニメ“カナコ”が背中合わせに♪",
-  "link": "https://animeanime.jp/article/2026/11/06/104541.html",
-  "source": "アニメ！アニメ！",
-  "via": "RSS",
-  "collector": "アニメ！アニメ！",
-  "feed_url": "https://animeanime.jp/rss/index.rdf",
-  "domain": "animeanime.jp",
-  "lang": "ja",
-  "score": 0.6158,
-  "published": "2026-11-06T09:00:13+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "映画・アニメ・映像": [
-    "アニメ",
-    "実写",
-    "ドラマ"
-   ]
-  },
-  "primary": "映画・アニメ・映像",
-  "related": [
-   "MANTANWEB",
-   "ぴあ",
-   "コミックナタリー"
-  ]
- },
- {
-  "title": "RTX 5090搭載PCも対象！ パソコンショップSEVEN、最大17万8000円オフの24時間限定セール",
-  "link": "https://ascii.jp/elem/000/004/448/4448583/?rss",
-  "source": "ASCII.jp",
-  "via": "RSS",
-  "collector": "ASCII.jp",
-  "feed_url": "https://ascii.jp/rss.xml",
-  "domain": "ascii.jp",
-  "lang": "ja",
-  "score": 0.6034,
-  "published": "2026-11-06T15:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "ガジェット・PC・電子工作": [
-    "PC",
-    "パソコン"
-   ]
-  },
-  "primary": "ガジェット・PC・電子工作",
-  "related": []
- },
- {
-  "title": "自動運転バス、静岡県富士市で実証運行開始…先進モビリティが参画",
-  "link": "https://response.jp/article/2026/11/06/418705.html",
-  "source": "レスポンス",
-  "via": "RSS",
-  "collector": "レスポンス",
-  "feed_url": "https://response.jp/rss/index.rdf",
-  "domain": "response.jp",
-  "lang": "ja",
-  "score": 0.5162,
-  "published": "2026-11-06T08:30:03+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "クルマ・EV・ロボット・自動運転": [
-    "自動運転"
-   ]
-  },
-  "primary": "クルマ・EV・ロボット・自動運転",
-  "related": [
-   "レスポンス（Response.jp）",
-   "号外NET 富士市・富士宮市",
-   "静岡新聞DIGITAL"
-  ]
- },
- {
-  "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
-  "link": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-  "source": "Qiita トレンド",
-  "via": "RSS",
-  "collector": "Qiita トレンド",
-  "feed_url": "https://qiita.com/popular-items/feed",
-  "domain": "qiita.com",
-  "lang": "ja",
-  "score": 0.4415,
-  "published": "2026-11-06T07:20:39+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "Anthropic・Claude": [
-    "Claude"
-   ]
-  },
-  "primary": "Anthropic・Claude",
-  "related": []
- },
- {
-  "title": "実は「女性医師」が担当した入院患者の方が死亡が少なかった",
-  "link": "https://nazology.kusuguru.co.jp/archives/205368",
-  "source": "ナゾロジー",
-  "via": "RSS",
-  "collector": "ナゾロジー",
-  "feed_url": "https://nazology.kusuguru.co.jp/feed",
-  "domain": "nazology.kusuguru.co.jp",
-  "lang": "ja",
-  "score": 0.277,
-  "published": "2026-11-06T09:00:00+00:00",
-  "selected_at": "2026-11-07T00:32:54+00:00",
-  "topics": {
-   "健康・医療・生物": [
-    "治療",
-    "病気"
    ]
   },
   "primary": "健康・医療・生物",
