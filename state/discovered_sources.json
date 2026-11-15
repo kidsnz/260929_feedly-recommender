@@ -299,6 +299,16 @@
   ],
   "last_seen": "2026-11-14"
  },
+ "biz.chosun.com": {
+  "publisher": "Chosunbiz",
+  "count": 2,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "中国AIがNVIDIA最新GPU使用と米分析",
+   "エヌビディアがReflection AIに追加出資や買収検討中核人材確保も協議 - CHOSUNBIZ"
+  ],
+  "last_seen": "2026-11-15"
+ },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
   "count": 1,
@@ -649,15 +659,6 @@
    "New Orleans cybersecurity company faces several lawsuits after data breach"
   ],
   "last_seen": "2026-10-11"
- },
- "biz.chosun.com": {
-  "publisher": "Chosunbiz",
-  "count": 1,
-  "first_seen": "2026-10-12",
-  "examples": [
-   "エヌビディアがReflection AIに追加出資や買収検討中核人材確保も協議 - CHOSUNBIZ"
-  ],
-  "last_seen": "2026-10-12"
  },
  "mensjournal.com": {
   "publisher": "Men's Journal",
@@ -1306,5 +1307,23 @@
    "年間収益10億ドル突破も、半数以上のブランドが赤字？OpenAI「ChatGPT Ads」開始9ヶ月の成績表を読み解く"
   ],
   "last_seen": "2026-11-13"
+ },
+ "tocana.jp": {
+  "publisher": "TOCANA",
+  "count": 1,
+  "first_seen": "2026-11-15",
+  "examples": [
+   "死因の最有力候補は″AI事故”!? OpenAI財団理事が描いた、人類が「乗っ取られる」までのシナリオ"
+  ],
+  "last_seen": "2026-11-15"
+ },
+ "hokkoku.co.jp": {
+  "publisher": "北國新聞",
+  "count": 1,
+  "first_seen": "2026-11-15",
+  "examples": [
+   "エヌビディア後任選定開始 複数候補浮上も難航か｜国際｜全国のニュース｜富山新聞"
+  ],
+  "last_seen": "2026-11-15"
  }
 }
