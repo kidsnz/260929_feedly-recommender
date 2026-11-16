@@ -5,8 +5,304 @@
     <link>https://kidsnz.github.io/260929_feedly-recommender/</link>
     <description>Feedly の既読記事から作った好みのプロファイルで、まだ読んでいない媒体の関連ニュースを毎日集めたフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:36:10 +0000</lastBuildDate>
     <atom:link href="https://kidsnz.github.io/260929_feedly-recommender/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>opencodexでAnthropic/OpenAI形式のリクエストをローカルのQwen2.5-32Bに流してみた</title>
+      <link>https://zenn.dev/matsushima_a/articles/day-047-opencodex-provider-proxy-api-translation</link>
+      <description>該当トピック: AI・生成AI全般（Gemini, Grok, DeepSeek） / AIエージェント・AIコーディング（エージェント, コーディング, Claude Code, Codex） / OpenAI・ChatGPT（OpenAI, Codex） / Anthropic・Claude（Anthropic, Claude, Claude Code）｜出典: Zenn: AI｜スコア 3.23</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>OpenAI・ChatGPT</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">0d986a31c09cb1da69c0992cfeac98e834e2614a</guid>
+      <pubDate>Sun, 15 Nov 2026 14:27:44 +0000</pubDate>
+      <source url="https://zenn.dev/topics/ai/feed">Zenn: AI</source>
+    </item>
+    <item>
+      <title>サンドボックス内のAIエージェントにHerdrを安全に使わせたい</title>
+      <link>https://zenn.dev/naofumimurata/articles/nono-hc-proxy</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント, Claude Code） / Anthropic・Claude（Claude, Claude Code）｜出典: Zenn: Claude Code｜スコア 2.74</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">e48e644d2f06998ce3eed007d3e0beb4d4968ffe</guid>
+      <pubDate>Sun, 15 Nov 2026 09:46:35 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>サブエージェントの「すべて通りました」を、AI に確かめさせる Skill</title>
+      <link>https://zenn.dev/itoken_lab/articles/delegating-work-with-without</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 2.72</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <guid isPermaLink="false">83d3963dc850da5bbc914642c97d28b716911148</guid>
+      <pubDate>Sun, 15 Nov 2026 14:01:23 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>週1〜2件のECにAIエージェント、どこに入れる?数字で絞ったら保留だった</title>
+      <link>https://zenn.dev/pythona/articles/low-traffic-ec-agent-roi</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント）｜出典: Zenn: AI｜スコア 2.47</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <guid isPermaLink="false">89ffe33cff720c16c86aff28a1bde407bcc34cde</guid>
+      <pubDate>Sun, 15 Nov 2026 11:53:18 +0000</pubDate>
+      <source url="https://zenn.dev/topics/ai/feed">Zenn: AI</source>
+    </item>
+    <item>
+      <title>自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード” 「情報間違えれば区民に影響」の思い</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/</link>
+      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント） / テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（グーグル）｜出典: ITmedia AI+｜スコア 2.36</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">7938e0c0ab1a67863fd5523d166c50ca8df8087f</guid>
+      <pubDate>Sun, 15 Nov 2026 23:00:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>/goalを使わずStopフックを自作したら、Claude Codeが止まらず使用量が増え続けた</title>
+      <link>https://zenn.dev/kagaribilab/articles/claude-code-stop-hook-loop</link>
+      <description>該当トピック: AIエージェント・AIコーディング（Claude Code） / AI・生成AI全般（専門媒体: Zenn: Claude Code） / Anthropic・Claude（Claude, Claude Code）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 2.29</description>
+      <category>AIエージェント・AIコーディング</category>
+      <category>AI・生成AI全般</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">06f039516b6e9fe23e9b976ce184e85b9f698e13</guid>
+      <pubDate>Sun, 15 Nov 2026 12:54:54 +0000</pubDate>
+      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
+    </item>
+    <item>
+      <title>生成AIに手足を付けたエージェント、Claude Code登場でブレーク</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/03826/111000001/</link>
+      <description>該当トピック: AI・生成AI全般（AI, 生成AI） / AIエージェント・AIコーディング（エージェント, Claude Code, AIエージェント） / Anthropic・Claude（Claude, Claude Code）｜出典: 日経クロステック｜スコア 2.28</description>
+      <category>AI・生成AI全般</category>
+      <category>AIエージェント・AIコーディング</category>
+      <category>Anthropic・Claude</category>
+      <guid isPermaLink="false">272880edbfd9fca283878f79a7f93de081e060f9</guid>
+      <pubDate>Sun, 15 Nov 2026 20:00:00 +0000</pubDate>
+      <source url="https://xtech.nikkei.com/rss/index.rdf">日経クロステック</source>
+    </item>
+    <item>
+      <title>AI関連の求人・応募はビジネス職で高い伸び／2026年度のIT投資インデックスが過去最高に／世界の中で“働く喜び”が低い日本、ほか</title>
+      <link>https://ascii.jp/elem/000/004/451/4451603/?rss</link>
+      <description>該当トピック: AI・生成AI全般（AI） / 経済・マーケット・企業（投資） / ガジェット・PC・電子工作（専門媒体: ASCII.jp） / サイバーセキュリティ・プライバシー（セキュリティ）｜出典: ASCII.jp｜スコア 1.96</description>
+      <category>AI・生成AI全般</category>
+      <category>経済・マーケット・企業</category>
+      <category>ガジェット・PC・電子工作</category>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">50e2ee5e1b757b4683a010fbf2c1f055fa3c3e43</guid>
+      <pubDate>Sun, 15 Nov 2026 23:00:00 +0000</pubDate>
+      <source url="https://ascii.jp/rss.xml">ASCII.jp</source>
+    </item>
+    <item>
+      <title>AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVAxWTJ0bnFFUkhlWFVERFpUbDdiRjZIRUxaNGYtVHFZMkhaVVA5QkxwQmVtMVRSUEVBZmNrR19YT2NvV2ZySi1Nbnc4NkgyY0xLSGhjSW1WbGNBTDlvaVV3QkJMZkwzUEhaRXN3RGhBaHlsTjdQbWxaR1VBTkczZm1pamV3c2R2?oc=5</link>
+      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（OpenAI） / 経済・マーケット・企業（日銀） / サイバーセキュリティ・プライバシー（サイバー攻撃）｜出典: Yahoo!ニュース・Googleニュース経由｜同じ話題: 他1媒体（東洋経済オンライン）｜スコア 1.91</description>
+      <category>AI・生成AI全般</category>
+      <category>OpenAI・ChatGPT</category>
+      <category>経済・マーケット・企業</category>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">e5f48320e0d2924c3f110ee3882eb8fdd9a2cbb7</guid>
+      <pubDate>Sun, 15 Nov 2026 22:47:23 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI+OR+%E3%82%A2%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
+    </item>
+    <item>
+      <title>NVIDIAファン氏後継、社内なら「CUDAの父」本命 Apple会長の名も</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/12175/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple, アップル, ティム・クック） / 半導体・データセンター（NVIDIA, エヌビディア） / AI・生成AI全般（AI, 人工知能）｜出典: 日経クロステック｜スコア 1.87</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <category>半導体・データセンター</category>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">9746733ad975d64623154f1fc64a94cda1f87995</guid>
+      <pubDate>Sun, 15 Nov 2026 20:00:00 +0000</pubDate>
+      <source url="https://xtech.nikkei.com/rss/index.rdf">日経クロステック</source>
+    </item>
+    <item>
+      <title>AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html</link>
+      <description>該当トピック: AI・生成AI全般（AI）｜出典: ITmedia AI+｜同じ話題: 他1媒体（MONOist）｜スコア 1.60</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">0ed6691038021c2367625ebc6fae28df82763376</guid>
+      <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>ガートナーが考えるフィジカルAI実装のロードマップと人の役割</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html</link>
+      <description>該当トピック: AI・生成AI全般（AI）｜出典: ITmedia AI+｜同じ話題: 他1媒体（MONOist）｜スコア 1.60</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">8f5ef2451496363fbf353fc5aaa63e1feb4f6372</guid>
+      <pubDate>Sun, 15 Nov 2026 23:00:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html</link>
+      <description>該当トピック: AI・生成AI全般（AI, 生成AI）｜出典: ITmedia AI+｜同じ話題: 他1媒体（MONOist）｜スコア 1.58</description>
+      <category>AI・生成AI全般</category>
+      <guid isPermaLink="false">c4ab22179441b4b3165fff9726aab50db0ecf2d8</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
+    </item>
+    <item>
+      <title>｢iPhone Duo｣にFace IDと望遠カメラが搭載される見込み——但し、時期は未定</title>
+      <link>https://taisy0.com/2026/11/16/230441.html</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（iPhone, Apple） / ガジェット・PC・電子工作（カメラ）｜出典: 気になる、記になる…｜スコア 1.26</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">8fc7c0825c41bdc48a7cd544187d7d7db745fa9f</guid>
+      <pubDate>Sun, 15 Nov 2026 15:40:48 +0000</pubDate>
+      <source url="https://taisy0.com/feed">気になる、記になる…</source>
+    </item>
+    <item>
+      <title>ポケモン30周年のApple Gift Cardが登場〜カジッチュ柄を直営店で販売</title>
+      <link>https://iphone-mania.jp/apple-608707/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple） / ゲーム（ポケモン）｜出典: iPhone Mania｜同じ話題: 他1媒体（ケータイ Watch）｜スコア 1.19</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <category>ゲーム</category>
+      <guid isPermaLink="false">7b7694a87987bc1bd3bbb87bbf0c5dca6c789437</guid>
+      <pubDate>Sun, 15 Nov 2026 02:52:35 +0000</pubDate>
+      <source url="https://iphone-mania.jp/feed/">iPhone Mania</source>
+    </item>
+    <item>
+      <title>ジェンスン･フアン氏､エヌビディアCEOへの復帰を側近らと協議…後任の検討対象に｢復帰の可能性｣も含めるべきだと主張 | 政治・経済・投資 | 東洋経済オンライン</title>
+      <link>https://toyokeizai.net/articles/-/964891?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link>
+      <description>該当トピック: 半導体・データセンター（エヌビディア, ジェンスン・フアン, 半導体） / 経済・マーケット・企業（投資）｜出典: 東洋経済オンライン｜スコア 1.14</description>
+      <category>半導体・データセンター</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">7c80e5d960aed5ba6f8da118967e759d7f0c8380</guid>
+      <pubDate>Sun, 15 Nov 2026 22:40:00 +0000</pubDate>
+      <source url="https://toyokeizai.net/list/feed/rss">東洋経済オンライン</source>
+    </item>
+    <item>
+      <title>【全文PDFプレカン】トヨタ自動車中間決算説明会…堅調な業績、通期見通しを上方修正</title>
+      <link>https://response.jp/article/2026/11/16/419050.html</link>
+      <description>該当トピック: クルマ・EV・ロボット・自動運転（自動車, トヨタ） / 経済・マーケット・企業（決算）｜出典: レスポンス｜スコア 0.97</description>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <category>経済・マーケット・企業</category>
+      <guid isPermaLink="false">ffe3a9309bfdc3f3d5de467b404a2d9515ebaa8a</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:03 +0000</pubDate>
+      <source url="https://response.jp/rss/index.rdf">レスポンス</source>
+    </item>
+    <item>
+      <title>Access Accepted第879回：「GTA6」をプレイする前に知っておきたい10のこと。犯罪者カップルの歴史から，進化したゲームシステムまで</title>
+      <link>https://www.4gamer.net/games/036/G003691/20261113042/</link>
+      <description>該当トピック: ゲーム（ゲーム） / クルマ・EV・ロボット・自動運転（自動車）｜出典: 4Gamer.net｜スコア 0.85</description>
+      <category>ゲーム</category>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <guid isPermaLink="false">11996eaa66f09dd0a5e945c54bd682162413464d</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+      <source url="https://www.4gamer.net/rss/index.xml">4Gamer.net</source>
+    </item>
+    <item>
+      <title>iPhone Duoが在庫あり【11/15】〜公式・キャリア・家電量販店の最新状況</title>
+      <link>https://iphone-mania.jp/iphone18-608712/</link>
+      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（iPhone, Apple）｜出典: iPhone Mania｜スコア 0.84</description>
+      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
+      <guid isPermaLink="false">e81b8f61f11db9451564e5ec9663758455c3b36b</guid>
+      <pubDate>Sun, 15 Nov 2026 06:43:20 +0000</pubDate>
+      <source url="https://iphone-mania.jp/feed/">iPhone Mania</source>
+    </item>
+    <item>
+      <title>GALLERIA、ガラスパネル×LEDが映えるゲーミングPC全27モデル発売 スペシャルエディション登場</title>
+      <link>https://ascii.jp/elem/000/004/451/4451648/?rss</link>
+      <description>該当トピック: ガジェット・PC・電子工作（PC, LED）｜出典: ASCII.jp｜同じ話題: 他2媒体（GAME Watch、PC Watch）｜スコア 0.77</description>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">59fc1c703bb0119c797a6ee55224f6d13f7ecd68</guid>
+      <pubDate>Mon, 16 Nov 2026 00:30:00 +0000</pubDate>
+      <source url="https://ascii.jp/rss.xml">ASCII.jp</source>
+    </item>
+    <item>
+      <title>エヌビディア前CEO復帰協議も米財務長官は社外CEO要求 | スマートニュース</title>
+      <link>https://news.google.com/rss/articles/CBMi-wJBVV95cUxPc0sxNVpwYWpDM0xELTc0X3lGN2paaFVWdjVkeUJMc085dzhLM2JDVFhhaHhPZ251UzFZVnpINkw4ZUVjdHFkUldRRjVpaVNIQ2ZMbExZTmJmUk0yamVtYkhwWGZvUlRFdWZVYkRlQi1YdktVLU41TEV2UnBrMjFpNm9XLXU1WWI1Q3NEazVZU2QwOVZYZS1vb2R2c3ZQTHJSSTJTWnVBZmE4UWZoSTBBU0hSNDVmdDdZSnEyeEFpWjlQVUZRRGZ4QUszR3dKSmp1Tkt3ZUZuTko2WmNpU3ZNcnpsUW5ocnptdGtuMnB0QkZVV1BXNl9pMzdBZFRXdDJOLXFDdDJkVGZlOEFVRVpGd0VQZkZhYXB0YnZmd3V6QzF4aDZBQmVXb3FFWS1hTW1md2swYTZBU2NIZXllUjdQMDJSRVd3eE5Lc2ZKd1lXaDhwT3paLTVjQ2g4NTlaTkl5ck94by03REN1d0poZ3FGZVo0Vlg0RFdwcXpB?oc=5</link>
+      <description>該当トピック: 半導体・データセンター（エヌビディア）｜出典: SmartNews・Googleニュース経由｜同じ話題: 他6媒体（Reuters、WSJ、ダイヤモンド・オンライン ほか）｜スコア 0.75</description>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">6db56b40866a698a1e6f27d42f6a3ee06bed2c8e</guid>
+      <pubDate>Sun, 15 Nov 2026 23:42:00 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2+OR+%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+TSMC+OR+HBM+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">SmartNews</source>
+    </item>
+    <item>
+      <title>フアン前CEOが復帰検討か エヌビディア、不倫巡り辞任</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBBaFBjaTI2V0lxejRpaXJJc2dyVlJWTmY0YjZRWUY0ZTFiSFRuM0NfQ2MzV0JHWkFKcmJpQWNfa0xTR2hKZWJyZkZpUGR6MmhBR1UxN05lYVNpRXdacWQ0QlNxUkRybEE4VUdLaHdrNEhRNVp4UjcxMjZZTVd3ZFk?oc=5</link>
+      <description>該当トピック: 半導体・データセンター（エヌビディア）｜出典: 共同通信・Googleニュース経由｜同じ話題: 他5媒体（47NEWS、下野新聞社、佐賀新聞 ほか）｜スコア 0.70</description>
+      <category>半導体・データセンター</category>
+      <guid isPermaLink="false">fe59afe77224d1ca96673b342b0453cfef23d8b1</guid>
+      <pubDate>Sun, 15 Nov 2026 22:26:34 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2+OR+%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+TSMC+OR+HBM+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">共同通信</source>
+    </item>
+    <item>
+      <title>ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら「買うと高いので自作したよ！」と厚紙を取り出しながら言ってきた時、何も言えなかった</title>
+      <link>https://togetter.com/li/2770784</link>
+      <description>該当トピック: ゲーム（ゲーム）｜出典: はてなブックマーク アニメとゲーム 人気｜同じ話題: 他1媒体（togetter.com）｜スコア 0.70</description>
+      <category>ゲーム</category>
+      <guid isPermaLink="false">e5accc889db183fcf18afe667e94e324657019f2</guid>
+      <pubDate>Sun, 15 Nov 2026 12:48:05 +0000</pubDate>
+      <source url="https://b.hatena.ne.jp/hotentry/game.rss">はてなブックマーク アニメとゲーム 人気</source>
+    </item>
+    <item>
+      <title>自作PCトーク『ジサトラKTU』生放送～RTX Spark搭載デスクトップPCの実力を検証！ノートPC版とどう違うの？～</title>
+      <link>https://ascii.jp/elem/000/004/451/4451318/?rss</link>
+      <description>該当トピック: ガジェット・PC・電子工作（PC, ノートPC, 自作PC）｜出典: ASCII.jp｜スコア 0.65</description>
+      <category>ガジェット・PC・電子工作</category>
+      <guid isPermaLink="false">aee246bc65de602259e9e237e641574c3a5003e5</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+      <source url="https://ascii.jp/rss.xml">ASCII.jp</source>
+    </item>
+    <item>
+      <title>1200万光年先の星々までくっきり ユークリッド宇宙望遠鏡が観測した渦巻銀河「M81」</title>
+      <link>https://sorae.info/astronomy/20261115-euclid-m81.html</link>
+      <description>該当トピック: 宇宙・科学研究（宇宙）｜出典: sorae｜同じ話題: 他1媒体（sorae 宇宙へのポータルサイト）｜スコア 0.63</description>
+      <category>宇宙・科学研究</category>
+      <guid isPermaLink="false">0c7dc7df624971933e5b4b6134e10fb9b0bfe400</guid>
+      <pubDate>Sun, 15 Nov 2026 11:41:59 +0000</pubDate>
+      <source url="https://sorae.info/feed">sorae</source>
+    </item>
+    <item>
+      <title>ロケットラボ、エレクトロン通算100回目の打ち上げに成功 QPS研究所の「ヤマツミ-II」を軌道投入</title>
+      <link>https://sorae.info/ssn/20261115-the-mountain-god-rises.html</link>
+      <description>該当トピック: 宇宙・科学研究（ロケット, 衛星, rocket）｜出典: sorae｜同じ話題: 他1媒体（sorae 宇宙へのポータルサイト）｜スコア 0.60</description>
+      <category>宇宙・科学研究</category>
+      <guid isPermaLink="false">e1f68d2e604dd20be62729565fcad9d95bc0f4db</guid>
+      <pubDate>Sun, 15 Nov 2026 08:42:17 +0000</pubDate>
+      <source url="https://sorae.info/feed">sorae</source>
+    </item>
+    <item>
+      <title>キアの次世代EVバン『PV5』レンタル開始、オリックス自動車と連携</title>
+      <link>https://response.jp/article/2026/11/15/419031.html</link>
+      <description>該当トピック: クルマ・EV・ロボット・自動運転（自動車, EV）｜出典: レスポンス｜同じ話題: 他3媒体（Dellows News、Yahoo!ニュース、レスポンス（Response.jp））｜スコア 0.57</description>
+      <category>クルマ・EV・ロボット・自動運転</category>
+      <guid isPermaLink="false">cd46604317b162bfc1e4351206283eede193ff5c</guid>
+      <pubDate>Sun, 15 Nov 2026 02:30:03 +0000</pubDate>
+      <source url="https://response.jp/rss/index.rdf">レスポンス</source>
+    </item>
+    <item>
+      <title>「WIND BREAKER」桜たちがバンド結成!? “対バン”テーマの描き下ろしグッズが登場！ライブチケット風カードの特典も♪【アニメイト】</title>
+      <link>https://animeanime.jp/article/2026/11/15/104801.html</link>
+      <description>該当トピック: 映画・アニメ・映像（アニメ）｜出典: アニメ！アニメ！｜スコア 0.49</description>
+      <category>映画・アニメ・映像</category>
+      <guid isPermaLink="false">206f1f3ffed0f6aac2602df6dd75512f44e6bf40</guid>
+      <pubDate>Sun, 15 Nov 2026 09:30:03 +0000</pubDate>
+      <source url="https://animeanime.jp/rss/index.rdf">アニメ！アニメ！</source>
+    </item>
+    <item>
+      <title>鉄ナノ粒子を応用した新たなナノ光分子標的治療プラットフォーム開発－名大ほか</title>
+      <link>https://www.qlifepro.com/news/20261116/platform-development.html</link>
+      <description>該当トピック: 健康・医療・生物（治療, 医薬）｜出典: QLifePro｜スコア 0.36</description>
+      <category>健康・医療・生物</category>
+      <guid isPermaLink="false">f3c644eb52a9b27b94a70f436249821791d65757</guid>
+      <pubDate>Mon, 16 Nov 2026 00:20:18 +0000</pubDate>
+      <source url="https://www.qlifepro.com/feed/">QLifePro</source>
+    </item>
+    <item>
+      <title>仏郵政傘下にサイバー攻撃 2200万人分の情報流出 | スマートニュース</title>
+      <link>https://news.google.com/rss/articles/CBMi7AJBVV95cUxPMmV1WjA0cnJBY0l6bUMtT0ZVRWFwRVlDMWFlR3k2ZzluNXlScXJHTENQM0NFZTJqUXQxb21IWExrNENRM2dGRFFHYXBIUWR0OVdCRGJ5VVBkNW1hMW9naUxfUkZnUlZuR05GaU1JWXpSdlRZbWV3ZFJEZlBYVlJjMFF3clpkVTFneG01SXhnZ2wtOGxuZEdSQlZuM0huOWNKLV8yNEY0WXlvQnNLbExBN1Bna0MwZ3pfZjl1Zi1WbE5lQnhUeWVsQ3liTndOa3FLTXczbUxiN2Q4Y05aeTgxeDNhZGNMeHA0aWphc1R3QVNnMmlPaFNvcE1MYkZLUFBkVkpuUGVwX1ByZ3ZCek5QUnczOFZFVmJRUFdLZEJZaWZ1Mkp6N1lwV25nZGN4ak1rVzBVaXJHNjJDMDg2ZmpQZDhrRWQ2NUxZTWpjZUdGV2c4dVFQb2RQNFRoRlZoVk80Mlg0OFJUUW44WUhC?oc=5</link>
+      <description>該当トピック: サイバーセキュリティ・プライバシー（サイバー攻撃）｜出典: SmartNews・Googleニュース経由｜同じ話題: 他6媒体（Excite エキサイト、FNNプライムオンライン、UQライフ ほか）｜スコア 0.29</description>
+      <category>サイバーセキュリティ・プライバシー</category>
+      <guid isPermaLink="false">6e090617be313b79a229cba626e338a92b4bb15f</guid>
+      <pubDate>Sun, 15 Nov 2026 22:33:00 +0000</pubDate>
+      <source url="https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83+OR+%E8%84%86%E5%BC%B1%E6%80%A7+OR+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2+OR+%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">SmartNews</source>
+    </item>
     <item>
       <title>AI に Excel を読ませるなら、Python より3〜13倍速く、メモリ使用量は最大92%減</title>
       <link>https://zenn.dev/itoken_lab/articles/excel-read-fast-light</link>
@@ -1810,299 +2106,6 @@
       <guid isPermaLink="false">9e259a0312547fce20c76e9731bd656564b5b1e5</guid>
       <pubDate>Tue, 10 Nov 2026 01:30:00 +0000</pubDate>
       <source url="https://nazology.kusuguru.co.jp/feed">ナゾロジー</source>
-    </item>
-    <item>
-      <title>週刊 ローカルLLM＆AIコーディングツール更新まとめ（10/31〜11/6）</title>
-      <link>https://zenn.dev/girigiri_se/articles/8dedadbc54a425</link>
-      <description>該当トピック: AI・生成AI全般（AI, LLM） / AIエージェント・AIコーディング（コーディング, ローカルLLM, Claude Code） / Anthropic・Claude（Claude, Claude Code）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 3.04</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <category>Anthropic・Claude</category>
-      <guid isPermaLink="false">939fe64247a3ef9674533e2a153cc0d6bf0d2feb</guid>
-      <pubDate>Sun, 08 Nov 2026 14:00:44 +0000</pubDate>
-      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
-    </item>
-    <item>
-      <title>AI に授業ノートを作らせているけれど、理解したことにはならない</title>
-      <link>https://zenn.dev/tomnotelog/articles/ai-notes-reduce-friction-before-understanding</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（Claude Code） / Anthropic・Claude（Claude, Claude Code）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Zenn: AI）｜スコア 2.73</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <category>Anthropic・Claude</category>
-      <guid isPermaLink="false">791860cf01a26f18408109016ec89b4a1e2a5580</guid>
-      <pubDate>Sun, 08 Nov 2026 14:22:38 +0000</pubDate>
-      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
-    </item>
-    <item>
-      <title>worktree の管理を任せて AI エージェントで開発する「Worktree Xelith」</title>
-      <link>https://zenn.dev/happy_onigiri/articles/c23d9fc90f3ca0</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント）｜出典: Zenn: Claude Code｜同じ話題: 他1媒体（Qiita トレンド）｜スコア 2.69</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <guid isPermaLink="false">06205b641e78a734538d9be52dfb542b817c93a6</guid>
-      <pubDate>Sun, 08 Nov 2026 12:38:47 +0000</pubDate>
-      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
-    </item>
-    <item>
-      <title>AIエージェントのAPI代に1日の上限をかけられるようにしました</title>
-      <link>https://zenn.dev/saihu/articles/3f859b471899e2</link>
-      <description>該当トピック: AI・生成AI全般（AI） / AIエージェント・AIコーディング（エージェント, AIエージェント）｜出典: Zenn: AI｜スコア 2.49</description>
-      <category>AI・生成AI全般</category>
-      <category>AIエージェント・AIコーディング</category>
-      <guid isPermaLink="false">3c8a67c1100337e29261962b537f4f3287283b8e</guid>
-      <pubDate>Sun, 08 Nov 2026 12:43:39 +0000</pubDate>
-      <source url="https://zenn.dev/topics/ai/feed">Zenn: AI</source>
-    </item>
-    <item>
-      <title>公式アプリが毎週進化しても、T3 Codeを使う理由は残るか</title>
-      <link>https://zenn.dev/53able/articles/57952c1982de3d</link>
-      <description>該当トピック: AIエージェント・AIコーディング（エージェント, コーディング, Claude Code, Codex） / AI・生成AI全般（専門媒体: Zenn: Claude Code） / Anthropic・Claude（Anthropic, Claude, Claude Code, Sonnet） / OpenAI・ChatGPT（OpenAI, Codex）｜出典: Zenn: Claude Code｜スコア 2.41</description>
-      <category>AIエージェント・AIコーディング</category>
-      <category>AI・生成AI全般</category>
-      <category>Anthropic・Claude</category>
-      <category>OpenAI・ChatGPT</category>
-      <guid isPermaLink="false">bcdc4e61ff81e4075cd8224f3495b3e4403c6627</guid>
-      <pubDate>Sun, 08 Nov 2026 09:04:01 +0000</pubDate>
-      <source url="https://zenn.dev/topics/claudecode/feed">Zenn: Claude Code</source>
-    </item>
-    <item>
-      <title>日本の町でドリブルしまくるゲーム『Kick』を手がけるスイス人開発者は、アニメとYouTubeで「生の日本」に惚れ込んだ。異国から描く“日本の日常”、ボールと共に駆け抜ける - AUTOMATON</title>
-      <link>https://automaton-media.com/articles/interviewsjp/20261108-478098/</link>
-      <description>該当トピック: ゲーム（ゲーム） / テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（YouTube） / 映画・アニメ・映像（アニメ）｜出典: はてなブックマーク アニメとゲーム 人気｜同じ話題: 他2媒体（AUTOMATON、automaton-media.com）｜スコア 1.62</description>
-      <category>ゲーム</category>
-      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
-      <category>映画・アニメ・映像</category>
-      <guid isPermaLink="false">aac851fce797984b92c3b460625552bebfe90843</guid>
-      <pubDate>Sun, 08 Nov 2026 08:52:30 +0000</pubDate>
-      <source url="https://b.hatena.ne.jp/hotentry/game.rss">はてなブックマーク アニメとゲーム 人気</source>
-    </item>
-    <item>
-      <title>Box、新検索エンジン「Box Context Retrieval」を発表--NVIDIAとの協業で企業AIを高度化</title>
-      <link>https://japan.zdnet.com/article/35254505/</link>
-      <description>該当トピック: AI・生成AI全般（AI） / 半導体・データセンター（NVIDIA）｜出典: ZDNET Japan｜スコア 1.59</description>
-      <category>AI・生成AI全般</category>
-      <category>半導体・データセンター</category>
-      <guid isPermaLink="false">516b2e4105f3a7d67e8887313f97fdd1ca431649</guid>
-      <pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
-      <source url="https://feeds.japan.zdnet.com/rss/zdnet/all.rdf">ZDNET Japan</source>
-    </item>
-    <item>
-      <title>Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev &amp; Gadget Note</title>
-      <link>https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets</link>
-      <description>該当トピック: AIエージェント・AIコーディング（Claude Code） / Anthropic・Claude（Claude, Claude Code） / ガジェット・PC・電子工作（gadget） / サイバーセキュリティ・プライバシー（セキュリティ）｜出典: はてなブックマーク IT 人気｜スコア 1.48</description>
-      <category>AIエージェント・AIコーディング</category>
-      <category>Anthropic・Claude</category>
-      <category>ガジェット・PC・電子工作</category>
-      <category>サイバーセキュリティ・プライバシー</category>
-      <guid isPermaLink="false">79d44940a5635d1f2d80f1ab3d3bb3f3bce22d07</guid>
-      <pubDate>Sun, 08 Nov 2026 10:31:52 +0000</pubDate>
-      <source url="https://b.hatena.ne.jp/hotentry/it.rss">はてなブックマーク IT 人気</source>
-    </item>
-    <item>
-      <title>“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ</title>
-      <link>https://www.itmedia.co.jp/business/articles/2611/09/news039.html</link>
-      <description>該当トピック: AI・生成AI全般（AI）｜出典: ITmedia AI+｜スコア 1.47</description>
-      <category>AI・生成AI全般</category>
-      <guid isPermaLink="false">71d028e47a2b6de4a6569e4d0ba2b271f26fcb46</guid>
-      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
-      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
-    </item>
-    <item>
-      <title>「勝手に社外AIを使う」エース社員に困っています……どうすべき？</title>
-      <link>https://www.itmedia.co.jp/business/articles/2611/09/news038.html</link>
-      <description>該当トピック: AI・生成AI全般（AI）｜出典: ITmedia AI+｜スコア 1.47</description>
-      <category>AI・生成AI全般</category>
-      <guid isPermaLink="false">bf3da7412caf40a488358a161501d0a67d2ecddf</guid>
-      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
-      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
-    </item>
-    <item>
-      <title>AI英会話「スピーク」、OpenAIの最新モデル「GPT-Live-1」活用した新レッスン登場</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5va0hjejV6cmVWdHB5V0dHTFF5cXRwR18xUTRhTXNwZnZYamZwRmVIZE1WeXZudmtqX0k0V1BITDZYcUdLNEEyMmxiUS0tMUU?oc=5</link>
-      <description>該当トピック: AI・生成AI全般（AI） / OpenAI・ChatGPT（OpenAI, GPT）｜出典: ICT教育ニュース・Googleニュース経由｜スコア 1.29</description>
-      <category>AI・生成AI全般</category>
-      <category>OpenAI・ChatGPT</category>
-      <guid isPermaLink="false">4718863bdc0327aa1cecf7db2007d9555903cb76</guid>
-      <pubDate>Sun, 08 Nov 2026 23:42:34 +0000</pubDate>
-      <source url="https://news.google.com/rss/search?q=OpenAI+OR+ChatGPT+OR+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI+OR+%E3%82%A2%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">ICT教育ニュース</source>
-    </item>
-    <item>
-      <title>情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/09/2000002926/</link>
-      <description>該当トピック: AI・生成AI全般（専門媒体: ITmedia AI+） / サイバーセキュリティ・プライバシー（情報漏えい, 詐欺, 不正アクセス）｜出典: ITmedia AI+｜同じ話題: 他2媒体（ITmedia、ITmedia NEWS）｜スコア 1.14</description>
-      <category>AI・生成AI全般</category>
-      <category>サイバーセキュリティ・プライバシー</category>
-      <guid isPermaLink="false">bde2212b81478c329eab3316aa64d00847777908</guid>
-      <pubDate>Sun, 08 Nov 2026 23:00:00 +0000</pubDate>
-      <source url="https://rss.itmedia.co.jp/rss/2.0/aiplus.xml">ITmedia AI+</source>
-    </item>
-    <item>
-      <title>新型MacBook Proの光るAppleロゴ、音楽と連動！消灯方法も</title>
-      <link>https://iphone-mania.jp/mac-608492/</link>
-      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple, MacBook） / ガジェット・PC・電子工作（ディスプレイ）｜出典: iPhone Mania｜スコア 1.10</description>
-      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
-      <category>ガジェット・PC・電子工作</category>
-      <guid isPermaLink="false">2f6a9979a1f0320ddab43627982477ea355d971f</guid>
-      <pubDate>Sun, 08 Nov 2026 13:41:06 +0000</pubDate>
-      <source url="https://iphone-mania.jp/feed/">iPhone Mania</source>
-    </item>
-    <item>
-      <title>半導体の生産量は「ラピダスの40倍」 マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC026RB0S6A101C2000000/</link>
-      <description>該当トピック: 半導体・データセンター（半導体, ラピダス） / クルマ・EV・ロボット・自動運転（マスク氏, イーロン・マスク）｜出典: nikkei.com・はてブ検索経由｜同じ話題: 他1媒体（日本経済新聞）｜スコア 1.06</description>
-      <category>半導体・データセンター</category>
-      <category>クルマ・EV・ロボット・自動運転</category>
-      <guid isPermaLink="false">f9c2818d56067bc235a067cc040594d6e24fa285</guid>
-      <pubDate>Sun, 08 Nov 2026 21:00:02 +0000</pubDate>
-      <source url="https://b.hatena.ne.jp/q/%E5%8D%8A%E5%B0%8E%E4%BD%93?mode=rss&amp;sort=recent&amp;users=10">nikkei.com</source>
-    </item>
-    <item>
-      <title>iPhone Duoの画面破損、原因はヒンジの材料不良？特定ロットに問題か</title>
-      <link>https://iphone-mania.jp/iphone18-608460/</link>
-      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（iPhone） / ガジェット・PC・電子工作（ディスプレイ）｜出典: iPhone Mania｜同じ話題: 他1媒体（気になる、記になる…）｜スコア 1.03</description>
-      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
-      <category>ガジェット・PC・電子工作</category>
-      <guid isPermaLink="false">a6f3c6af546bdeef204f5d765be2afbc1f96cffa</guid>
-      <pubDate>Sun, 08 Nov 2026 09:15:00 +0000</pubDate>
-      <source url="https://iphone-mania.jp/feed/">iPhone Mania</source>
-    </item>
-    <item>
-      <title>Apple、｢iOS 28｣や｢macOS 28｣の開発で新たなアプローチを採用</title>
-      <link>https://taisy0.com/2026/11/09/230140.html</link>
-      <description>該当トピック: テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）（Apple, iOS）｜出典: 気になる、記になる…｜スコア 0.97</description>
-      <category>テック大手（Google・Apple・Meta・Amazon・Microsoft ほか）</category>
-      <guid isPermaLink="false">541ed338dd2e7bcb7bc0fd828d52945718c06123</guid>
-      <pubDate>Sun, 08 Nov 2026 16:01:02 +0000</pubDate>
-      <source url="https://taisy0.com/feed">気になる、記になる…</source>
-    </item>
-    <item>
-      <title>TVアニメ「ひらやすみ」星野源がOPテーマを担当！ かつて暮らした本作の舞台・阿佐ヶ谷を歩き、新曲を書き下ろし</title>
-      <link>https://animeanime.jp/article/2026/11/09/104602.html</link>
-      <description>該当トピック: 映画・アニメ・映像（アニメ）｜出典: アニメ！アニメ！｜同じ話題: 他9媒体（BARKS、Bezzy、ENCOUNT ほか）｜スコア 0.95</description>
-      <category>映画・アニメ・映像</category>
-      <guid isPermaLink="false">5285fe7468ef6da7362aefb83c18de5f51094453</guid>
-      <pubDate>Sun, 08 Nov 2026 23:00:02 +0000</pubDate>
-      <source url="https://animeanime.jp/rss/index.rdf">アニメ！アニメ！</source>
-    </item>
-    <item>
-      <title>OpenAIのオフィスに盗聴器を仕掛けたとして起訴されたエンジニア、無罪を主張</title>
-      <link>https://www.businessinsider.jp/article/2611-openai-engineer-abdulrahman-alfozan-pleads-not-guilty/</link>
-      <description>該当トピック: OpenAI・ChatGPT（OpenAI） / 経済・マーケット・企業（専門媒体: Business Insider Japan）｜出典: Business Insider Japan｜スコア 0.90</description>
-      <category>OpenAI・ChatGPT</category>
-      <category>経済・マーケット・企業</category>
-      <guid isPermaLink="false">05594ad8ab897ae7afc0de7e0cc922fc24446a9a</guid>
-      <pubDate>Sun, 08 Nov 2026 22:15:00 +0000</pubDate>
-      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
-    </item>
-    <item>
-      <title>CEOと不倫関係、中国スパイ疑惑の調査開始 エヌビディア 半導体の情報収集</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9OdDhOZFQ0NmJRbkY4S0F4NG5nU1R4VDg0SXdYa0NxVnNKYjQtWm5CQjA0QllnTEhUYXZJb204V25ZLVZ0bDNkb2JyVEJuNWc4ZG1nbC1OZlcxNVp2NUFNYWJqUmk3UFFWQ2EzZ3duYm9xOGh4aGc?oc=5</link>
-      <description>該当トピック: 半導体・データセンター（半導体, エヌビディア）｜出典: 産経ニュース・Googleニュース経由｜同じ話題: 他7媒体（Infoseek、NEWSjp、Reuters ほか）｜スコア 0.84</description>
-      <category>半導体・データセンター</category>
-      <guid isPermaLink="false">686a3bec416f024d3e1cadf30b7c3827c35a065d</guid>
-      <pubDate>Mon, 09 Nov 2026 00:06:11 +0000</pubDate>
-      <source url="https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2+OR+%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+TSMC+OR+HBM+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">産経ニュース</source>
-    </item>
-    <item>
-      <title>アンソロピック（Claude）上場の黄信号は杞憂である（尾藤克之） - エキスパート</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkN2a1J1dFZnRFZueTFiZWduQW5KdDY2b3R1QXNadDVmZmJwcjNTUGp1TUxBdjlSUVJGbGFSUHFjQnJLb25qTkU0WGhITlRmRkNzNkVVN25MZFZHUjRxWFl3bWN2Y1JpWEk4YXhwZUFZeUgtazBCUDZBeHNWX2R5NUFZVEN2aExN?oc=5</link>
-      <description>該当トピック: Anthropic・Claude（アンソロピック, Claude） / 経済・マーケット・企業（上場）｜出典: Yahoo!ニュース・Googleニュース経由｜スコア 0.78</description>
-      <category>Anthropic・Claude</category>
-      <category>経済・マーケット・企業</category>
-      <guid isPermaLink="false">13ea65b0046e0b0850aa69b7491b4b7388fec140</guid>
-      <pubDate>Sun, 08 Nov 2026 21:41:34 +0000</pubDate>
-      <source url="https://news.google.com/rss/search?q=Anthropic+OR+Claude+OR+%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF+when%3A1d&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Yahoo!ニュース</source>
-    </item>
-    <item>
-      <title>新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」の初報映像が公開。和風ダークファンタジーの世界と5人の登場キャラクターを紹介</title>
-      <link>https://www.4gamer.net/games/054/G105426/20261105038/</link>
-      <description>該当トピック: ゲーム（ゲーム） / 映画・アニメ・映像（アニメ）｜出典: 4Gamer.net｜スコア 0.78</description>
-      <category>ゲーム</category>
-      <category>映画・アニメ・映像</category>
-      <guid isPermaLink="false">03ad40436353cf3bb1220a9c0b61170f69c4f619</guid>
-      <pubDate>Sun, 08 Nov 2026 08:00:00 +0000</pubDate>
-      <source url="https://www.4gamer.net/rss/index.xml">4Gamer.net</source>
-    </item>
-    <item>
-      <title>ウォーレン・バフェットは48年間、水を1杯も飲んでいない…著名投資家が明かす</title>
-      <link>https://www.businessinsider.jp/article/2611-warren-buffett-bill-ackman-water-coke-soda-junk-food-diet/</link>
-      <description>該当トピック: 経済・マーケット・企業（投資, 投資家）｜出典: Business Insider Japan｜スコア 0.77</description>
-      <category>経済・マーケット・企業</category>
-      <guid isPermaLink="false">f37657e9c91796c25afdcbf6e232a9c03d21be26</guid>
-      <pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
-      <source url="https://www.businessinsider.jp/feed/index.xml">Business Insider Japan</source>
-    </item>
-    <item>
-      <title>スペースX、アメリカ宇宙軍の機密衛星を打ち上げ 「Starshield」利用の可能性</title>
-      <link>https://sorae.info/ssn/20261108-ussf-432.html</link>
-      <description>該当トピック: 宇宙・科学研究（宇宙, スペースX, 衛星, SpaceX）｜出典: sorae｜同じ話題: 他3媒体（sorae 宇宙へのポータルサイト、ライブドアニュース、ｄメニューニュース）｜スコア 0.73</description>
-      <category>宇宙・科学研究</category>
-      <guid isPermaLink="false">8ca8cbab3805bf402c1617f5aaff71e6f6fe3d56</guid>
-      <pubDate>Sun, 08 Nov 2026 04:12:01 +0000</pubDate>
-      <source url="https://sorae.info/feed">sorae</source>
-    </item>
-    <item>
-      <title>自作PCトーク『ジサトラKTU』生放送～Radeon RX 6000シリーズ向けのFSR 4.1で画質や性能をチェック～</title>
-      <link>https://ascii.jp/elem/000/004/449/4449190/?rss</link>
-      <description>該当トピック: ガジェット・PC・電子工作（PC, 自作PC）｜出典: ASCII.jp｜スコア 0.65</description>
-      <category>ガジェット・PC・電子工作</category>
-      <guid isPermaLink="false">80a9ed4e396800fd8d4e0e3c027c21b2a3584960</guid>
-      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
-      <source url="https://ascii.jp/rss.xml">ASCII.jp</source>
-    </item>
-    <item>
-      <title>HDD18台を1台のPCに！ストレージ特化の大型PCケース登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2154553.html</link>
-      <description>該当トピック: ガジェット・PC・電子工作（PC）｜出典: PC Watch｜スコア 0.64</description>
-      <category>ガジェット・PC・電子工作</category>
-      <guid isPermaLink="false">380c57bed2951911565a7cde53ffd2cb72c901ad</guid>
-      <pubDate>Sun, 08 Nov 2026 21:09:00 +0000</pubDate>
-      <source url="https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf">PC Watch</source>
-    </item>
-    <item>
-      <title>EVバス普及へ、イクヨとマスター自動車が基本合意書を締結</title>
-      <link>https://response.jp/article/2026/11/09/418746.html</link>
-      <description>該当トピック: クルマ・EV・ロボット・自動運転（自動車, EV）｜出典: レスポンス｜同じ話題: 他1媒体（レスポンス（Response.jp））｜スコア 0.61</description>
-      <category>クルマ・EV・ロボット・自動運転</category>
-      <guid isPermaLink="false">bbbf297eaa6b2ea0f4c03d41180215e35b1385f8</guid>
-      <pubDate>Sun, 08 Nov 2026 22:30:03 +0000</pubDate>
-      <source url="https://response.jp/rss/index.rdf">レスポンス</source>
-    </item>
-    <item>
-      <title>中国の民間ロケット「Ceres-2」が打ち上げに初成功 1月の初飛行失敗を経て</title>
-      <link>https://sorae.info/ssn/20261107-ceres-2-first-success.html</link>
-      <description>該当トピック: 宇宙・科学研究（ロケット, 宇宙, 衛星）｜出典: sorae｜同じ話題: 他1媒体（sorae 宇宙へのポータルサイト）｜スコア 0.59</description>
-      <category>宇宙・科学研究</category>
-      <guid isPermaLink="false">a579565dabd71118a7f982829502a26480fe67a3</guid>
-      <pubDate>Sun, 08 Nov 2026 03:42:17 +0000</pubDate>
-      <source url="https://sorae.info/feed">sorae</source>
-    </item>
-    <item>
-      <title>市場は｢アメリカ共和党大敗｣で何を恐れたのか？｢今回の株価急落はバブル崩壊ではない｣と言える｢6つのポイント｣ | 政治・経済・投資 | 東洋経済オンライン</title>
-      <link>https://toyokeizai.net/articles/-/964032?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link>
-      <description>該当トピック: 経済・マーケット・企業（株価, 投資, 投資家）｜出典: 東洋経済オンライン｜同じ話題: 他1媒体（四季報オンライン）｜スコア 0.56</description>
-      <category>経済・マーケット・企業</category>
-      <guid isPermaLink="false">7db3047fd230d02f07af2a5917f64cbf7b9ca13b</guid>
-      <pubDate>Sun, 08 Nov 2026 22:30:00 +0000</pubDate>
-      <source url="https://toyokeizai.net/list/feed/rss">東洋経済オンライン</source>
-    </item>
-    <item>
-      <title>ちょっと未来のテクノロジーを「ちょもろー」で体験…ロボットを操縦・装着 11月8日まで</title>
-      <link>https://response.jp/article/2026/11/08/418729.html</link>
-      <description>該当トピック: クルマ・EV・ロボット・自動運転（ロボット）｜出典: レスポンス｜スコア 0.49</description>
-      <category>クルマ・EV・ロボット・自動運転</category>
-      <guid isPermaLink="false">a43b89ee18881e35c725f9851a6bcae95ffcd119</guid>
-      <pubDate>Sun, 08 Nov 2026 00:30:03 +0000</pubDate>
-      <source url="https://response.jp/rss/index.rdf">レスポンス</source>
-    </item>
-    <item>
-      <title>医療観察法の通院医療、指定機関の負担と支援ニーズを可視化－新潟医療福祉大</title>
-      <link>https://www.qlifepro.com/news/20261109/forensic-outpatient-burden.html</link>
-      <description>該当トピック: 健康・医療・生物（医療）｜出典: QLifePro｜スコア 0.33</description>
-      <category>健康・医療・生物</category>
-      <guid isPermaLink="false">5cb3efb8917f32b51d67a296a5e32de45f91689a</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:59 +0000</pubDate>
-      <source url="https://www.qlifepro.com/feed/">QLifePro</source>
     </item>
   </channel>
 </rss>

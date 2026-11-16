@@ -1,14 +1,14 @@
 {
  "news.yahoo.co.jp": {
   "publisher": "テクノエッジ",
-  "count": 12,
+  "count": 14,
   "first_seen": "2026-10-20",
   "examples": [
-   "米スペースX、データセンターに12兆円投資",
-   "映画『VIVANT』ビジュアル初解禁！堺雅人ら17人が続投、阿部寛＆二階堂ふみ＆二宮和也ら集結",
-   "米議員、対中半導体規制強化を要求 スパイ疑惑受け"
+   "フアン前CEOが復帰検討か エヌビディア、不倫巡り辞任",
+   "AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂",
+   "米スペースX、データセンターに12兆円投資"
   ],
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-16"
  },
  "reuters.com": {
   "publisher": "reuters.com",
@@ -86,6 +86,17 @@
    "火星の近くに到着した「MMX」の探査機のイメージ（JAXA提供） - 火星衛星の砂採取、31年に地球帰還へ JAXA主導の「MMX」探査機、20日未明打ち上げ - 写真・画像(1/2)"
   ],
   "last_seen": "2026-10-31"
+ },
+ "smartnews.com": {
+  "publisher": "SmartNews",
+  "count": 4,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "仏郵政傘下にサイバー攻撃 2200万人分の情報流出 | スマートニュース",
+   "エヌビディア前CEO復帰協議も米財務長官は社外CEO要求 | スマートニュース",
+   "「映画 九条の大罪」予告公開、主題歌は羊文学"
+  ],
+  "last_seen": "2026-11-16"
  },
  "topics.smt.docomo.ne.jp": {
   "publisher": "ｄメニューニュース",
@@ -219,16 +230,6 @@
   ],
   "last_seen": "2026-10-26"
  },
- "smartnews.com": {
-  "publisher": "SmartNews",
-  "count": 2,
-  "first_seen": "2026-10-12",
-  "examples": [
-   "「映画 九条の大罪」予告公開、主題歌は羊文学",
-   "映画『君の話』主題歌がMrs. GREEN APPLEに決定"
-  ],
-  "last_seen": "2026-10-28"
- },
  "newsdig.tbs.co.jp": {
   "publisher": "TBS NEWS DIG",
   "count": 2,
@@ -308,6 +309,16 @@
    "エヌビディアがReflection AIに追加出資や買収検討中核人材確保も協議 - CHOSUNBIZ"
   ],
   "last_seen": "2026-11-15"
+ },
+ "togetter.com": {
+  "publisher": "togetter.com",
+  "count": 2,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら「買うと高いので自作したよ！」と厚紙を取り出しながら言ってきた時、何も言えなかった",
+   "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる"
+  ],
+  "last_seen": "2026-11-16"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -731,15 +742,6 @@
    "Shock and surprise after FBI arrests Canadian cybersecurity expert in ShinyHunters hacking case"
   ],
   "last_seen": "2026-10-13"
- },
- "togetter.com": {
-  "publisher": "togetter.com",
-  "count": 1,
-  "first_seen": "2026-10-14",
-  "examples": [
-   "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる"
-  ],
-  "last_seen": "2026-10-14"
  },
  "yahoo.com": {
   "publisher": "Yahoo",
