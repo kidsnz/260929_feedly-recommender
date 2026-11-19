@@ -12,14 +12,14 @@
  },
  "reuters.com": {
   "publisher": "reuters.com",
-  "count": 9,
+  "count": 10,
   "first_seen": "2026-09-30",
   "examples": [
+   "アンソロピックＩＰＯ、上場後の値動きに警戒感",
    "日経平均は小幅続落で寄り付く、半導体株は売り先行",
-   "アンソロピック向けに630億ドル、米銀など ブロードコム半導体購入",
-   "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports"
+   "アンソロピック向けに630億ドル、米銀など ブロードコム半導体購入"
   ],
-  "last_seen": "2026-11-04"
+  "last_seen": "2026-11-19"
  },
  "unite.ai": {
   "publisher": "Unite.AI",
@@ -1336,5 +1336,14 @@
    "Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab"
   ],
   "last_seen": "2026-11-18"
+ },
+ "anemo.co.jp": {
+  "publisher": "anemo（アネモ）",
+  "count": 1,
+  "first_seen": "2026-11-19",
+  "examples": [
+   "ホラー作家・背筋の小説「穢れた聖地巡礼について」実写映画化、2027年公開"
+  ],
+  "last_seen": "2026-11-19"
  }
 }
