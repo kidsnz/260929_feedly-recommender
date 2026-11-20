@@ -1,14 +1,14 @@
 {
  "news.yahoo.co.jp": {
   "publisher": "テクノエッジ",
-  "count": 15,
+  "count": 16,
   "first_seen": "2026-10-20",
   "examples": [
+   "M!LK 曽野舜太、『不可抗力のI LOVE YOU』に出演 初の恋愛映画で知的な“料理男子”に",
    "フアン前CEOの復帰なしと明言 米エヌビディア取締役会長",
-   "フアン前CEOが復帰検討か エヌビディア、不倫巡り辞任",
-   "AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂"
+   "フアン前CEOが復帰検討か エヌビディア、不倫巡り辞任"
   ],
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-20"
  },
  "reuters.com": {
   "publisher": "reuters.com",
@@ -1345,5 +1345,14 @@
    "ホラー作家・背筋の小説「穢れた聖地巡礼について」実写映画化、2027年公開"
   ],
   "last_seen": "2026-11-19"
+ },
+ "piyolog.hatenadiary.jp": {
+  "publisher": "piyolog.hatenadiary.jp",
+  "count": 1,
+  "first_seen": "2026-11-20",
+  "examples": [
+   "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog"
+  ],
+  "last_seen": "2026-11-20"
  }
 }
