@@ -120,6 +120,17 @@
   ],
   "last_seen": "2026-11-11"
  },
+ "note.com": {
+  "publisher": "note.com",
+  "count": 3,
+  "first_seen": "2026-10-11",
+  "examples": [
+   "速報：Claudeと1,700万行のLeanコードでリーマン予想の証明候補、数学者が公表｜Trans-N",
+   "クリッカー、あるいは放置の間ーーインクリメンタルゲームの（四半）世紀｜遊星歯車機関",
+   "QTEが目指した「ゲームの夢」と現在地｜遊星歯車機関"
+  ],
+  "last_seen": "2026-11-21"
+ },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
   "count": 2,
@@ -240,16 +251,6 @@
   ],
   "last_seen": "2026-10-31"
  },
- "note.com": {
-  "publisher": "note.com",
-  "count": 2,
-  "first_seen": "2026-10-11",
-  "examples": [
-   "クリッカー、あるいは放置の間ーーインクリメンタルゲームの（四半）世紀｜遊星歯車機関",
-   "QTEが目指した「ゲームの夢」と現在地｜遊星歯車機関"
-  ],
-  "last_seen": "2026-11-02"
- },
  "sankei.com": {
   "publisher": "sankei.com",
   "count": 2,
@@ -319,6 +320,26 @@
    "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる"
   ],
   "last_seen": "2026-11-16"
+ },
+ "news.livedoor.com": {
+  "publisher": "ライブドアニュース",
+  "count": 2,
+  "first_seen": "2026-11-07",
+  "examples": [
+   "ソフトバンクに影響か OpenAI上場遅延と孫正義氏の巨額投資 (2026年11月21日掲載)",
+   "いよいよアンソロピック上場へ…時価総額230兆円、スペースX超えのIPO、それでも消えない「懸念材料」"
+  ],
+  "last_seen": "2026-11-21"
+ },
+ "47news.jp": {
+  "publisher": "47news.jp",
+  "count": 2,
+  "first_seen": "2026-11-12",
+  "examples": [
+   "米農務省にサイバー攻撃 機密情報漏えいの恐れ",
+   "【速報】エヌビディアCEO、女性幹部とも不倫か"
+  ],
+  "last_seen": "2026-11-21"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -1202,15 +1223,6 @@
   ],
   "last_seen": "2026-11-06"
  },
- "news.livedoor.com": {
-  "publisher": "ライブドアニュース",
-  "count": 1,
-  "first_seen": "2026-11-07",
-  "examples": [
-   "いよいよアンソロピック上場へ…時価総額230兆円、スペースX超えのIPO、それでも消えない「懸念材料」"
-  ],
-  "last_seen": "2026-11-07"
- },
  "chibanippo.co.jp": {
   "publisher": "千葉日報オンライン",
   "count": 1,
@@ -1271,15 +1283,6 @@
   "first_seen": "2026-11-12",
   "examples": [
    "エヌビディア フアンCEO解任へ準備 米紙報道 | NHKニュース"
-  ],
-  "last_seen": "2026-11-12"
- },
- "47news.jp": {
-  "publisher": "47news.jp",
-  "count": 1,
-  "first_seen": "2026-11-12",
-  "examples": [
-   "【速報】エヌビディアCEO、女性幹部とも不倫か"
   ],
   "last_seen": "2026-11-12"
  },
@@ -1354,5 +1357,23 @@
    "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog"
   ],
   "last_seen": "2026-11-20"
+ },
+ "forbesjapan.com": {
+  "publisher": "Forbes JAPAN",
+  "count": 1,
+  "first_seen": "2026-11-21",
+  "examples": [
+   "米SECがエヌビディアの会計処理を調査との報道、株価は7週連続安"
+  ],
+  "last_seen": "2026-11-21"
+ },
+ "afpbb.com": {
+  "publisher": "AFPBB News",
+  "count": 1,
+  "first_seen": "2026-11-21",
+  "examples": [
+   "トランプ氏、エヌビディア前CEOの復帰要求「いくつか悪い判断をしたが良いやつ」"
+  ],
+  "last_seen": "2026-11-21"
  }
 }
