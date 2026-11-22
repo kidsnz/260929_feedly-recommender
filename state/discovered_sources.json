@@ -12,14 +12,14 @@
  },
  "reuters.com": {
   "publisher": "reuters.com",
-  "count": 10,
+  "count": 11,
   "first_seen": "2026-09-30",
   "examples": [
+   "孫正義氏、ＳＫハイニックスの1兆ドル買収を一時検討＝メディア",
    "アンソロピックＩＰＯ、上場後の値動きに警戒感",
-   "日経平均は小幅続落で寄り付く、半導体株は売り先行",
-   "アンソロピック向けに630億ドル、米銀など ブロードコム半導体購入"
+   "日経平均は小幅続落で寄り付く、半導体株は売り先行"
   ],
-  "last_seen": "2026-11-19"
+  "last_seen": "2026-11-22"
  },
  "unite.ai": {
   "publisher": "Unite.AI",
@@ -111,14 +111,14 @@
  },
  "forest.watch.impress.co.jp": {
   "publisher": "窓の杜",
-  "count": 3,
+  "count": 4,
   "first_seen": "2026-10-09",
   "examples": [
+   "「GPT-4」OpenAIの大規模言語モデル",
    "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか【柳谷智宣のAI ウォッチ！】",
-   "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
-   "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供"
+   "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ"
   ],
-  "last_seen": "2026-11-11"
+  "last_seen": "2026-11-22"
  },
  "note.com": {
   "publisher": "note.com",
@@ -1375,5 +1375,41 @@
    "トランプ氏、エヌビディア前CEOの復帰要求「いくつか悪い判断をしたが良いやつ」"
   ],
   "last_seen": "2026-11-21"
+ },
+ "portal.uqmobile.jp": {
+  "publisher": "UQライフ",
+  "count": 1,
+  "first_seen": "2026-11-22",
+  "examples": [
+   "金大、人工衛星にダイヤ製半導体搭載 世界初 28年完成へ"
+  ],
+  "last_seen": "2026-11-22"
+ },
+ "txbiz.tv-tokyo.co.jp": {
+  "publisher": "テレ東BIZ",
+  "count": 1,
+  "first_seen": "2026-11-22",
+  "examples": [
+   "中国軍事企業とつながりか エヌビディア問題の女性"
+  ],
+  "last_seen": "2026-11-22"
+ },
+ "news.dellows.jp": {
+  "publisher": "Dellows News",
+  "count": 1,
+  "first_seen": "2026-11-22",
+  "examples": [
+   "日立、OpenAIのサイバー防御プログラムに参画"
+  ],
+  "last_seen": "2026-11-22"
+ },
+ "kumanichi.com": {
+  "publisher": "熊本日日新聞社",
+  "count": 1,
+  "first_seen": "2026-11-22",
+  "examples": [
+   "【ネット脆弱性】「眠れる欠陥」次々判明 対応必須も、人材不足（共同通信）"
+  ],
+  "last_seen": "2026-11-22"
  }
 }
