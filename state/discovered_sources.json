@@ -1412,5 +1412,23 @@
    "【ネット脆弱性】「眠れる欠陥」次々判明 対応必須も、人材不足（共同通信）"
   ],
   "last_seen": "2026-11-22"
+ },
+ "hatenanews.com": {
+  "publisher": "hatenanews.com",
+  "count": 1,
+  "first_seen": "2026-11-24",
+  "examples": [
+   "【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース"
+  ],
+  "last_seen": "2026-11-24"
+ },
+ "jp.wsj.com": {
+  "publisher": "WSJ",
+  "count": 1,
+  "first_seen": "2026-11-24",
+  "examples": [
+   "船舶サイバー攻撃数十件にイラン関与か、米が調査"
+  ],
+  "last_seen": "2026-11-24"
  }
 }
