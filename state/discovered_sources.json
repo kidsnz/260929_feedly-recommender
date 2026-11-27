@@ -1,14 +1,14 @@
 {
  "news.yahoo.co.jp": {
   "publisher": "テクノエッジ",
-  "count": 16,
+  "count": 17,
   "first_seen": "2026-10-20",
   "examples": [
+   "売れっ子AIなのに市場の評価は冷ややか…Claudeのアンソロピックが上場1週間で突きつけられたAI投資の難所",
    "M!LK 曽野舜太、『不可抗力のI LOVE YOU』に出演 初の恋愛映画で知的な“料理男子”に",
-   "フアン前CEOの復帰なしと明言 米エヌビディア取締役会長",
-   "フアン前CEOが復帰検討か エヌビディア、不倫巡り辞任"
+   "フアン前CEOの復帰なしと明言 米エヌビディア取締役会長"
   ],
-  "last_seen": "2026-11-20"
+  "last_seen": "2026-11-27"
  },
  "reuters.com": {
   "publisher": "reuters.com",
@@ -130,6 +130,17 @@
    "クリッカー、あるいは放置の間ーーインクリメンタルゲームの（四半）世紀｜遊星歯車機関"
   ],
   "last_seen": "2026-11-23"
+ },
+ "yomiuri.co.jp": {
+  "publisher": "読売新聞",
+  "count": 3,
+  "first_seen": "2026-10-31",
+  "examples": [
+   "サイバー攻撃深刻化、「ひとり情シス」は危機管理上リスク…デジタル人材不足はＤＸの障壁に",
+   "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
+   "ＧＭＯ脆弱性 ２４年指摘 関連会社から 熊谷社長 あすにも会見"
+  ],
+  "last_seen": "2026-11-27"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -291,16 +302,6 @@
   ],
   "last_seen": "2026-11-13"
  },
- "yomiuri.co.jp": {
-  "publisher": "読売新聞",
-  "count": 2,
-  "first_seen": "2026-10-31",
-  "examples": [
-   "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
-   "ＧＭＯ脆弱性 ２４年指摘 関連会社から 熊谷社長 あすにも会見"
-  ],
-  "last_seen": "2026-11-14"
- },
  "biz.chosun.com": {
   "publisher": "Chosunbiz",
   "count": 2,
@@ -350,6 +351,16 @@
    "Google Docs・Sheets・Slidesの中からClaudeが直接編集、公開ベータで変わる使い方の中身"
   ],
   "last_seen": "2026-11-23"
+ },
+ "news.web.nhk": {
+  "publisher": "news.web.nhk",
+  "count": 2,
+  "first_seen": "2026-11-12",
+  "examples": [
+   "エヌビディアが東南アジア4か国への輸出を停止 欧米メディア | NHKニュース",
+   "エヌビディア フアンCEO解任へ準備 米紙報道 | NHKニュース"
+  ],
+  "last_seen": "2026-11-27"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -1278,15 +1289,6 @@
   ],
   "last_seen": "2026-11-10"
  },
- "news.web.nhk": {
-  "publisher": "news.web.nhk",
-  "count": 1,
-  "first_seen": "2026-11-12",
-  "examples": [
-   "エヌビディア フアンCEO解任へ準備 米紙報道 | NHKニュース"
-  ],
-  "last_seen": "2026-11-12"
- },
  "cygames.co.jp": {
   "publisher": "cygames.co.jp",
   "count": 1,
@@ -1430,5 +1432,23 @@
    "船舶サイバー攻撃数十件にイラン関与か、米が調査"
   ],
   "last_seen": "2026-11-24"
+ },
+ "cnn.co.jp": {
+  "publisher": "cnn.co.jp",
+  "count": 1,
+  "first_seen": "2026-11-27",
+  "examples": [
+   "米、スペースXに衛星100万基の配備承認 宇宙にAIデータセンター構築へ"
+  ],
+  "last_seen": "2026-11-27"
+ },
+ "abema.tv": {
+  "publisher": "ABEMA",
+  "count": 1,
+  "first_seen": "2026-11-27",
+  "examples": [
+   "トランプ大統領の投資口座でエヌビディア株44回取引 今年1～9月 BBC報道"
+  ],
+  "last_seen": "2026-11-27"
  }
 }
