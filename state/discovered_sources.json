@@ -54,6 +54,17 @@
   ],
   "last_seen": "2026-10-24"
  },
+ "nishinippon.co.jp": {
+  "publisher": "西日本新聞me",
+  "count": 6,
+  "first_seen": "2026-10-10",
+  "examples": [
+   "米空軍システム侵入と報道 ハッカー、情報流出に懸念",
+   "半導体大手エヌビディアのロゴと中国の国旗（ロイター＝共同） - 対中密輸で「巨大闇市場」形成 エヌビディア半導体、英紙報道 - 写真・画像(1/1)",
+   "TOTO、半導体関連の生産棟を新設 福岡・豊前市で600億円投資"
+  ],
+  "last_seen": "2026-11-28"
+ },
  "xenospectrum.com": {
   "publisher": "XenoSpectrum",
   "count": 5,
@@ -64,17 +75,6 @@
    "Samsungが自社製4nmを使わずTSMCの3nmを採用へ、NVIDIAの次世代HBMで異例の判断"
   ],
   "last_seen": "2026-11-13"
- },
- "nishinippon.co.jp": {
-  "publisher": "西日本新聞me",
-  "count": 5,
-  "first_seen": "2026-10-10",
-  "examples": [
-   "半導体大手エヌビディアのロゴと中国の国旗（ロイター＝共同） - 対中密輸で「巨大闇市場」形成 エヌビディア半導体、英紙報道 - 写真・画像(1/1)",
-   "TOTO、半導体関連の生産棟を新設 福岡・豊前市で600億円投資",
-   "スペースXのロゴ（ゲッティ＝共同） - AI半導体確保に6兆円超 スペースXがリース契約 - 写真・画像(1/1)"
-  ],
-  "last_seen": "2026-11-23"
  },
  "github.com": {
   "publisher": "github.com",
@@ -133,14 +133,36 @@
  },
  "yomiuri.co.jp": {
   "publisher": "読売新聞",
-  "count": 3,
+  "count": 4,
   "first_seen": "2026-10-31",
   "examples": [
+   "エヌビディアの高性能半導体を中国・上海に「密輸」か、ＣＥＯ不倫相手関連の２社のデータセンターに設置",
    "サイバー攻撃深刻化、「ひとり情シス」は危機管理上リスク…デジタル人材不足はＤＸの障壁に",
-   "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
-   "ＧＭＯ脆弱性 ２４年指摘 関連会社から 熊谷社長 あすにも会見"
+   "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定"
   ],
-  "last_seen": "2026-11-27"
+  "last_seen": "2026-11-28"
+ },
+ "biz.chosun.com": {
+  "publisher": "Chosunbiz",
+  "count": 3,
+  "first_seen": "2026-10-12",
+  "examples": [
+   "Anthropic、企業向けAIでOpenAI逆転 開発支援がけん引",
+   "中国AIがNVIDIA最新GPU使用と米分析",
+   "エヌビディアがReflection AIに追加出資や買収検討中核人材確保も協議 - CHOSUNBIZ"
+  ],
+  "last_seen": "2026-11-28"
+ },
+ "togetter.com": {
+  "publisher": "togetter.com",
+  "count": 3,
+  "first_seen": "2026-10-14",
+  "examples": [
+   "45歳で大学生の子供2人持ちだから稼ぎたいという人が入社、初日に助手席に乗せて車庫を出たら携帯2台手に持ってスマホゲーム、その後楽な仕事を要求して最後は辞めていった",
+   "ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら「買うと高いので自作したよ！」と厚紙を取り出しながら言ってきた時、何も言えなかった",
+   "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる"
+  ],
+  "last_seen": "2026-11-28"
  },
  "bloomberg.com": {
   "publisher": "bloomberg.com",
@@ -302,26 +324,6 @@
   ],
   "last_seen": "2026-11-13"
  },
- "biz.chosun.com": {
-  "publisher": "Chosunbiz",
-  "count": 2,
-  "first_seen": "2026-10-12",
-  "examples": [
-   "中国AIがNVIDIA最新GPU使用と米分析",
-   "エヌビディアがReflection AIに追加出資や買収検討中核人材確保も協議 - CHOSUNBIZ"
-  ],
-  "last_seen": "2026-11-15"
- },
- "togetter.com": {
-  "publisher": "togetter.com",
-  "count": 2,
-  "first_seen": "2026-10-14",
-  "examples": [
-   "ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら「買うと高いので自作したよ！」と厚紙を取り出しながら言ってきた時、何も言えなかった",
-   "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる"
-  ],
-  "last_seen": "2026-11-16"
- },
  "news.livedoor.com": {
   "publisher": "ライブドアニュース",
   "count": 2,
@@ -361,6 +363,16 @@
    "エヌビディア フアンCEO解任へ準備 米紙報道 | NHKニュース"
   ],
   "last_seen": "2026-11-27"
+ },
+ "vietnam.vn": {
+  "publisher": "Vietnam.vn",
+  "count": 2,
+  "first_seen": "2026-11-13",
+  "examples": [
+   "世界のニュース、11月28日：OpenAIが企業秘密の不正使用でアップルを提訴、フランスの信用格付け見通しが「ネガティブ」に引き下げられる。",
+   "初期宇宙のこれまでで最も詳細なモデルが公開された。"
+  ],
+  "last_seen": "2026-11-28"
  },
  "thecanadianpressnews.ca": {
   "publisher": "thecanadianpressnews.ca",
@@ -1298,15 +1310,6 @@
   ],
   "last_seen": "2026-11-13"
  },
- "vietnam.vn": {
-  "publisher": "Vietnam.vn",
-  "count": 1,
-  "first_seen": "2026-11-13",
-  "examples": [
-   "初期宇宙のこれまでで最も詳細なモデルが公開された。"
-  ],
-  "last_seen": "2026-11-13"
- },
  "mashdigi.com": {
   "publisher": "Mashdigi",
   "count": 1,
@@ -1450,5 +1453,14 @@
    "トランプ大統領の投資口座でエヌビディア株44回取引 今年1～9月 BBC報道"
   ],
   "last_seen": "2026-11-27"
+ },
+ "news.infoseek.co.jp": {
+  "publisher": "Infoseek",
+  "count": 1,
+  "first_seen": "2026-11-28",
+  "examples": [
+   "中国に禁輸半導体＝米エヌビディア製、アリス氏関係―報道"
+  ],
+  "last_seen": "2026-11-28"
  }
 }
